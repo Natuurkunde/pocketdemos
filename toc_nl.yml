@@ -3,15 +3,15 @@ project:
   
   toc:
     - file: nl_Index.md
-    - file: content/nl/nl_demos2.md
+    - file: content/nl/demos.md
     - file: content/nl/credits.md
-    - file: content/nl/nl_Mechanics.md
-    - file: content/nl/nl_Electricity.md
-    - file: content/nl/nl_Light.md
-    - file: content/nl/nl_Oscillations.md
-    - file: content/nl/nl_Sound.md
-    - file: content/nl/nl_Liquids.md
-    - file: content/nl/nl_Magnetism.md
-    - file: content/nl/nl_Heat.md
-    - file: content/nl/nl_Earthscience.md    
-    - file: content/nl/nl_Modernphysics.md    
+    - file: content/nl/Mechanics.md
+    - file: content/nl/Electricity.md
+    - file: content/nl/Light.md
+    - file: content/nl/Oscillations.md
+    - file: content/nl/Sound.md
+    - file: content/nl/Liquids.md
+    - file: content/nl/Magnetism.md
+    - file: content/nl/Heat.md
+    - file: content/nl/Earthscience.md    
+    - file: content/nl/Modernphysics.md    

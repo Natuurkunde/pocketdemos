@@ -2,16 +2,16 @@ version: 1
 project:
 
   toc: 
-      # - file: Index.md
-    # - file: content/demos.md
-    # - file: content/Mechanics.md
-    # - file: content/Electricity.md
-    # - file: content/Light.md
-    # - file: content/Oscillations.md
-    # - file: content/Sound.md
-    # - file: content/Liquids.md
-    # - file: content/Magnetism.md
-    # - file: content/Heat.md
-    # - file: content/Earthscience.md    
-    # - file: content/Modernphysics.md    
-    # - file: content/References.md
+    - file: Index.md
+    - file: content/demos.md
+    - file: content/Mechanics.md
+    - file: content/Electricity.md
+    - file: content/Light.md
+    - file: content/Oscillations.md
+    - file: content/Sound.md
+    - file: content/Liquids.md
+    - file: content/Magnetism.md
+    - file: content/Heat.md
+    - file: content/Earthscience.md    
+    - file: content/Modernphysics.md    
+    - file: content/References.md
