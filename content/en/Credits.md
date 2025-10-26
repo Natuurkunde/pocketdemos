@@ -1,33 +1,31 @@
 # Credits
 
-Dit boek bevat meer dan 200 demo's verzameld en/of bedacht door Ed van den Berg. Het boek is verder samengesteld en opgemaakt door Freek Pols. Een groot deel van de illustraties komt ook uit de collectie van Ed van den Berg. Gezamenlijk zijn nieuwe foto's gemaakt.
+This book contains more than 200 demos collected and/or created by Ed van den Berg. The book has been further compiled and formatted by Freek Pols. A large part of the illustrations also comes from the collection of Ed van den Berg. New photos have been taken collectively.
 
-## Auteurs
-```{figure} auth_Ed.jpg
+## Authors
+```{figure} ../images/auth_Ed.jpg
 :width: 20%
 ```
 
-**Ed van den Berg** (1951) studeerde natuurkunde aan de Vrije Universiteit Amsterdam (VU) en promoveerde in Science Education aan de University of Iowa (VS). Hij werkte als docent/ontwikkelaar bij lerarenopleidingen in Indonesië, de Filipijnen en Nederland. Tot voor kort was hij docent natuur- en techniekonderwijs bij het Kenniscentrum Domein Educatie en Onderwijskunde van de Hogeschool van Amsterdam en docent wetenschapsdidactiek bij de lerarenopleiding van de Vrije Universiteit. Hij was onder andere betrokken bij de projecten Moderne Fysica en Nieuwe Fysica en publiceerde meer dan 300 artikelen in vaktijdschriften voor leraren in binnen- en buitenland.
+**Ed van den Berg** (1951) studied physics at the Vrije Universiteit Amsterdam (VU) and obtained his PhD in Science Education at the University of Iowa (USA). He worked as a teacher/developer in teacher training programs in Indonesia, the Philippines, and the Netherlands. Until recently, he was a teacher of science and technology education at the Knowledge Center for Education and Educational Sciences at the Hogeschool van Amsterdam and a lecturer in science didactics at the teacher training program of the Vrije Universiteit. He was involved in projects such as Modern Physics and New Physics and published more than 300 articles in professional journals for teachers both domestically and internationally.
 
-
-```{figure} auth_Freek.jpg
+```{figure} ../images/auth_Freek.jpg
 :width: 20%
 ```
-**Freek Pols** (1986) werkte 10 jaar als docent natuurkunde. Sinds 2019 is hij werkzaam als practicumcoördinator bij de opleiding Technische Natuurkunde van de TU Delft. In 2023 promoveerde hij op practicumonderwijs, specifiek op het doceren van wetenschappelijk onderzoek. Momenteel is hij universitair docent bij de afdeling Science & Engineering Education. Zijn onderzoek richt zich nog steeds op de ontwikkeling van experimenteel natuurkundeonderwijs, maar nu met een focus op universitair niveau.
+**Freek Pols** (1986) worked for 10 years as a physics teacher. Since 2019, he has been working as a laboratory coordinator in the Technical Physics program at TU Delft. In 2023, he obtained his PhD on laboratory education, specifically on teaching scientific research. He is currently a university lecturer in the Department of Science & Engineering Education. His research continues to focus on the development of experimental physics education, but now with a focus on university level.
 
+## Special Thanks
+Suzanne Schuurman edited the English version of Broekzakdemos into Dutch. 
+Iris Brouwer contributed to the creation of the photos by testing many of the demos live.
 
-## Speciale dank
-Suzanne Schuurman heeft de bewerking gedaan van de Engelse versie van Broekzakdemos naar het Nederlands. 
-Iris Brouwer heeft bijgedragen aan het maken van de foto's door veel van de demo's live te testen.
-
-## Licentie
+## License
 CC-BY
 
-Alles uit deze uitgave mag worden gedeeld en/of bewerkt, mits er naamsvermelding plaatsvindt. Voor meer informatie over deze licentie, zie: [https://creativecommons.org/licenses/by/4.0/deed.nl](https://creativecommons.org/licenses/by/4.0/deed.nl)
+Everything in this publication may be shared and/or modified, provided that attribution is given. For more information about this license, see: [https://creativecommons.org/licenses/by/4.0/deed.nl](https://creativecommons.org/licenses/by/4.0/deed.nl)
 
-## Referentie
-Als u dit boek gebruikt, verwijs er dan naar als: 
-van den Berg, E. & Pols, F. (2025). Broekzakdemos. NVON. Of gebruik onderstaande BibTeX referentie.
+## Reference
+If you use this book, please refer to it as: 
+van den Berg, E. & Pols, F. (2025). Broekzakdemos. NVON. Or use the BibTeX reference below.
 
 ```bibtex
 @book{vandenBergPols2025,

@@ -3,14 +3,14 @@
 Dit boek bevat meer dan 200 demo's verzameld en/of bedacht door Ed van den Berg. Het boek is verder samengesteld en opgemaakt door Freek Pols. Een groot deel van de illustraties komt ook uit de collectie van Ed van den Berg. Gezamenlijk zijn nieuwe foto's gemaakt.
 
 ## Auteurs
-```{figure} auth_Ed.jpg
+```{figure} ../images/auth_Ed.jpg
 :width: 20%
 ```
 
 **Ed van den Berg** (1951) studeerde natuurkunde aan de Vrije Universiteit Amsterdam (VU) en promoveerde in Science Education aan de University of Iowa (VS). Hij werkte als docent/ontwikkelaar bij lerarenopleidingen in Indonesië, de Filipijnen en Nederland. Tot voor kort was hij docent natuur- en techniekonderwijs bij het Kenniscentrum Domein Educatie en Onderwijskunde van de Hogeschool van Amsterdam en docent wetenschapsdidactiek bij de lerarenopleiding van de Vrije Universiteit. Hij was onder andere betrokken bij de projecten Moderne Fysica en Nieuwe Fysica en publiceerde meer dan 300 artikelen in vaktijdschriften voor leraren in binnen- en buitenland.
 
 
-```{figure} auth_Freek.jpg
+```{figure} ../images/auth_Freek.jpg
 :width: 20%
 ```
 **Freek Pols** (1986) werkte 10 jaar als docent natuurkunde. Sinds 2019 is hij werkzaam als practicumcoördinator bij de opleiding Technische Natuurkunde van de TU Delft. In 2023 promoveerde hij op practicumonderwijs, specifiek op het doceren van wetenschappelijk onderzoek. Momenteel is hij universitair docent bij de afdeling Science & Engineering Education. Zijn onderzoek richt zich nog steeds op de ontwikkeling van experimenteel natuurkundeonderwijs, maar nu met een focus op universitair niveau.
