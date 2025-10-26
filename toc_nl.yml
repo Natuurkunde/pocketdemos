@@ -4,7 +4,7 @@ project:
   toc:
     - file: Index.md
     - file: content/nl/Demos.md
-    - file: content/nl/Credits.md
+    - file: content/nl/credits.md
     - file: content/nl/Mechanics.md
     - file: content/nl/Electricity.md
     - file: content/nl/Light.md
