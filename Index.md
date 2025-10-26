@@ -35,15 +35,15 @@ Bewerkt en opgemaakt door Freek Pols
 
 ```{grid} 1 3 3 3
 :::{card} Dutch
-:link: ./nl/credits.md
+:link: ../nl/credits.md
 Klik hier voor Nederlands
 :::
 :::{card} English
-:link: ./en/credits.md
+:link: ../en/credits.md
 Click here for English
 :::
 :::{card} Indonesia
-:link: ./in/credits.md
+:link: ../in/credits.md
 Klik di sini untuk Bahasa Indonesia
 :::
 ```
