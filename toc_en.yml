@@ -2,7 +2,7 @@ version: 1
 project:
 
   toc: 
-    - file: content/en/Index.md
+    # - file: content/en/Index.md
     - file: content/en/Demos.md
     - file: content/en/Credits.md
     - file: content/en/Mechanics.md

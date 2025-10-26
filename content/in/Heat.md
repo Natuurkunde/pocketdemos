@@ -1,43 +1,43 @@
-# Warmte en temperatuur
+# Panas dan suhu
 
-## Temperatuurgevoel
-Sommige lokalen hebben warm en koud water. Als dat er niet is, even een leerling de klas uit sturen om 3 bekers water te halen: heet, lauw, koud. Dan leerlingen 1 vinger in het hete en 1 vinger in het koude water laten houden, en dan beide vingers in het lauwe water te brengen. Wat voelen ze?
+## Perasaan suhu
+Beberapa ruang kelas memiliki air panas dan dingin. Jika tidak ada, suruh seorang siswa keluar kelas untuk mengambil 3 gelas air: panas, hangat, dingin. Kemudian biarkan siswa menaruh 1 jari di air panas dan 1 jari di air dingin, lalu masukkan kedua jari ke dalam air hangat. Apa yang mereka rasakan?
 
-## Temperatuur optellen of niet? Intensieve versus extensieve variabelen
-Je hebt twee halfvolle glazen water elk op de omgevingstemperatuur. Nu giet je ze bij elkaar, de temperatuur wordt dan 20 $^\circ$C, 40 $^\circ$C, of iets minder dan 40 $^\circ$C? Er zijn leerlingen die kiezen voor die 40 $^o$C en die temperaturen optellen. Misschien toch even goed om die leerlingen te confronteren. Als temperaturen optelbaar waren, dan zou je water kunnen koken door 5 glazen van 20 $^\circ$C bij elkaar te doen. Koken zonder energie! Deze demo kan ook een startpunt zijn voor discussie van intensieve en extensieve grootheden.
+## Menjumlahkan suhu atau tidak? Variabel intensif versus ekstensif
+Anda memiliki dua gelas air setengah penuh, masing-masing pada suhu lingkungan. Sekarang tuangkan mereka bersama, suhu menjadi 20 $^\circ$C, 40 $^\circ$C, atau sedikit kurang dari 40 $^\circ$C? Ada siswa yang memilih 40 $^\circ$C dan menjumlahkan suhu tersebut. Mungkin baik untuk menghadapi siswa tersebut. Jika suhu dapat dijumlahkan, maka Anda bisa merebus air dengan mencampurkan 5 gelas air 20 $^\circ$C. Merebus tanpa energi! Demo ini juga bisa menjadi titik awal untuk diskusi tentang besaran intensif dan ekstensif.
 
-Ik heb 5 gazen water van de kraan, allemaal met een temperatuur van 20 $^{\circ}$C. Als ik ze bij elkaar giet, wat is dan de temperatuur?  
+Saya memiliki 5 gelas air dari keran, semuanya pada suhu 20 $^{\circ}$C. Jika saya tuangkan bersama, berapa suhu yang dihasilkan?  
 A. 20 $^{\circ}$C  
 B. 40 $^{\circ}$C  
-C. een klein beetje minder dan 40 $^{\circ}$C? 
+C. sedikit kurang dari 40 $^{\circ}$C? 
 
-Laat de leerlingen blind stemmen (leerlingen doen hun ogen dicht en stemmen met een vinger op optie A, twee vingers op optie B en drie vingers op optie C). Je kan dit laten controleren door een leerling een vinger in het enkele glas te steken en in het bakje met de inhoud van de twee glazen bij elkaar. 
+Biarkan siswa memberikan suara secara buta (siswa menutup mata dan memberikan satu jari untuk opsi A, dua jari untuk opsi B, dan tiga jari untuk opsi C). Anda dapat memverifikasi ini dengan meminta seorang siswa untuk memasukkan jari ke dalam gelas tunggal dan ke dalam wadah yang berisi campuran dua gelas.
 
-Dan is er de volgende vraag: we hebben een metalen staaf die we in twee stukken snijden, X en Y. Het volume van X is twee keer zo veel als het volume van Y. De relatie tussen de dichtheden $ρ_x$ van $X$ en $ρ_y$ van $Y$ is:
+Kemudian ada pertanyaan berikut: kita memiliki batang logam yang kita potong menjadi dua bagian, X dan Y. Volume X dua kali lipat dari volume Y. Hubungan antara densitas $ρ_x$ dari X dan $ρ_y$ dari Y adalah:
 
 A.  $ρ_x = 2ρ_y$  
 B.  $ρ_x = ρ_y$  
 C.  $ρ_x = 1/2 ρ_y$  
  
-Dit zullen best veel leerlingen fout hebben. Je zou vergelijkbare vragen kunnen stellen over andere materiële eigenschappen, zoals soortelijke warmte en soortelijke weerstand. Welke natuurkundige eigenschappen kan je optellen? Massa, gewicht en volume. Welke eigenschappen kan je niet optellen (temperatuur, dichtheid, materiële eigenschappen)?
+Ini mungkin banyak siswa yang salah. Anda bisa mengajukan pertanyaan serupa tentang sifat material lainnya, seperti kapasitas panas spesifik dan resistivitas spesifik. Sifat fisik mana yang dapat dijumlahkan? Massa, berat, dan volume. Sifat mana yang tidak dapat dijumlahkan (suhu, densitas, sifat material)?
 
-## Warmte en wrijving
-Wrijf enkele keren stevig in je handen. Wat voel je? Rek een elastiekje een aantal keren achter elkaar uit en dan vlak boven de bovenlip de verhoogde temperatuur voelen, mechanische energie wordt omgezet in thermische energie.
+## Panas dan gesekan
+Gosokkan tangan Anda beberapa kali dengan kuat. Apa yang Anda rasakan? Tarik sebuah karet gelang beberapa kali berturut-turut dan kemudian rasakan suhu yang meningkat tepat di atas bibir atas, energi mekanik diubah menjadi energi termal.
 
-## Geleiding
-Laat leerlingen verschillende materialen voelen, bijvoorbeeld metaal van de stoelen, hout, kunststof, textiel. Hoe warm voelt het? Kunnen die materialen in hetzelfde lokaal wel verschillende temperaturen hebben? Als de temperaturen dan toch gelijk zijn, waarom voelt het dan toch verschillend? Geleiding! Metalen nemen gemakkelijk warmte op van de vingers/handen want die warmte-energie verspreid zich direct over het hele metalen voorwerp. Als je na het aanraken van het metaal met dezelfde vingers de bovenkant van je andere hand aanraakt, dan voelt het koud. Het oppervlak van de vingers is duidelijk afgekoeld door aanraking van metaal. Aanraken van hout voelt niet koud aan.
+## Konduksi
+Biarkan siswa merasakan berbagai bahan, seperti logam dari kursi, kayu, plastik, tekstil. Seberapa hangat rasanya? Dapatkah bahan-bahan tersebut memiliki suhu yang berbeda di dalam ruangan yang sama? Jika suhu tersebut sama, mengapa rasanya tetap berbeda? Konduksi! Logam dengan mudah menyerap panas dari jari/tangan karena energi panas tersebut menyebar langsung ke seluruh benda logam. Jika setelah menyentuh logam Anda menyentuh bagian atas tangan Anda yang lain dengan jari yang sama, maka terasa dingin. Permukaan jari jelas telah mendingin karena menyentuh logam. Menyentuh kayu tidak terasa dingin.
 
-## Stroming
-Wat zijn de warmste plekken van ons lichaam? Wat de koudste, bijvoorbeeld ’s winters buiten? Verklaring? Stroming, bloedsomloop, afstand tot slagaderen en tot het hart. Hoe zit dat bij vogels die lang met de poten in koud water staan te vissen, bijvoorbeeld reigers? De bloedbaan naar beneden ligt vlak naast de bloedbaan naar boven. Koud bloed dat uit het onderste deel van de poten terug naar boven stroomt, wordt verwarmd door warmte uit de bloedbaan naar beneden. Zo is het temperatuurverschil tussen de poten en het koude water minder groot en gaat er minder warmte "verloren".
+## Aliran
+Di mana bagian terhangat dari tubuh kita? Di mana yang terdingin, misalnya di luar saat musim dingin? Penjelasan? Aliran, sirkulasi darah, jarak dari arteri dan jantung. Bagaimana dengan burung yang berdiri lama dengan kaki di air dingin, seperti bangau? Pembuluh darah ke bawah terletak tepat di samping pembuluh darah ke atas. Darah dingin yang kembali dari bagian bawah kaki ke atas akan dipanaskan oleh panas dari pembuluh darah ke bawah. Dengan demikian, perbedaan suhu antara kaki dan air dingin menjadi lebih kecil dan lebih sedikit panas yang "hilang".
 
-## Rollenspel smelten-verdampen-koken-condenseren-bevriezen
-Maak een beetje ruimte en neem een groep van 15 leerlingen en zet ze voor de klas in drie rijen van 5 met het gezicht naar de klas. Arrangeer ze netjes als atomen in een kristalrooster. Start met de absolute 0 Kelvin temperatuur. Ze bewegen een beetje (er is enige beweging bij absoluut zero, denk aan Heisenberg). Laat vervolgens de temperatuur toenemen en leerlingen bewegen steeds iets wilder heen-en-weer maar rond een vaste positie. Dan wordt het smeltpunt gepasseerd. De leerlingen bewegen nu in een soort van kluwen, geen vaste positie meer, maar ze blijven wel bij elkaar. Af en toe kan er een losraken door verdamping, dat gebeurt alleen aan de buitenkant en overkomt slechts een klein deel van de atomen. Passeer het kookpunt, nu vliegt iedereen alle kanten op, snelheid beperkt nu de invloed van onderlinge aantrekkingskracht. Laat de temperatuur vervolgens weer afnemen. Beweging wordt wat langzamer, elkaar ontmoetende atomen kunnen aan elkaar blijven kleven of nog beter aan een koud oppervlak (“condensatie kern”). Nu hebben we weer die kluwen van atomen die elkaar aantrekken maar die geen vaste plek hebben. Verlaag de temperatuur nog wat, en iedereen komt terug in het kristalrooster. Zorg voor voortdurende discussie en heen-en-weer denken tussen echte atomen/moleculen en dit model van dansende leerlingen: Temperatuur gaat omhoog, wat moeten we doen? Als niet alle leerlingen voor de klas passen, laat dan de achterblijvers de choreografen zijn die aangeven wat de dansende atomen moeten doen. Geef aan het eind ook aan waarin dit dansende leerlingen model verschilt van de atomen, bijvoorbeeld mensen verschillen van elkaar, atomen en moleculen niet; het rollenspel is met een zeer klein aantal “deeltjes”, bij atomen/moleculen heb je altijd met zeer grote aantallen te maken.
+## Peran bermain meleleh-evaporasi-mendidih-kondensasi-membeku
+Buat sedikit ruang dan ambil sekelompok 15 siswa dan atur mereka di depan kelas dalam tiga baris masing-masing 5 dengan wajah menghadap kelas. Atur mereka rapi seperti atom dalam kisi kristal. Mulailah dengan suhu 0 Kelvin mutlak. Mereka bergerak sedikit (ada sedikit gerakan pada suhu mutlak nol, pikirkan tentang Heisenberg). Kemudian biarkan suhu meningkat dan siswa bergerak semakin liar tetapi tetap di posisi tetap. Kemudian melewati titik leleh. Siswa sekarang bergerak dalam semacam kerumunan, tidak ada posisi tetap lagi, tetapi mereka tetap bersama. Kadang-kadang, beberapa bisa terlepas karena evaporasi, itu hanya terjadi di bagian luar dan hanya menimpa sebagian kecil dari atom. Lewati titik didih, sekarang semua orang terbang ke segala arah, kecepatan sekarang membatasi pengaruh gaya tarik menarik antar atom. Kemudian biarkan suhu menurun lagi. Gerakan menjadi sedikit lebih lambat, atom yang saling bertemu dapat saling menempel atau lebih baik lagi pada permukaan dingin (“inti kondensasi”). Sekarang kita kembali ke kerumunan atom yang saling menarik tetapi tidak memiliki tempat tetap. Turunkan suhu sedikit lagi, dan semua orang kembali ke kisi kristal. Pastikan ada diskusi berkelanjutan dan pemikiran bolak-balik antara atom/molekul yang sebenarnya dan model siswa yang menari ini: Suhu meningkat, apa yang harus kita lakukan? Jika tidak semua siswa muat di depan kelas, biarkan yang tertinggal menjadi koreografer yang menunjukkan apa yang harus dilakukan oleh atom yang menari. Di akhir, tunjukkan juga perbedaan antara model siswa yang menari ini dan atom, misalnya manusia berbeda satu sama lain, tetapi atom dan molekul tidak; permainan peran ini melibatkan jumlah "partikel" yang sangat kecil, sedangkan pada atom/molekul Anda selalu berurusan dengan jumlah yang sangat besar.
 
-## Smelten en plaattectoniek
-*Heeft iemand chocolade in zijn tas? Haal de verpakking eraf en houd hem in je hand terwijl iedereen werkt aan deze opdracht* (geef ze een opdracht). Na een paar minuten: *Laat je hand zien aan de klas, wat is er gebeurd? Ja, de chocolade is gesmolten. Dit is hoe smelten eruit ziet. Wat denk je dat de smelttemperatuur van chocolade ongeveer is?* Chocolade smelt toevallig ergens tussen 33 en 37 $^\circ$C, net onder de lichaamstemperatuur. Dus stop geen chocolade in je broekzak. Het langzame proces van het smelten van chocolade is leuk om te bekijken. Denk daarbij aan de asthenosfeer, de 3000 km dikke laag om de vaste kern van onze planeet. De asthenosfer bestaat uit warme half-vloeibare steen onder de tectonische platen die bestaan uit vaste steen. Ik vergelijk het materiaal van de asthenosfeer altijd met boter of halfgesmolten chocolade. Zo kan het stromen en de tectonische platen een paar cm per jaar doen meebewegen. 
+## Meleleh dan tektonik lempeng
+*Apakah ada yang memiliki cokelat di tasnya? Lepaskan kemasannya dan pegang di tangan Anda sementara semua orang mengerjakan tugas ini* (berikan mereka tugas). Setelah beberapa menit: *Tunjukkan tangan Anda kepada kelas, apa yang terjadi? Ya, cokelat telah meleleh. Inilah yang terlihat saat meleleh. Apa yang Anda pikirkan tentang suhu leleh cokelat?* Cokelat meleleh kebetulan di antara 33 dan 37 $^\circ$C, sedikit di bawah suhu tubuh. Jadi jangan masukkan cokelat ke dalam saku Anda. Proses lambat melelehnya cokelat sangat menarik untuk dilihat. Pikirkan tentang asthenosfer, lapisan setebal 3000 km di sekitar inti padat planet kita. Asthenosfer terdiri dari batu setengah cair yang hangat di bawah lempeng tektonik yang terbuat dari batu padat. Saya selalu membandingkan bahan asthenosfer dengan mentega atau cokelat setengah leleh. Dengan cara ini, ia dapat mengalir dan lempeng tektonik dapat bergerak beberapa cm per tahun.
 
-## Afkoelingseffect van kleine openingen 
-Adem uit met de mond wijd open en voel dat op je hand (warm), blaas vervolgens door een kleine opening van de mond (koud). Alle leerlingen even zelf laten doen en voelen {cite:p}`Hewitt2015`. Expanderende lucht koelt af. Lucht die samengeperst wordt, warmt op (voel onderaan fietspomp, laat een leerling even een fietspompje halen). Een student wees ons op een alternatieve uitleg: [entrainment](https://www.youtube.com/shorts/Fnx9Dhpsw1Q)[^mbvbn], dat de door een kleine opening uitgeademde lucht mengt met omgevingslucht en daardoor kouder voelt. Een toets daarvoor zou zijn om de temperatuur van die uitgeademde lucht te meten. Indien boven omgevingstemperatuur, dan entrainment, indien zelfs beneden omgevings temperatuur, dan is er een nozzle en expansie effect.
+## Efek pendinginan dari lubang kecil
+Keluarkan napas dengan mulut terbuka lebar dan rasakan itu di tangan Anda (hangat), kemudian hembuskan melalui lubang kecil di mulut (dingin). Biarkan semua siswa melakukannya dan merasakannya {cite:p}`Hewitt2015`. Udara yang mengembang mendingin. Udara yang terkompresi menjadi hangat (rasakan di bagian bawah pompa sepeda, biarkan seorang siswa mengambil pompa sepeda). Seorang siswa menunjukkan kepada kami penjelasan alternatif: [entrainment](https://www.youtube.com/shorts/Fnx9Dhpsw1Q)[^mbvbn], bahwa udara yang dihembuskan melalui lubang kecil bercampur dengan udara sekitar dan karena itu terasa lebih dingin. Sebuah tes untuk itu adalah mengukur suhu udara yang dihembuskan. Jika di atas suhu lingkungan, maka entrainment, jika bahkan di bawah suhu lingkungan, maka ada nozzle dan efek ekspansi.
 
 [^mbvbn]: https://www.youtube.com/shorts/Fnx9Dhpsw1Q
 
@@ -46,67 +46,70 @@ Adem uit met de mond wijd open en voel dat op je hand (warm), blaas vervolgens d
 ```{figure} ../figures/blowopen.*
 :width: 50%
 
-Blazen door een mond met grote opening
+Menghembuskan melalui mulut dengan pembukaan besar
 ```
 ```{figure} ../figures/blowsmall.*
 :width: 50%
 
-Blazen door een mond met smalle opening
+Menghembuskan melalui mulut dengan pembukaan kecil
 ```
-Wat is het verschil tussen deze twee manieren van blazen? Welke voelt kouder aan?
+Apa perbedaan antara kedua cara menghembuskan ini? Mana yang terasa lebih dingin?
 ````
 
-## Afkoeling bij verdamping
-Eén van de meisjes heeft vast zoiets als nail polish remover of deodorant. Laat een druppel daarvan op de rug van de hand vallen van een leerling voor de klas en die voelt het kouder worden. Ondertussen verdampt de vloeistof. Of probeer schoonmaak alcohol of aceton. Natuurlijk is het mooier als iedere leerling dit kan voelen.
+## Pendinginan dengan penguapan
+Salah satu gadis mungkin memiliki sesuatu seperti penghapus cat kuku atau deodoran. Biarkan setetes cairan tersebut jatuh di punggung tangan seorang siswa di depan kelas dan rasakan suhu yang lebih dingin. Sementara itu, cairan tersebut menguap. Atau coba gunakan alkohol pembersih atau aseton. Tentu saja, lebih baik jika setiap siswa dapat merasakannya.
 
-## Verdamping en condensatie
-In de winter beslaan de ramen. Kijk eens naar buiten. Hoe komt dat? Neem een glas kraanwater en adem er op. Het glas beslaat. Geen glas aanwezig? Adem op het raam, ook bij dubbel glas is condensatie te zien. Of laat al je leerlingen uitademen op een glad oppervlak, liefst glas, maar metaal werkt natuurlijk ook goed. Als het oppervlak maar koeler is dan de adem en dat is in ons land bijna altijd het geval. Uitademen op een glas gevuld met water warmer dan 37 $^\circ$C is natuurlijk ook interessant, waarom nu geen mist op de buitenkant van het glas?
+## Penguapan dan kondensasi
+Di musim dingin, jendela menjadi berkabut. Lihatlah ke luar. Mengapa itu terjadi? Ambil segelas air keran dan hembuskan napas ke dalamnya. Gelas tersebut akan berkabut. Tidak ada gelas? Hembuskan napas ke jendela, bahkan pada kaca ganda pun kondensasi dapat terlihat. Atau biarkan semua siswa menghembuskan napas pada permukaan halus, sebaiknya kaca, tetapi logam juga berfungsi dengan baik. Selama permukaan tersebut lebih dingin daripada napas, dan itu hampir selalu terjadi di negara kita. Menghembuskan napas pada gelas yang diisi air lebih hangat dari 37 $^\circ$C juga menarik, mengapa tidak ada kabut di bagian luar gelas?
 
-## Verdamping en convectie, ijking/kalibratie
-Parfumflesje open maken in een hoek van het lokaal, na enige tijd is het op steeds grotere afstand te ruiken. Er is vast wel iemand die parfum of deodorant bij zich heeft. Je kunt leerlingen hun vinger op laten steken wanneer ze het ruiken en zo de verspreiding in kaart brengen. Dat is ook een mooie opstap naar ijking/kalibratie van sensoren, want de gevoeligheid van de neuzen van leerlingen zal enorm variëren.
+## Penguapan dan konveksi, kalibrasi
+Buka botol parfum di sudut kelas, setelah beberapa saat, baunya akan tercium semakin jauh. Pasti ada seseorang yang membawa parfum atau deodoran. Anda bisa meminta siswa untuk mengangkat jari mereka ketika mereka mencium baunya dan memetakan penyebarannya. Ini juga merupakan langkah yang baik menuju kalibrasi sensor, karena sensitivitas hidung siswa akan sangat bervariasi.
 
-## Sublimatie
-Het bovenstaande experiment zou ook moeten werken met een vast stuk zeep, dat zou ergens op de school wel te vinden moeten zijn. Als dat niet zo is, kijk dan of de leerlingen vaste stoffen in hun tas hebben met een geur (voedsel, een sandwich?). Sublimatie! Of is het een vast materiaal waar een gas dat we ruiken in zit en is het geen sublimatie?
+## Sublimasi
+Eksperimen di atas juga harus berhasil dengan sepotong sabun padat, yang seharusnya bisa ditemukan di sekolah. Jika tidak, lihat apakah siswa memiliki bahan padat di tas mereka yang memiliki aroma (makanan, sandwich?). Sublimasi! Atau apakah itu bahan padat yang mengandung gas yang kita cium dan bukan sublimasi?
 
-## Energietransport: geleiding, stroming, straling
-Neem je hete kopje koffie van de lerarenkamer mee naar de klas. Hoe koelt de koffie af? *Wat is geleiding? Hoe kan ik dat voelen?* Raak de zijkant van het kopje aan. *Wat is stroming? Hoe kan ik dat voelen?* Houd je hand boven het kopje. *En hoe zit dat met verdamping? Hoe kan ik dat laten zien?* Houd een koud voorwerp (zoals een schoteltje) recht boven het kopje en er zullen druppels vormen onder het schoteltje, omdat de verdampte koffie condenseert op het koudere voorwerp. *Wat is straling? Hoe kan ik dat voelen?* Houd je hand een een paar centimeter naast het kopje, of zelfs beter, leen een waterkoker van de lerarenkamer. 
+## Transportasi energi: konduksi, konveksi, radiasi
+Bawa cangkir kopi panas dari ruang guru ke kelas. Bagaimana kopi tersebut mendingin? *Apa itu konduksi? Bagaimana saya bisa merasakannya?* Sentuh sisi cangkir. *Apa itu konveksi? Bagaimana saya bisa merasakannya?* Pegang tangan Anda di atas cangkir. *Dan bagaimana dengan penguapan? Bagaimana saya bisa menunjukkan itu?* Pegang benda dingin (seperti piring) tepat di atas cangkir dan akan ada tetesan yang terbentuk di bawah piring, karena kopi yang menguap mengembun pada benda yang lebih dingin. *Apa itu radiasi? Bagaimana saya bisa merasakannya?* Pegang tangan Anda beberapa sentimeter di samping cangkir, atau lebih baik lagi, pinjam ketel dari ruang guru.
 
-## Water warm houden
-Neem twee bekers met warm water, of nog beter, neem een volle thermosfles, twee bekers en nog wat materialen zoals schoteltjes, een handdoek en een oude krant. *Ik ga deze twee bekers vullen met warm water. Hoe kan ik ze zo lang mogelijk warm houden? Hoe voorkom ik warmteverlies door geleiding, hoe voorkom ik warmteverlies door stroming en verdamping, of door straling?* Vraag de leerlingen om mee te denken en isoleer daarna een van de twee bekers, de andere gebruik je als controlegroep. Twee thermometers zouden hier helpen, anders kan je de vinger van een leerling gebruiken. Terwijl je wacht op het afkoelen kan je de leerlingen een paar vragen of een opdracht geven om over na te denken. Ik deed dit altijd als labactiviteit met mijn leerlingen, maar dan met thermometers. In de eerste ronde meten ze gewoon het afkoelen van twee open glazen om te oefenen met temperatuur-tijd metingen. In de tweede ronde isoleren ze een van de glazen hoe ze maar willen en vergelijken ze dat met het ongeïsoleerde glas. In de derde ronde leren ze eerst over energietransport door geleiding, stroming en straling, en herontwerpen ze daarna de isolatie. De derde ronde leverde best goede Joule meters op, goed genoeg om soortelijke warmte experimenten te doen {cite:p}`Berg1987`.
+## Menjaga air tetap hangat
+Ambil dua gelas berisi air hangat, atau lebih baik lagi, ambil termos penuh, dua gelas, dan beberapa bahan seperti piring, handuk, dan koran tua. *Saya akan mengisi kedua gelas ini dengan air hangat. Bagaimana saya bisa menjaga mereka tetap hangat selama mungkin? Bagaimana cara mencegah kehilangan panas melalui konduksi, konveksi, dan penguapan, atau melalui radiasi?* Tanyakan kepada siswa untuk berpikir bersama dan kemudian isolasi salah satu dari dua gelas, yang lainnya digunakan sebagai kelompok kontrol. Dua termometer akan sangat membantu di sini, jika tidak, Anda bisa menggunakan jari seorang siswa. Sambil menunggu pendinginan, Anda bisa memberikan beberapa pertanyaan atau tugas untuk dipikirkan oleh siswa. Saya selalu melakukan ini sebagai aktivitas laboratorium dengan siswa saya, tetapi dengan termometer. Pada putaran pertama, mereka hanya mengukur pendinginan dua gelas terbuka untuk berlatih pengukuran suhu-waktu. Pada putaran kedua, mereka mengisolasi salah satu gelas dengan cara yang mereka inginkan dan membandingkannya dengan gelas yang tidak terisolasi. Pada putaran ketiga, mereka belajar tentang transportasi energi melalui konduksi, konveksi, dan radiasi, dan kemudian merancang ulang isolasi mereka. Putaran ketiga menghasilkan pengukur Joule yang cukup baik, cukup baik untuk melakukan eksperimen kapasitas panas {cite:p}`Berg1987`.
 
-## Water snel afkoelen
-Je zou ook het tegenovergestelde kunnen doen. Neem een heet kopje koffie mee van de lerarenkamer. *Dit is te warm om te drinken, maar wat zou ik kunnen doen om het snel af te koelen?* Roeren? Over de bovenkant van het kopje heen blazen? Hoe verhoudt dit zich tot geleiding, stroming en verdamping? (Roeren stimuleert afkoelen aan het oppervlakte door stroming/verdamping. Over de bovenkant heen blazen haalt de verdampte en verzadigde koffie-/waterdamp weg en versnelt het afkoelen dus door verdamping). 
+## Mendinginkan air dengan cepat
+Anda juga bisa melakukan sebaliknya. Bawa cangkir kopi panas dari ruang guru. *Ini terlalu panas untuk diminum, tetapi apa yang bisa saya lakukan untuk mendinginkannya dengan cepat?* Mengaduk? Menghembuskan di atas cangkir? Bagaimana ini berhubungan dengan konduksi, konveksi, dan penguapan? (Mengaduk merangsang pendinginan di permukaan melalui konveksi/penguapan. Menghembuskan di atas cangkir menghilangkan uap air kopi yang jenuh dan mempercepat pendinginan melalui penguapan).
 
-## Geleiding, stroming, straling met een lucifer of aansteker
-Dit zijn misschien geen normale voorwerpen om in een klaslokaal te hebben, maar ze zouden wel altijd in de zak van een natuurkundeleraar moeten zitten. Met de lucifers kan je geleiding laten zien (houd een metalen voorwerp in de vlam), stroming laten zien (houd je hand boven de vlam, maar niet te dichtbij) en straling laten zien (houd je hand aan de zijkant van de vlam, op een afstand). 
+## Konduksi, konveksi, radiasi dengan korek api atau pemantik
+Ini mungkin bukan benda biasa yang ada di ruang kelas, tetapi seharusnya selalu ada di tas seorang guru fisika. Dengan korek api, Anda bisa menunjukkan konduksi (pegang benda logam di dalam api), konveksi (pegang tangan Anda di atas api, tetapi tidak terlalu dekat), dan radiasi (pegang tangan Anda di samping api, pada jarak tertentu).
 
-De volgende experimenten met kaarsen kunnen gedaan worden door de leraar (met een grote kaars in een donkere kamer en bij voorkeur met een webcam), of tegelijk door een leraar en leerlingen op hun tafel, of als een lab oefening voor de leerlingen. Als de leerlingen dit op hun tafel doen zijn er natuurlijk meer kaarsen en lucifers nodig en dan is dit geen broekzak demo meer. 
+Eksperimen berikut dengan lilin dapat dilakukan oleh guru (dengan lilin besar di ruangan gelap dan sebaiknya dengan webcam), atau bersamaan oleh guru dan siswa di meja mereka, atau sebagai latihan laboratorium untuk siswa. Jika siswa melakukan ini di meja mereka, tentu saja akan ada lebih banyak lilin dan korek api yang dibutuhkan dan ini bukan lagi demo saku.
 
-## Kaarsen en vlammen beschrijven en vragen formuleren
-Elke natuurkundeleraar zou standaard een kaars in zijn tas moeten hebben, net als een ballon, een liniaal en lucifers. Laat leerlingen beschrijven wat ze zien:  
-a. nog niet aangestoken kaars,  
-b. aangestoken kaars,  
-c. net uitgedoofde kaars.  
-Laat ze nadenken over wat er nu precies brandt en over verdere experimenten om hun uitleg te testen. Bijvoorbeeld: de nog niet aangestoken kaars bestaat uit was en een lont. Kan de was zelf worden aangestoken met een lucifer? (Nee) Wat is de functie van de lont? Kan vloeibare was worden aangestoken met een lucifer? (Nee) Teken een vlam, inclusief de kleuren. Er lijken drie delen te zijn: blauw, grijs-geel en helder geel. Welke vragen kan je daarbij stellen? Zie ook Faradays 1860 mooie en leesbare beschrijving van experimenten met kaarsen in {cite:t}`Hammack2016`.
+## Menggambarkan lilin dan api serta merumuskan pertanyaan
+Setiap guru fisika seharusnya selalu memiliki lilin di tasnya, sama seperti balon, penggaris, dan korek api. Biarkan siswa menggambarkan apa yang mereka lihat:  
+a. lilin yang belum dinyalakan,  
+b. lilin yang dinyalakan,  
+c. lilin yang baru saja dipadamkan.  
+Biarkan mereka berpikir tentang apa yang sebenarnya terbakar dan tentang eksperimen lebih lanjut untuk menguji penjelasan mereka. Misalnya: lilin yang belum dinyalakan terdiri dari lilin dan sumbu. Dapatkah lilin itu dinyalakan dengan korek api? (Tidak) Apa fungsi sumbu? Dapatkah lilin cair dinyalakan dengan korek api? (Tidak) Gambarlah api, termasuk warnanya. Tampaknya ada tiga bagian: biru, abu-abu-kuning, dan kuning cerah. Pertanyaan apa yang bisa Anda ajukan tentang itu? Lihat juga deskripsi eksperimen yang indah dan mudah dibaca oleh Faraday pada tahun 1860 dalam {cite:t}`Hammack2016`.
 
-## Kaars, wat brandt er?
-Probeer de vaste was aan te steken, die brandt niet. Kijk naar de gesmolten was, die brandt ook niet. Keer de brandende kaars onderste boven en de vlam dooft uit. De vloeibare was doodt de vlam! Wat is het dan dat brandt? Steek de kaars aan, doof hem uit en houdt snel een aangestoken lucifer ongeveer 5 - 10 cm van de kaars in de wit-achtige rook. Er is weer een vlam! Het was de *damp* van de was die makkelijk kan worden aangestoken. Als de lont wordt aangestoken dan brandt deze, smelt hij de was, verwarmt hij de was totdat de damp omhoog komt langs de lont door de *capillaire werking* en de damp is wat brandt. Er is een kleine afstand tussen de vloeibare was en de onderkant van de vlam, dus de damp brandt een paar millimeter boven de vloeibare was {cite:t}`Hammack2016`.
+## Lilin, apa yang terbakar?
+Cobalah untuk menyalakan lilin padat, itu tidak terbakar. Lihatlah lilin cair, itu juga tidak terbakar. Balikkan lilin yang menyala dan api akan padam. Lilin cair mematikan api! Lalu apa yang terbakar? Nyalakan lilin, padamkan, dan segera pegang korek api yang menyala sekitar 5 - 10 cm dari lilin dalam asap putih. Sekali lagi ada api! Itu adalah *uap* dari lilin yang mudah terbakar. Ketika sumbu dinyalakan, ia membakar, melelehkan lilin, memanaskan lilin hingga uap naik melalui sumbu karena *kapilaritas* dan uap itulah yang terbakar. Ada jarak kecil antara lilin cair dan bagian bawah api, jadi uap terbakar beberapa milimeter di atas lilin cair {cite:t}`Hammack2016`.
 
-## Een balancerende kaars
-Prik in het midden van een lange kaars een naald en laat deze balanceren op bijvoorbeeld twee glazen. Steek de kaars aan beide kanten aan. De kaars zal nu gaan wipwappen.
+## Lilin seimbang
+Tusukkan jarum di tengah lilin panjang dan biarkan seimbang di atas dua gelas, misalnya. Nyalakan lilin di kedua sisi. Lilin sekarang akan bergetar.
 
-## Het patroon van de temperatuur van de vlam ontdekken 1
-De uiteindes van nog niet brandende luficers kunnen gebruikt worden als temperatuursensoren. Als je ze langzaam steeds dichter bij een vlam houdt, zullen ze op een bepaalde afstand in brand vliegen. Dat is de afstand waar de termperatuur hetzelfde is als de ontstekingstemperatuur van het materiaal op het uiteinde van de lucifer. Probeer dit op verschillende plekken rond de vlam en je krijgt een "isotherm" van de ontstekingstemperatuur rond de vlam. Aan de onderkant van de vlam kan je redelijk dichtbij komen met een lucifer. Aan de bovenkant van de vlam ontsteekt de lucifer al bij een veel grotere afstand. Leg uit! [@Liem1987, p205].
+## Menemukan pola suhu api 1
+Ujung korek api yang belum menyala dapat digunakan sebagai sensor suhu. Jika Anda perlahan-lahan mendekatkannya ke api, pada jarak tertentu, mereka akan menyala. Itu adalah jarak di mana suhu sama dengan suhu penyalaan bahan di ujung korek api. Cobalah ini di berbagai tempat di sekitar api dan Anda akan mendapatkan "isotherm" dari suhu penyalaan di sekitar api. Di bagian bawah api, Anda bisa mendekat dengan korek api. Di bagian atas api, korek api sudah menyala pada jarak yang jauh lebih besar. Jelaskan! [@Liem1987, p205].
 
-## Het patroom van de temperatuur van de vlam ontdekken 2
-Ontdekken kan ook gedaan worden door de leraar met een papiertje. Houdt een papiertje horizontaal boven de vlam en kijk naar het verbrande patroon. Je kan natuurlijk ook strookjes papier gebruiken voor de vorige demo in plaats van lucifers. De karakteristieke ontbrandingstemperatuur van papier is meestal tussen 200 en 300 $^\circ$C.
+## Menemukan pola suhu api 2
+Penemuan juga dapat dilakukan oleh guru dengan selembar kertas. Pegang selembar kertas secara horizontal di atas api dan lihat pola yang terbakar. Anda juga bisa menggunakan potongan kertas untuk demo sebelumnya sebagai pengganti korek api.
 
-## De producten van de vlam van een kaars
-Wat zijn de producten van de vlammen van een kaars en hoe kan je ze zien? Brandende koolwaterstoffen zouden water en CO$_2$ moeten produceren. Waterdamp kan makkelijk gecontroleerd worden. Gebruik een metalen of glazen voorwerp, maak het droog en houdt het in de buurt van de vlam. Er zouden druppels water moeten vormen op het voorwerp. Zie [Faraday](https://engineerguy.com/faraday/pdf/faraday-chemical-history-complete.pdf)[^Far]. Zie https://www.candles.org/candle-science voor interessante wetenschap die te maken heeft met kaarsen. 
+## Produk dari api lilin
+Apa produk dari api lilin dan bagaimana Anda bisa melihatnya? Hidrokarbon yang terbakar harus menghasilkan air dan CO$_2$. Uap air dapat dengan mudah diperiksa. Gunakan benda logam atau kaca, buat kering dan pegang di dekat api. Harus ada tetesan air yang terbentuk pada benda tersebut. Lihat [Faraday](https://engineerguy.com/faraday/pdf/faraday-chemical-history-complete.pdf)[^Far]. Lihat https://www.candles.org/candle-science untuk ilmu menarik yang berkaitan dengan lilin. 
 [^Far]: https://tinyurl.com/mttjf7jw 
+
+
 
 ## Voorkomen dat zuurstof bij de vlam van een kaars komt
 Steek de kaars aan en zet een groot glas ondersteboven over de vlam heen. Wat gebeurt er? De vlam dooft uit, er is geen zuurstof meer. Gebruik als dat mogelijk is drie dezelfde kaarsen met drie glazen met verschillende grootte. Welke vlam zal als eerste uitdoven? Er is dus iets in de lucht dat de vlam nodig heeft. Meer lucht zorgt voor meer van dat bestandsdeel (zuurstof).
+
 
 ## Stijgend water
 Laat een kaars drijven op water in een kom, steek de vlam aan en zet er een omgekeerd glas overheen. Als de vlam uitdooft, zal het water in het glas stijgen. Er zijn meerdere mogelijk oorzaken voor het stijgende water. De eerste is de zuurstof die opgebruikt is en maar gedeeltelijk vervangen is door CO$_2$. De andere is het uitzetten van lucht wanneer de vlam aan is, er zal zelfs wat lucht onder het glas vandaan ontsnappen. Wanneer de vlam uitdooft, zal de lucht weer krimpen. Een derde mogelijkheid is dat er waterdamp geproduceerd wordt. Als de vlam dooft condenseert de waterdamp. Dit resulteert in een lage druk onder het glas, dus zal de luchtdruk buiten het glas het water naar binnen duwen. 
@@ -130,3 +133,8 @@ Haal een theezakje uit de lerarenkamer, maak het open aan twee kanten, haal de t
 Sinds de pandemie hebben mensen vaak kleine flesjes met alcohol in hun tas. Ik heb dit vooral veel gezien in de Filippijnen, daar hadden vrouwen ze zelfs aan hun tas hangen. Dit maakt het beroemde experiment waarin je geld verbrandt mogelijk in een leeg klaslokaal. Neem een glas of beker, voeg een beetje water toe (voordat de leerlingen het lokaal binnen komen), voeg evenveel alcohol toe (wanneer de leerlingen al in het lokaal zijn). Meng de twee vloeistoffen. Een klein beetje zout kan leuk zijn om te zorgen dat de vlam een kleur krijgt. 
 
 *Wie heeft er een briefje geld?* (Of gebruik je eigen geld). Week het briefje in het vloeistofmengsel. Gebruik een pincet, wasknijper, of een geïmproviseerde pincet (twee potloden met het geld ertussen) om het briefje vast te houden en steek het vervolgens aan met een lucifer. Ondanks de vlam zal het geld niet branden. De alcohol brandt, terwijl het water de temperatuur van het papier lager houdt dan 100$^\circ$C tot al het water is verdampt. De 100 $^\circ$C is veel lager dan de ontbrandingstemperatuur van papier, die typisch meer dan 200 $^\circ$C is. In een 50-50 mengsel van alcohol en water zal de ontbrandingstemperatuur niet bereikt worden want niet al het water verdampt. Dit experiment wordt veel spannender als het als een toneelstukje wordt opgevoerd, geld lenen van een leerling kan het spannender maken. Een klein beetje zout verandert de kleur van de vlam van blauw naar oranje doordat daar natrium in zit. 
+
+## Uang selamat dari api
+Sejak pandemi, banyak orang sering membawa botol kecil alkohol di tas mereka. Saya telah melihat ini terutama di Filipina, di mana wanita bahkan menggantungnya di tas mereka. Ini memungkinkan eksperimen terkenal di mana Anda membakar uang di ruang kelas yang kosong. Ambil gelas atau cangkir, tambahkan sedikit air (sebelum siswa masuk ke kelas), tambahkan jumlah alkohol yang sama (setelah siswa sudah di dalam kelas). Campurkan kedua cairan. Sedikit garam bisa menyenangkan untuk memberikan warna pada api.
+
+*Siapa yang memiliki uang kertas?* (Atau gunakan uang Anda sendiri). Rendam uang kertas dalam campuran cairan. Gunakan penjepit, penjepit pakaian, atau penjepit improvisasi (dua pensil dengan uang di antara keduanya) untuk memegang uang tersebut dan kemudian nyalakan dengan korek api. Meskipun ada api, uang tersebut tidak akan terbakar. Alkohol terbakar, sementara air menjaga suhu kertas tetap di bawah 100 $^\circ$C hingga semua air menguap. Suhu 200 $^\circ$C jauh lebih rendah daripada suhu penyalaan kertas, yang biasanya lebih dari 200 $^\circ$C. Dalam campuran 50-50 alkohol dan air, suhu penyalaan tidak akan tercapai karena tidak semua air menguap. Eksperimen ini menjadi jauh lebih menarik jika dipentaskan, meminjam uang dari siswa bisa membuatnya lebih mendebarkan. Sedikit garam mengubah warna api dari biru menjadi oranye karena mengandung natrium.
