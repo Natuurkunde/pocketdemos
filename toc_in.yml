@@ -1,0 +1,17 @@
+version: 1
+project:
+  
+  toc:
+    - file: content/in/Index.md
+    - file: content/in/Demos.md
+    - file: content/in/Credits.md
+    - file: content/in/Mechanics.md
+    - file: content/in/Electricity.md
+    - file: content/in/Light.md
+    - file: content/in/Oscillations.md
+    - file: content/in/Sound.md
+    - file: content/in/Liquids.md
+    - file: content/in/Magnetism.md
+    - file: content/in/Heat.md
+    - file: content/in/Earthscience.md    
+    - file: content/in/Modernphysics.md    

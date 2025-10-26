@@ -18,6 +18,9 @@ project:
   numbering:
     title: true
     headings: true
+  
+  toc:
+    - Index.md
 
 extends: 
   - export.yml

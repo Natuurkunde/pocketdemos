@@ -32,18 +32,3 @@ Auteur: Ed van den Berg
 
 Bewerkt en opgemaakt door Freek Pols
 </div>
-
-```{grid} 1 3 3 3
-:::{card} Dutch
-:link: /nl
-Klik hier voor Nederlands
-:::
-:::{card} English
-:link: /en
-Click here for English
-:::
-:::{card} Indonesia
-:link: /id
-Klik di sini untuk Bahasa Indonesia
-:::
-```
