@@ -10,7 +10,7 @@ By comparing the different bags as pendulums, and by taking things out or puttin
 Take a ruler, make it stick out a bit {numref}`fig_ruler` from the table, let it vibrate and listen, change how much it sticks out, the pitch of the sound produced will change. Students can do this in their seats using their own rulers. Take two equal rulers but now attach some coins to the end of one of them. See what happens to the pitch of the sound and the frequency of the oscillation.
 
 
-```{figure} images/20250513_115534.*
+```{figure} ../images/20250513_115534.*
 :width: 60%
 :name: fig_ruler
 
@@ -29,7 +29,7 @@ In slow-motion the difference in frequency can clearly be seen.
 ## Tension and pitch 
 Take a rubber band, stretch it a little, make it vibrate and walk around the classroom to let students hear. Now if I stretch the rubber further, will the pitch increase, decrease, or stay the same? Stretching will increase the tension resulting in a higher pitch, but increasing length will lower the pitch. Decreasing the density per length will also lower the pitch. So the pitch will not change much and be a bit unpredictable (source Wouter Spaan).
 
-```{figure} images/rubband.*
+```{figure} ../images/rubband.*
 :width: 60%
 :name: fig_rubband
 
@@ -70,14 +70,14 @@ These happen when two waves or patterns interfere. For example, two combs on top
 ````{figure}
 :name: fig_haircombs
 
-```{figure} images/20250513_120748.*
+```{figure} ../images/20250513_120748.*
 :width: 60%
 :name: fig_haircombs1
 
 
 ```
 
-```{figure} images/20250513_120741.*
+```{figure} ../images/20250513_120741.*
 :width: 60%
 :name: fig_haircombs2
 

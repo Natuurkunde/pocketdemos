@@ -9,7 +9,7 @@ I always have a balloon in my bag. There are many uses in teaching physics. Just
 ## Separating salt from pepper with a balloon
 In school cafeterias or in the faculty room one can find salt and pepper for the soup. Mix some salt and pepper. Then rub a balloon with a piece of cloth, your sweater or other materials students wear, might work, and hold it above the mixture. The pepper will be attracted, the salt will not be. Instead of the balloon, one could also use a plastic ruler. The pepper will be attracted by induced separation of charges. Now why didn't the salt get attracted? Are the grains too heavy or is salt is too conductive?
 
-```{figure} figures/03-2StaticBalloonLR.*
+```{figure} ../figures/03-2StaticBalloonLR.*
 :width: 60%
 
 Separating salt from pepper using static electricity.

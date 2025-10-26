@@ -11,7 +11,7 @@ Suppose you are suddenly assigned to a bare classroom far from the location of y
 
 This booklet presents a collection of small and quick demonstrations, which require no equipment beyond what is present in a common classroom (chalk, chairs, students, books, paper, student bags and common contents). The collection can be easily expanded. The nature of the demos is varied, some are to prove something, but most are to illustrate, visualize, or simulate. A few role-plays are included for when students are restless, cold, or sleepy, or for when their instructor needs a kick to get into a better mood after a late night of checking students' papers.
 
-```{figure} images/20250513_085023.jpg
+```{figure} ../images/20250513_085023.jpg
 :width: 80%
 :name: fig_table
 
@@ -35,7 +35,7 @@ Just to exercise our creativity, let's take a glass of water. We can use that to
 
 Take any other object such as a chair or a table and you get many more demonstrations and visualizations. {cite:t}`Ehrlig1994` published 34 experiments with a plastic ruler. So, you yourself can add many experiments to this list. There are some standard objects that should always be in the bag or pocket of a physics teacher: a candle, matches or a lighter, two small stones of different sizes, a balloon that can be blown up, a ruler, some different coins, straws, a rubber band, a slinky, some strings, a scissor, and a laser pointer or flashlight.
 
-```{figure} images/sdfcover.jpg
+```{figure} ../images/sdfcover.jpg
 :width: 60%
 :name: fig_sdf
 

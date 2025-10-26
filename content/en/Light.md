@@ -12,7 +12,7 @@ A candle is burning in day light. The light of the candle:
 
 Then the same question but now at nighttime. Then follows a plenary discussion on how far light can go. If somebody with a telescope is 1 km away, can he see the candle? Does that mean that the light of the candle reaches the telescope, or is the light on the candle and the telescope looks at it?
 
-```{figure} figures/04-1-1StraightLinePropagation.*
+```{figure} ../figures/04-1-1StraightLinePropagation.*
 :width: 40%
 :name: fig_draw1
 
@@ -27,7 +27,7 @@ Then the same question but now at nighttime. Then follows a plenary discussion o
 -   C. comes out as far as you but no farther
 -   D. comes out until it hits something.
 
-```{figure} figures/04-1-2StraightLine.*
+```{figure} ../figures/04-1-2StraightLine.*
 :width: 40%
 :name: fig_draw2
 
@@ -41,7 +41,7 @@ Then the same question but now at nighttime. Then follows a plenary discussion o
 -   C. comes out as far as you but no farther
 -   D. comes out until it hits something.
 
-```{figure} figures/04-1-3StraightLine.*
+```{figure} ../figures/04-1-3StraightLine.*
 :width: 40%
 :name: fig_draw3
 
@@ -71,7 +71,7 @@ From the previous experiment we might have learned that anything with a wedge sh
 ##  Color subtraction
 Anybody with transparent, colored candy wrappers? Use a flashlight or the light of a telephone and shine it through the colored paper towards the students. The original light is white, the paper wrappers subtract colors from white. A red paper wrapper subtracts blue and green and lets red go through. A blue paper wrapper subtracts green and red and lets blue go through. If you have more candy wrappers and more lamps you can add colors together again.
 
-```{figure} images/20250513_121309.*
+```{figure} ../images/20250513_121309.*
 :width: 60%
 :name: fig_subt
 
@@ -84,7 +84,7 @@ Perhaps you have a Newton color disk on top of a spinning top. By spinning color
 ## Reflection
 There must be students in class with a mirror in their bag. Other reflecting objects might be windows, metals, spoons, etc. One can easily imagine many demonstrations. A spectacular demo is to tell your class that your whole body will be visible in any mirror as long as you increase your distance to the mirror. Then you *disprove*, using a mirror taken from outside the classroom, or borrowing a mirror from one of the girls. Beware of convex and concave mirrors for this particular demo, the mirror should be flat.
 
-```{figure} images/mirror.*
+```{figure} ../images/mirror.*
 :width: 60%
 :name: fig_mirror
 
@@ -104,7 +104,7 @@ If you do have pins, then you can use a pencil standing straight up and construc
 ## Refraction 1 pencil slanted in glass of water
 Walk around with pencil slanted in a glass of water, or better, in rectangular container. 
 
-```{figure} images/20250513_110031.*
+```{figure} ../images/20250513_110031.*
 :width: 60%
 :name: fig_pencil2
 
@@ -116,7 +116,7 @@ A broken straw?
 Stick your finger or a pencil straight up in a (round) glass of water. Move through the classroom while moving your finger forward and backward. No need for talking, many students seem surprised at this everyday observation of a "swollen" finger. Explaining can be quick by stating that the water in a glass acts as a lens. A better explanation with refraction of light rays might take 10 minutes or could be given as a task for seat or home work.
 
 
-```{figure} images/pencil.*
+```{figure} ../images/pencil.*
 :width: 60%
 :name: fig_pencil
 
@@ -129,7 +129,7 @@ Move the pencil back and forth and describe what you see
 Draw parallel arrows on a piece of paper (the object), hold that behind a glass of water half-filled such that some arrows are seen through the air and other arrows through the water. If the object distance is farther than the focal length, then the arrows are reversed {numref}`fig_arrow`. 
 
 
-```{figure} images/20250513_103744.*
+```{figure} ../images/20250513_103744.*
 :width: 60%
 :name: fig_arrow
 
@@ -140,7 +140,7 @@ Do the arrows point in the same direction?
 ## Refraction 4: Physics is Fun in the swimming pool
 Ask students to draw the light ray diagram requested in {numref}`fig_pool`. Walk around to identify frequent errors. Discuss, and then ask students how they could create an analog situation with a Lego mini-doll or a pencil and follow their instructions to demonstrate.
 
-```{figure} images/20250513_100315.*
+```{figure} ../images/20250513_100315.*
 :width: 60%
 :name: fig_pool
 
@@ -151,7 +151,7 @@ Fun physics in the pool
 ## Bright versus dark background
 Switch off the classroom lights. The teacher or a student stands against the wall opposite of the windows. The face is clearly visible as more light is reflected from the face than from the background. Then the teacher or student stands in front of the windows with the face towards the class. Now the face looks dark and unclear as the reflected light from the face is very little compared to the light coming through the windows. Then turn on the lights in the classroom and the face is better visible again. The same effect is visible in {numref}`fig_tulip`.
 
-```{figure} figures/tulip.*
+```{figure} ../figures/tulip.*
 :width: 60%
 :name: fig_tulip
 
@@ -165,7 +165,7 @@ Arrange students in pairs. They are to observe each other's pupil contraction. M
 ## Reflection and transmission 1
 Take a piece of paper, wet it a bit in the middle with water, oil, or saliva, then hold it in front of the window (or a lamp). The wet part appears light, it transmits. Then put the paper on the table where it reflects light. Now the wet spot looks dark, because of the transmission, it reflects less than dry paper. Students can do this in their seats using their saliva or whatever wet stuff is available {numref}`fig_trans`.
 
-```{figure} figures/04-15ReflectionTransmission.*
+```{figure} ../figures/04-15ReflectionTransmission.*
 :width: 60%
 :name: fig_trans
 
@@ -194,7 +194,7 @@ There is more to see in the eye itself. Look into the beautiful blue sky or anot
 ## Parallax
 Have students close their right eye and stick up their pen at arm's length such that it is in line with a mark on the black board. Have them then close the right eye and open the left one. The pen is no longer in line with the mark on the board as we look at it from just a different angle. That is parallax. The farther the distance from pen to the mark on the board, the smaller the difference. So parallax can be used for distance measurement. See {numref}`fig_paral` for the apparent shift of the pen against a background.
 
-```{figure} figures/parallax.*
+```{figure} ../figures/parallax.*
 :width: 100%
 :name: fig_paral
 
@@ -207,7 +207,7 @@ With two eyes open keep the pen at arm's length and aligned with a mark on the b
 ## Seeing depth 1
 Two eyes are better than one, especially in seeing depth and estimating distances. Let students take a pen or pencil in the left hand and another one in the right hand {numref}`fig_depth`. Move both hands around a bit and then let all student close one eye and move the pens toward one another until the tips touch. With one eye closed that is difficult, with two eyes open it is easy. The experiment can also be done with the two index fingers, but with pens it is more dramatic.
 
-```{figure} figures/04-24SeeingDepth.*
+```{figure} ../figures/04-24SeeingDepth.*
 :width: 100%
 :name: fig_depth
 

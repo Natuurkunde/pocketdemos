@@ -12,7 +12,7 @@ Take all kinds of materials and objects and see whether they float or sink in a 
 ## Floating and sinking
 Anybody brought a tangerine? Will it sink or float in water? Why? Try it out. Then peel it and try again (figures 1 and 2). Try other kinds of fruits and explain the results.
 
-```{figure} figures/float.*
+```{figure} ../figures/float.*
 :width: 90%
 :name: fig_float
 
@@ -48,14 +48,14 @@ Why is a drop of water round and the surface of a lake flat? This is the contest
 Fill a glass of water until just below the edge (concave surface) and then fill another glass carefully until the water level is over the edge of the glass but the water does not drip down the outside of the glass. Draw the two situations on the blackboard or whiteboard. We are going to put a ping-pong ball (or anything that floats) on top of the water surface. Which way will it position itself, in the center or against the edge of the glass? Let students draw their prediction in their notebooks. Walk around to take a look and ask a few students for a reason. Then drop some floating material on the surface such as a ping-pong ball or pieces of cork or anything that floats. And then let students explain, perhaps first in small groups of two or three. In the end draw some explanations on the board and discuss. The ping-pong balls or other floating objects will go to the highest position and displace the denser water downward. Objects that sink will displace water upward.
 
 
-```{figure} images/20250513_105125.*
+```{figure} ../images/20250513_105125.*
 :width: 50%
 :name: fig_float1
 
 Meniscus below the rim (concave, hollow).
 ```
 
-```{figure} images/20250513_105244.*
+```{figure} ../images/20250513_105244.*
 :width: 50%
 :name: fig_float2
 
@@ -68,7 +68,7 @@ Take a strip of paper, make a big dot with a black marker. Then hang the edge of
 ## Air pressure and liquids
 Take a straw and a glass of water or better tea for visibility. Dip the straw in the water, close the top with a wet finger, then lift the straw out of the water while keeping the top closed. Why does water remain in the straw? This is a way to transfer small amounts of water. In a traditional pipette, one can suck up a liquid and measure exact amounts using the markings.
 
-```{figure} images/20250513_110152.*
+```{figure} ../images/20250513_110152.*
 :width: 50%
 :name: fig_float3
 

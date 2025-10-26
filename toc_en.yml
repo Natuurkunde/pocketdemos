@@ -3,7 +3,8 @@ project:
 
   toc: 
     - file: content/en/Index.md
-    - file: content/en/demos.md
+    - file: content/en/Demos.md
+    - file: content/en/Credits.md
     - file: content/en/Mechanics.md
     - file: content/en/Electricity.md
     - file: content/en/Light.md
