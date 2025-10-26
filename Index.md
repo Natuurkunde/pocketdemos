@@ -16,7 +16,7 @@ Broekzakdemonstraties
 
 </div>
 
-```{figure} ../../cover.jpg
+```{figure} cover.jpg
 :width: 80%
 :align: center
 
