@@ -5,14 +5,13 @@ project:
   # title: Two hundred Pocket Physics Demonstrations and Visualizations with Common Objects
   title: Broekzakdemos
   subtitle: Meer dan 200 demos met alledaagse materialen
-  description: |
-    Stel je krijgt ineens een ander lokaal toegewezen, of je moet onverwachts invallen. Je hebt geen demonstratieapparatuur mee en vind jezelf in een kaal lokaal en het kabinet is op een andere verdieping. Wat kun je dan toch doen om een inspirerende les te geven met concrete voorbeelden? Hier presenteren we meer dan 200 demonstraties die je met eenvoudige materialen, die vrijwel altijd voor de hand zijn, uitgevoerd kunnen worden.
+  description: 
   # keywords: []
   authors: 
     - Ed van den Berg
     - Freek Pols
   # abstract: 
-  date: 2025-10-03
+  date: 2025-10-23
   github:
   license: CC-BY-NC-4.0
 
@@ -23,10 +22,14 @@ project:
 extends: 
   - export.yml
   - toc_nl.yml
-  # - toc_en.yml
+  - toc_en.yml
 
 site:
   template: book-theme
   options:
-  #   favicon: favicon.ico
     logo: NVON.png
+  actions:
+    - title: PDF
+      url: exports/200demos.pdf
+    - title: Dutch
+      url: https://natuurkunde.github.io/Broekzakdemos/nl

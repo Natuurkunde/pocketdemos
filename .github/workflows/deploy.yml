@@ -18,49 +18,153 @@ permissions:
   id-token: write
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
 # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+# variable definitions
+env:
+  NODE_VERSION: "18"
+  BEHAVIOR_PRIMARY: redirect  # redirect to english folder (/en/)
+
+# how to handle simultaneous runs
 concurrency:
-  group: 'pages'
+  group: pages
   cancel-in-progress: false
+
+# Main jobs
 jobs:
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  build-and-deploy:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-      - name: Setup Pages
-        uses: actions/configure-pages@v3
-      - uses: actions/setup-node@v4
+
+      # Clone repository
+      - name: 🧾 Checkout repository
+        uses: actions/checkout@v4
         with:
-          node-version: 18.x
-      - name: Install MyST Markdown
-        run: npm install -g mystmd
-      # - name: Setup TeX Live
-      #   uses: teatimeguest/setup-texlive-action@v3
-      #   with:
-      #     packages: |  
-      #       scheme-basic
-      #       xetex
-      #       latexmk
-      #       hyperref
-      #       microtype
-      #       caption
-      #       xcolor
-      #       changepage
-      #       amsfonts
-      #       enumitem
-      #       framed
-      #       booktabs
-      #       titlesec
-      # - name: Build PDF Assets
-      #   run: myst build --pdf      
-      - name: Build HTML Assets
-        run: myst build --html
-      - name: Upload artifact
+          fetch-depth: 0
+
+      # Setup Node.js
+      - name: ⚙️ Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+        # OPTIONAL: add node packages here
+
+      # Install MyST Markdown CLI and dependencies, yq is used for YAML manipulation
+      - name: 📦 Install MyST Markdown CLI and dependencies
+        run: |
+          npm install -g mystmd js-yaml yq
+
+      # Prepare build folders
+      - name: 🗂️ Prepare build folders
+        run: mkdir -p _build/en _build/nl site/en site/nl
+
+      # ---------- ENGLISH BUILD ----------
+      - name: 🔧 Configure MyST for English
+        run: |
+          echo "Configuring myst.yml for English build..."
+          yq -i '
+            .extends = ["export.yml", "toc_en.yml"] |
+            .site.actions = [{"title": "Dutch", "url": "https://luukfroling.github.io/Broekzakdemos-repobased/nl/"}]
+          ' myst.yml
+
+      # remove _build/html if it exists, build book, verify index.html exists, copy to _build/en
+      - name: 🌐 Build English Book
+        env:
+          BASE_URL: /${{ github.event.repository.name }}/en/
+        run: |
+          echo "🏗️ Building English MyST site..."
+          echo "Using BASE_URL=$BASE_URL"
+          rm -rf _build/html
+          myst build --html --ci
+          test -f _build/html/index.html || (echo "❌ English build failed" && exit 1)
+          mkdir -p _build/en
+          cp -r _build/html/* _build/en/
+
+      # ---------- DUTCH BUILD ----------
+      - name: 🔧 Configure MyST for Dutch
+        run: |
+          echo "Configuring myst.yml for Dutch build..."
+          yq -i '
+            .extends = ["export.yml", "toc_nl.yml"] |
+            .site.actions = [{"title": "English", "url": "https://luukfroling.github.io/Broekzakdemos-repobased/en/"}]
+          ' myst.yml
+
+      # remove _build/html if it exists, build book, verify index.html exists, copy to _build/nl
+      - name: 🌐 Build Dutch Book
+        env:
+          BASE_URL: /${{ github.event.repository.name }}/nl/
+        run: |
+          echo "🏗️ Building Dutch MyST site..."
+          echo "Using BASE_URL=$BASE_URL"
+          rm -rf _build/html
+          myst build --html --ci
+          test -f _build/html/index.html || (echo "❌ Dutch build failed" && exit 1)
+          mkdir -p _build/nl
+          cp -r _build/html/* _build/nl/
+
+      # Place both builds into site/ for deployment
+      # ---------- ORGANIZE OUTPUT ----------
+      - name: 🧩 Organize build outputs
+        run: |
+          cp -r _build/en/* site/en/
+          cp -r _build/nl/* site/nl/
+          touch site/.nojekyll
+          echo "✅ Build complete: English → site/en, Dutch → site/nl"
+
+      # Set redirect in root based on BEHAVIOR_PRIMARY
+      # ---------- ROOT BEHAVIOR ----------
+      - name: 🧭 Root behavior (redirect/copy/move)
+        run: |
+          cd site
+          case "${BEHAVIOR_PRIMARY}" in
+            redirect)
+              echo '<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=en/"><title>Redirecting…</title><script>location.replace("en/")</script>' > index.html
+              echo "Root will redirect to /en/"
+              ;;
+            copy)
+              cp -r en/* .
+              echo "Root will COPY /en/ to /"
+              ;;
+            move)
+              mv en/* .
+              rmdir en || true
+              echo "Root will MOVE /en/ to / (removing /en/)"
+              ;;
+            *)
+              echo "Unknown BEHAVIOR_PRIMARY='${BEHAVIOR_PRIMARY}', defaulting to redirect."
+              echo '<meta http-equiv="refresh" content="0; url=en/">' > index.html
+              ;;
+          esac
+          cd ..
+
+      # ---------- DEPLOY TO GITHUB PAGES ----------
+      - name: 📤 Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './_build/html'
-      - name: Deploy to GitHub Pages
+          path: site
+
+      - name: 🚀 Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      # ---------- SUMMARY ----------
+      - name: 📝 Summary
+        run: |
+          echo "## 🌍 Multi-Language Deployment Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### 📘 Languages Built" >> $GITHUB_STEP_SUMMARY
+          echo "| Language | Folder | URL |" >> $GITHUB_STEP_SUMMARY
+          echo "|-----------|---------|-----|" >> $GITHUB_STEP_SUMMARY
+          echo "| 🇬🇧 English | \`/en/\` | [${{ steps.deployment.outputs.page_url }}en/]( ${{ steps.deployment.outputs.page_url }}en/ ) |" >> $GITHUB_STEP_SUMMARY
+          echo "| 🇳🇱 Dutch   | \`/nl/\` | [${{ steps.deployment.outputs.page_url }}nl/]( ${{ steps.deployment.outputs.page_url }}nl/ ) |" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### ⚙️ Deployment Details" >> $GITHUB_STEP_SUMMARY
+          echo "- Repository: **${{ github.repository }}**" >> $GITHUB_STEP_SUMMARY
+          echo "- Triggered by: **${{ github.actor }}**" >> $GITHUB_STEP_SUMMARY
+          echo "- Commit: [${{ github.sha }}](https://github.com/${{ github.repository }}/commit/${{ github.sha }})" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### 🚀 Live Site Root" >> $GITHUB_STEP_SUMMARY
+          echo "- 🌐 [${{ steps.deployment.outputs.page_url }}](${{ steps.deployment.outputs.page_url }})" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "✅ **Deployment complete.** The following language versions are available:" >> $GITHUB_STEP_SUMMARY
+          echo "- English → [${{ steps.deployment.outputs.page_url }}en/]" >> $GITHUB_STEP_SUMMARY
+          echo "- Dutch → [${{ steps.deployment.outputs.page_url }}nl/]" >> $
