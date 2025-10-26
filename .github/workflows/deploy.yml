@@ -47,7 +47,7 @@ jobs:
 
       # Prepare build folders
       - name: 🗂️ Prepare build folders
-        run: mkdir -p _build/en _build/nl site/en site/nl
+        run: mkdir -p _build/en _build/nl _build/in site/en site/nl site/in
 
       # ---------- ENGLISH BUILD ----------
       - name: 🔧 Configure MyST for English
