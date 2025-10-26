@@ -19,9 +19,6 @@ project:
     title: true
     headings: true
   
-  toc:
-    - Index.md
-
 extends: 
   - export.yml
   - toc_nl.yml
