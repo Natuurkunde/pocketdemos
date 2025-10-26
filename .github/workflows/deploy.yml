@@ -57,7 +57,7 @@ jobs:
           echo "Configuring myst.yml for English build..."
           yq -i '
             .extends = ["export.yml", "toc_en.yml"] |
-            .site.actions = [{"title": "Dutch", "url": "https://luukfroling.github.io/Broekzakdemos-repobased/nl/"}]
+            .site.actions = [{"title": "Dutch", "url": "https://natuurkunde.github.io/Broekzakdemos/nl/"}]
           ' myst.yml
 
       # remove _build/html if it exists, build book, verify index.html exists, copy to _build/en
@@ -79,7 +79,7 @@ jobs:
           echo "Configuring myst.yml for Dutch build..."
           yq -i '
             .extends = ["export.yml", "toc_nl.yml"] |
-            .site.actions = [{"title": "English", "url": "https://luukfroling.github.io/Broekzakdemos-repobased/en/"}]
+            .site.actions = [{"title": "English", "url": "https://natuurkunde.github.io/Broekzakdemos/en/"}]
           ' myst.yml
 
       # remove _build/html if it exists, build book, verify index.html exists, copy to _build/nl
