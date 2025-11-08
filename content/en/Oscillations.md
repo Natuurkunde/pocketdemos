@@ -10,7 +10,7 @@ By comparing the different bags as pendulums, and by taking things out or puttin
 Take a ruler, make it stick out a bit {numref}`fig_ruler` from the table, let it vibrate and listen, change how much it sticks out, the pitch of the sound produced will change. Students can do this in their seats using their own rulers. What should we do to the ruler to double the frequency? Check the answer with a mobile phone. Take two equal rulers but now attach some coins to the end of one of them. See what happens to the pitch of the sound and the frequency of the oscillation.
 
 
-```{figure} images/20250513_115534.*
+```{figure} ../images/20250513_115534.*
 :width: 60%
 :name: fig_ruler
 

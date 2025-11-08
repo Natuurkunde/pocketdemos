@@ -15,7 +15,7 @@ What did we learn? One can take another straw, cut the triangle at the end, and 
 ## Standing waves in a PVC tube open and closed
 Take two pieces of PVC pipe, for example 10 cm and 20 cm long. Blow across the opening of one pipe. It produces a clear tone. Then close the bottom opening with your hand, and blow again. The tone is now much lower, very noticeable. With both ends open, the pipe fits ½ of a wavelength ($λ=2l$). With one side closed, it fits ¼ of a wavelength ($λ=4l$). It does help to have a microphone and sound box in the room to make the effect better audible for a group. I have done it with a sound system for groups of 150+ students. 
 
-```{figure} images/panflute.jpg
+```{figure} ../images/panflute.jpg
 :width: 60%
 :name: fig_panflute
 
@@ -33,7 +33,7 @@ Now if you came to class to teach about sound, you would bring a little toy flut
 ## Mobile phone and graphing sound waves
 Use Phyphox or a similar program. Try to produce a near perfect sine wave. Ask a student who sings in a choir to sing an "o". Try a higher pitch, try a lower pitch. Try louder and less loud. Make sure not just to quickly show this on your small telephone, but sketch the graphs on the white or blackboard with clear names. Obviously much more can be done with mobile phones and graphs. For example with Phyphox.
 
-```{figure} images/phyphox_sound.*
+```{figure} ../images/phyphox_sound.*
 :width: 50%
 :name: fig_ph
 
