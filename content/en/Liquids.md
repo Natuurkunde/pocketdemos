@@ -57,7 +57,7 @@ Meniscus below the rim (concave, hollow).
 
 ```{figure} ../images/20250513_105244.*
 :width: 50%
-:name: fig_float
+:name: fig_float2
 
 Meniscus above the rim (convex).
 ```

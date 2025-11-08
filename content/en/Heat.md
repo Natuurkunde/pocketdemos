@@ -16,7 +16,7 @@ A.  $ρ_x = 2ρ_y$
 
 B.  $ρ_x = ρ_y$
 
-C.  $ρ_x = ½ ρ_y$
+C.  $ρ_x = \frac{1}{2} ρ_y$
  
 Here quite a few students will go wrong. One could ask similar questions about other properties of materials such as specific heat, specific resistance. Which physical properties can one add? Mass, weight, volume. Which cannot be added (temperature, density, material properties)?
 
