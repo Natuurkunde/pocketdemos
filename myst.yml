@@ -23,6 +23,7 @@ extends:
   - export.yml
   - toc_nl.yml
   - toc_en.yml
+  - toc_in.yml
 
 site:
   template: book-theme

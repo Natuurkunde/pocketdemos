@@ -1,4 +1,4 @@
-# Kredit
+# Perkenalan
 
 Buku ini berisi lebih dari 200 demonstrasi yang dikumpulkan dan/atau dirancang oleh Ed van den Berg. Buku ini selanjutnya disusun dan ditata oleh Freek Pols. Sebagian besar ilustrasi juga berasal dari koleksi Ed van den Berg. Bersama-sama mereka membuat foto-foto baru.
 

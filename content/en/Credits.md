@@ -1,4 +1,4 @@
-# Credits
+# Introduction
 
 This book contains more than 200 demos collected and/or created by Ed van den Berg. The book has been further compiled and formatted by Freek Pols. A large part of the illustrations also comes from the collection of Ed van den Berg. New photos have been taken collectively.
 

@@ -1,4 +1,4 @@
-# Credits
+# Introductie
 
 Dit boek bevat meer dan 200 demo's verzameld en/of bedacht door Ed van den Berg. Het boek is verder samengesteld en opgemaakt door Freek Pols. Een groot deel van de illustraties komt ook uit de collectie van Ed van den Berg. Gezamenlijk zijn nieuwe foto's gemaakt.
 

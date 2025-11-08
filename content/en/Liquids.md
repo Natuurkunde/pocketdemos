@@ -1,5 +1,5 @@
 # Liquids and air
-An article with 30 demonstrations with a glass of water is available from the author and in GIREP proceedings {cite:t}`Berg2021`. These demo's cover mechanics, liquids, optics, waves, and even electricity.
+An article with 30 demonstrations with a glass of water is available from the author and in proceedings of the 2019 GIREP conference {cite:t}`Berg2021`. These demo's cover mechanics, liquids, optics, waves, and even electricity.
 
 ## Liquids: Anybody with nail polish, coca cola, or something else that is liquid? 
 Whatever container or bottle is there, use it to show that the liquid surface is always horizontal; look at the edges of the meniscus: adhesion, cohesion; look at waves on the surface when disturbed with a pencil, study how easily the liquid goes down when the bottle is turned over, or is it slow and sticky?
@@ -10,9 +10,9 @@ Take all kinds of materials and objects and see whether they float or sink in a 
 
 
 ## Floating and sinking
-Anybody brought a tangerine? Will it sink or float in water? Why? Try it out. Then peel it and try again (figures 1 and 2). Try other kinds of fruits and explain the results.
+Anybody brought a tangerine? Will it sink or float in water? Why? Try it out. Then peel it and try again (figure 27.1). Try other kinds of fruits and explain the results.
 
-```{figure} ../figures/float.*
+```{figure} figures/float.*
 :width: 90%
 :name: fig_float
 
@@ -45,19 +45,19 @@ Use a straw or other means to make a drop of water on the table. Use different m
 Why is a drop of water round and the surface of a lake flat? This is the contest between surface forces and gravity. Think of a cube with side $a$, surface area 6$a^2$, and volume $a^3$. Let $a$ increase, then the surface area thus also surface forces scale as $a^2$. The volume thus also volume forces like weight scale as $a^3$! With large amounts of water the volume forces dominate and so the surface of a lake is flat. With small amounts (a drop and smaller) the surface forces dominate such as with surface tension and capillary phenomena. A beautiful discussion can be found in [@rogers2011physics, p92]. 
 
 ## Floating on convex and concave surfaces
-Fill a glass of water until just below the edge (concave surface) and then fill another glass carefully until the water level is over the edge of the glass but the water does not drip down the outside of the glass. Draw the two situations on the blackboard or whiteboard. We are going to put a ping-pong ball (or anything that floats) on top of the water surface. Which way will it position itself, in the center or against the edge of the glass? Let students draw their prediction in their notebooks. Walk around to take a look and ask a few students for a reason. Then drop some floating material on the surface such as a ping-pong ball or pieces of cork or anything that floats. And then let students explain, perhaps first in small groups of two or three. In the end draw some explanations on the board and discuss. The ping-pong balls or other floating objects will go to the highest position and displace the denser water downward. Objects that sink will displace water upward.
+Fill a glass of water until just below the edge (concave surface) and then fill another glass carefully until the water level is over the edge of the glass but the water does not drip down the outside of the glass. Draw the two situations on the blackboard or whiteboard. We are going to put a ping-pong ball (or anything that floats) on top of the water surface. Which way will it position itself, in the center or against the edge of the glass? Let students draw their prediction in their notebooks. Walk around to take a look and ask a few students for a reason. Then drop some floating material on the surface such as a ping-pong ball or pieces of cork or anything that floats. And then let students explain, perhaps first in small groups of two or three. In the end draw some explanations on the board and discuss. The ping-pong balls or other floating objects will go to the highest position and displace water downward. Objects that sink will displace water upward.
 
 
-```{figure} ../images/20250513_105125.*
+```{figure} images/20250513_105125.*
 :width: 50%
 :name: fig_float1
 
 Meniscus below the rim (concave, hollow).
 ```
 
-```{figure} ../images/20250513_105244.*
+```{figure} images/20250513_105244.*
 :width: 50%
-:name: fig_float2
+:name: fig_float
 
 Meniscus above the rim (convex).
 ```
@@ -68,16 +68,16 @@ Take a strip of paper, make a big dot with a black marker. Then hang the edge of
 ## Air pressure and liquids
 Take a straw and a glass of water or better tea for visibility. Dip the straw in the water, close the top with a wet finger, then lift the straw out of the water while keeping the top closed. Why does water remain in the straw? This is a way to transfer small amounts of water. In a traditional pipette, one can suck up a liquid and measure exact amounts using the markings.
 
-```{figure} ../images/20250513_110152.*
+```{figure} images/20250513_110152.*
 :width: 50%
-:name: fig_float3
+:name: fig_float
 
 Water stays in the straw when your finger closes the lid.
 ```
 
 
 ## Air bubbles
-Now close the top of the straw with your finger before inserting it. Now the water level in the straw will be below the water level in the glass. The latter will be clearer when we have a basin with water and push a glass upside down into it. There is something which prevents the water from coming in, air. The air in the glass can be compressed, but not all the way. Students can be reminded of their experiences when washing dishes. Try to pass air bubbles from one glass to another in the basin. Bubbles will move to the highest point available. Or stick a straw up to the bottom and blow air through it. The bubbles will move straight up in the water.
+Now close the top of the straw with your finger before inserting it. Now the water level in the straw will be below the water level in the glass. The latter will be clearer when we have a basin with water and push a glass upside down into it. There is something which prevents the water from coming in, air. The air in the glass can be compressed, but not all the way. Students can be reminded of their experiences when washing dishes. Try to pass air bubbles from one glass to another in the basin. Bubbles will move to the highest point available. Or stick a straw down to the bottom and blow air through it. The bubbles will move straight up in the water.
 
 
 
@@ -87,16 +87,6 @@ Take two glasses under water in a basin. One is filled with water, the other is 
 ## Air occupies space
 Take a basin with water, a glass with a piece of paper handkerchief at the bottom, turn the glass upside down and push it into the basin (figure 7). Does the handkerchief get wet? What prevents it from getting wet?
 
-
-## Carbonated drinks
-There always is a student with a carbonated drink in the bag. At the factory the CO$_2$ is mixed with the drink. As CO$_2$ has a lower density than water or whatever drink, it will tend to escape from the liquid and from the bottle. When opened, the pressure releases. When put in a glass we see bubbles rising. Why don't bubbles rise when the bottle is still closed? There seems to be an equilibrium between the CO$_2$ above the liquid and the dissolved CO$_2$. Once opened the pressure in the top of the bottle is reduced and more of the dissolved CO$_2$ rises to the surface.
-
-## Pressure, bubbles, straws
-At the 1998 GIREP meeting Leon Jablko (1998) presented a series of pressure experiments with straws and glasses of water. The series could be teacher demo's, or synchronized teacher and student demo's, or it could be a student lab investigation. For example, take a shorter and a longer straw, blow wish slowly increasing pressure through the two straws. At a certain pressure bubbles will emerge from the short straw and not from the long straw. Deeper in the water higher pressure prevents the air bubbles from coming out.
-
-## Atmospheric and liquid pressure, cohesion and surface tension
-Shouldn't there always be a glass of water in the room? If so, then first have somebody help you to spread your clean handkerchief horizontal and pour water from the glass through the handkerchief to water the plants. Then put the handkerchief over the top of the glass with the remaining water (have a refill up to ¾). Make sure the wet part of the handkerchief covers the open end of the glass. Then turn over (figures 9 and 10). Surprise, a little water comes out, the rest stays. While the glass is upside down, walk around the room to show. Point to the shape of the part of the handkerchief that "supports" the water. Explain by applying Boyle's Law to the trapped air and by the need for the sum of pressures/forces on the handkerchief to be zero. $P_{air outside} = P_{air trapped} + ρgh$ where $ρ$ is the density of water and $h$ is the height of the water column. The cohesion and surface tension of water helps to make the handkerchief impenetrable. I have done it with a strainer also, more spectacular but it requires more preparation as not all strainers work. Of course, if students bring any drinks to class, one could try which liquids work and which do not and the instructor can have a good time. *Anybody with beer?* 
-
 ```{iframe} https://youtube.com/embed/jJiqY82KmPo
 :width: 70$
 :name: vid_13
@@ -105,6 +95,15 @@ Shouldn't there always be a glass of water in the room? If so, then first have s
 
 .
 ```
+
+## Carbonated drinks
+There always is a student with a carbonated drink in the bag. At the factory the CO$_2$ is mixed with the drink. As CO$_2$ has a lower density than water or whatever drink, it will tend to escape from the liquid and from the bottle. When opened, the pressure releases. When put in a glass we see bubbles rising. Why don't bubbles rise when the bottle is still closed? There seems to be an equilibrium between the CO$_2$ above the liquid and the dissolved CO$_2$. Once opened the pressure in the top of the bottle is reduced and more of the dissolved CO$_2$ rises to the surface.
+
+## Pressure, bubbles, straws
+At the 1998 GIREP meeting Leon Jablko (1998) presented a series of pressure experiments with straws and glasses of water. The series could be teacher demo's, or synchronised teacher and student demo's, or it could be a student lab investigation. For example, take a shorter and a longer straw, blow wish slowly increasing pressure through the two straws. At a certain pressure bubbles will emerge from the short straw and not from the long straw. Deeper in the water higher pressure prevents the air bubbles from coming out. 
+
+## Atmospheric and liquid pressure, cohesion and surface tension
+Shouldn't there always be a glass of water in the room? If so, then first have somebody help you to spread your clean handkerchief horizontal and pour water from the glass through the handkerchief to water the plants. Then put the handkerchief over the top of the glass with the remaining water (have a refill up to ¾). Make sure the wet part of the handkerchief covers the open end of the glass. Then turn over (figures 9 and 10). Surprise, a little water comes out, the rest stays. While the glass is upside down, walk around the room to show. Point to the shape of the part of the handkerchief that "supports" the water. Explain by applying Boyle's Law to the trapped air and by the need for the sum of pressures/forces on the handkerchief to be zero. $P_{air outside} = P_{air trapped} + ρgh$ where $ρ$ is the density of water and $h$ is the height of the water column. The cohesion and surface tension of water help to make the handkerchief impenetrable. I have done it with a strainer also, more spectacular but it requires more preparation as not all strainers work. Of course, if students bring any drinks to class, one could try which liquids work and which do not and the instructor can have a good time. *Anybody with beer?* 
 
 ## Projectile motion with water
 Many students bring plastic water bottles to class. With a pin or your knife make a little hole in the side of the bottle, just above the bottom. Water will come out and make a beautiful parabola.
@@ -125,12 +124,11 @@ Put 2 or 3 pairs of students in front of the class, each with a table with a sma
 In air stones fall with the same acceleration g. But how is that in water? Take stones with a different surface area to mass ratio and drop them in a basin with water. Which one will sink faster?
 
 ## Liquid versus vapor balance, relative humidity, saturation, open versus closed container: 
-Take two containers of water, one with an airtight lid and one without, put them on the windowsill in the sun. Figures 11 and 12 show the differences. In figure X we see condense on the inside of the glass above the water. The air above the water is saturated, 100% humidity, so water that evaporates will condense again. In figure Y we do not see this, any water that evaporates goes into the air, so the air right above the water is unlikely to reach 100% humidity unless the room is extremely humid.
+Take two containers of water, one with an airtight lid and one without, put them on the windowsill in the sun. Figures 11 and 12 show the differences. On the left in each figure we see condense on the inside of the glass above the water. The air above the water is saturated, 100% humidity, so water that evaporates will condense again. On the right in each figure we do not see this, any water that evaporates goes into the air, so the air right above the water is unlikely to reach 100% humidity unless the room is extremely humid.
 
 
 ## Bernoulli and a candle flame
 Light a candle, why does the flame point upwards? The heated air above the flame expands and becomes less dense. The burning gases along the wick move towards the location with the lowest density (lowest pressure). When I blow softly at the flame without extinguishing it, which way does the flame go? In the direction of the blow. And when I blow through a straw on one side of the candle? Then the flame bends towards that side, as there is the lowest pressure, a nice illustration of the Bernoulli effect. Explanation for a younger audience: I blow some air away, the burning gas is pushed to the place with least air.
 
 
-## Lift water by blowing
-Use two transparent straws or cut and bend a straw as in figure 16. Take a glass of water. Position part of the straw in de glass, bend the rest (with a partial cut) horizontal. Then blow in the direction of a vertically held piece of paper. It gets wet. Use some ink or food coloring to make it more visible. Explanation? Fast moving air has a lower pressure, thus the water is sucked up through the vertical part of the straw and sprayed onto the paper. Practice a little bit before the lesson.
+
