@@ -1,59 +1,71 @@
 # Geluid
 
-## Natuurlijke frequenties
-Tik tegen verschillende objecten in het lokaal om te laten horen dat elk object zijn eigen geluid heeft. Vergelijk grote en kleine houten objecten (of ander materiaal van dezelfde soort) en luister naar het verschil in toonhoogte. Vraag leerlingen te voorspellen of het geluid van het volgende object hoger of lager zal zijn en waarom. Wees voorzichtig met de ramen, maar ook die hebben een eigen toon. 
+## Suara alami, frekuensi, timbre
 
-## Toonhoogte en lengte met een liniaal
-Leen een liniaal van een leerling, klamp die tussen hand en tafel en laat een deel uitsteken. Breng de liniaal in trilling met de andere hand en luister. Varieer de toonhoogte door het uitstekende deel langer en korter te maken. Het is zelfs mogelijk deze demo kwantitatief te maken door het zingen van do-re-mi want de tweede “do” heeft precies een 2x zo hoge frequentie als de eerste “do”. Zo kun je de relatie vinden tussen lengte en frequentie. Word de frequentie 2x zo hoog als je de uitstekende lengte halveert?
+Ketuk berbagai macam benda untuk mengilustrasikan bahwa setiap benda memiliki suaranya sendiri. Bandingkan benda kayu besar dan kecil dan dengarkan perbedaan nada (frekuensi). Minta siswa untuk memprediksi apakah nada benda berikutnya akan lebih tinggi atau lebih rendah. Apakah ada hubungannya dengan ukuran? Berhati-hatilah dengan jendela (agar kaca tidak pecah). Ada lebih dari sekadar nada. Suara dari ketukan pada kayu dan ketukan pada kaca dapat dibedakan dengan jelas, meskipun nadanya sama. Suara manusia (tetapi juga anjing) dapat dibedakan dengan jelas satu orang dari yang lain: timbre.
 
-## Toonhoogte en lengte met een rietje
-Neem een rietje, maak het uiteinde plat en knip er een driehoek van. Doe het uiteinde in je mond, met je lippen precies waar het ingeknipte deel eindigt. Blaas tot je een oboe geluid hoort, als je niets hoort kan je het rietje een beetje heen en weer bewegen tot je op de goede plek blaast. Knip vervolgens stukjes van het einde van het rietje terwijl je blaast [@Liem1987].
+## Nada dan panjang 1 dengan penggaris yang dijepit
 
-Wat hebben we geleerd? Je kan een nieuw rietje pakken, een driehoek op het einde knippen en gaten knippen met ongeveer 1-1,5 cm ertussen. Terwijl je blaast kan je nu de gaten afdekken met je vingers. Wat hebben we nu geleerd? Welke muziekinstrumenten gebruiken dit principe? 
+Pinjam penggaris dari seorang siswa, jepit di antara satu tangan dan meja dan biarkan sebagiannya menonjol. Sekarang aktifkan osilasi dengan tangan yang lain. Dengan membuat ujung yang menonjol lebih panjang atau lebih pendek, Anda dapat memvariasikan nada. Anda bahkan dapat membuatnya kuantitatif dengan menyanyikan do-re-mi dan menyadari bahwa frekuensi "do" kedua adalah dua kali frekuensi "do" pertama. Dengan cara itu Anda dapat menemukan hubungan antara panjang penggaris dan frekuensi. Untuk mendapatkan frekuensi dua kali lipat, apakah Anda harus membagi panjangnya menjadi dua, atau menambah panjangnya?
 
-## Staande golven in een open en afgesloten PVC buis
-Neem twee stukken PVC buis, bijvoorbeeld een van 10 cm lang en een van 20 cm lang. Blaas eroverheen en je krijgt een toon. Sluit de onderkant vervolgens af met je hand en de toon wordt veel lager. Bij een open buis past ½ golflengte ($\lambda = 2l$) in de buis, de grondtoon. Bij een halfopen buis is dat ¼ golflengte ($\lambda = 4l$), dus een veel lagere frequentie. Het helpt om een microfoon en box in het lokaal te hebben om het effect beter hoorbaar te maken voor de groep. Ik heb het gedaan voor een groep van 150+ studenten met behulp van een geluidssysteem.  
+## Nada dan panjang 2 dengan sedotan
 
-```{figure} ../images/panflute.jpg
+Ambil sedotan. Pipihkan ujung sedotan dan potong segitiga. Letakkan ujung sedotan di mulut Anda, tahan bibir Anda tepat di tempat potongan berakhir dan tiup hingga menghasilkan suara oboe; menggeser sedotan sedikit ke dalam atau ke luar mulut dapat membantu mendapatkan suara yang tepat. Kemudian sambil meniup, potong potongan kecil sedotan — nadanya akan semakin tinggi {cite:t}`Liem1987`.
+
+Apa yang kita pelajari? Kita dapat mengambil sedotan lain, memotong segitiga di ujungnya, dan memotong lubang dengan jarak 1–1,5 cm satu sama lain. Sambil meniup, buka dan tutup lubang dengan jari Anda. Apa yang kita pelajari? Alat musik apa yang bekerja seperti itu?
+
+## Gelombang berdiri dalam tabung PVC terbuka dan tertutup
+
+Ambil dua potong pipa PVC, misalnya panjang 10 cm dan 20 cm. Tiup melintasi lubang salah satu pipa. Ini menghasilkan nada yang jernih. Kemudian tutup lubang bawah dengan tangan Anda, dan tiup lagi. Nadanya sekarang jauh lebih rendah, sangat mudah dikenali. Dengan kedua ujung terbuka, pipa tersebut sesuai dengan ½ panjang gelombang ($\lambda = 2l$). Dengan satu sisi tertutup, pipa tersebut sesuai dengan ¼ panjang gelombang ($\lambda = 4l$). Akan lebih baik jika ada mikrofon dan kotak suara di ruangan untuk membuat efeknya lebih terdengar bagi kelompok. Saya pernah melakukannya dengan sistem suara untuk kelompok yang terdiri dari 150+ siswa. Smartphone dapat digunakan untuk mengukur frekuensi.
+
+```{figure} images/panflute.jpg
 :width: 60%
 :name: fig_panflute
 
-Afbeelding van [ShowthePhysics](https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo79/demo79.html) {cite:p}`pols2024show`
+Foto dari [ShowthePhysics](https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo79/demo79.html) {cite:p}`pols2024show`
 ```
-## PVC buis lengte en toon
-Gebruik nu de langere buis en laat opnieuw de link zien tussen de toon en de lengte. Je zou een soort panfluit kunnen maken met stukken PVC buis. Je zou de leerlingen de juiste lengtes kunnen laten bepalen aan de hand van de gewenste frequenties. 
 
-Zie ook [ShowthePhysics](https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo79/demo79.html)[^dfsds] voor een uitgebreidere versie van deze demo.
-[^dfsds]: https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo79/demo79.html
+## Panjang pipa PVC dan nada
 
-## Toonhoogte meten met een telefoon
-Als je naar de les kwam om wat over geluid te vertellen, dan zou je mischien een speelgoedfluit meenemen. Kunnen de leerlingen de toon daarvan meten met hun telefoon?
+Kemudian ambil pipa yang lebih panjang dan tunjukkan lagi hubungan antara nada dan panjang. Kita dapat membuat sesuatu yang mirip dengan seruling pan menggunakan potongan pipa PVC. Anda dapat memberi tugas kepada siswa untuk menentukan panjang yang tepat berdasarkan frekuensi yang diinginkan.
 
-## Mobiele telefoon en grafieken van geluidsgolven
-Gebruik Phyphox of een vergelijkbaar programma. Probeer een bijna perfecte sinus te maken. Vraag een student die in een koor zingt om een "o" te zingen. Probeer met verschillende tonen, en verschillende volumes. Zorg ervoor dat je dit niet alleen snel op je telefoon laat zien, maar dat je de grafieken op het bord schetst met duidelijke namen. Je kan natuurlijk nog veel meer doen met mobiele telefoons en grafieken. 
+Lihat juga [ShowthePhysics](https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo79/demo79.html) untuk versi demo yang lebih lengkap.
 
-```{figure} ../images/phyphox_sound.*
+## Mengukur nada dengan telepon
+
+Sekarang, jika Anda datang ke kelas untuk mengajar tentang bunyi, Anda akan membawa seruling mainan kecil? Dapatkah siswa mengukur nada dengan telepon mereka?
+
+## Ponsel dan grafik gelombang suara
+
+Gunakan Phyphox atau app serupa. Cobalah untuk menghasilkan gelombang sinus yang hampir sempurna. Mintalah seorang siswa yang bernyanyi di paduan suara untuk menyanyikan huruf "o". Cobalah nada yang lebih tinggi, cobalah nada yang lebih rendah. Cobalah lebih keras dan lebih pelan. Pastikan untuk niet alleen menunjukkannya dengan cepat di telepon kecil Anda, tetapi juga sketsa grafiknya di papan tulis dengan label yang jelas. Jelas, masih banyak yang dapat dilakukan dengan ponsel dan grafik, misalnya dengan Phyphox.
+
+```{figure} images/phyphox_sound.*
 :width: 50%
 :name: fig_ph
 
-Geluid opgenomen met de [phyphox app](https://phyphox.org/).
+Bunyi direkam dengan [phyphox app](https://phyphox.org/).
 ```
 
-## Resonantie in een fles 
-Heeft iemand in de klas een fles? Zit er nog wat water in, of frisdrank? De docent drinkt elke keer een beetje en blaast dan weer over de top van de fles en tikt er aan de zijkant tegen aan. Tegen de tijd dat de docent de frisdrank bijna op heeft, zullen beide frequenties nogal veranderd zijn, de ene steeds lager, de andere steeds hoger. Nu verklaren! Jammer dat tegenwoordig zoveel flessen van plastic zijn. Natuurlijk niet vergeten de gedronken cola of andere frisdrank of water even te vergoeden.
+## Resonansi dalam botol
 
-## Resonantie in een koffie- of theekopje met het oor
-De docent is binnengekomen met een kopje koffie en een metalen lepeltje. Tik eens met het lepeltje op verschillende plekken tegen het kopje. Toonhoogte en timbre zullen verschillen. Bijvoorbeeld vlak bij het oor, of onder 90$^{\circ}$  of 180$^{\circ}$ van het oor, onder of boven de koffiespiegel. Drink dan wat op, je doet alles voor de natuurkunde, ook koffiedrinken. Herhaal dan bovenstaande acties. Hoe verklaar je de verschillen in toonhoogte en timbre? Door verschillen in resonantiemanieren die worden aangeslagen en verschillende lengtes van de vloeistofkolom. Zie Show*de*Fysica 3 [@showdefysica3, p56] voor meer informatie. 
+Apakah ada seseorang di kelas yang memiliki botol? Sudah ada air di dalamnya? Atau minuman ringan? Instruktur akan minum sedikit demi sedikit, lalu meniup leher botol untuk menghasilkan suara dan mengetuk sisi botol (semoga terbuat dari kaca). Pada saat instruktur selesai meminum minuman tersebut, satu nada telah turun secara konsisten, nada lainnya telah naik. Sekarang jelaskan: kolom cairan semakin pendek sehingga panjang gelombang semakin kecil dan nada naik. Kolom udara di atas kolom cairan semakin panjang, sehingga panjang gelombang semakin besar dan nada semakin rendah.
 
-```{warning}
-Dit werkt niet met alle kopjes.
+## Resonansi dalam cangkir teh atau kopi dengan telinga
+
+Guru memasuki kelas dengan cangkir kopi (keramik) dan sendok (logam). Pukul bagian luar cangkir dengan sendok di tempat yang berbeda. Nada akan berbeda, misalnya di dekat telinga cangkir, atau 90° atau 180° darinya, di bawah dan di atas permukaan kopi. Minumlah sedikit kopi dan ulangi. Bagaimana Anda menjelaskan perbedaan nada dan jenis suara? Mode resonansi yang berbeda diaktifkan serta panjang kolom cairan yang berbeda. Untuk informatie lebih lanjut, lihat *Show de Fysica 3*, hal. 56.
+
+```{note}
+Percobaan ini berhasil dengan cangkir tertentu — coba saja.
 ```
 
-## $v_{geluid} = f λ$ maar snelheid is onafhankelijk van frequentie en golflengte! 
-Vind objecten in het lokaal waarmee je tegelijkertijd een hoge en lage toon kunt maken. Laat leerlingen beoordelen of het geluid wel/niet gelijk aankomt. Niet zo overtuigend? Dan maar redeneren, hoe komt het dat we kunnen genieten van een koor of orkest of band waarin tegelijkertijd hoge en lage tonen geproduceerd worden? Komen die hoge en lage tonen tegelijk aan bij onze oren, of niet? Als we verder van het podium zitten, is er dan verschil? 
+## $v_{\text{suara}} = f\lambda$ tetapi kecepatan tidak bergantung pada frekuensi dan panjang gelombang
 
-## Doppler simulatie met lopende leerlingen
-Neem 5 of 6 leerlingen en stel ze op in een rij. Deze leerlingen zijn de pieken van de golven. Laat ze als rij naar de stilstaande docent toelopen. Hoeveel pieken komt hij tegen in 10 seconden? Laat ze nu opnieuw lopen maar nu staat de docent niet stil maar loopt langzaam naar hen toe. De docent ziet nu meer pieken per tijdseenheid. Nu loopt de docent langzaam in dezelfde richting en wordt hij ingehaald door de rij golven. Etc.   Het geval van de bewegende waarnemer is dus vrij gemakkelijk te visualiseren. Het geval van de bewegende bron is lastiger. Denk aan een bewegende vrachtwagen waarop de rij leerlingen marcheert? 
+Temukan beberapa benda di ruangan yang dapat membantu Anda menghasilkan suara bernada tinggi dan rendah secara bersamaan, dan mintalah siswa di belakang untuk menilai keserempakan kedatangan suara tersebut. Kurang meyakinkan? Bayangkan sebuah gereja besar atau aula konser: bagaimana mungkin muziek paduan suara (coba siswa di kelas) atau muziek apa pun dapat dinikmati oleh orang-orang, terlepas dari jarak mereka dari sumbernya? Jadi kecepatan suara harus sama untuk semua frekuensi yang dapat didengar sehingga kita dapat menikmati muziek.
 
-## Het geluid van cappucino
-Als je net cappuccino hebt gemaakt, moet je schuim goed door de koffie roeren. Tik met een lepeltje op de onderkant van het kopje. Wat hoor je? De frequentie wordt steeds hoger: de luchtbellen in het kopje zorgen voor een andere geluidsnelheid. Omdat de luchtbellen weer verdwijnen aan de oppervlak, zal de geluidsnelheid en daarmee de frequentie ook veranderen.
+## Simulasi Doppler dengan siswa yang berbaris
+
+Ambil 5 atau 6 siswa dan bariskan mereka di depan kelas. Siswa adalah puncak gelombang (misalnya kompresi). Sekarang biarkan mereka berbaris menuju instruktur dengan kecepatan konstan dan siswa dapat mengamati berapa banyak yang melewati instruktur dalam waktu sekitar 10 detik. Sekarang biarkan mereka berbaris lagi dengan kecepatan yang sama, tetapi instruktur berjalan ke arah mereka. Instruktur akan menemui puncak gelombang dalam waktu yang lebih singkat dari sebelumnya dan akan mengamati nada yang lebih tinggi. Ulangi lagi, tetapi sekarang instruktur berjalan perlahan searah dengan gelombang yang bergerak lebih cepat. Kasus sumber yang bergerak lebih sulit dilakukan dengan cara ini, tetapi dari simulasi pengamat yang bergerak, siswa akan dengan senang hati menerima efek Doppler untuk sumber yang bergerak.
+
+
+## Suara cappuccino
+Jika Anda baru saja membuat cappuccino, aduk busa hingga merata ke dalam kopi. Ketuk bagian bawah cangkir dengan sendok. Apa yang Anda dengar? Frekuensinya meningkat: gelembung udara di dalam cangkir menciptakan kecepatan suara yang berbeda. Karena gelembung udara menghilang kembali ke permukaan, kecepatan suara, dan dengan demikian frekuensinya, juga berubah.
