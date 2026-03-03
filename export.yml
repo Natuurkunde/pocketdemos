@@ -1,10 +1,6 @@
 version: 1
 project:
 
-  plugins:
-    - https://github.com/TUD-JB-Templates/JB2_plugins/releases/download/exercise/pdf_exercise.mjs
-    - https://github.com/jupyter-book/myst-plugins/releases/download/iframe-to-thumbnail-pdf/iframe-to-thumbnail-pdf.mjs 
-  
   downloads:
     - id: output-pdf
 

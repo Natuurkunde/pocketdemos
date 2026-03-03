@@ -15,14 +15,18 @@ project:
   github:
   license: CC-BY-NC-4.0
 
+  plugins:
+    - https://github.com/TUD-JB-Templates/JB2_plugins/releases/download/exercise/pdf_exercise.mjs
+    - https://github.com/jupyter-book/myst-plugins/releases/download/iframe-to-qr-pdf/iframe-to-qr-pdf.mjs
+  
   numbering:
     title: true
     headings: true
   
 extends: 
   - export.yml
-  # - toc_nl.yml
-  - toc_en.yml
+  - toc_nl.yml
+  # - toc_en.yml
   # - toc_in.yml
 
 site:

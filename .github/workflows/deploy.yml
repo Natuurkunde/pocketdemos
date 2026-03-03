@@ -154,6 +154,13 @@ jobs:
           esac
           cd ..
 
+      # ---------- INCLUDE EDITOR --------
+      - name: Add wizard to book
+        uses: luukfroling/Wizard-jb2/actions@main 
+        with:
+          script_url: "https://raw.githack.com/luukfroling/Wizard-jb2/main/script/start_wizard.js"
+          html_dir: "_build/html"
+
       # ---------- DEPLOY TO GITHUB PAGES ----------
       - name: 📤 Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
