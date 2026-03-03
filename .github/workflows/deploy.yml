@@ -116,6 +116,12 @@ jobs:
           mkdir -p _build/in
           cp -r _build/html/* _build/in/
 
+      # ---------- INCLUDE EDITOR --------
+      - name: Add wizard to book
+        uses: luukfroling/Wizard-jb2/actions@main 
+        with:
+          script_url: "https://raw.githack.com/luukfroling/Wizard-jb2/main/script/start_wizard.js"
+          html_dir: "_build/nl"
 
 
       # Place both builds into site/ for deployment
@@ -154,12 +160,6 @@ jobs:
           esac
           cd ..
 
-      # ---------- INCLUDE EDITOR --------
-      - name: Add wizard to book
-        uses: luukfroling/Wizard-jb2/actions@main 
-        with:
-          script_url: "https://raw.githack.com/luukfroling/Wizard-jb2/main/script/start_wizard.js"
-          html_dir: "_build/nl"
 
       # ---------- DEPLOY TO GITHUB PAGES ----------
       - name: 📤 Upload Pages artifact
