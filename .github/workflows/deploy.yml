@@ -51,7 +51,7 @@ jobs:
         uses: luukfroling/Wizard-jb2/actions@main 
         with:
           script_url: "https://raw.githack.com/luukfroling/Wizard-jb2/main/script/start_wizard.js"
-          html_dir: "_build/nl"
+          html_dir: "_build/html"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
