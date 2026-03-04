@@ -10,9 +10,9 @@ Dit boek bevat meer dan 200 demo’s verzameld en/of bedacht door Ed van den Ber
 :align: left
 :::
 
-**Ed van den Berg** (1951) studeerde natuurkunde aan de Vrije Universiteit Amsterdam (VU) en promoveerde in Science Education aan de University of Iowa (VS). Hij werkte als docent/ontwikkelaar bij lerarenopleidingen in Indonesië, de Filipijnen en Nederland. Tot voor kort was hij docent natuur- en techniekonderwijs bij het Kenniscentrum Domein Educatie en Onderwijskunde van de Hogeschool van Amsterdam en docent wetenschapsdidactiek bij de lerarenopleiding van de Vrije Universiteit. Hij was onder andere betrokken bij de projecten Moderne Fysica en Nieuwe Fysica en publiceerde meer dan 300 artikelen in vaktijdschriften voor leraren in binnen- en buitenland.
+**Ed van den Berg** (1951) studeerde natuurkunde aan de Vrije Universiteit Amsterdam (VU) en promoveerde in Science Education aan de University of Iowa (VS). Hij werkte als docent/ontwikkelaar bij lerarenopleidingen in Indonesië, de Filipijnen en Nederland. Tot zijn pensioen was hij lector natuur- en techniekonderwijs bij het Kenniscentrum Domein Educatie en Onderwijskunde van de Hogeschool van Amsterdam en docent wetenschapsdidactiek bij de lerarenopleiding van de Vrije Universiteit. Hij was onder andere betrokken bij de projecten Moderne Fysica en Nieuwe Natuurkunde (NiNa) en publiceerde meer dan 300 artikelen in vaktijdschriften voor leraren in binnen- en buitenland.
 
-xxxxx
+
 
 :::{figure} ../images/auth_Freek.jpg
 :width: 20%
