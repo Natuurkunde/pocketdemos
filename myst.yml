@@ -12,7 +12,7 @@ project:
     - Freek Pols
   # abstract: 
   date: 2025-10-23
-  github: https://natuurkunde.github.io/Broekzakdemos
+  github: https://natuurkunde.github.io/pocketdemos
   license: CC-BY-NC-4.0
 
   plugins:
@@ -26,15 +26,10 @@ project:
 extends: 
   - export.yml
   - toc_nl.yml
-  - toc_en.yml
-  - toc_in.yml
+  # - toc_en.yml
+  # - toc_in.yml
 
 site:
   template: book-theme
   options:
     logo: NVON.png
-  actions:
-    - title: PDF
-      url: exports/200demos.pdf
-    - title: Dutch
-      url: https://natuurkunde.github.io/Broekzakdemos/nl
