@@ -225,7 +225,7 @@ Sluit je ogen tot een klein spleetje en kijk naar een lamp. Het licht verlengt t
 
 ## Mouche volante
 
-Er is nog meer te zien in het oog zelf zoals draadjes die zweven in de oogvloeistof en het best te zien zijn tegen een egale achtergrond zoals de blauwe lucht of het plafond van de klas. Zie [Entoptic phenomenon](https://en.wikipedia.org/wiki/Entoptic_phenomenon)[^sdfwe] voor een betere beschrijving en andere waarnemingen in onze ogen.
+Er is nog meer te zien in het oog zelf zoals draadjes die zweven in de oogvloeistof en het best te zien zijn tegen een egale achtergrond zoals de blauwe lucht of het plafond van de klas. Zie [Entoptic phenomenon](https://en.wikipedia.org/wiki/Entoptic_phenomenon)[^sdfwe] voor een betere beschrijving en andere waarnemingen in onze ogen. Wanneer je ouder wordt, zit er meer troep in het oogvocht.
 
 ## Parallax
 
