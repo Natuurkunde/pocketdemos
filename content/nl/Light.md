@@ -147,7 +147,7 @@ Beweeg het potlood heen en weer en beschrijf wat je ziet.
 
 ### Pijlen gezien door lucht en door een glas water
 
-Teken enkele parallelle pijlen op een kaartje of stukje papier. Houd dit object achter een glas water dat half gevuld is, zo dat enkele pijlen alleen gezien worden door het water en andere pijlen alleen door de lucht in het glas. Als het object verder van het centrum van het glas is dan de brandpuntsafstand, dan zijn de pijlen gezien door het water omgekeerd ([Figuur 9](#fig_arrow)).
+Teken enkele parallelle pijlen op een kaartje of stukje papier. Houd dit object achter een glas water dat half gevuld is, zo dat enkele pijlen alleen gezien worden door het water en andere pijlen alleen door de lucht in het glas. Als het object verder van het centrum van het glas is dan de brandpuntsafstand, dan zijn de pijlen gezien door het water omgekeerd ([Figuur 9](#fig_arrow)). Let op, wat leerlingen zien hangt sterk af van hun positie t.o.v. het glas. Dit kun je corrigeren door een webcam te gebruiken, of even met glas en pijlen rond te lopen door het lokaal.
 
 :::{figure} ../images/20250513_103744.*
 :width: 70%
