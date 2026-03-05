@@ -77,7 +77,7 @@ Leg verschillende soorten doorzichtig papier op elkaar.
 
 ## Kleuren optellen
 
-Misschien heb je wel een Newtonschijf op een ronddraaiend plateau. Door kleuren rond te draaien kan je ze optellen totdat ze er wit uitzien. Je kan ook een touwtje door het midden gebruiken om de schijf rond te laten draaien. Uiteraard heeft [PhET een goede simulatie](https://phet.colorado.edu/en/simulations/color-vision)[^sdsa] voor het optellen van kleuren, die laat zien hoe je met de primaire kleuren alle andere kleuren kan maken.
+Misschien heb je wel een Newtonschijf op een ronddraaiend plateau. Door kleuren rond te draaien kan je ze mengen en dus optellen tot wit. Je kan ook een touwtje door het midden gebruiken om de schijf rond te laten draaien. Uiteraard heeft [PhET een goede simulatie](https://phet.colorado.edu/en/simulations/color-vision)[^sdsa] voor het optellen van kleuren, die laat zien hoe je met de primaire kleuren alle andere kleuren kan maken.
 
 :::{figure} ../figures/04-5ColorAdditionLR.*
 :width: 60%
@@ -86,6 +86,10 @@ Misschien heb je wel een Newtonschijf op een ronddraaiend plateau. Door kleuren 
 
 Verschillende Newtonschijven
 :::
+
+## Mengen van kleurstoffen of verf in water
+
+Je hebt vast niet allerlei kleuren verf meegenomen, tenzij je gedacht hebt aan de verfdoos van zoon of dochter. Maar je kunt wel gebruik maken van de ervaring van leerlingen hiermee. Telken bij het uitspoelen van de verfkwast, wordt het water donkerder. Hoezo? Als je eerst rode verf gebruikt, kleurt het water rood bij het uitspoelen. Het rode pigment absorbeert groen en blauw en reflecteert rood, vandaar de kleur. Als je vervolgens blauwe verf gebruikt en de kwast uitspoelt, dan wordt ook het rood geabsorbeert. En zo wordt het glas donkerder bij elke nieuwe kleur die je uitspoelt.
 
 ## Snellius
 
