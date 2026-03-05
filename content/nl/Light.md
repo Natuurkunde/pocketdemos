@@ -209,7 +209,7 @@ Laat leerlingen een ballpoint, of potlood, of vinger voor het oog houden. Steeds
 
 ## Scherpte-diepte
 
-Bovenstaande demonstratie illustreert ook het camera begrip scherpte-diepte. Leerlingen kunnen dit ook proberen met de camera van hun mobiele telefoon. Laat ze de camera focussen op iets dat ver weg is (een boek of een computerscherm) en laat ze vervolgens hun vinger heen en weer bewegen voor de lens. Je kan zien dat de achtergrond scherp is en de vinger niet, of andersom, en hoe ze allebei scherp zijn als de vinger en de tekst op dezelfde plek zijn. Probeer dit ook met geschreven tekst op de voor- en achtergrond. Cameras hebben tegenwoordig een verbazingwekkende scherpte-diepte. Je kan zelfs wat voorbeeldfoto’s klaar hebben staan op de beamer.
+Bovenstaande demonstratie illustreert ook het camera begrip scherpte-diepte. Leerlingen kunnen dit ook proberen met de camera van hun mobiele telefoon. Laat ze de camera focussen op iets dat ver weg is (een boek of een computerscherm) en laat ze vervolgens hun vinger heen en weer bewegen voor de lens. Je kan zien dat de achtergrond scherp is en de vinger niet, of andersom, en hoe ze allebei scherp zijn als de vinger en de tekst op dezelfde plek zijn. Probeer dit ook met geschreven tekst op de voor- en achtergrond. Cameras hebben tegenwoordig een verbazingwekkende scherpte-diepte. Je kan zelfs wat voorbeeldfoto’s klaar hebben staan op de beamer. Met een mobieltje kun je dit ook goed laten zien door tegen een geschikte achtergrond (poster met letters) je volle hand naar de camera toe te bewegen en er vanaf. Wanneer de hand dichtbij de camera is, wordt de achtergrond wazig.
 
 ## Lenzen: Brillenglazen onderzoeken
 
