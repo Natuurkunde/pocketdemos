@@ -44,13 +44,13 @@ Figuren overgenomen uit [@stead1980exploring](), met toestemming
 .
 :::
 
-3.  Nu is er een kaars in de buurt van een lampje. Het licht van het lampje:\
-    A. Blijft bij het lampje\
+3.  Nu is er lamp. Het licht van de lamp:\
+    A. Blijft bij de lamp\
     B. Verspreidt tot ongeveer halverwege jou \
     C. Verspreidt tot jou \
     D. Verpreidt tot het ergens tegenaan komt
-4.  Vervolgens is het avond. Het licht van het lampje:\
-    A. Blijft bij het lampje\
+4.  Vervolgens is het avond. Het licht van de lamp:\
+    A. Blijft bij de lamp\
     B. Verspreidt tot ongeveer halverwege jou \
     C. Verspreidt tot jou \
     D. Verpreidt tot het ergens tegenaan komt
