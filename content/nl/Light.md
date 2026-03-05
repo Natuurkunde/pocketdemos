@@ -65,7 +65,7 @@ Van het vorige experiment hebben we misschien geleerd dat alles met een wig vorm
 
 ## Kleuren aftrekken door een filter
 
-Is er iemand die tranparante, gekleurde snoeppapiertjes heeft? Gebruik een zaklamp of het licht van een telefoon en schijn door het gekleurde papier richting de leerlingen. Het oorspronkelijke licht is wit, dat is een combinatie van de kleuren van de regenboog. Het snoeppapiertje absorbeert enkele kleuren en "trekt die af"   van wit. Een rood papiertje absorbeert blauw en groen (trekt deze af van wit), en laat rood door. Een blauw filter absorbeert groen en rood, en laat blauw door. Als je meerdere papiertjes en meerdere lampen hebt kun je de kleuren ook weer mengen en dus optellen.
+Is er iemand die tranparante, gekleurde snoeppapiertjes heeft? Gebruik een zaklamp of het licht van een telefoon en schijn door het gekleurde papier richting de leerlingen. Het oorspronkelijke licht is wit, dat is een combinatie van de kleuren van de regenboog. Het snoeppapiertje absorbeert enkele kleuren en “trekt die af”   van wit. Een rood papiertje absorbeert blauw en groen (trekt deze af van wit), en laat rood door. Een blauw filter absorbeert groen en rood, en laat blauw door. Als je meerdere papiertjes en meerdere lampen hebt kun je de kleuren ook weer mengen en dus optellen.
 
 :::{figure} ../images/20250513_121309.*
 :width: 60%
@@ -95,7 +95,7 @@ Je hebt vast niet allerlei kleuren verf meegenomen, tenzij je gedacht hebt aan d
 
 ### Reflectie
 
-Er hebben vast studenten spiegeltjes in hun tas. Daarmee kun je van alles doen. Snell’s spiegelwet bijvoorbeeld. Stel dat je de spiegel op de muur plakt (laat een leerling die vasthouden), waar moet de spiegel gepositioneerd worden opdat je je schoen erin kan zien? Etc.
+Er zijn vast leerlingen met spiegeltjes in hun tas. Daarmee kun je van alles doen. Snell’s spiegelwet bijvoorbeeld. Stel dat je de spiegel op de muur plakt (laat een leerling die vasthouden), waar moet de spiegel gepositioneerd worden opdat je je schoen erin kan zien? Etc.
 
 Als je toch een iets grotere spiegel vindt of hebt meegenomen (of een spiegelend raam kan gebruiken), laat een leerling die dan tegen de muur houden en zet er een andere leerling voor. Zorg dat de spiegel net iets te hoog is voor die leerling om zijn/haar eigen schoenen te zien. Vraag de klas *Wat moet hij/zij doen om de schoenen te zien?* Velen zullen zeggen achteruitlopen. Probeer maar, het lukt niet. Een simpel stralendiagram laat zien dat je alleen je voeten kunt zien als er een spiegelend oppervlak is precies halverwege ooghoogte en tenen. Kijk uit voor holle en bolle spiegels bij deze demo, je hebt een vlakke spiegel nodig. Let ook op dat de spiegel niet stiekem wat uit het verticale vlak gedraaid wordt.
 
@@ -117,7 +117,7 @@ Als er een laserpointer in het lokaal is, dan kun je natuurlijk ook een spiegelt
 
 ### Snell’s terugkaatsingswet met spelden
 
-Als je spelden hebt, dan kun je een rechtopstaand potlood of pen als voorwerp gebruiken en vanuit verschillende gezichtspunten heengaande en teruggekaatste lichtstralen vastprikken en door verlenging de locatie van het virtuele voorwerp vinden. Zie een hele serie simpele en nuttige experimenten in [@McDermott1996]().
+Als je spelden hebt, dan kun je een rechtopstaand potlood of pen als voorwerp gebruiken voor een rechtopstaande spiegel op een blad papier. Je kunt vanuit verschillende gezichtspunten heengaande en teruggekaatste lichtstralen vastprikken en door verlenging de locatie van het virtuele voorwerp vinden. Zie een hele serie simpele en nuttige experimenten in [@McDermott1996]().
 
 ## Breking
 
