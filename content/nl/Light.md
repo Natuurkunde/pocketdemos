@@ -201,7 +201,7 @@ De natte plek ziet er licht uit, transmissie.
 
 ### Met LED’s
 
-Hebben leerlingen fiets ledjes bij zich? Verduister het lokaal. Neem twee ledjes, houd het papier met de olie of watervlek ertussenin, en zoek een punt waar reflectie en transmissie gelijk zijn. Je kunt er zelfs een fotometer van maken. Zie verder [exploratorium](https://www.exploratorium.edu/snacks/oil-spot-photometer)[^2]. Je kunt lampen met verschillende vermogen vergelijken.
+Hebben leerlingen fiets ledjes bij zich? Verduister het lokaal. Neem twee ledjes, houd het papier met de olie of watervlek ertussenin, en zoek een punt waar reflectie en transmissie gelijk zijn. Je kunt er zelfs een fotometer van maken. Zie verder [exploratorium](https://www.exploratorium.edu/snacks/oil-spot-photometer)[^2]. Je kunt lampen met verschillende lichtsterkte vergelijken.
 
 ## Accomodatie van het oog
 
