@@ -221,7 +221,7 @@ Zijn er leerlingen met een bril op? Vraag ze om die af te zetten. Laat ze met hu
 
 ## Diffractie van een kleine spleet, of toch gewoon breking?
 
-Sluit je ogen tot een klein spleetje en kijk naar een lamp. Het licht verlengt tot een streep loodrecht op de oogspleet. Led-fietslampjes doen het goed als je ze op een paar meter afstand legt. Draai je hoofd heen en weer en de hoek van die verticale strepen licht verandert iets want je oogleden zijn wat gebogen. Zou Huygens in de 17de eeuw op die manier diffractie hebben kunnen zien? Probeer vanavond thuis even met een kaars. {cite}`Minnaert1954` verklaart de strepen licht uit breking door ribbeltjes opgestuwd oogvocht langs de rand van het ooglid en inderdaad kun je dat per ooglid afzonderlijk waarnemen.
+Sluit je ogen tot een klein spleetje en kijk naar een lamp. Het licht verlengt tot een streep loodrecht op de oogspleet. Led-fietslampjes doen het goed als je ze op een paar meter afstand legt. Draai je hoofd heen en weer en de hoek van die verticale strepen licht verandert iets want je oogleden zijn wat gebogen. Zou Huygens in de 17de eeuw op die manier diffractie hebben kunnen zien? Probeer vanavond thuis even met een kaars. {cite}`Minnaert1954` verklaart de strepen licht uit breking door ribbeltjes opgestuwd oogvocht langs de rand van het ooglid en inderdaad kun je dat per ooglid afzonderlijk waarnemen. Dus toch geen diffractie.
 
 ## Mouche volante
 
