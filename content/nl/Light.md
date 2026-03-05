@@ -63,9 +63,9 @@ Er is altijd wel iets dat werkt als een prisma, bv het plastic van die goedkoops
 
 Van het vorige experiment hebben we misschien geleerd dat alles met een wig vorm, bijvoorbeeld goedkope balpennen met een hexagon erin, kleuren kunnen “maken” van wit licht. Je herkent die vormen overal, zoals de rand van een badkamerspiegel of een prisma. Kijk om je heen, heeft er iemand kleding of schoenen met glitter en kleuren? Zijn daar wig vormen aanwezig?
 
-## Kleuren filteren
+## Kleuren aftrekken door een filter
 
-Is er iemand die tranparantie gekleurde snoeppapiertjes heeft? Gebruik een zaklamp of het licht van een telefoon en schijn door het gekleurde papier richting de studenten. Het oorspronkelijke licht is wit, het snoeppapiertje filtert kleuren van wit. Een rood papiertje filtert blauw en groen, en laat rood door. Een blauw papiertje filtert groen en rood, en laat blauw door. Als je meerdere papiertjes en meerdere lampen hebt kun je de kleuren ook weer optellen.
+Is er iemand die tranparante, gekleurde snoeppapiertjes heeft? Gebruik een zaklamp of het licht van een telefoon en schijn door het gekleurde papier richting de leerlingen. Het oorspronkelijke licht is wit, dat is een combinatie van de kleuren van de regenboog. Het snoeppapiertje absorbeert enkele kleuren en "trekt die af"   van wit. Een rood papiertje absorbeert blauw en groen (trekt deze af van wit), en laat rood door. Een blauw filter absorbeert groen en rood, en laat blauw door. Als je meerdere papiertjes en meerdere lampen hebt kun je de kleuren ook weer mengen en dus optellen.
 
 :::{figure} ../images/20250513_121309.*
 :width: 60%
