@@ -236,7 +236,7 @@ Laat de leerlingen hun rechteroog sluiten en dan een pen op armslengte omhoog ho
 :align: left
 :alt: De pen, op armsafstand van de camera (het oog), staat precies op de rand van het batik schilderij. Wanneer de camera zo’n 5 cm naar links wordt verschoven (= afstand tussen de ogen), is de pen niet verschoven maar lijkt verschoven. Hoe verder de muur met batik, des te kleiner de verschuiving
 
-De pen, op armsafstand van de camera (het oog), staat precies op de rand van het batik schilderij. Wanneer de camera zo’n 5 cm naar links wordt verschoven (= afstand tussen de ogen), is de pen niet verschoven maar lijkt verschoven. Hoe verder de muur met batik, des te kleiner de verschuiving
+De pen, op armsafstand van de camera (het oog), staat precies op de rand van het batik schilderij. Wanneer de camera zo’n 6 cm naar links wordt verschoven (= afstand tussen de ogen), is de pen niet verschoven maar lijkt verschoven. Hoe verder de muur met batik, des te kleiner de verschuiving
 :::
 
 ## Dominantie van één oog over het andere (lui oog)
