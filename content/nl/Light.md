@@ -263,7 +263,7 @@ Een alternatief met een uiterst duidelijk verslaglegging is enkele concentrische
 
 ## Blinde vlek
 
-Bijna elk natuurkunde boek heeft instructies om de blinde vlek van het oog te vinden, d.w.z. de plek waar de oogzenuw het oog verlaat, een plek die niet lichtgevoelig is. Laat de studenten in hun schrift een X tekenen (links) en een grote stip tekenen (rechts), ongeveer 6 cm uit elkaar. Laat ze het linkeroog dichtdoen en met het rechteroog scherpstellen op de X. Beweeg het schrift vervolgens richting het oog. Op een gegeven moment zal de stip niet meer zichtbaar zijn. Dat is wanneer het licht van de stip precies op het punt valt waar de optische zenuw het oog verlaat. Gebruik voor uitgebeidere instructies [dit onderzoek](https://research.sanfordhealth.org/sanford-promise/resources/slideshows/finding-your-blind-spot)[^3].
+Bijna elk natuurkunde boek heeft instructies om de blinde vlek van het oog te vinden, d.w.z. de plek waar de oogzenuw het oog verlaat, een plek die niet lichtgevoelig is. Laat de leerlingen in hun schrift een X tekenen (links) en een grote stip tekenen (rechts), ongeveer 6 cm uit elkaar. Laat ze het linkeroog dichtdoen en met het rechteroog scherpstellen op de X. Beweeg het schrift vervolgens richting het oog. Op een gegeven moment zal de stip niet meer zichtbaar zijn. Dat is wanneer het licht van de stip precies op het punt valt waar de optische zenuw het oog verlaat. Gebruik voor uitgebeidere instructies [dit onderzoek](https://research.sanfordhealth.org/sanford-promise/resources/slideshows/finding-your-blind-spot)[^3].
 
 ## Centraal versus perifeer zicht
 
