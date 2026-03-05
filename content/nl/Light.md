@@ -171,7 +171,7 @@ Natuurkundeplezier in het zwembad
 
 ## Felle versus donkere achtergrond
 
-Doe het licht van het lokaal uit. De leraar of een leerling staat tegen de muur tegenover de ramen. Hun gezicht is duidelijk zichtbaar omdat er meer licht wordt gereflecteerd door het gezicht dan door de achtergrond. Vervolgens gaat de leraar of leerling voor de ramen staan met hun gezicht naar de klas. Nu is het gezicht donker en onduidelijk, omdat er veel minder licht gereflecteerd wordt door het gezicht dan er door de ramen komt. Als je het licht in het lokaal aan doet is het gezicht weer beter zichtbaar. [Figuur 11](#fig_tulip) laat hetzelfde effect zien.
+Doe het licht van het lokaal uit. De leraar of een leerling staat tegen de muur aan de kant van de gang tegenover de ramen. Het gezicht is duidelijk zichtbaar omdat er meer licht wordt gereflecteerd door het gezicht dan door de achtergrond. Vervolgens gaat de leraar of leerling voor de ramen staan met het gezicht naar de klas. Nu is het gezicht donker en onduidelijk, omdat er veel minder licht gereflecteerd wordt door het gezicht dan er door de ramen komt. Als je het licht in het lokaal aan doet is het gezicht weer beter zichtbaar. [Figuur 11](#fig_tulip) laat hetzelfde effect zien. Hetzelfde effect zie je ook vaak met videobellen wanneer het gezicht onvoldoende verlicht wordt.
 
 :::{figure} ../figures/tulip.*
 :width: 60%
