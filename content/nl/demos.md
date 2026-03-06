@@ -15,7 +15,7 @@ De aard van deze demonstraties varieert. Sommige zijn om iets experimenteel te b
 
 ```{figure} ../images/20250513_085023.jpg
 :width: 80%
-:name: fig_table
+:label: fig_table
 
 Je hebt weinig bijzondere materialen nodig om en aantal goede natuurkundedemonstraties te doen
 ```
@@ -39,7 +39,7 @@ Heb je wat verzameld? Dan gaan we aan de slag!
 
 ```{figure} ../images/sdfcover.jpg
 :width: 60%
-:name: fig_sdf
+:label: fig_sdf
 
 Zoek je naar meer en gevorderdere natuurkundedemonstraties met uitgebreide tips voor de opstelling en interactie met de studenten? Kijk eens naar [Show the Physics](https://interactivetextbooks.tudelft.nl/showthephysics), een online open access boek met 99 natuurkundedemonstraties.
 ```

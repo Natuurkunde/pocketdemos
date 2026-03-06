@@ -51,7 +51,7 @@ Anybody with transparent, colored candy wrappers? Use a flashlight or the light 
 
 ```{figure} ../images/20250513_121309.*
 :width: 60%
-:name: fig_subt
+:label: fig_subt
 
 Put various colored transparent papers on top of each other.
 ```
@@ -64,7 +64,7 @@ There must be students in class with a mirror in their bag. Other reflecting obj
 
 ```{figure} ../images/mirror.*
 :width: 60%
-:name: fig_mirror
+:label: fig_mirror
 
 Does more body become visible when moving away from the mirror?
 ```
@@ -84,7 +84,7 @@ Walk around with pencil slanted in a glass of water, or better, in rectangular c
 
 ```{figure} ../images/20250513_110031.*
 :width: 60%
-:name: fig_pencil2
+:label: fig_pencil2
 
 A broken straw?
 ```
@@ -96,7 +96,7 @@ Stick your finger or a pencil straight up in a (round) glass of water. Move thro
 
 ```{figure} ../images/pencil.*
 :width: 60%
-:name: fig_pencil
+:label: fig_pencil
 
 Move the pencil back and forth and describe what you see.
 ```
@@ -109,7 +109,7 @@ Draw parallel arrows on a piece of paper (the object), hold that behind a glass 
 
 ```{figure} ../images/20250513_103731.*
 :width: 60%
-:name: fig_arrow
+:label: fig_arrow
 
 Do the arrows point in the same direction?
 ```
@@ -120,7 +120,7 @@ Ask students to draw the light ray diagram requested in {numref}`fig_pool`. Walk
 
 ```{figure} ../images/20250513_100315.*
 :width: 60%
-:name: fig_pool
+:label: fig_pool
 
 Fun physics in the pool
 ```
@@ -131,7 +131,7 @@ Switch off the classroom lights. The teacher or a student stands against the wal
 
 ```{figure} ../figures/tulip.*
 :width: 60%
-:name: fig_tulip
+:label: fig_tulip
 
 Has the tulip changed color?
 ```
@@ -145,7 +145,7 @@ Take a piece of paper, wet it a bit in the middle with water, oil, or saliva, th
 
 ```{figure} ../figures/04-15ReflectionTransmission.*
 :width: 60%
-:name: fig_trans
+:label: fig_trans
 
 The wet part appears light, it transmits. 
 ```
@@ -174,7 +174,7 @@ Have students close their right eye and stick up their pen at arm's length such 
 
 ```{figure} ../figures/parallax.*
 :width: 100%
-:name: fig_paral
+:label: fig_paral
 
 The pen at arms’ length from the camera (the eye), is exactly aligned with the edge of the batik. When the camera has been shifted 5 cm to the left which is the distance between the eyes. The pen did not shift. The closer the pen from the batik, the smaller the apparent shift in position.
 ```
@@ -187,7 +187,7 @@ Two eyes are better than one, especially in seeing depth and estimating distance
 
 ```{figure} ../figures/04-24SeeingDepth.*
 :width: 100%
-:name: fig_depth
+:label: fig_depth
 
 Estimating distance with one or two eyes.
 ```

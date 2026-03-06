@@ -30,7 +30,7 @@ Een van mijn lerarenopleiding studenten heeft een werkende elektrische motor gem
 
 ```{figure} ../figures/08-7-1Electromotor.*
 :width: 60%
-:name: fig_elekm
+:label: fig_elekm
 
 Een simpele elektrische motor maken met een batterij, een koperdraad en een magneet
 ```

@@ -12,14 +12,14 @@ Take a ruler, make it stick out a bit {numref}`fig_ruler` from the table, let it
 
 ```{figure} ../images/20250513_115534.*
 :width: 60%
-:name: fig_ruler
+:label: fig_ruler
 
 Change the mass at the end of the ruler and listen
 ```
 
 ```{iframe} https://www.youtube.com/embed/i__wDdiyqwo?si=oRDfJKD38Jj77kDS
 :width: 60%
-:name: vid_12
+:label: vid_12
 :aspectratio: auto 16 / 9
 :align: center
 
@@ -43,7 +43,7 @@ Have two coins *A* and *B* touching and a third *C* lengthwise at a few cm dista
 
 ```{iframe} https://www.youtube.com/embed/8VUG2Z-j_NQ?si=hR_JjaREoq77-gWs
 :width: 60%
-:name: vid_14
+:label: vid_14
 :aspectratio: auto 16 / 9
 :align: center
 

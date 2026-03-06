@@ -42,7 +42,7 @@ Adem uit met de mond wijd open en voel dat op je hand (warm), blaas vervolgens d
 [^mbvbn]: https://www.youtube.com/shorts/Fnx9Dhpsw1Q
 
 ````{figure}
-:name: fig:blowopen
+:label: fig:blowopen
 ```{figure} ../figures/blowopen.*
 :width: 50%
 
@@ -113,7 +113,7 @@ Laat een kaars drijven op water in een kom, steek de vlam aan en zet er een omge
 
 ```{figure} ../images/candle_water.*
 :width: 70%
-:name: fig_candle_w
+:label: fig_candle_w
 
 Wat is de juiste verklaring voor het stijgende water?
 ```

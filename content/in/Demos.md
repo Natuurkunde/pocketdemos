@@ -14,7 +14,7 @@ Sifat demonstrasi ini beragam. Sebagian untuk membuktikan sesuatu secara eksperi
 
 ```{figure} ../images/20250513_085023.jpg
 :width: 80%
-:name: fig_table_idn
+:label: fig_table_idn
 
 Tidak banyak bahan khusus yang diperlukan untuk melakukan sejumlah demonstrasi fisika yang baik
 ```
@@ -37,7 +37,7 @@ Sudah terkumpul? Mari mulai!
 
 ```{figure} ../images/sdfcover.jpg
 :width: 60%
-:name: fig_sdf_idn
+:label: fig_sdf_idn
 
 Mencari lebih banyak demonstrasi fisika tingkat lanjut dengan kiat lengkap untuk penataan dan interaksi dengan mahasiswa? Lihat [Show the Physics](https://interactivetextbooks.tudelft.nl/showthephysics), buku daring akses terbuka dengan 99 demonstrasi fisika.
 ```

@@ -16,7 +16,7 @@ This booklet presents a collection of small and quick demonstrations, which requ
 
 ```{figure} ../images/20250513_085023.jpg
 :width: 80%
-:name: fig_table
+:label: fig_table
 
 You only need a handful of materials to conduct a series of proper physics demos
 ```
@@ -40,7 +40,7 @@ Take any other object such as a chair or a table and you get many more demonstra
 
 ```{figure} ../images/sdfcover.jpg
 :width: 60%
-:name: fig_sdf
+:label: fig_sdf
 
 Looking for more and more advanced physics demonstrations? Take a look at [Show the Physics](https://interactivetextbooks.tudelft.nl/showthephysics), an online open access book with 99 physics demonstrations.
 ```

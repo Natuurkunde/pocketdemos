@@ -7,7 +7,7 @@ Voor een gedetailleerde beschrijving in PEOE-format, zie Showdefysica [@showdefy
 
 ```{iframe} https://youtube.com/embed/NjCsFRE8HA0
 :width: 60%
-:name: vid_1
+:label: vid_1
 :aspectratio: auto 16 / 9
 :align: center
 
@@ -19,18 +19,18 @@ Kunnen we onze handen versnellen met meer dan g?
 Stel de bovenstaandevraag, laat leerlingen antwoorden, goede kans dat ze interessante voorstellen hebben voor een experiment. Eenvoudig, houd je hand vlak met een steen erop of een ander voorwerp, beweeg de hand dan snel naar beneden. De steen of het andere voorwerp is langzamer, er is ruimte tussen de steen en de hand.  Leerlingen kunnen dit nadoen op hun stoel met een willekeurig voorwerp. Zorg ervoor dat de hand alleen naar beneden wordt versneld en niet eerst naar boven.
 
 ````{figure}
-:name: fig_experiment_free_fall
+:label: fig_experiment_free_fall
 
 ```{figure} ../images/20250513_090352.*
 :width: 50%
-:name: fig_352
+:label: fig_352
 
 Kun je je hand versnellen met meer dan g?
 ```
 
 ```{figure} ../images/20250513_090908.jpg
 :width: 50%
-:name: fig_908
+:label: fig_908
 
 Kun je een vel papier net zo snel laten vallen als een boek? 
 ```
@@ -46,17 +46,17 @@ Laat een blad papier vallen, dat valt langzaam en fladdert. Maak dan een prop, d
 Van een half a4, is het gemakkelijk een rechthoekig bakje te vouwen en vast te nieten. Voeg de ongebruikte stukje papier toe in het bakje om precies de massa van een 1/2 a4 te hebben. Een vel papier dwarrelt naar beneden. Een bakje valt al snel met constante snelheid. Het is mogelijk hier een onderzoek van te maken: wat is de invloed van massa en doorsnede van het bakje op de valtijd? Een eerste benadering kan zijn met de formule $t = \frac{h\cdot A}{m}$. Deze voorspelt dat verdubbeling van hoogte $h$ of doorsnede $A$ resulteert in een verdubbeling van de valtijd $t$. De massa kun je gemakkelijk verdubbelen door twee bakjes in elkaar te vouwen. Ook de doorsnede van het bakje (het oppervlak dwars op de valrichting) is gemakkelijk te varieren.  Als je denkt dat de dwarsdoorsnede evenredig is met de tijd, laat dan het bakje met $A$ van twee keer zo hoog vallen, tegelijk met het bakje met $2A$ (maar zorg voor gelijke massa). Dan zouden ze tegelijk aan moeten komen. Is dat ook zo? Voor massa blijkt te gelden dat $t$ evenredig is met $\sqrt{m}$ in plaats van met $m^{-1}$. Zie ShowdeFysica 1 [@showdefysica1 p32-33] voor een volledige beschrijving. Een vroege versie van dit experiment is te vinden in Eric Roger's beroemde boek *Physics for the Inquiring Mind* [@rogers2011physics pg.167].
   
 ````{figure}
-:name: bakjesval
+:label: bakjesval
 ```{figure} ../images/20250513_091205.jpg
 :width: 60%
-:name: fig_205
+:label: fig_205
 
 Welk bakje is sneller?
 ```
 
 ```{figure} ../images/20250513_091700.jpg
 :width: 60%
-:name: fig_700
+:label: fig_700
 
 Zou luchtweerstand evenredig zijn met $v^2$ in plaats van $v$? Als dat zo zou zijn, dan komen de bakjes in de figuur niet tegelijk op de grond. 
 ```
@@ -65,7 +65,7 @@ Zou luchtweerstand evenredig zijn met $v^2$ in plaats van $v$? Als dat zo zou zi
 
 ```{iframe} https://youtube.com/embed/ELDJPqVrRZQ
 :width:60%
-:name: vid_2
+:label: vid_2
 :aspectratio: auto 16 / 9
 :align: center
 
@@ -78,7 +78,7 @@ Er is altijd papier in je eigen tas of in tassen van leerlingen. Vliegtuigjes vo
 
 ```{figure} ../images/20250513_092443.jpg
 :width: 60%
-:name: fig_443
+:label: fig_443
 
 Vliegen is spelen met luchtweerstand
 ```
@@ -113,14 +113,14 @@ Glas water (of ander object, breekbare objecten hebben de voorkeur) boven op een
 
 ```{figure} ../images/20250513_092927.jpg
 :width: 60%
-:name: fig_927
+:label: fig_927
 
 Een vel papier en een glas of beker zijn altijd beschikbaar. 
 ```
 
 ```{iframe} https://youtube.com/embed/fjGiXL4z-MY
 :width: 60%
-:name: vid_3
+:label: vid_3
 :aspectratio: auto 16 / 9
 :align: center
 
@@ -132,14 +132,14 @@ Scheur een stukje papier zoals in {numref}`Figuur {number} <fig_tearpiece>`. Kan
 
 ```{figure} ../images/20250513_093759.jpg
 :width: 60%
-:name: fig_tearpiece
+:label: fig_tearpiece
 
 Wat extra massa in het midden geeft voldoende traagheid om beide uiteinden tegelijk te scheuren.
 ```
 
 ```{iframe} https://youtube.com/embed/enduuPXLM9g
 :width: 60%
-:name: vid_4
+:label: vid_4
 :aspectratio: auto 16 / 9
 :align: center
 
@@ -152,7 +152,7 @@ Steek een mes een stukje in een appel zodat de appel aan het mes blijft hangen (
 
 ```{iframe} https://youtube.com/embed/OGiPpFA3JIw
 :width: 60%
-:name: vid_5
+:label: vid_5
 :aspectratio: auto 16 / 9
 :align: center
 
@@ -164,7 +164,7 @@ Zet een balpen rechtop op je hand en probeer die rechtop te houden. Lukt niet. V
 
 ```{figure} ../images/20250513_094959.*
 :width: 70%
-:name: fig_959
+:label: fig_959
 
 Zo balanceren gaat goed, maar wat nu als je de hamer omdraait?
 ```
@@ -175,7 +175,7 @@ Bron: mijn vroegere student Alfredo Guirit, nu docent in Tagbilaran, Bohol, Phil
 
 ```{iframe} https://youtube.com/embed/Ft9UD-xbqxQ
 :width: 60%
-:name: vid_6
+:label: vid_6
 :aspectratio: auto 16 / 9
 :align: center
 
@@ -187,7 +187,7 @@ Met een volle rol toiletpapier, rol af de lengte die je nodig hebt, geef een ruk
 
 ```{figure} ../figures/02-13RotationalInertia2LR.jpeg
 :width: 60%
-:name: fig_RI2
+:label: fig_RI2
 
 Wat gebeurt er als je een ruk geeft aan elk van de toiletrollen ? 
 ```
@@ -199,14 +199,14 @@ Maak nu de opstelling van {numref}`Figuur {number} <fig_RI3>`, een simpel bosje 
 
 ```{figure} ../figures/02-14-3RotationalInertia.JPG
 :width: 60%
-:name: fig_RI3
+:label: fig_RI3
 
 Daday klaar om haar beker veilig te laten vallen.
 ```
 
 ```{iframe} https://youtube.com/embed/h2ulQeDoHmY
 :width: 60%
-:name: vid_7
+:label: vid_7
 :aspectratio: auto 16 / 9
 :align: center
 
@@ -220,7 +220,7 @@ Met de opstelling van {numref}`Figuur {number} <fig_CMEN>`, kunnen we de eigensc
 
 ```{figure} ../figures/02-15CircularMotionEN.jpg
 :width: 60%
-:name: fig_CMEN
+:label: fig_CMEN
 
 Demonstratie van cirkelbeweging met een draad, een pvc buis,een rubber dop, en gewichtjes. 
 ```
@@ -235,7 +235,7 @@ Het is mogelijk de cirkelbewegingdemo kwantitatief te maken en de formule  $F = 
 
 ```{figure} ../images/20250602_114146.*
 :width: 60%
-:name: fig_146
+:label: fig_146
 
 Freek Pols voert de demo uit
 ```
@@ -253,7 +253,7 @@ Een vrij vallende munt en een op hetzelfde moment horizontaal weggeschoten munt 
 
 ```{figure} ../images/shooter.*
 :width: 80%
-:name: fig_1462
+:label: fig_1462
 
 Buigen van de liniaal en laten gaan lanceert de ene munt horizontaal en laat de andere verticaal vallen. 
 ```
@@ -270,7 +270,7 @@ Neem een meetlat, aanwijsstok, of een bezemsteel. Balanceer die horizontaal op b
 
 ```{iframe} https://youtube.com/embed/RYFsPy8mUbI
 :width: 60%
-:name: vid_8
+:label: vid_8
 :aspectratio: auto 16 / 9
 :align: center
 
@@ -279,7 +279,7 @@ Neem een meetlat, aanwijsstok, of een bezemsteel. Balanceer die horizontaal op b
 
 ```{figure} ../images/20250513_100639.jpg
 :width: 60%
-:name: fig_639
+:label: fig_639
 
 Het vinden van het zwaartepunt kun je doen (en voorspellen) met verschillende voorwerpen.
 ```
@@ -288,7 +288,7 @@ Het vinden van het zwaartepunt kun je doen (en voorspellen) met verschillende vo
 
 ```{iframe} https://www.youtube.com/embed/JDwHYHY7RqI?si=b-VYk_exLajihKs4
 :width: 60%
-:name: vid_9
+:label: vid_9
 :aspectratio: auto 16 / 9
 :align: center
 
@@ -303,7 +303,7 @@ Neem een half a4 vel papier, leg het tussen de pagina's van een gesloten boek, t
 
 ```{iframe} https://www.youtube.com/embed/WgknDyxIL00?si=dhsveBNTVAN3S7Ur
 :width: 60%
-:name: vid_10
+:label: vid_10
 :aspectratio: auto 16 / 9
 :align: center
 
@@ -321,7 +321,7 @@ Leg een boek op de tafel en duw het over de tafel. Laat leerlingen het ook probe
 
 ```{figure} ../images/booksstacked.jpg
 :width: 50%
-:name: fig_booksstacked
+:label: fig_booksstacked
 
 Wat gebeurt er wanneer je horizontaal duwt tegen een van de boeken? Maakt het uit waar dat boek is in de stapel? 
 ```
@@ -340,7 +340,7 @@ Leg een bankbiljet of papier op twee viltstiften. Hoe moet je het papier of een 
 
 ```{figure} ../figures/02-31StrengthOfProfiles.jpg
 :width: 60%
-:name: fig_fold
+:label: fig_fold
 
 Hoe kun je een briefje van 10 Euro vouwen zo dat het een lading van veel munten kan dragen? 
 ```
@@ -357,7 +357,7 @@ Zet leerlingen op een rij met de hakken tegen de muur ({numref}`Figuur {number} 
 
 ```{figure} ../figures/02-33CenterOfMass2LR.jpg
 :width: 60%
-:name: fig_CM
+:label: fig_CM
 
 Het is niet mogelijk om het geld op te pakken met de hielen tegen de muur, in de foto staan de hielen nog niet helemaal tegen de muur.
 ```
@@ -370,7 +370,7 @@ Leen een hamer en een stok en wat touw of sterk elastiek en construeer de set-up
 
 ```{figure} ../figures/02-35CenterOfMass4LR.jpg
 :width: 60%
-:name: fig_David
+:label: fig_David
 
 David balanceert een hamer, het zwaartepunt moet onder de tafel zijn, niet ernaast. 
 ```
@@ -392,7 +392,7 @@ Illustreer torsie met het openen van een deur (verticale as) of het roteren van 
 
 ```{figure} ../images/deurkruk.*
 :width: 60%
-:name: fig_deurkruk
+:label: fig_deurkruk
 
 Kun je een deur openen als je duwt vlak bij het scharnieren?
 ```
@@ -415,7 +415,7 @@ Neem een krijtje (numref`Figuur {number} <fig_stress>). Trek aan beide kanten, d
 
 ```{figure} ../figures/02-44TensileShearStress.*
 :width: 60%
-:name: fig_stress
+:label: fig_stress
 
 Het verschil tussen trek- en schuifspanning
 ```
@@ -429,7 +429,7 @@ Deze twee principes spreiden de remkracht in ruimte en tijd waardoor de kracht m
 
 ```{figure} ../figures/02-45EggThrow.*
 :width: 60%
-:name: fig_throw
+:label: fig_throw
 
 Gooi een ongekookt ei in een handdoek of jas. Het breekt niet.  
 ```
@@ -443,7 +443,7 @@ Houd een vel a4 papier iets onder het midden aan twee kanten vast en laat het ee
 
 ```{figure} ../figures/02-47-1Bernouilli1.JPG
 :width: 60%
-:name: fig_Bern1
+:label: fig_Bern1
 
 Bernoulli shown
 ```
@@ -455,17 +455,17 @@ Ga verder met de demonstratie, pak nog een vel a4, of scheur nog een pagina uit 
 Steek een kaars aan. Als ik door een rietje blaas net rechts van de vlam, zal de vlam bewegen, naar welke kant? Waarom? Antwoord: de vlam beweegt naar rechts naar het gebiedje met de laagste druk. Volgens Bernouilli is de druk in snel bewegende lucht lager dan in de omringende lucht. Voor een jonger publiek: ik blaas wat lucht weg, het brandende gas beweegt naar de plek met de minste lucht. 
 
 ````{figure}
-:name: Bern_candle
+:label: Bern_candle
 
 ```{figure} ../images/20250513_114856.*
 :width: 60%
-:name: fig_Bern3
+:label: fig_Bern3
 
 Een rietje en een kaarsvlam
 ```
 ```{figure} ../figures/07-27-2FlamePressure.*
 :width: 60%
-:name: fig_Bern3a
+:label: fig_Bern3a
 
 Bij blazen zal de vlam in de richting van de luchtstroom worden gebogen vanwege lagere druk. 
 ```
@@ -481,7 +481,7 @@ Er zijn linialen met mooie gootjes, laat een knikker rollen en onderzoek het ver
 
 ```{figure} ../figures/02-51WorkKineticEnergy
 :width: 80%
-:name: fig_ruler_marb
+:label: fig_ruler_marb
 
 Laat een stuiter van een linial afrollen in een gaatje in een papieren beker. Hoe ver schuift de beker? 
 ```

@@ -17,7 +17,7 @@ Take two pieces of PVC pipe, for example 10 cm and 20 cm long. Blow across the o
 
 ```{figure} ../images/panflute.jpg
 :width: 60%
-:name: fig_panflute
+:label: fig_panflute
 
 Picture from [ShowthePhysics](https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo79/demo79.html) {cite:p}`pols2024show`
 ```
@@ -35,7 +35,7 @@ Use Phyphox or a similar program. Try to produce a near perfect sine wave. Ask a
 
 ```{figure} ../images/phyphox_sound.*
 :width: 50%
-:name: fig_ph
+:label: fig_ph
 
 Sound recorded using the [phyphox app](https://phyphox.org/).
 ```

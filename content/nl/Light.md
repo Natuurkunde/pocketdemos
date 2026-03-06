@@ -6,7 +6,7 @@ De beste manier om een les over optica te beginnen is met een volledige donker l
 
 ```{figure} ../figures/04-1-1StraightLinePropagation.*
 :width: 40%
-:name: fig_draw1
+:label: fig_draw1
 
 Figuren overgenomen uit [@stead1980exploring](), met toestemming
 ```
@@ -20,7 +20,7 @@ Figuren overgenomen uit [@stead1980exploring](), met toestemming
 
 ```{figure} ../figures/04-1-2StraightLine.*
 :width: 40%
-:name: fig_draw2
+:label: fig_draw2
 
 .
 ```
@@ -35,7 +35,7 @@ Figuren overgenomen uit [@stead1980exploring](), met toestemming
 
 ```{figure} ../figures/04-1-3StraightLine.*
 :width: 40%
-:name: fig_draw3
+:label: fig_draw3
 
 .
 ```
@@ -62,7 +62,7 @@ Is er iemand die tranparantie gekleurde snoeppapiertjes heeft? Gebruik een zakla
 
 ```{figure} ../images/20250513_121309.*
 :width: 60%
-:name: fig_subt
+:label: fig_subt
 
 Leg verschillende soorten doorzichtig papier op elkaar.
 ```
@@ -72,7 +72,7 @@ Misschien heb je wel een Newtonschijf op een ronddraaiend plateau. Door kleuren 
 
 ```{figure} ../figures/04-5ColorAdditionLR.*
 :width: 60%
-:name: fig_New
+:label: fig_New
 
 Verschillende Newtonschijven
 ```
@@ -87,7 +87,7 @@ Als je toch een iets grotere spiegel vindt of hebt meegenomen (of een spiegelend
 
 ```{figure} ../images/mirror.*
 :width: 60%
-:name: fig_mirror
+:label: fig_mirror
 
 Kun je meer zien van je lichaam als je wegloopt van de spiegel?
 ```
@@ -107,7 +107,7 @@ Wandel rond met een potlood schuin in een glas water, of in een vierkante contai
 
 ```{figure} ../images/20250513_110031.*
 :width: 60%
-:name: fig_pencil2
+:label: fig_pencil2
 
 Een gebroken potlood?
 ```
@@ -117,7 +117,7 @@ Steek je vinger of een potlood in een rond glas water. Loop zwijgend de klas ron
 
 ```{figure} ../images/pencil.*
 :width: 60%
-:name: fig_pencil
+:label: fig_pencil
 
 Beweeg het potlood heen en weer en beschrijf wat je ziet.
 ```
@@ -127,7 +127,7 @@ Teken enkele parallelle pijlen op een kaartje of stukje papier. Houd dit object 
 
 ```{figure} ../images/20250513_103744.*
 :width: 70%
-:name: fig_arrow
+:label: fig_arrow
 
 Wijzen de pijlen dezelfde kant op? Tsjechische bijdrage voor Physics on Stage, {cite:p}`Nugent2010`
 ```
@@ -137,7 +137,7 @@ Vraag de leerlingen om het stralendiagram uit {numref}`Figuur {number} <fig_pool
 
 ```{figure} ../images/20250513_100315.*
 :width: 60%
-:name: fig_pool
+:label: fig_pool
 
 Natuurkundeplezier in het zwembad
 ```
@@ -147,7 +147,7 @@ Doe het licht van het lokaal uit. De leraar of een leerling staat tegen de muur 
 
 ```{figure} ../figures/tulip.*
 :width: 60%
-:name: fig_tulip
+:label: fig_tulip
 
 Heeft de tulp een andere kleur gekregen?
 ```
@@ -161,7 +161,7 @@ Neem een stukje papier, maak het een beetje nat in het midden met water, olie, o
 
 ```{figure} ../figures/04-15ReflectionTransmission.*
 :width: 60%
-:name: fig_trans
+:label: fig_trans
 
 De natte plek ziet er licht uit, transmissie. 
 ```
@@ -196,7 +196,7 @@ Laat de leerlingen hun rechteroog sluiten en dan een pen op armslengte omhoog ho
 
 ```{figure} ../figures/parallax.*
 :width: 100%
-:name: fig_paral
+:label: fig_paral
 
 De pen, op armsafstand van de camera (het oog), staat precies op de rand van het batik schilderij. Wanneer de camera zo’n 5 cm naar links wordt verschoven (= afstand tussen de ogen), is de pen niet verschoven maar lijkt verschoven. Hoe verder de muur met batik, des te kleiner de verschuiving
 ```
@@ -209,7 +209,7 @@ Twee ogen zijn beter dan een, vooral in het zien van diepte en schatten van afst
 
 ```{figure} ../figures/04-24SeeingDepth.*
 :width: 100%
-:name: fig_depth
+:label: fig_depth
 
 Afstand schatten met een of twee ogen.
 ```

@@ -28,7 +28,7 @@ Biarkan siswa datang dengan ide dan diskusikan. Induksi elektrostatis akan menye
 
 ```{iframe} https://www.youtube.com/embed/YI4bNdYzQYQ?si=HudH10AcVgUMhkYT
 :width: 60%
-:name: vid_11
+:label: vid_11
 :aspectratio: auto 16 / 9
 :align: center
 

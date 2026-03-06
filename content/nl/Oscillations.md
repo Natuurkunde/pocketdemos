@@ -11,14 +11,14 @@ Neem een liniaal en leg hem zo op tafel dat hij een beetje uitsteekt {numref}`Fi
 
 ```{figure} ../images/20250513_115534.*
 :width: 60%
-:name: fig_ruler
+:label: fig_ruler
 
 Verander de massa aan het einde van de liniaal en luister
 ```
 
 ```{iframe} https://www.youtube.com/embed/i__wDdiyqwo?si=oRDfJKD38Jj77kDS
 :width: 60%
-:name: vid_12
+:label: vid_12
 :aspectratio: auto 16 / 9
 :align: center
 
@@ -30,7 +30,7 @@ Neem wat breed elastiek, breng het in trilling en loop rond, wat voor toon horen
 
 ```{figure} ../images/rubband.*
 :width: 60%
-:name: fig_rubband
+:label: fig_rubband
 
 Verander de spanning en hoor een verschil in toon.
 ```
@@ -50,7 +50,7 @@ Twee munten *A* en *B* (bv Euro’s) raken elkaar. Een andere munt *C* wordt ero
 
 ```{iframe} https://www.youtube.com/embed/8VUG2Z-j_NQ?si=hR_JjaREoq77-gWs
 :width: 60%
-:name: vid_132
+:label: vid_132
 :aspectratio: auto 16 / 9
 :align: center
 
@@ -69,18 +69,18 @@ Deze ontstaan wanneer twee golven of patronen interfereren. Bijvoorbeeld twee ha
 Vraag twee haarkammen van leerlingen. Goede kans dat de afstand tussen de tanden verschilt. Houd ze gedeeltelijk over elkaar en je ziet een Moire patroon ({numref}`Figuur {number} <fig_haircombs1>` en {numref}`Figuur {number} <fig_haircombs2>`). Als het niet lukt, vraag dan nog een paar kammen. Als het aantal tanden per cm net iets verschilt, krijg je donkere en lichtere banden. De lichtere waar de tanden bijna gelijk staan, en de donkere waar ze in tegenfase staan.
 
 ````{figure}
-:name: fig_haircombs
+:label: fig_haircombs
 
 ```{figure} ../images/20250513_120748.*
 :width: 60%
-:name: fig_haircombs1
+:label: fig_haircombs1
 
 
 ```
 
 ```{figure} ../images/20250513_120741.*
 :width: 60%
-:name: fig_haircombs2
+:label: fig_haircombs2
 
 
 ```

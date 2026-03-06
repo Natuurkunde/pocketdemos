@@ -16,7 +16,7 @@ Neem twee stukken PVC buis, bijvoorbeeld een van 10 cm lang en een van 20 cm lan
 
 ```{figure} ../images/panflute.jpg
 :width: 60%
-:name: fig_panflute
+:label: fig_panflute
 
 Afbeelding van [ShowthePhysics](https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo79/demo79.html) {cite:p}`pols2024show`
 ```
@@ -34,7 +34,7 @@ Gebruik Phyphox of een vergelijkbaar programma. Probeer een bijna perfecte sinus
 
 ```{figure} ../images/phyphox_sound.*
 :width: 50%
-:name: fig_ph
+:label: fig_ph
 
 Geluid opgenomen met de [phyphox app](https://phyphox.org/).
 ```

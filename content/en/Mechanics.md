@@ -5,7 +5,7 @@ Break a piece of chalk into a small and a big piece and keep them between thumb 
 
 ```{iframe} https://youtube.com/embed/NjCsFRE8HA0
 :width: 60%
-:name: vid_1
+:label: vid_1
 :aspectratio: auto 16 / 9
 :align: center
 
@@ -20,7 +20,7 @@ Now let a sheet of paper drop. It swirls and drops slowly. Then crumple it, it d
 
 ```{figure} ../images/20250513_090908.jpg
 :width: 60%
-:name: fig_908
+:label: fig_908
 
 What will happen if you drop a book with a sheet of paper on top of it?
 ```
@@ -30,21 +30,21 @@ From one half A4, it is easy to fold a rectangular basket and staple it and add 
 
 ```{figure} ../images/20250513_091205.jpg
 :width: 60%
-:name: fig_205
+:label: fig_205
 
 Which basket is faster?
 ```
 
 ```{figure} ../images/20250513_091700.jpg
 :width: 60%
-:name: fig_700
+:label: fig_700
 
 Would the air friction scale with $v^2$ rather than $v$?
 ```
 
 ```{iframe} https://youtube.com/embed/ELDJPqVrRZQ
 :width:60%
-:name: vid_2
+:label: vid_2
 :aspectratio: auto 16 / 9
 :align: center
 
@@ -56,7 +56,7 @@ There is always paper in the room or in the notebooks of students. Fold various 
 
 ```{figure} ../images/20250513_092443.jpg
 :width: 60%
-:name: fig_443
+:label: fig_443
 
 Flying is playing with air resistance 
 ```
@@ -85,14 +85,14 @@ Take a glass of water (or a coin, or another object, breakable objects are prefe
 
 ```{figure} ../images/20250513_092927.jpg
 :width: 60%
-:name: fig_927
+:label: fig_927
 
 A piece of paper and a glass or a coffee mug are always at hand 
 ```
 
 ```{iframe} https://youtube.com/embed/fjGiXL4z-MY
 :width: 60%
-:name: vid_3
+:label: vid_3
 :aspectratio: auto 16 / 9
 :align: center
 
@@ -105,14 +105,14 @@ Tear a piece of paper as in {numref}`fig_tearpiece`. Can I tear both sides of th
 
 ```{figure} ../images/20250513_093759.jpg
 :width: 60%
-:name: fig_tearpiece
+:label: fig_tearpiece
 
 Some additional mass in the middle makes sure the paper rips at both ends.
 ```
 
 ```{iframe} https://youtube.com/embed/enduuPXLM9g
 :width: 60%
-:name: vid_4
+:label: vid_4
 :aspectratio: auto 16 / 9
 :align: center
 
@@ -125,7 +125,7 @@ Stick a knife in an apple, hold it up so the apple is suspended from the knife. 
 
 ```{iframe} https://youtube.com/embed/OGiPpFA3JIw
 :width: 60%
-:name: vid_5
+:label: vid_5
 :aspectratio: auto 16 / 9
 :align: center
 
@@ -137,7 +137,7 @@ Put a ballpoint straight up on your hand and try to balance it. You may invite t
 
 ```{iframe} https://youtube.com/embed/Ft9UD-xbqxQ
 :width: 60%
-:name: vid_6
+:label: vid_6
 :aspectratio: auto 16 / 9
 :align: center
 
@@ -149,7 +149,7 @@ With a full roll just prepare the length you need then a jerk will suffice to ge
 
 ```{figure} ../figures/02-13RotationalInertia2LR.jpeg
 :width: 60%
-:name: fig_RI2
+:label: fig_RI2
 
 What happens if you jerk either of the toilet rolls?
 ```
@@ -159,14 +159,14 @@ Now make the set-up of {numref}`fig_RI3`, preferably with a breakable object on 
 
 ```{figure} ../figures/02-14-3RotationalInertia.JPG
 :width: 60%
-:name: fig_RI3
+:label: fig_RI3
 
 Daday ready to drop her coffee mug, safely.
 ```
 
 ```{iframe} https://youtube.com/embed/h2ulQeDoHmY
 :width: 60%
-:name: vid_7
+:label: vid_7
 :aspectratio: auto 16 / 9
 :align: center
 
@@ -179,7 +179,7 @@ Now that we have the nice set-up of {numref}`fig_CMEN`, we better also use it to
 
 ```{figure} ../figures/02-15CircularMotionEN.jpg
 :width: 60%
-:name: fig_CMEN
+:label: fig_CMEN
 
 Demonstrating circular motion using a rope, pvc tube and some small weights.
 ```
@@ -193,7 +193,7 @@ It is possible to make this into a quantitative demonstration supporting the for
 
 ```{figure} ../images/20250602_114146.gif
 :width: 60%
-:name: fig_146
+:label: fig_146
 
 Freek Pols performing the demonstration
 ```
@@ -222,7 +222,7 @@ Take a ruler, meter stick, or any other long object available. Balance it horizo
 
 ```{iframe} https://youtube.com/embed/RYFsPy8mUbI
 :width: 60%
-:name: vid_8
+:label: vid_8
 :aspectratio: auto 16 / 9
 :align: center
 
@@ -231,7 +231,7 @@ Take a ruler, meter stick, or any other long object available. Balance it horizo
 
 ```{figure} ../images/20250513_100639.jpg
 :width: 60%
-:name: fig_639
+:label: fig_639
 
 Finding the center of mass can be done (and predicted) using various materials and distributions of mass.
 ```
@@ -241,7 +241,7 @@ Take a meterstick, or pvc tube, or any other rod such as the end of a broom. Kee
 
 ```{iframe} https://www.youtube.com/embed/JDwHYHY7RqI?si=b-VYk_exLajihKs4
 :width: 60%
-:name: vid_9
+:label: vid_9
 :aspectratio: auto 16 / 9
 :align: center
 
@@ -254,7 +254,7 @@ Take one half A4 and put it between the pages of a closed book, pull it. It is e
 
 ```{iframe} https://www.youtube.com/embed/WgknDyxIL00?si=dhsveBNTVAN3S7Ur
 :width: 60%
-:name: vid_10
+:label: vid_10
 :aspectratio: auto 16 / 9
 :align: center
 
@@ -272,7 +272,7 @@ Put a book on the table, try to push it across the table. Have a student try. Th
 
 ```{figure} ../images/booksstacked.jpg
 :width: 50%
-:name: fig_booksstacked
+:label: fig_booksstacked
 
 What happens if you push one of the books? Does it matter where it is in the pile?
 ```
@@ -292,7 +292,7 @@ Put a banknote on two markers. How can you fold the banknote such that it can ca
 
 ```{figure} ../figures/02-31StrengthOfProfiles.jpg
 :width: 60%
-:name: fig_fold
+:label: fig_fold
 
 How can you fold the banknote such that it can carry a load of many coins?
 ```
@@ -309,7 +309,7 @@ Line up some students with their back and particularly their heels against the w
 
 ```{figure} ../figures/02-33CenterOfMass2LR.jpg
 :width: 60%
-:name: fig_CM
+:label: fig_CM
 
 Impossible to pick up the money when heels are against the wall. Please note that in the photo heels are not against the wall, they should have been.
 ```
@@ -322,7 +322,7 @@ Borrow a hammer and a stick and some rope or rubber bands and make the set-up of
 
 ```{figure} ../figures/02-35CenterOfMass4LR.jpg
 :width: 60%
-:name: fig_David
+:label: fig_David
 
 Balancing hammer
 ```
@@ -360,7 +360,7 @@ Take a piece of chalk. Pull on the two sides, that creates tensile stress. The c
 
 ```{figure} ../figures/02-44TensileShearStress.*
 :width: 60%
-:name: fig_stress
+:label: fig_stress
 
 The difference between tensile and shear stress
 ```
@@ -370,7 +370,7 @@ Anybody has a raw (unboiled) egg? Now this is something you might not have in a 
 
 ```{figure} ../figures/02-45EggThrow.*
 :width: 60%
-:name: fig_throw
+:label: fig_throw
 
 Throw an unboiled egg without breaking it.
 ```
@@ -383,7 +383,7 @@ Hold a sheet of paper as shown in {numref}`fig_throw`. The top end will be hangi
 
 ```{figure} ../figures/02-47-1Bernouilli1.*
 :width: 60%
-:name: fig_Bern1
+:label: fig_Bern1
 
 Bernoulli shown
 ```
@@ -398,7 +398,7 @@ Light a candle. *If I blow through a straw on the window side of the candle, wil
 
 ```{figure} ../images/20250513_114856.*
 :width: 60%
-:name: fig_Bern3
+:label: fig_Bern3
 
 Bernoulli shown
 ```

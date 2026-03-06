@@ -14,7 +14,7 @@ Anybody brought a tangerine? Will it sink or float in water? Why? Try it out. Th
 
 ```{figure} ../figures/float.*
 :width: 90%
-:name: fig_float
+:label: fig_float
 
 A tangerine floats and sinks...
 ```
@@ -50,14 +50,14 @@ Fill a glass of water until just below the edge (concave surface) and then fill 
 
 ```{figure} ../images/20250513_105125.*
 :width: 50%
-:name: fig_float1
+:label: fig_float1
 
 Meniscus below the rim (concave, hollow).
 ```
 
 ```{figure} ../images/20250513_105244.*
 :width: 50%
-:name: fig_float2
+:label: fig_float2
 
 Meniscus above the rim (convex).
 ```
@@ -70,7 +70,7 @@ Take a straw and a glass of water or better tea for visibility. Dip the straw in
 
 ```{figure} ../images/20250513_110152.*
 :width: 50%
-:name: fig_float
+:label: fig_float
 
 Water stays in the straw when your finger closes the lid.
 ```
@@ -89,7 +89,7 @@ Take a basin with water, a glass with a piece of paper handkerchief at the botto
 
 ```{iframe} https://youtube.com/embed/jJiqY82KmPo
 :width: 70$
-:name: vid_13
+:label: vid_13
 :aspectratio: auto 16 / 9
 :align: center
 

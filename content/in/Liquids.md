@@ -14,7 +14,7 @@ Heeft iemand een mandarijntje bij zich? Zal het drijven of zinken? Waarom? Probe
 
 ```{figure} ../figures/float.*
 :width: 90%
-:name: fig_float
+:label: fig_float
 
 Een mandarijntje drijft en zinkt...
 ```
@@ -51,17 +51,17 @@ Breng een suikerklontje en een kop koffie uit de personeelskamer. Doop een kant 
 Vul een glas water tot onder de rand (hol oppervlak) en vul een glas water tot over de rand (bol oppervlak). Teken de twee situaties op het bord. We gaan nu een ping-pong bal (of iets anders dat drijft) op het wateroppervlak leggen. De bal beweegt dan naar een stabiele positie. Laat leerlingen die tekenen voor beide situaties. Loop rond en zie. Dan het experiment. Een dan een verklaring door leerlingen! Uiteindelijk: zet voorbeelden van verklaringen op het bord en kies samen de beste. 
 
 ````{figure}
-:name: meniscus
+:label: meniscus
 ```{figure} ../images/20250513_105125.*
 :width: 50%
-:name: fig_float1
+:label: fig_float1
 
 Meniscus onder de rand (hol).
 ```
 
 ```{figure} ../images/20250513_105244.*
 :width: 50%
-:name: fig_float2
+:label: fig_float2
 
 Meniscus boven de rand (bol).
 ```
@@ -79,7 +79,7 @@ Doop het rietje in het glas en haal het er weer uit. Leeg. Doop het rietje in he
 
 ```{figure} ../images/20250513_110152.*
 :width: 50%
-:name: fig_float3
+:label: fig_float3
 
 Water blijft in het rietje zitten als je vinger hem afsluit.
 ```
@@ -105,7 +105,7 @@ Is er niet altijd een glas water in het lokaal, en een zakdoek in onze zak? Of h
 
 ```{iframe} https://youtube.com/embed/jJiqY82KmPo
 :width: 70$
-:name: vid_13
+:label: vid_13
 :aspectratio: auto 16 / 9
 :align: center
 

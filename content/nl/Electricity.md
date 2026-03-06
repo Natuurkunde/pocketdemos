@@ -28,7 +28,7 @@ Laat leerlingen komen met ideeën en bespreek. Elektrostatische inductie zou lei
 
 ```{iframe} https://www.youtube.com/embed/YI4bNdYzQYQ?si=HudH10AcVgUMhkYT
 :width: 60%
-:name: vid_11
+:label: vid_11
 :aspectratio: auto 16 / 9
 :align: center
 

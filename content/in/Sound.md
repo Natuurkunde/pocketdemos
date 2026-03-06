@@ -20,7 +20,7 @@ Ambil dua potong pipa PVC, misalnya panjang 10 cm dan 20 cm. Tiup melintasi luba
 
 ```{figure} images/panflute.jpg
 :width: 60%
-:name: fig_panflute
+:label: fig_panflute
 
 Foto dari [ShowthePhysics](https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo79/demo79.html) {cite:p}`pols2024show`
 ```
@@ -41,7 +41,7 @@ Gunakan Phyphox atau app serupa. Cobalah untuk menghasilkan gelombang sinus yang
 
 ```{figure} images/phyphox_sound.*
 :width: 50%
-:name: fig_ph
+:label: fig_ph
 
 Bunyi direkam dengan [phyphox app](https://phyphox.org/).
 ```
