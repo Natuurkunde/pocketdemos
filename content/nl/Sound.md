@@ -5,9 +5,6 @@
 
 Tik tegen verschillende objecten in het lokaal om te laten horen dat elk object zijn eigen geluid heeft. Vergelijk grote en kleine houten objecten (of ander materiaal van dezelfde soort) en luister naar het verschil in toonhoogte. Vraag leerlingen te voorspellen of het geluid van het volgende object hoger of lager zal zijn en waarom. Wees voorzichtig met de ramen, maar ook die hebben een eigen toon.
 
-+++
-**hier een onzin tekst voor te testen.**
-
 ## Toonhoogte en lengte met een liniaal
 
 Leen een liniaal van een leerling, klamp die tussen hand en tafel en laat een deel uitsteken. Breng de liniaal in trilling met de andere hand en luister. Varieer de toonhoogte door het uitstekende deel langer en korter te maken. Het is zelfs mogelijk deze demo kwantitatief te maken door het zingen van do-re-mi want de tweede “do” heeft precies een 2x zo hoge frequentie als de eerste “do”. Zo kun je de relatie vinden tussen lengte en frequentie. Word de frequentie 2x zo hoog als je de uitstekende lengte halveert?
