@@ -14,7 +14,7 @@ A. 20 {math}`^{\circ}`C\
 B. 40 {math}`^{\circ}`C\
 C. een klein beetje minder dan 40 {math}`^{\circ}`C?
 
-Laat de leerlingen blind stemmen (leerlingen doen hun ogen dicht en stemmen met een vinger op optie A, twee vingers op optie B en drie vingers op optie C). Je kan dit laten controleren door een leerling een vinger in het enkele glas te steken en in het bakje met de inhoud van de twee glazen bij elkaar.
+Laat de leerlingen blind stemmen (leerlingen doen hun ogen dicht en stemmen met een vinger op optie A, twee vingers op optie B en drie vingers op optie C). Je kunt de uitkomst laten controleren door een leerling een vinger in het enkele glas te steken en in het bakje met de inhoud van de twee glazen bij elkaar. Je kunt eventueel ook een vraaag stellen over water in een glas dat je verdeelt over twee andere glazen, wordt de temperatuur dan de helft? Nee toch!
 
 Vraag 2: We hebben een metalen staaf die we in twee stukken snijden, X en Y. Het volume van X is twee keer zo veel als het volume van Y. De relatie tussen de dichtheden {math}`ρ_x` van {math}`X` en {math}`ρ_y` van {math}`Y` is:
 
