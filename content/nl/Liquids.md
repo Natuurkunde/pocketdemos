@@ -1,6 +1,10 @@
 # Vloeistoffen en lucht
 Een artikel met 30 experimenten met een glas water is beschikbaar van de auteur en in GIREP notulen [@Berg2021]. Deze demo's gaan over mechanica, vloeistoffen, optica, golven, en zelfs elektriciteit. 
 
+## Vast, vloeibaar, gas
+Een vaste stof heeft een vaste vorm. Neem een willekeurig vast object om dit te illustreren. Een vloeistof neemt de vorm aan van het vaste voorwerp waar het in zit. Laat zien met een glas water. Kun je dat water samendrukken in een kleiner volume? Nee, dat lukt niet. Neem dan een open plastic zak, wat zit erin? Niets? Sluit de zak af en probeer die samen te drukken. Dat lukt een beetje maar er wordt duidelijk teruggeduwd. Er zit iets in de zak, lucht, een gas. Ook dat neemt de vorm aan van het voorwerp waar het in zit. Je kunt die zak vervormen, maar er blijft duidelijk iets in zitten dat zich steeds aanpast aan de vorm van de plastic zak. Dat iets kan wel in een kleiner volume worden gedrukt (probeer een ballon, maar samendrukken van lucht is pas echt te zien in een afgesloten injectiespuit).
+
+
 ## Vloeistoffen en eigenschappen 
 Is er iemand met nagellak, Coca-Cola, of water?
 Gebruik het om te laten zien dat het oppervlak altijd horizontaal is, hoe je het flesje ook draait. Kijk naar de rand van de meniscus: adhesie. Kijk naar de golven op het oppervlak wanneer je een beetje schudt. Kijk of de vloeistof stroperig is of net als water wanneer je de fles omkeert, etc. 
@@ -8,6 +12,8 @@ Gebruik het om te laten zien dat het oppervlak altijd horizontaal is, hoe je het
 ## Drijven en zinken 1
 Probeer allerlei voorwerpen en materialen. Stenen zinken, hout drijft. Grote en zwaardere voorwerpen/materialen kunnen toch drijven terwijl lichtere, kleinere zinken. Deel materialen in op drijven, zinken, zweven. Sommige materialen die zinken (klei, aluminium) kunnen drijvend gemaakt worden door ze te verbuigen. Van aluminium folie (lunchverpakking van leerlingen) kun je gemakkelijk bootjes vouwen die ook vracht past. Tenslotte zijn er paperclips die zinken wanneer je ze in het water gooit, maar kunnen drijven wanneer je ze netjes en voorzichtig op het water legt. 
 
+## Vorm en zinken en drijven 
+Neem een materiaal dat normaal zinkt zoals klei of aluminiumfolie. Buig het dan in een vorm die kan drijven. Maak bv bootjes van aluminiumfolie en probeer die in een glas water. We kunnen er zelfs vracht in leggen en het drijft nog.
 
 ## Drijven en zinken 2
 Heeft iemand een mandarijntje bij zich? Zal het drijven of zinken? Waarom? Probeer het. Pel het dan af. Zullen de partjes drijven of zinken? Waarom? Probeer het. Probeer eventueel ander fruit. Zie {numref}`Figuur {number} <fig_float>` voor het resultaat. De ongepelde mandarijn bevat nog lucht onder de schil. De partjes bevatten vooral water maar met suikers die zorgen voor een dichtheid groter dan water.
@@ -28,6 +34,15 @@ Maak een muntje schoon onder de kraan, droog het helemaal af en leg het op een k
 
 ### Adhesie en kruimels
 Je eet koekjes of speculaas, of cake en er vallen kruimels. Hoe pak je die op als ze klein zijn? Juist, even aan de vinger likken en dan vinger op de kruimel en dan plakt de kruimel aan je vinger. Adhesie! Het is ook een manier om vuiltjes van je toetsenbord te verwijderen, niet opeten. 
+
+### Adhesie en wegen
+Leg een kaart uit een kaartspel of een creditcard of soortgelijk pasje op een glas ({numref}`fig_adhesie_pas`). Leg een muntje op het uitstekende deel van de kaart en die zal kantelen. Vul nu het glas met water totdat het water tegen de kaart aan komt. Leg muntjes op het uitstekende stuk van de kaart. Twee krachten zijn in competitie: adhesie probeert de positie van de kaart te behouden terwijl het gewicht van de muntjes de kaart probeert te kantelen. Een gelegenheid om adhesie, krachten, en krachtmomenten te laten zien. Met creativiteit en stevig doordenken en experimenteren kan hier een meetinstrument uit worden ontwikkeld. Zie: https://www.youtube.com/watch?v=KcbFNFWEqkM 
+
+```{figure} ../figures/adhesie_pas.*
+:label: fig_adhesie_pas
+
+Maak een weegschaal met behulp van adhesie.
+```
 
 ### Adhesie en cohesie
 Gebruik het rietje of een oogdruppelaar om een waterdruppel op tafel te maken of zelfs op elke leerlingtafel. Gebruik verschillende ondergronden (glas, hout, kunststof). Maak een stukje tafel een beetje vet of was. Vergelijk het “bol” staan van de waterdruppels op de verschillende oppervlakken en op het vet. Gebruik het oppervlak met de bolste druppel. Doe nu wat zeep in het water en maak opnieuw een druppel. Hoe bol is die nu? Op welke oppervlakken krijg je de grootste cohesie en op welke de grootste adhesie? 
@@ -68,6 +83,15 @@ Meniscus boven de rand (bol).
 .
 ```` 
 
+## Oppervlaktespanning 1
+Er zijn voorwerpen die zinken wanneer ze op hun kant op het wateroppervlak (glas water) worden gelegd, maar die drijven als ze heel voorzichtig plat worden gepositioneerd. Bv een scheermesje of een paperclip. Maak een paperclip goed plat en gebruik dan een plastic vorkje om het voorzichtig op het water te leggen. De paperclip blijft drijven! Sommige aluminium muntjes doen het ook. Alsof het oppervlak van het water een netje vormt waar je iets op kunt leggen. 
+
+## Oppervlaktespanning 2
+Voeg nu wat zeep toe aan het water, bv druppels zeep van een flacon detergent of laat een leerling even wat zeep halen bij een wasbak bij de toiletten. 
+
+## Marangoni effect
+Vouw een klein driehoekvormig stukje papier of een kaartje tot een bootje van 1 of 2 cm, zet het op water in een Petri schaaltje, glas, of beter een wat grotere container of aquarium. Voeg dan wat zeep toe achter het bootje en daar gaat ‘ie. Zie http://physicsgirl.org/soapboat/
+
 ## Chromatografie
 Neem een strookje papier, zet een stip met een zwarte viltpen, hang de strook in water dat net onder de stip rijkt. Laat een tijdje hangen. Het water komt omhoog (Capillaire beweging) en de inkt blijkt een mengsel te zijn van pigmenten met verschillende kleuren: chromatografie! Verschillende pigmenten blijken met verschillende snelheden met het water naar boven te migreren. Dit is echt scheikunde, het scheiden van stoffen. Er kan van alles gevarieerd worden, de vloeistof (water of alcohol, of menging in verschillende verhoudingen, zoutoplossingen), soorten papier, soorten inkt. Google op chromatography in the classroom en er zijn talloze [experimentele mogelijkheden](https://edu.rsc.org/primary-science/kitchen-roll-chromatography/4012057.article)[^sdfwe]. Zie ook de [site van de Royal Society of Chemistry in UK](https://edu.rsc.org/ideas/5-ways-to-teach-paper-chromatography/4016117.article)[^fghj].
 
@@ -87,6 +111,18 @@ Water blijft in het rietje zitten als je vinger hem afsluit.
 
 ## Lucht neemt ruimte in
 Sluit de top van een glazen buisje alvorens het in een glas water te duwen, of beter, regel een transparant plastic of glazen bakje, houd een glas op z’n kop, en druk het in het water. Het waterniveau in het omgekeerde glas zal lager zijn dan het waterniveau in het bakje. Hoe komt dat? Wat is het dat het water tegenhoudt? De lucht in het glas kan worden samengedrukt, maar beperkt. 
+
+## Opblazen, druk en elasticiteit
+Natuurlijk heb je altijd een ballon in je broekzak, uiterst nuttig voor natuurkunde experimenten. Blaas een nieuwe ballon op, het eerste begin is moeilijk, de elasticiteit van de ballon werkt sterk tegen. Wanneer een bepaalde grootte is bereikt, dan gaat het ineens gemakkelijker, alsof we voorbij een soort van elastische limiet zijn en dan gaat het gemakkelijker. De verklaring zal te maken hebben met rubber molecuulketens en hun onderlinge oriëntatie.
+
+## Kleine en grote ballon
+Neem twee ballonnen, de een normaal opgeblazen, de andere nog klein. Vraag de hulp van een leerling bij het dichthouden van de ballonnen. Verbind ze met een glazenbuisje (bv glazen rietje) maar houd de ballonnen dicht zodat de lucht van de één niet bij de ander kan komen. Er zijn ook buisjes met een kraantje maar die zitten gewoonlijk niet in je broekzak. Laat leerlingen voorspellen wat er gebeurt als de verbinding tussen de ballonnen geopend wordt en waarom. Nou, dat lijkt duidelijk, de lucht gaat zich verdelen over de twee ballonnen (Predict – Explain). Nu open de verbinding. Het is juist de kleine ballon die leegloopt. Dan discussie over een verklaring (Observe-Explain), misschien eerst even in tweetallen. De verklaring ligt in de vorige demo, bij het opblazen van een ballon moet je in het begin harder blazen dan wanneer de ballon al groter is! De druk in die kleine ballon zal groter zijn, dat voel je zelf met het blazen.
+
+## Tafel of zwaar natuurkundeboek optillen door opblazen van ballon
+Je kunt een tafel op zijn kop op een andere tafel zetten. Enkele nog niet opgeblazen ballonnen ertussen. Dan een paar leerlingen laten blazen. De bovenste tafel gaat omhoog, hydraulische werking. Het is handig om de ballonnen van tevoren al een keer op te blazen en leeg te laten lopen opdat het blazen van de ballonnen tussen de tafelbladen niet te zwaar wordt. In plaats van de tafel op zijn kop kan de docent ook een zwaar natuurkundeboek optillen met een ballon.
+
+## Breinaald door opgeblazen ballon
+Blaas een ballon op en leg een knoop in het uiteinde. Neem dan een breinaald met wat vet erop gesmeerd. Steek die voorzichtig door de onder- en bovenkant van de ballon waar het rubber wat dikker is. Doe alsof de ballon gaat knappen, maar tot verbazing van iedereen doet ‘ie dat niet. Het rubber sluit zich netjes rond de breinaald (figuur X) en de ballon blijft opgeblazen.
 
 ## Luchtbellen transporteren onder water
 Bij een grotere bak kun je luchtbellen van het ene glas naar het ander brengen. Als kinderen speelden we met die luchtbellen tijdens het afwassen. De luchtbellen bewegen naar het hoogste punt. Je kunt ook een rietje nemen, in het water steken, en erdoor blazen. De luchtbellen komen verticaal naar boven.

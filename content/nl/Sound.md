@@ -33,6 +33,13 @@ Gebruik nu de langere buis en laat opnieuw de link zien tussen de toon en de len
 
 Zie ook [ShowthePhysics](https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo79/demo79.html)[^dfsds] voor een uitgebreidere versie van deze demo.
 
+## Klank
+Neem een glas en een muntje. Tik tegen het glas dat op de tafel staat, niet vasthouden. Doe er dan steeds een beetje water bij en tik tegen het deel met water en het deel met lucht. Het klinkt duidelijk verschillend. Dat is natuurlijk ook zo met alle voorwerpen in het lokaal, tik maar met het muntje tegen tafels en stoelen en stoelpoten, de ramen,  en …. Uit die klank kun je vaak ook horen wat het materiaal is.
+
+## Geluid voelen
+Blaas een ballon op en houd die met twee handen stevig vast. Praat tegen de ballon. Voel je de trillingen? Voel je verschil als je hoge tonen produceert, of lage, of als je er gaat schreeuwen tegen de ballon. Naar een idee van Hermien Dees.
+
+
 ## Toonhoogte meten met een telefoon
 
 Als je naar de les kwam om wat over geluid te vertellen, dan zou je mischien een speelgoedfluit meenemen. Kunnen de leerlingen de toon daarvan meten met hun telefoon?

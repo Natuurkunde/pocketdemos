@@ -1,4 +1,4 @@
-+++
+
 # Licht
 
 In een kaal klaslokaal heb je verstrooid licht van buiten en soms zelfs direct zonlicht. Er zijn lampen aan het plafond, zaklampen in de telefoons van leerlingen, en licht van telefoonschermen. De leraar heeft misschien zelfs een laser in zijn of haar zak. Je kunt met al deze verschillende lichtbronnen veel natuurkundeverschijnselen laten zien.
@@ -54,6 +54,9 @@ Figuren overgenomen uit [@stead1980exploring](), met toestemming
     B. Verspreidt tot ongeveer halverwege jou \
     C. Verspreidt tot jou \
     D. Verpreidt tot het ergens tegenaan komt
+
+## Transparant versus ondoorzichtig
+Vaktaal kan soms heel gemakkelijk geïllustreerd worden door er een beeld bij te plaatsen in de hersens van leerlingen. Bijvoorbeeld “transparant”, neem een glas water, je kunt er doorheen kijken, de lichtstralen gaan er dwars doorheen. Wat is er nog meer transparant in een klaslokaal? De ramen, voorwerpen van glas, vloeistoffen als water. Druppel nu wat melk in het glas water, bv melk meegebracht door een leerling, of een cupje koffiemelk van de personeelskamer. Nu wordt het glas water “ondoorzichtig”, je kunt er niet meer doorheen kijken. De vaktaal is nu in de hersens gekoppeld aan beelden.
 
 ## Wit licht en kleuren met alledaagse voorwerpen
 
@@ -168,6 +171,20 @@ Vraag de leerlingen om het stralendiagram uit [Figuur 10](#fig_pool) te tekenen.
 
 Natuurkundeplezier in het zwembad
 :::
+
+:::{figure} ../images/pool.*
+:width: 60%
+:align: left
+:alt: Natuurkundeplezier in het zwembad
+
+Natuurkundeplezier in het zwembad, geplaatst met toestemming
+:::
+
+
+### Totale interne reflectie
+Zet een vol glas water op de rand van een tafel en kijk van onderaf naar de waterspiegel. Bij een invalshoek groter dan de kritische hoek werkt het wateroppervlak als een spiegel. Leg wat voorwerpen of een foto aan de andere kant van het glas en je ziet die via de waterspiegel. Het kost ietsje meer tijd om ook glazen water op leerling tafels te zetten, maar het is wel zo effectief. Laat ze het zelf ervaren. Neem dan een laser pointer, schijn eerst steil van onder en de laserstraal is zichtbaar op het plafond. Houd de laser dan steeds meer horizontaal (dus grotere hoek van inval) en bij een hoek groter dan de kritische hoek klapt de lichtstraal om en zien we een stip op de tafel.
+
+
 
 ## Felle versus donkere achtergrond
 
