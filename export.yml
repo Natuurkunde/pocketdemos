@@ -7,42 +7,44 @@ project:
   exports:
     - id: output-pdf
       format: typst
-      template: https://github.com/myst-templates/plain_typst_book.git
+      template: ./template #https://github.com/myst-templates/plain_typst_book.git
       output: ./exports/200demos.pdf
 # additional options #
 
-# Include a figure at the cover page
-      cover: cover.jpg
-      coverposition: 5  #in cm from title
-      cover_width: 8 #in cm
+      show_cover_full: true
+      show_title_page: true
+      show_title_page_image: false
+      show_contributor_affiliations: true
+      show_toc: true
+      show_list_of_figures: false
+      show_list_of_tables: false
+      frontmatter_numbering: roman
+      mainmatter_numbering: arabic
 
-# ToC
-      ToC_depth: 2
-      show_ToC: true
-
-# Page settings
-      #### Logo at top of position
-      logo: logo.jpg
-      logo_width: 15
-
-      #### Looks
-      papersize: a4
-      margin_top: 2 #cm
-      margin_bottom: 2 #cm
-      margin_left: 10 #%
-      margin_right: 10 #%
-      show_pagenumber: true
-
-      #### Fonts
-      fontsize: 12
-      fontstyle: 
-      linespacing: .5
-      justification: false
+# page layout and styling      
+      paper_size: a4
+      margin_top_cm: 2.5
+      margin_bottom_cm: 2.5
+      margin_left_cm: 3.0
+      margin_right_cm: 2.0
+      font_body: Libertinus Serif
+      font_mono: DejaVu Sans Mono
+      font_size_pt: 11
+      line_spacing_em: 1
       
-      #### Theme
-      colortheme: blue.darken(30%)
-      colorheadings: navy
+      toc_depth: 3
+      logo: logo.png
+
+      # Cover variant: simple | graphical | custom
+      cover_page_variant: graphical
+      cover_background_image: cover.jpg
+      cover_title_box_opacity_pct: 55
       
-# Preface
-      preface: 
-      
+      # Title-page variant: simple | formal | custom
+      title_page_variant: "formal"
+      title_page_image: cover.jpg
+      title_page_image_anchor: bottom
+      title_page_image_width_cm: 3
+      title_page_image_dx_cm: 0
+      title_page_image_dy_cm: -3.0
+

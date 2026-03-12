@@ -4,3 +4,5 @@ raw
 videos
 *.docx
 _else
+*.pdf
+*.xlsx

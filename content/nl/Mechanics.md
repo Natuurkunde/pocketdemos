@@ -324,14 +324,14 @@ Friction...
 Als leerlingen echt even een time-out van denken moeten hebben, laat ze dan de pagina's van twee boeken om en om in elkaar leggen. De boeken kunnen niet uit elkaar getrokken worden, wrijving! Bekend is natuurlijk de ideale versie van deze proef waarin je twee telefoonboeken (wie kent ze nog...) in elkaar vlecht met pagina's om en om en met een handvatconstructie. Twee sterke mensen kunnen die boeken niet uit elkaar trekken, maar dat is geen broekzak demo meer.
 
 ### Wrijving en normaalkracht
-Hewitt’s vraag kan prachtig worden beantwoord met een demonstratie van een halfvol glas water op een schuin oppervlak van een tafel die aan een kant iets omhoog wordt getild, zo dat het glas net niet in beweging komt. Laat even voorzichtig zien dat het glas bij een schuinere stand van de tafel in beweging komt. Vraag leerlingen wat er gebeurt als je er water bij schenkt (bv kiezen uit alternatieve antwoorden van {numref}`fighewit`). Schenk er dan water bij. Het glas blijft staan. 
+Hewitt’s vraag kan prachtig worden beantwoord met een demonstratie van een halfvol glas water op een schuin oppervlak van een tafel die aan een kant iets omhoog wordt getild, zo dat het glas net niet in beweging komt. Laat even voorzichtig zien dat het glas bij een schuinere stand van de tafel in beweging komt. Vraag leerlingen wat er gebeurt als je er water bij schenkt (bv kiezen uit alternatieve antwoorden van {numref}`fig_hewit`). Schenk er dan water bij. Het glas blijft staan. 
 
 ````{figure}
 :label: fig_hewit
-```{figure} ../figures/hewit1.jpg
+```{figure} ../images/hewit1.jpg
 
 ```
-```{figure} ../figures/hewit2.jpg
+```{figure} ../images/hewit2.jpg
 ```
 ```` 
 
