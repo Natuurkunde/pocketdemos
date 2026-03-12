@@ -58,7 +58,7 @@ Blazen door een mond met grote opening
 
 ## Afkoeling bij verdamping
 
-Eén van de meisjes heeft vast zoiets als nail polish remover of deodorant. Laat een druppel daarvan op de rug van de hand vallen van een leerling voor de klas en die voelt het kouder worden. Ondertussen verdampt de vloeistof. Of probeer schoonmaak alcohol of aceton. Natuurlijk is het mooier als iedere leerling dit kan voelen.
+Eén van de meisjes heeft vast zoiets als nail polish remover of deodorant. Laat een druppel daarvan op de rug van de hand vallen van een leerling voor de klas en die voelt het kouder worden. Ondertussen verdampt de vloeistof. Of probeer schoonmaak alcohol of aceton. Natuurlijk is het mooier als iedere leerling dit kan voelen. Breng een oogdruppelaar en een flesje schoonmaak alkohol mee in je broekzak.
 
 ## Verdamping en condensatie
 
