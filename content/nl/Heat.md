@@ -70,7 +70,7 @@ Parfumflesje open maken in een hoek van het lokaal, na enige tijd is het op stee
 
 ## Sublimatie
 
-Het bovenstaande experiment zou ook moeten werken met een vast stuk zeep, dat zou ergens op de school wel te vinden moeten zijn. Als dat niet zo is, kijk dan of de leerlingen vaste stoffen in hun tas hebben met een geur (voedsel, een sandwich?). Sublimatie! Of is het een vast materiaal waar een gas dat we ruiken in zit en is het geen sublimatie?
+Het bovenstaande experiment zou ook moeten werken met een vast stuk zeep, dat zou ergens op de school wel te vinden moeten zijn. Als dat niet zo is, kijk dan of de leerlingen vaste stoffen in hun tas hebben met een geur (voedsel, een sandwich?). Sublimatie! Of is het een vast materiaal waar een gas in zit dat we ruiken, dan is het geen sublimatie?
 
 ## Energietransport: geleiding, stroming, straling
 
