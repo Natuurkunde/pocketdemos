@@ -79,6 +79,12 @@ Neem je hete kopje koffie van de lerarenkamer mee naar de klas. Hoe koelt de kof
 
 Steek een kaars aan, nader de vlam van bovenaf, Wat je voelt, is dat warmte van geleiding, stroming, of straling? Nader nu met je hand van opzij, kun je nu dichterbij komen zonder je hand te branden? Wat je voelt, is dat warmte van geleiding, stroming, of straling? Boven de vlam is vooral stroming van hete lucht al zal er ook straling zijn, je kunt die zichtbaar maken door de vlam te projecteren op een scherm (een A4). De vorm van de vlam is ook langgerekt, dat geeft stroming aan. De warmte opzij is vooral afkomstig van straling.
 
+## Geleiding met een kaars
+
+Houd voorwerpen van verschillende materialen in de vlam en vergelijk geleiding, bijvoorbeeld een muntje, of een potlood.
+
+Bovenstaande experimenten met kaarsen kunnen gedaan worden door de leraar (met een grote kaars in een donkere kamer en bij voorkeur met een webcam), of tegelijk door een leraar en leerlingen op hun tafel, of als een lab oefening voor de leerlingen. Als de leerlingen dit op hun tafel doen zijn er natuurlijk meer kaarsen en lucifers nodig en dan is dit geen broekzak demo meer.Water warm houden
+
 ## Water warm houden
 
 Neem twee bekers met warm water, of nog beter, neem een volle thermosfles, twee bekers en nog wat materialen zoals schoteltjes, een handdoek en een oude krant. *Ik ga deze twee bekers vullen met warm water. Hoe kan ik ze zo lang mogelijk warm houden? Hoe voorkom ik warmteverlies door geleiding, hoe voorkom ik warmteverlies door stroming en verdamping, of door straling?* Vraag de leerlingen om mee te denken en isoleer daarna een van de twee bekers, de andere gebruik je als controle voor vergelijking. Twee thermometers zouden hier helpen, anders kan je de vinger van een leerling gebruiken. Terwijl je wacht op het afkoelen kan je de leerlingen een paar vragen of een opdracht geven om over na te denken. Ik deed dit altijd als labactiviteit met mijn leerlingen, maar dan met thermometers. In de eerste ronde meten ze gewoon het afkoelen van twee open glazen om te oefenen met temperatuur-tijd metingen. In de tweede ronde isoleren ze een van de glazen hoe ze maar willen en vergelijken ze dat met het ongeïsoleerde glas. In de derde ronde leren ze eerst over energietransport door geleiding, stroming en straling, en herontwerpen ze daarna de isolatie. De derde ronde leverde best goede Joule meters op, goed genoeg om soortelijke warmte experimenten te doen {cite:p}`Berg1987`.
@@ -87,11 +93,7 @@ Neem twee bekers met warm water, of nog beter, neem een volle thermosfles, twee 
 
 Je zou ook het tegenovergestelde kunnen doen. Neem een heet kopje koffie mee van de lerarenkamer. *Dit is te warm om te drinken, maar wat zou ik kunnen doen om het snel af te koelen?* Roeren? Over de bovenkant van het kopje heen blazen? Hoe verhoudt dit zich tot geleiding, stroming en verdamping? (Roeren stimuleert afkoelen aan het oppervlakte door stroming/verdamping. Over de bovenkant heen blazen haalt de verdampte en verzadigde koffie-/waterdamp weg en versnelt het afkoelen dus door verdamping).
 
-## Geleiding, stroming, straling met een lucifer of aansteker
-
-Dit zijn misschien geen normale voorwerpen om in een klaslokaal te hebben, maar ze zouden wel altijd in de zak van een natuurkundeleraar moeten zitten. Met de lucifers kan je geleiding laten zien (houd een metalen voorwerp in de vlam), stroming laten zien (houd je hand boven de vlam, maar niet te dichtbij) en straling laten zien (houd je hand aan de zijkant van de vlam, op een afstand).
-
-De volgende experimenten met kaarsen kunnen gedaan worden door de leraar (met een grote kaars in een donkere kamer en bij voorkeur met een webcam), of tegelijk door een leraar en leerlingen op hun tafel, of als een lab oefening voor de leerlingen. Als de leerlingen dit op hun tafel doen zijn er natuurlijk meer kaarsen en lucifers nodig en dan is dit geen broekzak demo meer.
+##
 
 ## Kaarsen en vlammen beschrijven en vragen formuleren
 
@@ -107,7 +109,7 @@ Probeer de vaste was aan te steken, die brandt niet. Kijk naar de gesmolten was,
 
 ## Een balancerende kaars
 
-Prik in het midden van een lange kaars een naald en laat deze balanceren op bijvoorbeeld twee glazen. Steek de kaars aan beide kanten aan. De kaars zal nu gaan wipwappen.
+Neem twee kaarsen, plaats ze met de onderkanten tegen elkaar en wikkel er een strip aluminiumfolie of gewoon papier strak omheen (figuur X). Steek daar een naald doorheen als as, ietsje boven het zwaartepunt. Plaats de as op de randen tussen twee glazen. Indien nodig een kaars ietsje uit de huls trekken totdat de kaarsen in evenwicht zijn. Dan beide kaarsen aansteken en we hebben een wip. Leerlingen bedenken een verklaring. De naar beneden wijzende kaars smeld het hardst, totdat deze kaars lichter wordt door het drippen van kaarsvet en naar boven wipt. Dan gaat het proces door aan de andere kant. Kijk ook of the frequentie van de wip verandert. Onderzoekjes zijn mogelijk van basisschool tot universitair niveau. Tjossem, Case en Bas (2019) rapporteerden indrukwekken onderzoek in de American Journal of Physics en uitvoerbaar met relatief simpele middelen (gevonden door Ruud Brouwer).
 
 ## Het patroon van de temperatuur van de vlam ontdekken 1
 
