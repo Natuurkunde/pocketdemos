@@ -5,26 +5,24 @@
 
 Sommige lokalen hebben warm en koud water. Als dat er niet is, even een leerling de klas uit sturen om 3 bekers water te halen: heet, lauw, koud. Dan leerlingen 1 vinger in het hete en 1 vinger in het koude water laten houden, en dan beide vingers in het lauwe water te brengen. Wat voelen ze?
 
-x
-
 ## Temperatuur optellen of niet? Intensieve versus extensieve variabelen
 
-Je hebt twee halfvolle glazen water elk op de omgevingstemperatuur. Nu giet je ze bij elkaar, de temperatuur wordt dan 20 {math}`^\circ`C, 40 {math}`^\circ`C, of iets minder dan 40 {math}`^\circ`C? Er zijn leerlingen die kiezen voor die 40 {math}`^o`C en die temperaturen optellen. Misschien toch even goed om die leerlingen te confronteren. Als temperaturen optelbaar waren, dan zou je water kunnen koken door 5 glazen van 20 {math}`^\circ`C bij elkaar te doen. Koken zonder energie! Deze demo kan ook een startpunt zijn voor discussie van intensieve en extensieve grootheden.
+Je hebt twee halfvolle glazen water elk op de omgevingstemperatuur van 20 {math}`^\circ`C Nu giet je ze bij elkaar, de temperatuur wordt dan 20 {math}`^\circ`C, 40 {math}`^\circ`C, of iets minder dan 40 {math}`^\circ`C? Er zijn leerlingen die kiezen voor die 40 {math}`^o`C en die temperaturen optellen. Misschien toch even goed om die leerlingen te confronteren. Als temperaturen optelbaar waren, dan zou je water kunnen koken door 5 glazen van 20 {math}`^\circ`C bij elkaar te doen. Koken zonder energie! Deze demo kan ook een startpunt zijn voor discussie van intensieve en extensieve grootheden.
 
-Ik heb 5 gazen water van de kraan, allemaal met een temperatuur van 20 {math}`^{\circ}`C. Als ik ze bij elkaar giet, wat is dan de temperatuur?\
+Vraag 1: Ik heb 2 glazen water van de kraan, beide met een temperatuur van 20 {math}`^{\circ}`C. Als ik ze bij elkaar giet, wat is dan de temperatuur?\
 A. 20 {math}`^{\circ}`C\
 B. 40 {math}`^{\circ}`C\
 C. een klein beetje minder dan 40 {math}`^{\circ}`C?
 
 Laat de leerlingen blind stemmen (leerlingen doen hun ogen dicht en stemmen met een vinger op optie A, twee vingers op optie B en drie vingers op optie C). Je kan dit laten controleren door een leerling een vinger in het enkele glas te steken en in het bakje met de inhoud van de twee glazen bij elkaar.
 
-Dan is er de volgende vraag: we hebben een metalen staaf die we in twee stukken snijden, X en Y. Het volume van X is twee keer zo veel als het volume van Y. De relatie tussen de dichtheden {math}`ρ_x` van {math}`X` en {math}`ρ_y` van {math}`Y` is:
+Vraag 2: We hebben een metalen staaf die we in twee stukken snijden, X en Y. Het volume van X is twee keer zo veel als het volume van Y. De relatie tussen de dichtheden {math}`ρ_x` van {math}`X` en {math}`ρ_y` van {math}`Y` is:
 
 A.  {math}`ρ_x = 2ρ_y`\
 B.  {math}`ρ_x = ρ_y`\
 C.  {math}`ρ_x = 1/2 ρ_y`
 
-Dit zullen best veel leerlingen fout hebben. Je zou vergelijkbare vragen kunnen stellen over andere materiële eigenschappen, zoals soortelijke warmte en soortelijke weerstand. Welke natuurkundige eigenschappen kan je optellen? Massa, gewicht en volume. Welke eigenschappen kan je niet optellen (temperatuur, dichtheid, materiële eigenschappen)?
+Dit zullen best veel leerlingen fout hebben. Je zou vergelijkbare vragen kunnen stellen over andere materiële eigenschappen, zoals soortelijke warmte en soortelijke weerstand. Welke natuurkundige eigenschappen kan je optellen? Massa, gewicht en volume. Welke eigenschappen kan je niet optellen? Temperatuur, dichtheid, materiële eigenschappen?
 
 ## Warmte en wrijving
 
