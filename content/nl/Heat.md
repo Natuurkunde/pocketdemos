@@ -30,7 +30,7 @@ Wrijf enkele keren stevig in je handen. Wat voel je? Rek een elastiekje een aant
 
 ## Geleiding
 
-Laat leerlingen verschillende materialen voelen, bijvoorbeeld metaal van de stoelen, hout, kunststof, textiel. Hoe warm voelt het? Kunnen die materialen in hetzelfde lokaal wel verschillende temperaturen hebben? Als de temperaturen dan toch gelijk zijn, waarom voelt het dan toch verschillend? Geleiding! Metalen nemen gemakkelijk warmte op van de vingers/handen want die warmte-energie verspreid zich direct over het hele metalen voorwerp. Als je na het aanraken van het metaal met dezelfde vingers de bovenkant van je andere hand aanraakt, dan voelt het koud. Het oppervlak van de vingers is duidelijk afgekoeld door aanraking van metaal. Aanraken van hout voelt niet koud aan.
+Laat leerlingen verschillende materialen voelen, bijvoorbeeld metaal van de stoelen, hout, kunststof, textiel. Hoe warm voelt het? Kunnen die materialen in hetzelfde lokaal wel verschillende temperaturen hebben? Als de temperaturen dan toch gelijk zijn, waarom voelt het dan toch verschillend? Geleiding! Metalen nemen gemakkelijk warmte op van de vingers/handen want die warmte-energie verspreid zich direct over het hele metalen voorwerp. Als je na het aanraken van het metaal met dezelfde vingers de bovenkant van je andere hand aanraakt, dan voelt het koud. Het oppervlak van de vingers is duidelijk afgekoeld door aanraking van metaal. Aanraken van hout voelt niet koud aan, hout geleidt slecht.
 
 ## Stroming
 
