@@ -25,11 +25,11 @@ Visualisatie van de seizoenen: het hoofd van de docent wordt de Zon, de ballon (
 
 ## Siderische versus synodische maand
 
-Met dezelfde ballon kun je het verschil uitleggen tussen een siderische (t.o.v. de sterren) en synodische (t.o.v. de zon) maand. Schrijf een M op de kant van de Maan die op Aarde gericht is en Z op de kant die naar de zon is gericht wanneer de Maan tussen Aarde en Zon in staat. De docent (Aarde) loopt om de tafel (Zon) met de ballon en net als in de vorige demo blijft de letter M op Aarde gericht. Een leerling in de verre hoek van het lokaal is Ster. Om 360o te draaien heeft de Maan 27 dagen en bijna 8 uur nodig, dat is t.o.v. de Ster (of sterren). Maar dan staat de M nog niet precies tegenover de Zon want de Aarde heeft ondertussen een stukje van een cirkel (of beter ellips) afgelegd. De Maan moet nog wat extra weg afleggen en heeft totaal 29 dagen en bijna 13 uur nodig om weer dezelfde oriëntatie t.o.v. de Zon te bereiken, d.w.z. Z precies tegenover Zon.
+Met dezelfde ballon kun je het verschil uitleggen tussen een siderische (t.o.v. de sterren) en synodische (t.o.v. de zon) maand. Schrijf een M op de kant van de Maan die op Aarde gericht is en Z op de kant die naar de zon is gericht wanneer de Maan tussen Aarde en Zon in staat. De docent (Aarde) loopt om de tafel (Zon) met de ballon en net als in de vorige demo blijft de letter M op Aarde gericht. Een leerling in de verre hoek van het lokaal is Ster. Om 360 graden te draaien heeft de Maan 27 dagen en bijna 8 uur nodig, dat is t.o.v. de Ster (of sterren). Maar dan staat de M nog niet precies tegenover de Zon want de Aarde heeft ondertussen een stukje van een cirkel (of beter ellips) afgelegd. De Maan moet nog wat extra weg afleggen en heeft totaal 29 dagen en bijna 13 uur nodig om weer dezelfde oriëntatie t.o.v. de Zon te bereiken, d.w.z. Z precies tegenover Zon.
 
 ## Parallax als afstandmeting
 
-Zelfde opstelling als bij de baan van aarde rond de zon. Kies een leerling op de voorste rij als nabije ster. Kies een leerling op de achterste rij als een verre ster. Kies nu twee posities van aarde 6 maanden van elkaar en vergelijk de hoek tussen de richtingen waarin je de ster van de twee posities ziet. Hoe verder weg de ster, hoe kleiner de hoek. Een waslijn of ander stuk touw helpt om de hoeken zichtbaar te maken.
+Zelfde opstelling als bij de baan van aarde rond de zon. Kies een leerling op de voorste rij als nabije ster. Kies een leerling op de achterste rij als een verre ster. Kies nu twee posities van aarde 6 maanden van elkaar en vergelijk de hoek tussen de richtingen waarin je de ster van de twee posities ziet. Hoe verder weg de ster, hoe kleiner de hoek. Een waslijn of ander stuk touw helpt om de hoeken zichtbaar te maken (figuur X).
 
 ## Schijnbare beweging van sterren in de loop van het jaar
 
@@ -37,7 +37,7 @@ Weer dezelfde opstelling. Terwijl de aarde haar baan om de zon aflegt, varieert 
 
 ## Komeet
 
-De zon is een lamp op tafel of een persoon in het midden van de klas. Er komt een komeet aan uit een willekeurige richting. Wat gebeurt er met de snelheid en richting van de komeet in de buurt van de zon? Laat andere leerlingen instructies geven aan de komeet hoe die moet versnellen/vertragen en/of van richting veranderen {cite:p}`showdefysica1`.
+De zon is een lamp op tafel of een persoon in het midden van de klas. Er komt een komeet aan uit een willekeurige richting. Wat gebeurt er met de snelheid en richting van de komeet in de buurt van de zon? Laat andere leerlingen instructies geven aan de komeet hoe die moet versnellen/vertragen en/of van richting veranderen {cite:p}`showdefysica1`. Zou de komeet voor de zon langs kunnen gaan in plaats van er achterlangs? Waarom wel/niet?
 
 ## Komeetinslag
 
