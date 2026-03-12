@@ -8,7 +8,6 @@ Voor een gedetailleerde beschrijving in PEOE-format, zie Showdefysica [@showdefy
 ```{iframe} https://youtube.com/embed/NjCsFRE8HA0
 :width: 60%
 :label: vid_1
-:aspectratio: auto 16 / 9
 :align: center
 
 Kunnen we onze handen versnellen met meer dan g?
@@ -66,7 +65,6 @@ Zou luchtweerstand evenredig zijn met $v^2$ in plaats van $v$? Als dat zo zou zi
 ```{iframe} https://youtube.com/embed/ELDJPqVrRZQ
 :width:60%
 :label: vid_2
-:aspectratio: auto 16 / 9
 :align: center
 
 Zou luchtweerstand evenredig zijn met $v^2$ in plaats van $v$?
@@ -121,7 +119,6 @@ Een vel papier en een glas of beker zijn altijd beschikbaar.
 ```{iframe} https://youtube.com/embed/fjGiXL4z-MY
 :width: 60%
 :label: vid_3
-:aspectratio: auto 16 / 9
 :align: center
 
 Maak de demo spectaculair door pas vlakbij de rand hard te trekken.
@@ -140,7 +137,6 @@ Wat extra massa in het midden geeft voldoende traagheid om beide uiteinden tegel
 ```{iframe} https://youtube.com/embed/enduuPXLM9g
 :width: 60%
 :label: vid_4
-:aspectratio: auto 16 / 9
 :align: center
 
 Wat extra massa in het midden geeft voldoende traagheid om beide uiteinden tegelijk te scheuren.
@@ -153,7 +149,6 @@ Steek een mes een stukje in een appel zodat de appel aan het mes blijft hangen (
 ```{iframe} https://youtube.com/embed/OGiPpFA3JIw
 :width: 60%
 :label: vid_5
-:aspectratio: auto 16 / 9
 :align: center
 
 Een bekende demo
@@ -176,7 +171,6 @@ Bron: mijn vroegere student Alfredo Guirit, nu docent in Tagbilaran, Bohol, Phil
 ```{iframe} https://youtube.com/embed/Ft9UD-xbqxQ
 :width: 60%
 :label: vid_6
-:aspectratio: auto 16 / 9
 :align: center
 
 Kun je een hamer balanceren op je vinger?
@@ -207,7 +201,6 @@ Daday klaar om haar beker veilig te laten vallen.
 ```{iframe} https://youtube.com/embed/h2ulQeDoHmY
 :width: 60%
 :label: vid_7
-:aspectratio: auto 16 / 9
 :align: center
 
 Voor veiligheid een jas of kussen op de vloer.
@@ -271,7 +264,6 @@ Neem een meetlat, aanwijsstok, of een bezemsteel. Balanceer die horizontaal op b
 ```{iframe} https://youtube.com/embed/RYFsPy8mUbI
 :width: 60%
 :label: vid_8
-:aspectratio: auto 16 / 9
 :align: center
 
 .
@@ -289,7 +281,6 @@ Het vinden van het zwaartepunt kun je doen (en voorspellen) met verschillende vo
 ```{iframe} https://www.youtube.com/embed/JDwHYHY7RqI?si=b-VYk_exLajihKs4
 :width: 60%
 :label: vid_9
-:aspectratio: auto 16 / 9
 :align: center
 
 Statische versus kinetische wrijving
@@ -304,7 +295,6 @@ Neem een half a4 vel papier, leg het tussen de pagina's van een gesloten boek, t
 ```{iframe} https://www.youtube.com/embed/WgknDyxIL00?si=dhsveBNTVAN3S7Ur
 :width: 60%
 :label: vid_10
-:aspectratio: auto 16 / 9
 :align: center
 
 Friction...

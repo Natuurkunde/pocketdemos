@@ -90,7 +90,6 @@ Take a basin with water, a glass with a piece of paper handkerchief at the botto
 ```{iframe} https://youtube.com/embed/jJiqY82KmPo
 :width: 70$
 :label: vid_13
-:aspectratio: auto 16 / 9
 :align: center
 
 .

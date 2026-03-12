@@ -14,7 +14,8 @@ project:
   date: 2025-10-23
   github: https://github.com/Natuurkunde/pocketdemos
   license: CC-BY-NC-4.0
-
+  bibliography: references.bib
+  
   plugins:
     - https://github.com/TUD-JB-Templates/JB2_plugins/releases/download/exercise/pdf_exercise.mjs
     - https://github.com/jupyter-book/myst-plugins/releases/download/iframe-to-qr-pdf/iframe-to-qr-pdf.mjs

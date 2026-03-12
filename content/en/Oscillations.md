@@ -20,7 +20,6 @@ Change the mass at the end of the ruler and listen
 ```{iframe} https://www.youtube.com/embed/i__wDdiyqwo?si=oRDfJKD38Jj77kDS
 :width: 60%
 :label: vid_12
-:aspectratio: auto 16 / 9
 :align: center
 
 In slow-motion the difference in frequency can clearly be seen.
@@ -44,7 +43,6 @@ Have two coins *A* and *B* touching and a third *C* lengthwise at a few cm dista
 ```{iframe} https://www.youtube.com/embed/8VUG2Z-j_NQ?si=hR_JjaREoq77-gWs
 :width: 60%
 :label: vid_14
-:aspectratio: auto 16 / 9
 :align: center
 
 Collision of coins with a small angle

@@ -11,11 +11,7 @@ Je kunt het idee van twee samensmeltende zwarte gaten eenvoudig visualiseren. Ha
 
 Net als bij echte samensmeltende zwarte gaten neemt de afstand af, maar neemt de omloopsnelheid toe. De frequentie van de zwaartekrachtsgolven neemt dus toe - totdat de twee sleutelbossen samensmelten. De figuur van de LIGO detectie van zwaartekrachtsgolven wordt daarmee ineens veel begrijpelijker!
 
-<!--placeholder
-```{figure} ../figure/zwaartekrachtsgolven.*
-
-```
--->
+PLACEHOLDER: video van zwaartekrachtsgolven met sleutelbossen
 
 ## Visualisaties voor moderne natuurkunde
 Natuurkundigen houden van het element van verrassing in experimenten met moderne natuurkunde, maar om de verrassing mee te maken moet je verwachtingen hebben op basis van voorkennis over traditionele natuurkunde. Veel leerlingen hebben dat niet en nemen de resultaten van het experiment aan zonder verrassing of interesse. Het is dus belangrijk dat de leraar de leerlingen goed voorbereidt op het experiment. Hieronder volgen een paar visualisaties die daar misschien bij kunnen helpen. 
@@ -32,9 +28,9 @@ Deze misschien wat rare visualisatie heb ik echt in de klas gedaan. Het Rutherfo
 
 ### Oerknal en Hubble 1
 @schilling2017 [p167] vergelijkt het heelal met een krentencake. In het deeg worden rozijnen 3-dimensionaal verdeeld, telkens op 1 cm van de dichtstbijzijnde rozijn. De rozijnen vormen de hoekpunten van een denkbeeldig rasterwerk van blokjes, waarbij ieder blokje 1 x 1 x 1 centimeter meet. Als het deeg rijst zodat na een uur de afstanden tussen twee naburige rozijnen 2 cm wordt, dan is elk blokje 2 x 2 x 2 cm. Stel dat je op een rozijn zit, dan zie je de dichtstbijzijnde rozijn met een snelheid van 1 cm/uur van je af bewegen. Maar de volgende rozijn is nu op 4 cm i.p.v.2 cm, die is dus met 2 cm/uur van je af bewogen. Etc. Je kunt dit ook in een rollenspel doen waarbij je een 2-dimensionaal raster maakt met leerlingen op de hoekpunten. Deze analogie laat drie dingen zien: 
-a) de rozijn beweegt niet door de cake of t.o.v. de cake, het is de ruimte zelf die expandeert;  
-b) welke rozijn je ook als referentie kiest, elke rozijn neemt hetzelfde waar;  
-c) de afstanden tot verder gelegen rozijnen worden sneller groter dan die tot dichterbij gelegen rozijnen … toenemende redshift … wet van Hubble.
+1. de rozijn beweegt niet door de cake of t.o.v. de cake, het is de ruimte zelf die expandeert;  
+2. welke rozijn je ook als referentie kiest, elke rozijn neemt hetzelfde waar;  
+3. de afstanden tot verder gelegen rozijnen worden sneller groter dan die tot dichterbij gelegen rozijnen … toenemende redshift … wet van Hubble.
 
 ### Oerknal en Hubble 2
 Je kunt ook 4 leerlingen op een rij zetten met telkens 50 cm ertussen. Als alle afstanden verdubbelen, dan wordt de afstand tussen 1 & 2 1 meter, maar de 3 en 4 schuiven mee en moeten zelf ook hun tussenafstand verdubbelen. Dus vanuit 1 gezien beweegt #2 met 50 cm, maar #3 met 100 cm en #4 met 150 cm. Dat is Hubble’s wet: v = H x afstand.

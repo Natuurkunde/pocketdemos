@@ -6,7 +6,6 @@ Break a piece of chalk into a small and a big piece and keep them between thumb 
 ```{iframe} https://youtube.com/embed/NjCsFRE8HA0
 :width: 60%
 :label: vid_1
-:aspectratio: auto 16 / 9
 :align: center
 
 Can we accelerate our hands more than g?
@@ -45,7 +44,6 @@ Would the air friction scale with $v^2$ rather than $v$?
 ```{iframe} https://youtube.com/embed/ELDJPqVrRZQ
 :width:60%
 :label: vid_2
-:aspectratio: auto 16 / 9
 :align: center
 
 Would the air friction scale with $v^2$ rather than $v$?
@@ -93,7 +91,6 @@ A piece of paper and a glass or a coffee mug are always at hand
 ```{iframe} https://youtube.com/embed/fjGiXL4z-MY
 :width: 60%
 :label: vid_3
-:aspectratio: auto 16 / 9
 :align: center
 
 Make the demo spectacular by pulling hard only when the cup is near the end of the table.
@@ -113,7 +110,6 @@ Some additional mass in the middle makes sure the paper rips at both ends.
 ```{iframe} https://youtube.com/embed/enduuPXLM9g
 :width: 60%
 :label: vid_4
-:aspectratio: auto 16 / 9
 :align: center
 
 Some additional mass in the middle makes sure the paper rips at both ends.
@@ -126,7 +122,6 @@ Stick a knife in an apple, hold it up so the apple is suspended from the knife. 
 ```{iframe} https://youtube.com/embed/OGiPpFA3JIw
 :width: 60%
 :label: vid_5
-:aspectratio: auto 16 / 9
 :align: center
 
 A well known demo
@@ -138,7 +133,6 @@ Put a ballpoint straight up on your hand and try to balance it. You may invite t
 ```{iframe} https://youtube.com/embed/Ft9UD-xbqxQ
 :width: 60%
 :label: vid_6
-:aspectratio: auto 16 / 9
 :align: center
 
 Can you balance a hammer using your finger?
@@ -167,7 +161,6 @@ Daday ready to drop her coffee mug, safely.
 ```{iframe} https://youtube.com/embed/h2ulQeDoHmY
 :width: 60%
 :label: vid_7
-:aspectratio: auto 16 / 9
 :align: center
 
 For safety measures, cover the floor.
@@ -223,7 +216,6 @@ Take a ruler, meter stick, or any other long object available. Balance it horizo
 ```{iframe} https://youtube.com/embed/RYFsPy8mUbI
 :width: 60%
 :label: vid_8
-:aspectratio: auto 16 / 9
 :align: center
 
 .
@@ -242,7 +234,6 @@ Take a meterstick, or pvc tube, or any other rod such as the end of a broom. Kee
 ```{iframe} https://www.youtube.com/embed/JDwHYHY7RqI?si=b-VYk_exLajihKs4
 :width: 60%
 :label: vid_9
-:aspectratio: auto 16 / 9
 :align: center
 
 Static vs kinetic friction
@@ -255,7 +246,6 @@ Take one half A4 and put it between the pages of a closed book, pull it. It is e
 ```{iframe} https://www.youtube.com/embed/WgknDyxIL00?si=dhsveBNTVAN3S7Ur
 :width: 60%
 :label: vid_10
-:aspectratio: auto 16 / 9
 :align: center
 
 Friction...

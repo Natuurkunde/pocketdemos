@@ -106,7 +106,6 @@ Is er niet altijd een glas water in het lokaal, en een zakdoek in onze zak? Of h
 ```{iframe} https://youtube.com/embed/jJiqY82KmPo
 :width: 70$
 :label: vid_13
-:aspectratio: auto 16 / 9
 :align: center
 
 .

@@ -21,7 +21,6 @@ Use a fork to position an aluminum coin or paperclip very carefully on top of th
 ```{iframe} https://www.youtube.com/embed/YI4bNdYzQYQ?si=HudH10AcVgUMhkYT
 :width: 60%
 :label: vid_11
-:aspectratio: auto 16 / 9
 :align: center
 
 Moving a paper clip from a distance

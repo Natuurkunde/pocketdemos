@@ -19,7 +19,6 @@ Verander de massa aan het einde van de liniaal en luister
 ```{iframe} https://www.youtube.com/embed/i__wDdiyqwo?si=oRDfJKD38Jj77kDS
 :width: 60%
 :label: vid_12
-:aspectratio: auto 16 / 9
 :align: center
 
 Het verschil in frequentie is duidelijk te zien in slow-motion. 
@@ -51,7 +50,6 @@ Twee munten *A* en *B* (bv Euro’s) raken elkaar. Een andere munt *C* wordt ero
 ```{iframe} https://www.youtube.com/embed/8VUG2Z-j_NQ?si=hR_JjaREoq77-gWs
 :width: 60%
 :label: vid_132
-:aspectratio: auto 16 / 9
 :align: center
 
 Botsende munten met een kleine hoek. 

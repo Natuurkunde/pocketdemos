@@ -24,7 +24,7 @@ Broekzakdemonstraties
 
 <div style="text-align: center; font-size: 12px">
 
-200 2 minuten demonstraties en visualisaties met gebruikelijke voorwerpen
+200+ demo's met alledaagse materialen
 
 
 Auteurs: Ed van den Berg & Freek Pols
