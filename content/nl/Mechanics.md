@@ -420,7 +420,7 @@ Illustreer torsie met het openen van een deur (verticale as) of het roteren van 
 :width: 60%
 :label: fig_deurkruk
 
-Kun je een deur openen als je duwt vlak bij het scharnieren?
+Kun je een deur openen als je duwt vlak bij het draaipunt?
 ```
 
 ### Torsie en afstand van as
