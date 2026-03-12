@@ -248,7 +248,7 @@ Er is nog meer te zien in het oog zelf zoals draadjes die zweven in de oogvloeis
 
 Laat de leerlingen hun rechteroog sluiten en dan een pen op armslengte omhoog houden, zó dat die op één lijn ligt met oog en een verticale streep op het bord. Laat ze nu het rechteroog openen en het linkeroog sluiten. De pen is niet langer precies voor die streep want we kijken ernaar vanuit een net iets andere hoek. Dat is parallax. Hoe verder de verticale streep op het bord, hoe kleiner het verschil. Met parallax kun je dus afstand bepalen. Zie [Figuur 13](#fig_paral) voor de schijnbare verschuiving van pen tegen de achtergrond.
 
-:::{figure} ../figures/parallax.*
+:::{figure} ../figures/Parallax.jpg
 :width: 100%
 :align: left
 :alt: De pen, op armsafstand van de camera (het oog), staat precies op de rand van het batik schilderij. Wanneer de camera zo’n 5 cm naar links wordt verschoven (= afstand tussen de ogen), is de pen niet verschoven maar lijkt verschoven. Hoe verder de muur met batik, des te kleiner de verschuiving
@@ -264,7 +264,7 @@ Kijk met twee ogen naar een pen die je op armslengte houdt tegen een verticale l
 
 Twee ogen zijn beter dan een, vooral in het zien van diepte en schatten van afstanden. Laat elke leerling een pen/potlood in zowel linkerhand als rechterhand nemen ([Figuur 14](#fig_depth)). Beweeg die handen even willekeurig heen-en-weer, laat alle leerlingen dan één oog dicht doen en dan de pennen naar elkaar toe bewegen totdat de punten elkaar raken. Met een oog dicht zit je er gauw naast, met twee ogen open is het heel makkelijk. Het experiment kan ook met de twee wijsvingers gedaan worden, maar met potlood/pen is het effect dramatischer.
 
-:::{figure} ../figures/04-24SeeingDepth.*
+:::{figure} ../figures/04-24SeeingDepth.JPG
 :width: 100%
 :align: left
 :alt: Afstand schatten met een of twee ogen.

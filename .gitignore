@@ -1,9 +1,13 @@
 # MyST build outputs
-_build
+
 raw
 videos
 *.docx
 _else
 *.pdf
 *.xlsx
+
+# folders
 qr_images
+_build
+notulen
