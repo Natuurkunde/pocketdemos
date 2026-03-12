@@ -1,3 +1,4 @@
++++
 # Warmte en temperatuur
 
 ## Temperatuurgevoel
@@ -121,7 +122,7 @@ Ontdekken kan ook gedaan worden door de leraar met een papiertje. Houdt een papi
 
 ## De producten van de vlam van een kaars
 
-Wat zijn de producten van de vlammen van een kaars en hoe kan je ze zien? Brandende koolwaterstoffen zouden water en CO{math}`_2` moeten produceren. Waterdamp kan makkelijk gecontroleerd worden. Gebruik een metalen of glazen voorwerp, maak het droog en houdt het in de buurt van de vlam. Er zouden druppels water moeten vormen op het voorwerp. Zie [Faraday](https://engineerguy.com/faraday/pdf/faraday-chemical-history-complete.pdf)[^Far]. Zie [https://​www​.candles​.org​/candle​-science](https://www.candles.org/candle-science) voor interessante wetenschap die te maken heeft met kaarsen.
+Wat zijn de producten van de vlammen van een kaars en hoe kan je ze zien? Brandende koolwaterstoffen zouden water en CO{math}`_2` moeten produceren. Waterdamp kan makkelijk gecontroleerd worden. Gebruik een metalen of glazen voorwerp, maak het droog en houdt het in de buurt van de vlam. Er zouden druppels water moeten vormen op het voorwerp. Zie [Faraday](https://engineerguy.com/faraday/pdf/faraday-chemical-history-complete.pdf)\[^Far]. Zie [https://​www​.candles​.org​/candle​-science](https://www.candles.org/candle-science) voor interessante wetenschap die te maken heeft met kaarsen.
 
 ## Voorkomen dat zuurstof bij de vlam van een kaars komt
 
@@ -145,16 +146,12 @@ Wat heeft een vlam nodig? Zuurstof en brandstof. Wat zou er gebeuren als er geen
 
 ## Stroming: Theezakjesraket
 
-Haal een theezakje uit de lerarenkamer, maak het open aan twee kanten, haal de thee eruit, en maak van het theezakje een cilinder die je rechtop zet. Zorg dat er niets brandbaars in de buurt is en steek de cilinder aan van de bovenkant. Warme lucht zal naar boven toe bewegen (stroming). Op een gegeven moment zal het niet verbrandde deel van het theezakje licht genoeg zijn om met de lucht mee naar boven te bewegen. Zie {cite}`Liem1987`  voor goede vragen om te stellen en uitleg om te geven. Er zijn veel [filmpjes](https://www.youtube.com/watch?v=z8evo1jr5Nk)[^FIL].
+Haal een theezakje uit de lerarenkamer, maak het open aan twee kanten, haal de thee eruit, en maak van het theezakje een cilinder die je rechtop zet. Zorg dat er niets brandbaars in de buurt is en steek de cilinder aan van de bovenkant. Warme lucht zal naar boven toe bewegen (stroming). Op een gegeven moment zal het niet verbrandde deel van het theezakje licht genoeg zijn om met de lucht mee naar boven te bewegen. Zie {cite}`Liem1987`  voor goede vragen om te stellen en uitleg om te geven. Er zijn veel [filmpjes](https://www.youtube.com/watch?v=z8evo1jr5Nk)\[^FIL].
 
 ## Geld overleeft het vuur
 
 Sinds de pandemie hebben mensen vaak kleine flesjes met alcohol in hun tas. Ik heb dit vooral veel gezien in de Filippijnen, daar hadden vrouwen ze zelfs aan hun tas hangen. Dit maakt het beroemde experiment waarin je geld verbrandt mogelijk in een leeg klaslokaal. Neem een glas of beker, voeg een beetje water toe (voordat de leerlingen het lokaal binnen komen), voeg evenveel alcohol toe (wanneer de leerlingen al in het lokaal zijn). Meng de twee vloeistoffen. Een klein beetje zout kan leuk zijn om te zorgen dat de vlam een kleur krijgt.
 
-*Wie heeft er een briefje geld?* (Of gebruik je eigen geld). Week het briefje in het vloeistofmengsel. Gebruik een pincet, wasknijper, of een geïmproviseerde pincet (twee potloden met het geld ertussen) om het briefje vast te houden en steek het vervolgens aan met een lucifer. Ondanks de vlam zal het geld niet branden. De alcohol brandt, terwijl het water de temperatuur van het papier lager houdt dan 100{math}`^\circ`C tot al het water is verdampt. De 100 {math}`^\circ`C is veel lager dan de ontbrandingstemperatuur van papier, die typisch meer dan 200 {math}`^\circ`C is. In een 50-50 mengsel van alcohol en water zal de ontbrandingstemperatuur niet bereikt worden want niet al het water verdampt. Dit experiment wordt veel spannender als het als een toneelstukje wordt opgevoerd, geld lenen van een leerling kan het spannender maken. Een klein beetje zout verandert de kleur van de vlam van blauw naar oranje doordat daar natrium in zit.
+*Wie heeft er een briefje geld?* (Of gebruik je eigen geld). Week het briefje in het vloeistofmengsel. Gebruik een pincet, wasknijper, of een geïmproviseerde pincet (twee potloden met het geld ertussen) om het briefje vast te houden en steek het vervolgens aan met een lucifer. Ondanks de vlam zal het geld niet branden. De alcohol brandt, terwijl het water de temperatuur van het papier lager houdt dan 100{math}`^\circ`C tot al het water is verdampt. De 100 {math}`^\circ`C is veel lager dan de ontbrandingstemperatuur van papier, die typisch meer dan 200 {math}`^\circ`C is. In een 50-50 mengsel van alcohol en water zal de ontbrandingstemperatuur niet bereikt worden want niet al het water verdampt. Dit experiment wordt veel spannender als het als een toneelstukje wordt opgevoerd, geld lenen van een leerling kan het spannender maken. Een klein beetje zout verandert de kleur van de vlam van blauw naar oranje doordat daar natrium in zit. Onze huidige briefjes Euros absorberen niet goed, dan maar dollars gebruiken, of gewoon papier.
 
 [^mbvbn]: [https://​www​.youtube​.com​/shorts​/Fnx9Dhpsw1Q](https://www.youtube.com/shorts/Fnx9Dhpsw1Q)
-
-[^far]: [https://​tinyurl​.com​/mttjf7jw](https://tinyurl.com/mttjf7jw)
-
-[^fil]: [https://​www​.youtube​.com​/watch​?v​=​z8evo1jr5Nk](https://www.youtube.com/watch?v=z8evo1jr5Nk)
