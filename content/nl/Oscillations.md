@@ -7,7 +7,7 @@ Zorg dat er altijd een slinky in je tas zit, zeker bij het onderwerp trillingen 
 Vergelijk de perioden van diverse tassen en probeer daar wat regels uit af te leiden. Maak bv de riemen langer en korter, verander de massa van de inhoud van de tas, verander de massaverdeling (torsieslinger), etc. Dat kan een korte klasactiviteit zijn in kleine groepjes (verkennend). 
 
 ## Linialen en periodes
-Neem een liniaal en leg hem zo op tafel dat hij een beetje uitsteekt {numref}`Figuur {number} <fig_ruler>`. Laat de liniaal trillen en luister, als je verandert hoeveel de liniaal uitsteekt verandert de toon van het geluid. Leerlingen kunnen dit aan hun bureau doen met hun eigen liniaal. Neem vervolgens twee dezelfde linialen en bind op het uiteinde van een van de linialen wat muntjes vast. Bekijk wat er gebeurt met de toon van het geluid en de frequentie van de trilling. 
+Neem een liniaal en leg hem zo op tafel dat hij een beetje uitsteekt {numref}`Figuur {number} <fig_ruler>`. Laat de liniaal trillen en luister, als je verandert hoeveel de liniaal uitsteekt verandert de toon van het geluid. Leerlingen kunnen dit aan hun bureau doen met hun eigen liniaal. Neem vervolgens twee dezelfde linialen en bind op het uiteinde van een van de linialen wat muntjes vast. Luister wat er gebeurt met de toon van het geluid en de frequentie van de trilling. 
 
 ```{figure} ../images/20250513_115534.*
 :width: 60%
@@ -36,14 +36,14 @@ Verander de spanning en hoor een verschil in toon.
 ```
 
 ## Resonantie
-### Met een pendulum
-Maak een pendulum met touw en een object als massa. Je zou zelfs een computer kunnen gebruiken die hangt aan zijn stekker. Laat de pendulum slingeren. Geef het een klein duwtje elke keer dat het een van zijn twee maxima bereikt. Dit is resonantie tussen het duwtje en het pendulum! Je kunt ook een duwtje geven om de slinger, of elke drie slingers, dan is er ook resonantie wat ervoor zorgt dat de amplitude toeneemt. Ditzelfde principe geldt natuurlijk bij een vader of moeder met hun kind op een schommel. 
+### Met een slinger
+Maak een slinger met touw en een object als massa. Je zou zelfs een apparaatje kunnen gebruiken dat hangt aan zijn stekker (computermuis). Laat de slinger slingeren. Geef het een klein duwtje elke keer dat het een van zijn twee maxima bereikt. Dit is resonantie tussen de duwtjes en de slinger! Je kunt ook een duwtje geven om de slinger, of elke drie slingers, dan is er ook resonantie die ervoor zorgt dat de amplitude toeneemt. Ditzelfde principe geldt natuurlijk bij een vader of moeder die hun kind duwtjes geven op een schommel. 
 
 ### Een slingerend boek tot maximale hoogte blazen
-@Liem1987 [p300] laat resonantie zien met een boekje dat hangt aan twee touwtjes, net als een schommel (laat een leerling de touwtjes vasthouden). De leraar houdt het boek op een hoek van 45$^{\circ}$ met de vraag: *Zou ik tegen het boek kunnen blazen tot het een hoek heeft van 90$^{\circ}$?* Het verwachtte antwoord is *Nee*. Hang het boek vervolgens naar beneden en blaas tegen het boek, *in fase* met de slingerende beweging van het boek. Dit is natuurlijk vergelijkbaar met een schommel in een speeltuin. 
+@Liem1987 [p300] laat resonantie zien met een boekje dat hangt aan twee touwtjes, net als een schommel (laat een leerling de touwtjes vasthouden). De leraar houdt het boek op een hoek van 45$^{\circ}$ met de vraag: *Zou ik tegen het boek kunnen blazen tot het een hoek heeft van 90$^{\circ}$?* Het verwachtte antwoord is *Nee*. Laat het boek slingeren en blaas tegen het boek, *in fase* met de slingerende beweging. Ook dit is vergelijkbaar met een schommel in een speeltuin. 
 
 ## In fase en uit fase
-Gebruik het pendulum zoals hierboven. Je kunt in fase duwen tegen het boek en er is resonantie, dus zal de amplitude toenemen. Je kunt ook uit fase tegen het boek duwen en de beweging van het pendulum zal gestoord of zelfs gestopt worden. 
+Gebruik de boekslinger zoals hierboven. Je kunt in fase duwen tegen het boek en er is resonantie, dus zal de amplitude toenemen. Je kunt ook uit fase tegen het boek duwen en de beweging van de slinger zal gestoord of zelfs gestopt worden. 
 
 ## Botsende munten
 Twee munten *A* en *B* (bv Euro’s) raken elkaar. Een andere munt *C* wordt eropaf geschoten terwijl *B* door de vinger wordt vastgedrukt tegen de tafel ({numref}`Figuur {number} <vid_132>`). De impuls wordt toch feilloos doorgegeven van *C* naar *A* ondanks het stevig vastdrukken van *B*. Verrassend. Je kunt *A* zelfs zo verschuiven dat *A* onder een hoek wegschiet. Het transmissie mechanisme voor de impuls moet wel een golf zijn [@Subagyo1992]. De experimenten zijn ook kwantitatief te maken, zie een recent artikel van Barbara Rovsek in The Physics Teacher [@https://doi.org/10.1119/10.0006915].

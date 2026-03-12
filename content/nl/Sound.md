@@ -7,17 +7,17 @@ Tik tegen verschillende objecten in het lokaal om te laten horen dat elk object 
 
 ## Toonhoogte en lengte met een liniaal
 
-Leen een liniaal van een leerling, klamp die tussen hand en tafel en laat een deel uitsteken. Breng de liniaal in trilling met de andere hand en luister. Varieer de toonhoogte door het uitstekende deel langer en korter te maken. Het is zelfs mogelijk deze demo kwantitatief te maken door het zingen van do-re-mi want de tweede “do” heeft precies een 2x zo hoge frequentie als de eerste “do”. Zo kun je de relatie vinden tussen lengte en frequentie. Word de frequentie 2x zo hoog als je de uitstekende lengte halveert?
+Leen een liniaal van een leerling, klamp die tussen hand en tafel en laat een deel uitsteken. Breng de liniaal in trilling met de andere hand en luister. Varieer de toonhoogte door het uitstekende deel langer en korter te maken. Het is zelfs mogelijk deze demo kwantitatief te maken door het zingen van do-re-mi want de tweede “do” heeft precies een 2x zo hoge frequentie als de eerste “do”. Zo kun je de relatie vinden tussen lengte en frequentie. Word de frequentie 2x zo hoog als je de uitstekende lengte halveert? Natuurlijk kan je de frequentie ook preciezer meten met je mobiele telefoon.
 
 ## Toonhoogte en lengte met een rietje
 
-Neem een rietje, maak het uiteinde plat en knip er een driehoek van. Doe het uiteinde in je mond, met je lippen precies waar het ingeknipte deel eindigt. Blaas tot je een oboe geluid hoort, als je niets hoort kan je het rietje een beetje heen en weer bewegen tot je op de goede plek blaast. Knip vervolgens stukjes van het einde van het rietje terwijl je blaast {cite:p}`Liem1987`.
+Neem een rietje, maak het uiteinde plat en knip er een driehoek van. Doe het uiteinde in je mond, met je lippen precies waar het ingeknipte deel eindigt. Blaas tot je een hobo geluid hoort, als je niets hoort kan je het rietje een beetje heen en weer bewegen tot je op de goede plek blaast. Knip vervolgens stukjes van het einde van het rietje terwijl je blaast {cite:p}`Liem1987`.
 
 Wat hebben we geleerd? Je kan een nieuw rietje pakken, een driehoek op het einde knippen en gaten knippen met ongeveer 1-1,5 cm ertussen. Terwijl je blaast kan je nu de gaten afdekken met je vingers. Wat hebben we nu geleerd? Welke muziekinstrumenten gebruiken dit principe?
 
 ## Staande golven in een open en afgesloten PVC buis
 
-Neem twee stukken PVC buis, bijvoorbeeld een van 10 cm lang en een van 20 cm lang. Blaas eroverheen en je krijgt een toon. Sluit de onderkant vervolgens af met je hand en de toon wordt veel lager. Bij een open buis past ½ golflengte ({math}`\lambda = 2l`) in de buis, de grondtoon. Bij een halfopen buis is dat ¼ golflengte ({math}`\lambda = 4l`), dus een veel lagere frequentie. Het helpt om een microfoon en box in het lokaal te hebben om het effect beter hoorbaar te maken voor de groep. Ik heb het gedaan voor een groep van 150+ studenten met behulp van een geluidssysteem.
+Neem twee stukken PVC buis, bijvoorbeeld een van 10 cm lang en een van 20 cm lang. Blaas eroverheen en je krijgt een toon. Sluit de onderkant vervolgens af met je hand en de toon wordt veel lager. Bij een open buis past ½ golflengte ({math}`\lambda = 2l`) in de buis, de grondtoon. Bij een halfopen buis is dat ¼ golflengte ({math}`\lambda = 4l`), dus een veel lagere frequentie. Het helpt om een microfoon en box in het lokaal te hebben om het effect beter hoorbaar te maken voor de groep. Ed heeft dut gedaan voor een groep van meer dan 150 leerlingen met behulp van een geluidssysteem.
 
 :::{figure} ../images/panflute.jpg
 :width: 60%
