@@ -4,7 +4,7 @@
 Inventariseren waar magneetjes zoal in zitten. Sluitingen van tassen, tasjes, telefoon en iPad, etc. Wie heeft iets bij zich waar magneetjes in zitten? Uitvinden waar de polen zitten, wat voor vormen er zijn, wat er wel/niet wordt aangetrokken, naald magnetiseren, etc.
 
 ## Magnetiseren van een naald
-Als er een magneet in de klas is, dan is er vast ook ergens een naald of een paperclip. Wrijf de magneet in een richting een aantal keren langs de tip van de naald of paperclip en probeer dan of de naald ook magnetisch is geworden. 
+Als er een magneet in de klas is, dan is er vast ook ergens een naald of een paperclip. Wrijf de magneet in dezelfde richting een aantal keren langs de tip van de naald of paperclip en probeer dan of de naald ook magnetisch is geworden. 
 
 ## Ontmagnetiseren van een naald in een vlam
 Vervolgens de gemagnetiseerde naald of paperclip in een kaarsvlam houden en laten zien dat het magnetisme verloren is gegaan.
@@ -23,7 +23,7 @@ Laat het kompas op een mobiele telefoon zien. Leerlingen kunnen hun eigen telefo
 Is er een leerling die een fiets heeft met een oude dynamo en werkende lampen? Spreek met die leerling af dat hij of zij de fiets volgende les meeneemt naar het lokaal. Laat zien dat de intensiteit van het licht variëert als de snelheid van het wiel variëert. Je kan misschien maar één draad zien, maar de twee polen zouden duidelijk moeten zijn, net als de twee routes voor de stroom. Laat voor deze fiets zien hoe dat werkt. 
 
 ## Generator 2
-Ik hoop natuurlijk dat je goede apparatuur hebt om een demonstratie te doen met een generator en een elektrische motor.
+Ik hoop natuurlijk dat je goede apparatuur hebt om een demonstratie te doen met een generator en een elektrische motor. Tegenwoordig wordt er veel geadverteerd voor noodradio’s met een slinger voor opladen. Die past niet in je broekzak, maar is aardig om mee te nemen als voorbeeld.
 
 ## Elektrische motor
 Een van mijn lerarenopleiding studenten heeft een werkende elektrische motor gemaakt met een batterij, een paar Neodyummagneten en een slim gebogen koperdraad. Een betrouwbaar ontwerp is te zien in [deze simpele video](https://www.google.com/search?client=safari&rls=en&q=simplest+electromotor&ie=UTF-8&oe=UTF-8#fpstate=ive&vld=cid:0bd621c8,vid:OKpmp7R6vBU). Duidelijkere instructies zijn [hier](https://www.google.com/search?client=safari&rls=en&q=simplest+electromotor&ie=UTF-8&oe=UTF-8#fpstate=ive&vld=cid:d9ecaaf6,vid:WI0pGk0MMhg) te vinden. 
@@ -48,4 +48,4 @@ De rechterhandregel helpt ons de richting van het magnetisch veld en van de Lore
 Je hebt altijd je slinky bij je. Houd de bovenkant vast zodat de slinky van je hand naar beneden hangt. Stel voor dat de stroomrichting door de spoel van rechts naar links is voor de leerlingen. Laat de leerlingen nu in groepjes uitzoeken in welke richting de Lorentzkracht werkt op twee opvolgende windingen. Als er stroom was, zou de slinky dan korter of langer worden? Als je de juiste apparatuur hebt kun je het antwoord laten zien!
 
 ## Magnetische rem
-Zo’n neodymium magneetje past toch in je broekzak? En dan een touwtje met een spijker eraan en een plaatje aluminium (of koper). Best kans dat uw kale lokaal aluminium onderdelen heeft die gemakkelijk horizontaal gezet kunnen worden, of dat een leerling voor lunch iets heeft verpakt in aluminiumfolie. Touwtje, spijker en magneetje aan de spijker vormen een slinger. Slingeren maar. Dan slingeren over het aluminium oppervlak en de slinger vertraagt en staat stil. De bewegende magneet induceert wervelstromen in met metaal die hun ontstaan tegenwerken: de magnetische rem. Laat wel even zien dat een statische magneet niet wordt aangetrokken door het aluminium. De proef is nog overtuigender wanneer er een tweede slinger zonder magneet gebruikt wordt, ter vergelijk.
+Zo’n neodymium magneetje past toch in je broekzak? En dan een touwtje met een spijker eraan en een plaatje aluminium (of koper). Best kans dat uw kale lokaal aluminium onderdelen heeft die gemakkelijk horizontaal gezet kunnen worden, of dat een leerling voor lunch iets heeft verpakt in aluminiumfolie. Touwtje, spijker en magneetje aan de spijker vormen een slinger. Slingeren maar. Dan slingeren over het aluminium oppervlak en de slinger vertraagt en staat stil. De bewegende magneet induceert wervelstromen in het metaal die hun ontstaan tegenwerken: de magnetische rem. Laat wel even zien dat een statische magneet niet wordt aangetrokken door het aluminium. De proef is nog overtuigender wanneer er een tweede slinger zonder magneet gebruikt wordt, ter vergelijk.
