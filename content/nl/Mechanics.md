@@ -72,6 +72,9 @@ Zou luchtweerstand evenredig zijn met $v^2$ in plaats van $v$? Als dat zo zou zi
 Zou luchtweerstand evenredig zijn met $v^2$ in plaats van $v$?
 ```
 
+## Luchtwrijving onderzoeken met vallende ballon
+Een vallende ballon biedt veel mogelijkheden om luchtwrijving te onderzoeken. Je kunt er gewichtjes onder hangen en zien hoe dat de valtijd beïnvloedt. Je kunt ook diverse vormen ballon vergelijken. Dit kan natuurlijk ook als leerlingpracticum.
+
 
 ## Vliegen is spelen met luchtweerstand
 Er is altijd papier in je eigen tas of in tassen van leerlingen. Vliegtuigjes vouwen en uitproberen. Er zijn veel suggesties op internet. Lang-kort, wijd-smal, gebruik van staartvleugel of niet, uiteinden van de vleugels omvouwen, etc. Er zijn zelfs wereldwijde competities.
@@ -145,7 +148,11 @@ Wat extra massa in het midden geeft voldoende traagheid om beide uiteinden tegel
 
 Wat extra massa in het midden geeft voldoende traagheid om beide uiteinden tegelijk te scheuren.
 ```
+### Versnelling en traagheid van water 1
+Net als in het vorige experiment, trek een glas of doorzichtige plastic container met water langzaam op een blad A4 over de tafel met constante snelheid. Het wateroppervlak blijft horizontaal. Geef nu een rukje, dat is een versnelling, en het water blijft achter en het wateroppervlak staat schuin. Maar het effect wordt al snel verstoord door golven in een klein glas of container. Het water verzet zich tegen een verandering van snelheid, dat is traagheid, weerstand tegen versnelling. De stand van het wateroppervlak is een indicatie voor de grootte van de versnelling. 
 
+### Versnelling/vertraging en traagheid van water 2
+Neem nu een half vol glas en trek het met constante snelheid over de tafel en stop het glas. Wat gebeurt er nu met het water? Het water gaat door met de beweging en stapelt zich op aan de voorkant van het glas. Het water verzet zich tegen de verandering van snelheid: weerstand tegen versnelling, dat is traagheid.
 
 ### Met een mes en een appel
 Steek een mes een stukje in een appel zodat de appel aan het mes blijft hangen (zowel mes als appel kun je van leerlingen lenen). Timmer dan met een hard voorwerp op het lemmet van het mes. Je verwacht dat de appel van het mes zal vallen, maar het mes gaat er juist dieper in, de appel komt niet in beweging, traagheid! Voor een grote groep: neem een meloen of pompoen en een broodmes. Voor de uitleg, traagheid is weerstand tegen versnelling. Denk aan Newton's tweede wet: $F=ma$. Die massa is weerstand tegen versnelling, bij dezelfde kracht krijg je voor zwaardere voorwerpen een veel kleinere versnelling. In de bovenbouw kun je de analogie van deze formule laten zien met $U = R I$ in elektrische schakelingen. 
@@ -240,6 +247,9 @@ Het is mogelijk de cirkelbewegingdemo kwantitatief te maken en de formule  $F = 
 Freek Pols voert de demo uit
 ```
 
+### Cirkelbeweging
+Vul een glas half met water, beweeg het glas in een cirkel. Het water komt omhoog tegen de rand van het glas. Het water heeft de neiging rechtdoor te gaan, de wand van het glas oefent een centripetale kracht uit op het water om de waterdeeltjes in een cirkel te laten gaan.
+
 
 ## Horizontale worp 
 ### Met water
@@ -312,6 +322,22 @@ Friction...
 
 ### Met boeken
 Als leerlingen echt even een time-out van denken moeten hebben, laat ze dan de pagina's van twee boeken om en om in elkaar leggen. De boeken kunnen niet uit elkaar getrokken worden, wrijving! Bekend is natuurlijk de ideale versie van deze proef waarin je twee telefoonboeken (wie kent ze nog...) in elkaar vlecht met pagina's om en om en met een handvatconstructie. Twee sterke mensen kunnen die boeken niet uit elkaar trekken, maar dat is geen broekzak demo meer.
+
+### Wrijving en normaalkracht
+Hewitt’s vraag kan prachtig worden beantwoord met een demonstratie van een halfvol glas water op een schuin oppervlak van een tafel die aan een kant iets omhoog wordt getild, zo dat het glas net niet in beweging komt. Laat even voorzichtig zien dat het glas bij een schuinere stand van de tafel in beweging komt. Vraag leerlingen wat er gebeurt als je er water bij schenkt (bv kiezen uit alternatieve antwoorden van {numref}`fighewit`). Schenk er dan water bij. Het glas blijft staan. 
+
+````{figure}
+:label: fig_hewit
+```{figure} ../figures/hewit1.jpg
+
+```
+```{figure} ../figures/hewit2.jpg
+```
+```` 
+
+### Wrijvingscoëfficiënt
+Met bovenstaand experiment is ook eenvoudig de statische wrijvingscoëfficiënt te bepalen. Met een mobiele telefoon op de tafel meet je de helling waarbij het glas net niet in beweging komt. De wrijvingscoëfficiënt is gelijk aan de tangens van de hellingshoek.
+
 
 ### En warmte 
 Leerlingen wrijven in hun handen en voelen de warmte. Er zijn heel veel andere voorbeelden waar wrijving leidt tot hitte, bijvoorbeeld bij boren en bij de banden bij autorijden, voel maar eens voor en vlak na een ritje.
@@ -485,6 +511,9 @@ Er zijn linialen met mooie gootjes, laat een knikker rollen en onderzoek het ver
 
 Laat een stuiter van een linial afrollen in een gaatje in een papieren beker. Hoe ver schuift de beker? 
 ```
+
+## Ballonraket en impulsbehoud
+Laat een opgeblazen ballon los, het wordt een raket, maar wel een die alle kanten opgaat. Mooier is een langwerpige ballon te nemen en er een rietje langs te plakken. Trek een vislijn van een paar meter door het rietje en laat twee leerlingen de uiteinden vasthouden. Dat is dan een lanceerbaan voor de ballon. Nu de ballon aan het ene uiteinde van de lijn loslaten en de ballon gaat als een raket naar het andere uiteinde van de vislijn. Op een ouderavond kun je een lijn door de zaal spannen. Dit is natuurlijk precies het raket principe, een gas gaat onder hoge druk de ene kant op, de raket versnelt de andere kant op, impulsbehoud.
 
 
 ## Asymmetrische eigenschappen, wrijving van menselijke haar

@@ -19,7 +19,7 @@ Dit boek bevat meer dan 200 demo’s verzameld en/of bedacht door Ed van den Ber
 :align: left
 :::
 
-**Freek Pols** (1986) werkte 10 jaar als docent natuurkunde. Sinds 2019 is hij werkzaam als practicumcoördinator bij de opleiding Technische Natuurkunde van de TU Delft. In 2023 promoveerde hij op practicumonderwijs, specifiek op het doceren van wetenschappelijk onderzoek. Momenteel is hij universitair docent bij de afdeling Science & Engineering Education. Zijn onderzoek richt zich nog steeds op de ontwikkeling van experimenteel natuurkundeonderwijs, maar nu met een focus op universitair niveau.
+**Freek Pols** (1986) werkte 10 jaar als docent natuurkunde. Sinds 2019 is hij werkzaam als practicumcoördinator bij de opleiding Technische Natuurkunde van de TU Delft. In 2023 promoveerde hij op practicumonderwijs, specifiek op leren onderzoeken in natuurwetenschappen in het voortgezet onderwijs. Momenteel is hij universitair docent bij de afdeling Science & Engineering Education. Zijn onderzoek richt zich nog steeds op de ontwikkeling van experimenteel natuurkundeonderwijs, maar nu met een focus op universitair niveau.
 
 ## Speciale dank
 
