@@ -130,7 +130,7 @@ Steek de kaars aan en zet een groot glas ondersteboven over de vlam heen. Wat ge
 
 ## Stijgend water
 
-Laat een kaars drijven op water in een kom, steek de vlam aan en zet er een omgekeerd glas overheen. Als de vlam uitdooft, zal het water in het glas stijgen. Er zijn meerdere mogelijk oorzaken voor het stijgende water. De eerste is de zuurstof die opgebruikt is en maar gedeeltelijk vervangen is door CO{math}`_2`. De andere is het uitzetten van lucht wanneer de vlam aan is, er zal zelfs wat lucht onder het glas vandaan ontsnappen. Wanneer de vlam uitdooft, zal de lucht weer krimpen. Een derde mogelijkheid is dat er waterdamp geproduceerd wordt. Als de vlam dooft condenseert de waterdamp. Dit resulteert in een lage druk onder het glas, dus zal de luchtdruk buiten het glas het water naar binnen duwen.
+Laat een kaars drijven op water in een kom, steek de vlam aan en zet er een omgekeerd glas overheen. Als de vlam uitdooft, zal het water in het glas stijgen. Er zijn meerdere mogelijk oorzaken voor het stijgende water. De eerste is de zuurstof die opgebruikt is en maar gedeeltelijk vervangen is door CO{math}`_2`. De andere is het uitzetten van lucht wanneer de vlam aan is, er zal zelfs wat lucht onder het glas vandaan ontsnappen. Wanneer de vlam uitdooft, zal de lucht weer krimpen. Een derde mogelijkheid is dat er waterdamp geproduceerd wordt. Als de vlam dooft condenseert de waterdamp. Dit resulteert in een lage druk onder het glas, dus zal de luchtdruk buiten het glas het water naar binnen duwen. Je kunt een aardige discussie met leerlingen uitlokken tussen de drie mogelijke verklaringen, maar wij stemmen voor condensatie.
 
 :::{figure} ../images/candle_water.*
 :width: 70%
