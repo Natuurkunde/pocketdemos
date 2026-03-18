@@ -12,7 +12,7 @@ De beste manier om een les over optica te beginnen is met een volledige donker l
 :align: left
 :alt: Figuren overgenomen uit @stead1980exploring, met toestemming
 
-Figuren overgenomen uit [@stead1980exploring](), met toestemming
+Figuren overgenomen uit [@stead1980exploring], met toestemming
 :::
 
 1.  Een kaars brandt overdag. Het licht van de kaars:\
@@ -120,7 +120,7 @@ Als er een laserpointer in het lokaal is, dan kun je natuurlijk ook een spiegelt
 
 ### Snell’s terugkaatsingswet met spelden
 
-Als je spelden hebt, dan kun je een rechtopstaand potlood of pen als voorwerp gebruiken voor een rechtopstaande spiegel op een blad papier. Je kunt vanuit verschillende gezichtspunten heengaande en teruggekaatste lichtstralen vastprikken en door verlenging de locatie van het virtuele voorwerp vinden. Zie een hele serie simpele en nuttige experimenten in [@McDermott1996]().
+Als je spelden hebt, dan kun je een rechtopstaand potlood of pen als voorwerp gebruiken voor een rechtopstaande spiegel op een blad papier. Je kunt vanuit verschillende gezichtspunten heengaande en teruggekaatste lichtstralen vastprikken en door verlenging de locatie van het virtuele voorwerp vinden. Zie een hele serie simpele en nuttige experimenten in [@McDermott1996].
 
 ## Breking
 
@@ -150,9 +150,10 @@ Beweeg het potlood heen en weer en beschrijf wat je ziet.
 
 ### Pijlen gezien door lucht en door een glas water
 
-Teken enkele parallelle pijlen op een kaartje of stukje papier. Houd dit object achter een glas water dat half gevuld is, zo dat enkele pijlen alleen gezien worden door het water en andere pijlen alleen door de lucht in het glas. Als het object verder van het centrum van het glas is dan de brandpuntsafstand, dan zijn de pijlen gezien door het water omgekeerd ([Figuur 9](#fig_arrow)). Let op, wat leerlingen zien hangt sterk af van hun positie t.o.v. het glas. Dit kun je corrigeren door een webcam te gebruiken, of even met glas en pijlen rond te lopen door het lokaal.
+Teken enkele parallelle pijlen op een kaartje of stukje papier. Houd dit object achter een glas water dat half gevuld is, zo dat enkele pijlen alleen gezien worden door het water en andere pijlen alleen door de lucht in het glas. Als het object verder van het centrum van het glas is dan de brandpuntsafstand, dan zijn de pijlen gezien door het water omgekeerd {numref}` figuur {number} <fig_arrow>`. Let op, wat leerlingen zien hangt sterk af van hun positie t.o.v. het glas. Dit kun je corrigeren door een webcam te gebruiken, of even met glas en pijlen rond te lopen door het lokaal.
 
 :::{figure} ../images/20250513_103744.*
+:label: fig_arrow
 :width: 70%
 :align: left
 :alt: Wijzen de pijlen dezelfde kant op? Tsjechische bijdrage voor Physics on Stage, 
@@ -162,9 +163,10 @@ Wijzen de pijlen dezelfde kant op? Tsjechische bijdrage voor Physics on Stage, {
 
 ### Natuurkunde is leuk in het zwembad
 
-Vraag de leerlingen om het stralendiagram uit [Figuur 10](#fig_pool) te tekenen. Loop rond om te kijken wat veelvoorkomende fouten zijn. Bespreek ze en vraag vervolgens aan de leerlingen hoe ze een model kunnen maken met een lego-poppetje of een potlood en doe hun suggesties voor.
+Vraag de leerlingen om het stralendiagram uit {numref}` figuur {number} <fig_pool>`  te tekenen. Loop rond om te kijken wat veelvoorkomende fouten zijn. Bespreek ze en vraag vervolgens aan de leerlingen hoe ze een model kunnen maken met een lego-poppetje of een potlood en doe hun suggesties voor.
 
 :::{figure} ../images/20250513_100315.*
+:label: fig_pool
 :width: 60%
 :align: left
 :alt: Natuurkundeplezier in het zwembad
@@ -188,9 +190,10 @@ Zet een vol glas water op de rand van een tafel en kijk van onderaf naar de wate
 
 ## Felle versus donkere achtergrond
 
-Doe het licht van het lokaal uit. De leraar of een leerling staat tegen de muur aan de kant van de gang tegenover de ramen. Het gezicht is duidelijk zichtbaar omdat er meer licht wordt gereflecteerd door het gezicht dan door de achtergrond. Vervolgens gaat de leraar of leerling voor de ramen staan met het gezicht naar de klas. Nu is het gezicht donker en onduidelijk, omdat er veel minder licht gereflecteerd wordt door het gezicht dan er door de ramen komt. Als je het licht in het lokaal aan doet is het gezicht weer beter zichtbaar. [Figuur 11](#fig_tulip) laat hetzelfde effect zien. Hetzelfde effect zie je ook vaak met videobellen wanneer het gezicht onvoldoende verlicht wordt.
+Doe het licht van het lokaal uit. De leraar of een leerling staat tegen de muur aan de kant van de gang tegenover de ramen. Het gezicht is duidelijk zichtbaar omdat er meer licht wordt gereflecteerd door het gezicht dan door de achtergrond. Vervolgens gaat de leraar of leerling voor de ramen staan met het gezicht naar de klas. Nu is het gezicht donker en onduidelijk, omdat er veel minder licht gereflecteerd wordt door het gezicht dan er door de ramen komt. Als je het licht in het lokaal aan doet is het gezicht weer beter zichtbaar. {numref}` figuur {number} <fig_tulip>` laat hetzelfde effect zien. Hetzelfde effect zie je ook vaak met videobellen wanneer het gezicht onvoldoende verlicht wordt.
 
 :::{figure} ../figures/tulip.*
+:label: fig_tulip
 :width: 60%
 :align: left
 :alt: Heeft de tulp een andere kleur gekregen?
@@ -206,9 +209,10 @@ Verdeel de leerlingen in groepjes van twee. Ze moeten het samentrekken van elkaa
 
 ### Met nat paper
 
-Neem een stukje papier, maak het een beetje nat in het midden met water, olie, of wat spuug. Houd het dan voor het raam of voor een lamp. Het natte deel ziet er lichter uit dan het droge (donkere) deel. Het natte deel heeft een hogere transmissie. Leg het nu op tafel waar het papier licht reflecteert. Nu ziet de natte plek er juist donker uit. Die natte plek heeft dus een betere transmissie maar daardoor minder reflectie. Leerlingen kunnen dit zelf proberen, even aan de vinger liken, op papier drukken, op tafel leggen (reflectie) en omhooghouden richting raam (transmissie), zie [Figuur 12](#fig_trans).
+Neem een stukje papier, maak het een beetje nat in het midden met water, olie, of wat spuug. Houd het dan voor het raam of voor een lamp. Het natte deel ziet er lichter uit dan het droge (donkere) deel. Het natte deel heeft een hogere transmissie. Leg het nu op tafel waar het papier licht reflecteert. Nu ziet de natte plek er juist donker uit. Die natte plek heeft dus een betere transmissie maar daardoor minder reflectie. Leerlingen kunnen dit zelf proberen, even aan de vinger liken, op papier drukken, op tafel leggen (reflectie) en omhooghouden richting raam (transmissie), zie {numref}` figuur {number} <fig_trans>`.
 
 :::{figure} ../figures/04-15ReflectionTransmission.*
+:label: fig_trans
 :width: 60%
 :align: left
 :alt: De natte plek ziet er licht uit, transmissie.
@@ -246,9 +250,10 @@ Er is nog meer te zien in het oog zelf zoals draadjes die zweven in de oogvloeis
 
 ## Parallax
 
-Laat de leerlingen hun rechteroog sluiten en dan een pen op armslengte omhoog houden, zó dat die op één lijn ligt met oog en een verticale streep op het bord. Laat ze nu het rechteroog openen en het linkeroog sluiten. De pen is niet langer precies voor die streep want we kijken ernaar vanuit een net iets andere hoek. Dat is parallax. Hoe verder de verticale streep op het bord, hoe kleiner het verschil. Met parallax kun je dus afstand bepalen. Zie [Figuur 13](#fig_paral) voor de schijnbare verschuiving van pen tegen de achtergrond.
+Laat de leerlingen hun rechteroog sluiten en dan een pen op armslengte omhoog houden, zó dat die op één lijn ligt met oog en een verticale streep op het bord. Laat ze nu het rechteroog openen en het linkeroog sluiten. De pen is niet langer precies voor die streep want we kijken ernaar vanuit een net iets andere hoek. Dat is parallax. Hoe verder de verticale streep op het bord, hoe kleiner het verschil. Met parallax kun je dus afstand bepalen. Zie {numref}`figuur {number} <fig_paral>` voor de schijnbare verschuiving van pen tegen de achtergrond.
 
 :::{figure} ../figures/Parallax.jpg
+:label: fig_paral
 :width: 100%
 :align: left
 :alt: De pen, op armsafstand van de camera (het oog), staat precies op de rand van het batik schilderij. Wanneer de camera zo’n 5 cm naar links wordt verschoven (= afstand tussen de ogen), is de pen niet verschoven maar lijkt verschoven. Hoe verder de muur met batik, des te kleiner de verschuiving
@@ -262,9 +267,10 @@ Kijk met twee ogen naar een pen die je op armslengte houdt tegen een verticale l
 
 ## Diepte zien 1
 
-Twee ogen zijn beter dan een, vooral in het zien van diepte en schatten van afstanden. Laat elke leerling een pen/potlood in zowel linkerhand als rechterhand nemen ([Figuur 14](#fig_depth)). Beweeg die handen even willekeurig heen-en-weer, laat alle leerlingen dan één oog dicht doen en dan de pennen naar elkaar toe bewegen totdat de punten elkaar raken. Met een oog dicht zit je er gauw naast, met twee ogen open is het heel makkelijk. Het experiment kan ook met de twee wijsvingers gedaan worden, maar met potlood/pen is het effect dramatischer.
+Twee ogen zijn beter dan een, vooral in het zien van diepte en schatten van afstanden. Laat elke leerling een pen/potlood in zowel linkerhand als rechterhand nemen ({numref}`figuur {number} <fig_depth>`). Beweeg die handen even willekeurig heen-en-weer, laat alle leerlingen dan één oog dicht doen en dan de pennen naar elkaar toe bewegen totdat de punten elkaar raken. Met een oog dicht zit je er gauw naast, met twee ogen open is het heel makkelijk. Het experiment kan ook met de twee wijsvingers gedaan worden, maar met potlood/pen is het effect dramatischer.
 
 :::{figure} ../figures/04-24SeeingDepth.JPG
+:label: fig_depth
 :width: 100%
 :align: left
 :alt: Afstand schatten met een of twee ogen.

@@ -1,5 +1,8 @@
 # Mechanica
 
+(eq:Newton2)=
+$$F=m\cdot \frac{dv}{dt}$$
+
 ## Vrije val onafhankelijk van massa
 Neem een grote en een kleine steen, of een 5 cent en een €2 munt, of breek een krijtje in een klein en een groot stuk en houd deze tussen duim en vingers zo dat de onderkant op dezelfde hoogte is. Vraag leerlingen te voorspellen (met een onderbouwing) welk steentje het eerst de grond zal raken als beide tegelijk worden losgelaten. Laat vallen en herhaal tot iedereen het eens is over de observatie (zien èn horen). Verklaar.  
 Voor een gedetailleerde beschrijving in PEOE-format, zie Showdefysica [@showdefysica1 p16-18].
@@ -36,6 +39,7 @@ Kun je een vel papier net zo snel laten vallen als een boek?
 
 Vallen met $g$, langzamer of sneller?
 ```` 
+
 ## Val en luchtweerstand
 Laat een blad papier vallen, dat valt langzaam en fladdert. Maak dan een prop, deze valt sneller, maar net ietsje langzamer dan een steen. Neem vervolgens een dubbelgevouwen a4, leg het op een boek en laat het geheel vallen, {numref}`Figuur {number} <fig_908>`. Papier en boek komen tegelijk aan, zelfs als je van het papier een dakje vouwt en er lucht onder zit. We hebben die vacuümbuis met een veertje en een stukje lood helemaal niet nodig! Je moet wel de opbouw van je onderwijs-leergesprek met leerlingen goed doordenken, hoe betrek je ze optimaal in voorspellen en verklaren? 
 
@@ -95,7 +99,7 @@ Loop voor de klas:
 - stoppen en starten.  
 en laat leerlingen positie–tijd en snelheid–tijd diagrammen schetsen.  
 
-Zodra leerlingen schetsen, loop langs, ontdek hun moeilijkheden met de taak en reageer direct individueel of plenair. Heerlijk om te doen want progressie is zeer zichtbaar. Lopen met constante snelheid, lopen met achtereenvolgens twee verschillende snelheden, stilstaan. Lopen heen-en-terug waarbij leerlingen vaak langs dezelfde grafieklijn terug willen, maar dat is terug in de tijd! Het kan ook omgekeerd, geef een grafiek en vraag een leerling die te lopen met instructies van klasgenoten. Zie literatuurverwijzing [@Berg2000a]() voor details of vraag een kopie bij de auteur. 
+Zodra leerlingen schetsen, loop langs, ontdek hun moeilijkheden met de taak en reageer direct individueel of plenair. Heerlijk om te doen want progressie is zeer zichtbaar. Lopen met constante snelheid, lopen met achtereenvolgens twee verschillende snelheden, stilstaan. Lopen heen-en-terug waarbij leerlingen vaak langs dezelfde grafieklijn terug willen, maar dat is terug in de tijd! Het kan ook omgekeerd, geef een grafiek en vraag een leerling die te lopen met instructies van klasgenoten. Zie literatuurverwijzing [@Berg2000a] voor details of vraag een kopie bij de auteur. 
 ```{tip}
 Leerlingen moeten direct schetsen en niet hun tijd verdoen met een volmaakt coördinatenstelsel tekenen.
 ```
@@ -365,7 +369,7 @@ Hoe kun je een briefje van 10 Euro vouwen zo dat het een lading van veel munten 
 * Laat even met een stokje of liniaal zien wat een zwaartepunt is. Als je het stokje daar ondersteunt, dan is het in evenwicht. Ook even laten zien dat het zwaartepunt verschuift als een kant van de lat of liniaal wordt verzwaard. 
 * Dan iedereen op laten staan. Docent staat dwars voor de klas (met zijkant naar leerlingen toe). Voor de zichtbaarheid en de atmosfeer helpt het om op een stoel of tafel te gaan staan. Wij hebben ook een zwaartepunt. Leun voorover, wat voel je? Druk op de voorvoet, kramp in de tenen. Als je nog iets verder naar voren leunt, dan moet je een stap vooruit nemen om niet te vallen. Dan gaat het zwaartepunt (dat wel ergens in je buik zal zitten) over je tenen en dan val je om. 
 * Er zijn nog allerlei variaties. Til een been op en strek het naar voren .... nu gaan de schouders naar achteren om te compenseren en ervoor te zorgen dat het zwaartepunt niet over de tenen gaat. Draai nu een kwartslag om dus met het gezicht naar het publiek. Til het rechterbeen op en strek het naar rechts ....de schouders gaan automatisch naar links. 
-* Zak door je knieen, een deel van het lichaam gaat naar achteren (achterwerk) een deel gaat naar voren (knieen/schouders). Steeds geeft het lichaam automatisch de correcties die nodig zijn om het zwaartepunt boven de voeten te houden en niet om te vallen. Het lichaam kent zijn natuurkunde! Zie verder [@Berg2007]() en @showdefysica2 [p.200].
+* Zak door je knieen, een deel van het lichaam gaat naar achteren (achterwerk) een deel gaat naar voren (knieen/schouders). Steeds geeft het lichaam automatisch de correcties die nodig zijn om het zwaartepunt boven de voeten te houden en niet om te vallen. Het lichaam kent zijn natuurkunde! Zie verder [@Berg2007] en @showdefysica2 [p.200].
 
 ### Leerlingen geld op laten pakken van hun tenen zonder te vallen
 Zet leerlingen op een rij met de hakken tegen de muur ({numref}`Figuur {number} <fig_CM>`). Leen bankbiljetten van andere leerlingen en leg die voor de tenen van de leerlingen. Als ze die op kunnen rapen zonder te vallen, dan mogen ze het geld houden! Maar dat gaat niet lukken. Bij het voorover buigen komt het zwaartepunt voorbij de tenen en moeten leerlingen een stap vooruit doen om vallen te voorkomen.
@@ -392,7 +396,7 @@ David balanceert een hamer, het zwaartepunt moet onder de tafel zijn, niet ernaa
 ```
 
 ## Rotatie, zwaartepunt, stabiliteit
-Houd een stoel schuin, nog schuiner... er is een punt waar de stoel kantelt. Neem een eenvoudiger object, bv een blok hout. Probeer nu de positie waarin het zo schuin staat dat het gaat vallen te relateren aan het zwaartepunt. Neem dan een leerling en zet die met zijn zij naar de klas. Laat zien wat er gebeurt als de leerling voorover leunt totdat zijn zwaartepunt over de tenen gaat (zie eerdere demo). Sta klaar om te helpen bij een zachte landing. Als je de tijd hebt, kun je nog demonstreren dat het zwaartepunt van meisjes lager ligt dan dat van jongens. Als ze een stoel voor zich oppakken, dan vallen jongens gemakkelijker voorover. Details van de instructies staan in [@Liem1987, p326]().
+Houd een stoel schuin, nog schuiner... er is een punt waar de stoel kantelt. Neem een eenvoudiger object, bv een blok hout. Probeer nu de positie waarin het zo schuin staat dat het gaat vallen te relateren aan het zwaartepunt. Neem dan een leerling en zet die met zijn zij naar de klas. Laat zien wat er gebeurt als de leerling voorover leunt totdat zijn zwaartepunt over de tenen gaat (zie eerdere demo). Sta klaar om te helpen bij een zachte landing. Als je de tijd hebt, kun je nog demonstreren dat het zwaartepunt van meisjes lager ligt dan dat van jongens. Als ze een stoel voor zich oppakken, dan vallen jongens gemakkelijker voorover. Details van de instructies staan in [@Liem1987,p326].
 
 ## Druk en oppervlak
 Neem een pen of potlood. Druk eerst de scherpe punt (klein oppervlak) op je hand dus grote druk, en druk dan met ongeveer dezelfde kracht de top van het potlood (groot oppervlak) of de pen op je hand. Dit laat duidelijk het verschil tussen druk en kracht zien. Leerlingen moeten meedoen met hun eigen pen om het zelf te voelen.
@@ -492,7 +496,7 @@ Bernoulli laten zien
 Laat iets vallen en er is conversie van potentiele naar kinetische energie, wrijf in je handen (kinetische naar thermische energie), klap in je handen (mechanisch naar geluid) wijs naar de lampen in het lokaal (elektrisch naar licht en warmte), etc.
 
 ## Arbeid en kinetische energie
-Er zijn linialen met mooie gootjes, laat een knikker rollen en onderzoek het verband tussen beginhoogte van de knikker en de afgelegde afstand door het bekertje of gevouwen stukje karton of dik papier ({numref}`Figuur {number} <fig_ruler_marb>`) dat geplaatst wordt op grafiek papier voor precies meten. Dit kan ook gemakkelijk een goedkoop maar nuttig practicum worden in een gewoon lokaal. Kwalitatief is dit een mooie demonstratie van de relatie tussen kinetische energie en arbeid. Kwantitatief zit er nog een addertje onder het gras in de rotatie van de knikker, heeft dat wel of niet invloed? [@Kruit2018] gebruikte dit experiment om onderzoeksvaardigheden te meten van basisschool leerlingen. Zie ook [@Farmer2012]().
+Er zijn linialen met mooie gootjes, laat een knikker rollen en onderzoek het verband tussen beginhoogte van de knikker en de afgelegde afstand door het bekertje of gevouwen stukje karton of dik papier ({numref}`Figuur {number} <fig_ruler_marb>`) dat geplaatst wordt op grafiek papier voor precies meten. Dit kan ook gemakkelijk een goedkoop maar nuttig practicum worden in een gewoon lokaal. Kwalitatief is dit een mooie demonstratie van de relatie tussen kinetische energie en arbeid. Kwantitatief zit er nog een addertje onder het gras in de rotatie van de knikker, heeft dat wel of niet invloed? [@Kruit2018] gebruikte dit experiment om onderzoeksvaardigheden te meten van basisschool leerlingen. Zie ook [@Farmer2012].
 
 
 ```{figure} ../figures/02-51WorkKineticEnergy

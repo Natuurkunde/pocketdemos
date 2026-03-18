@@ -1,11 +1,11 @@
 # MyST build outputs
-
 raw
 videos
 *.docx
 _else
 *.pdf
 *.xlsx
+200demos.pdf
 
 # folders
 qr_images
