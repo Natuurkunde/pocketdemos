@@ -30,7 +30,7 @@ Wil je een demonstratie goed neerzetten, dan moet je een aantal dingen in de gat
 -   Details en hoofdzaken scheiden, bijvoorbeeld door details simpel weg te laten of uit te stellen tot na de hoofdboodschap.
 -   Zichtbaarheid (of hoorbaarheid of andere zintuigen);
 
-Je kunt je natuurlijk afvragen of dit soort broekzak demonstraties nog nodig zijn nu elk lokaal een beamer heeft en je de YouTube demo’s zo van het internet kan plukken. Ik denk dat het zelf ervaren van natuurkunde via demo’s en practicum met dagelijks leven verschijnselen toch iets anders is dan tv kijken en dat zowel YouTube als broekzakdemo’s een eigen rol hebben in het leerproces.
+Je kunt je natuurlijk afvragen of dit soort pocketdemonstraties nog nodig zijn nu elk lokaal een beamer heeft en je de YouTube demo’s zo van het internet kan plukken. Ik denk dat het zelf ervaren van natuurkunde via demo’s en practicum met dagelijks leven verschijnselen toch iets anders is dan tv kijken en dat zowel YouTube als pocketdemo’s een eigen rol hebben in het leerproces.
 
 ## Nuttige voorwerpen in de klas
 De standaardvoorwerpen in een kaal lokaal zijn pennen, papier, leerlingen, boeken, stoelen, tafels, zakdoeken, etc. Daarnaast is het handig altijd het volgende beschikbaar te hebben: een glas voor water, een rietje, een ballon, een kaars/theelichtje met aansteker/lucifers, een touwtje of schoenveter, een liniaal, een paar munten, enkele PVC-buisjes met verschillende lengte, een neodymium magneet, een laser pointer of zaklamp, een touwtje ...

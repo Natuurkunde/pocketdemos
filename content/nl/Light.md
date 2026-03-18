@@ -288,7 +288,7 @@ Denk aan iets om de verschillen tussen centrale en perifere oogcellen te illustr
 
 ## Optische illusies
 
-Scan de beroemde plaatjes van parallelle lijnen die niet parallel lijken, Escher’ tekeningen, “gestalt” plaatjes, etc. en je hebt meteen 10 demo’s. Google op bv optische illusies en aanverwante termen. Zet dit op je USB-stick, stop die in je broekzak en je hebt weer een serie broekzakdemonstraties, zie bijvoorbeeld [optics4kids](https://www.optics4kids.org/optical-illusions)[^4]. Idem dito natuurlijk met YouTube filmpjes.
+Scan de beroemde plaatjes van parallelle lijnen die niet parallel lijken, Escher’ tekeningen, “gestalt” plaatjes, etc. en je hebt meteen 10 demo’s. Google op bv optische illusies en aanverwante termen. Zet dit op je USB-stick, stop die in je broekzak en je hebt weer een serie pocketdemonstraties, zie bijvoorbeeld [optics4kids](https://www.optics4kids.org/optical-illusions)[^4]. Idem dito natuurlijk met YouTube filmpjes.
 
 ## Diffractie
 

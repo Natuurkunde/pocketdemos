@@ -1,5 +1,5 @@
 ---
-title: Broekzakdemonstraties
+title: Pocketdemonstraties
 site:
   hide_outline: true
   hide_toc: true
@@ -12,7 +12,7 @@ numbering:
 
 <div style="text-align: center; font-size: 24px; font-weight: bold;">
 
-Broekzakdemonstraties
+Pocketdemonstraties
 
 </div>
 

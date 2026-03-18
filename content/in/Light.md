@@ -228,7 +228,7 @@ Bijna elk natuurkunde boek heeft instructies om de blinde vlek van het oog te vi
 Denk aan iets om de verschillen tussen centrale en perifere oogcellen te illustreren. De perifere cellen zijn gevoeliger voor detectie van plotselinge bewegingen, bijvoorbeeld bescherming van het oog tegen insecten of verkeersongelukken. Leerlingen zullen komen met hun eigen verhalen. Centrale cellen zitten dichter op elkaar en zijn meer kleurgevoelig. Die kleurgevoeligheid is te testen door gekleurde voorwerpen in het verlengde van de ooghoeken van een proefpersoon te plaatsen. Bij welke hoek (van 0$^{\circ}$C centraal tot 90$^{\circ}$C in de ooghoek) worden kleuren goed zichtbaar? 
 
 ## Optische illusies
-Scan de beroemde plaatjes van parallelle lijnen die niet parallel lijken, Escher’ tekeningen, “gestalt” plaatjes, etc. en je hebt meteen 10 demo’s. Google op bv optische illusies en aanverwante termen. Zet dit op je USB-stick, stop die in je broekzak en je hebt weer een serie broekzakdemonstraties, zie bijvoorbeeld [optics4kids](https://www.optics4kids.org/optical-illusions)[^4]. Idem dito natuurlijk met YouTube filmpjes.
+Scan de beroemde plaatjes van parallelle lijnen die niet parallel lijken, Escher’ tekeningen, “gestalt” plaatjes, etc. en je hebt meteen 10 demo’s. Google op bv optische illusies en aanverwante termen. Zet dit op je USB-stick, stop die in je broekzak en je hebt weer een serie pocketdemonstraties, zie bijvoorbeeld [optics4kids](https://www.optics4kids.org/optical-illusions)[^4]. Idem dito natuurlijk met YouTube filmpjes.
 [^4]: https://www.optics4kids.org/optical-illusions
 
 ## Diffractie

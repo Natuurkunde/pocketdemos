@@ -15,7 +15,7 @@ This book contains more than 200 demos collected and/or created by Ed van den Be
 **Freek Pols** (1986) worked for 10 years as a physics teacher. Since 2019, he has been working as a laboratory coordinator in the Technical Physics program at TU Delft. In 2023, he obtained his PhD on laboratory education, specifically on teaching scientific research. He is currently a university lecturer in the Department of Science & Engineering Education. His research continues to focus on the development of experimental physics education, but now with a focus on university level.
 
 ## Special Thanks
-Suzanne Schuurman edited the English version of Broekzakdemos into Dutch. 
+Suzanne Schuurman edited the English version of Pocketdemos into Dutch. 
 Iris Brouwer contributed to the creation of the photos by testing many of the demos live.
 
 ## License
@@ -25,12 +25,12 @@ Everything in this publication may be shared and/or modified, provided that attr
 
 ## Reference
 If you use this book, please refer to it as: 
-van den Berg, E. & Pols, F. (2025). Broekzakdemos. NVON. Or use the BibTeX reference below.
+van den Berg, E. & Pols, F. (2025). Pocketdemos. NVON. Or use the BibTeX reference below.
 
 ```bibtex
 @book{vandenBergPols2025,
     author    = {Ed van den Berg and Freek Pols},
-    title     = {Broekzakdemos},
+    title     = {Pocketdemos},
     year      = {2025},
     publisher = {NVON},
     location  = {Meppel}

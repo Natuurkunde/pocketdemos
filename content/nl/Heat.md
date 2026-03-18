@@ -84,7 +84,7 @@ Steek een kaars aan, nader de vlam van bovenaf, Wat je voelt, is dat warmte van 
 
 Houd voorwerpen van verschillende materialen in de vlam en vergelijk geleiding, bijvoorbeeld een muntje, of een potlood.
 
-Bovenstaande experimenten met kaarsen kunnen gedaan worden door de leraar (met een grote kaars in een donkere kamer en bij voorkeur met een webcam), of tegelijk door een leraar en leerlingen op hun tafel, of als een lab oefening voor de leerlingen. Als de leerlingen dit op hun tafel doen zijn er natuurlijk meer kaarsen en lucifers nodig en dan is dit geen broekzak demo meer.Water warm houden
+Bovenstaande experimenten met kaarsen kunnen gedaan worden door de leraar (met een grote kaars in een donkere kamer en bij voorkeur met een webcam), of tegelijk door een leraar en leerlingen op hun tafel, of als een lab oefening voor de leerlingen. Als de leerlingen dit op hun tafel doen zijn er natuurlijk meer kaarsen en lucifers nodig en dan is dit geen pocket demo meer.Water warm houden
 
 ## Water warm houden
 

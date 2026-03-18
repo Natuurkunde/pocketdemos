@@ -3,7 +3,7 @@ version: 1
 project:
   id: e99957de-65c8-4ebe-bbe0-abca176beb68
   # title: Two hundred Pocket Physics Demonstrations and Visualizations with Common Objects
-  title: Broekzakdemos
+  title: Pocketdemos
   subtitle: 200+ demo's met alledaagse materialen
   # description: 
   # keywords: []
@@ -14,7 +14,7 @@ project:
   date: 2025-10-23
   github: https://github.com/Natuurkunde/pocketdemos
   license: CC-BY-NC-4.0
-  bibliography: references.bib
+  bibliography: reference.bib
   
   plugins:
     - https://github.com/TUD-JB-Templates/JB2_plugins/releases/download/exercise/pdf_exercise.mjs

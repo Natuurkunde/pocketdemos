@@ -23,7 +23,7 @@ Dit boek bevat meer dan 200 demo’s verzameld en/of bedacht door Ed van den Ber
 
 ## Speciale dank
 
-Suzanne Schuurman heeft de bewerking gedaan van de Engelse versie van Broekzakdemos naar het Nederlands.
+Suzanne Schuurman heeft de bewerking gedaan van de Engelse versie van Pocketdemos naar het Nederlands.
 Iris Brouwer heeft bijgedragen aan het maken van de foto’s door veel van de demo’s live te testen.
 
 ## Licentie
@@ -35,14 +35,14 @@ Alles uit deze uitgave mag worden gedeeld en/of bewerkt, mits er naamsvermelding
 ## Referentie
 
 Als u dit boek gebruikt, verwijs er dan naar als:
-van den Berg, E. & Pols, F. (2025). Broekzakdemos. NVON.&#x20;
+van den Berg, E. & Pols, F. (2025). Pocketdemos. NVON.&#x20;
 
 Of gebruik onderstaande BibTeX referentie.
 
 ```bibtex
 @book{vandenBergPols2025,
     author    = {Ed van den Berg and Freek Pols},
-    title     = {Broekzakdemos},
+    title     = {Pocketdemos},
     year      = {2025},
     publisher = {NVON},
     location  = {Meppel}
