@@ -1,7 +1,7 @@
 
-# Introductie
+# Over dit boek
 
-Dit boek bevat meer dan 200 demo’s verzameld en/of bedacht door Ed van den Berg. Het boek is verder samengesteld en opgemaakt door Freek Pols. Een groot deel van de illustraties komt ook uit de collectie van Ed van den Berg. Gezamenlijk zijn nieuwe foto’s en video's gemaakt.
+Dit boek bevat meer dan 200 demo’s verzameld en/of bedacht door Ed van den Berg. Het boek is verder aangevuld, samengesteld en opgemaakt door Freek Pols. Een groot deel van de illustraties komt ook uit de collectie van Ed van den Berg. Gezamenlijk zijn nieuwe foto’s en video's gemaakt.
 
 ## Auteurs
 
@@ -17,12 +17,11 @@ Dit boek bevat meer dan 200 demo’s verzameld en/of bedacht door Ed van den Ber
 :align: left
 :::
 
-**Freek Pols** (1986) werkte 10 jaar als docent natuurkunde. Sinds 2019 is hij werkzaam als practicumcoördinator bij de opleiding Technische Natuurkunde van de TU Delft. In 2023 promoveerde hij op practicumonderwijs, specifiek op leren onderzoeken in natuurwetenschappen in het voortgezet onderwijs. Momenteel is hij universitair docent bij de afdeling Science & Engineering Education. Zijn onderzoek richt zich nog steeds op de ontwikkeling van experimenteel natuurkundeonderwijs, maar nu met een focus op universitair niveau.
+**Freek Pols** (1986) werkte 10 jaar als docent natuurkunde op de middelbare. Sinds 2019 is hij werkzaam als practicumcoördinator bij de opleiding Technische Natuurkunde van de TU Delft. In 2023 promoveerde hij op practicumonderwijs, specifiek op leren onderzoeken in natuurwetenschappen in het voortgezet onderwijs. Momenteel is hij universitair docent bij de afdeling Science & Engineering Education. Zijn onderzoek richt zich nog steeds op de ontwikkeling van experimenteel natuurkundeonderwijs, maar nu met een focus op universitair niveau.
 
 ## Speciale dank
 
-Suzanne Schuurman heeft de bewerking gedaan van de Engelse versie van Pocketdemos naar het Nederlands.
-Iris Brouwer heeft bijgedragen aan het maken van de foto’s door veel van de demo’s live te testen.
+Suzanne Schuurman heeft de bewerking gedaan van de Engelse versie van Pocketdemos naar het Nederlands. Iris Brouwer heeft bijgedragen aan het maken van de foto’s door veel van de demo’s live te testen. Aafke van den Berg heeft alle demonstraties gelezen en correcties en suggesties gegeven. 
 
 ## Licentie
 
@@ -33,16 +32,17 @@ Alles uit deze uitgave mag worden gedeeld en/of bewerkt, mits er naamsvermelding
 ## Referentie
 
 Als u dit boek gebruikt, verwijs er dan naar als:
-van den Berg, E. & Pols, F. (2025). Pocketdemos. NVON.&#x20;
+van den Berg, E. & Pols, F. (2026). Pocketdemos. NVON.
 
 Of gebruik onderstaande BibTeX referentie.
 
 ```bibtex
-@book{vandenBergPols2025,
+@book{vandenBergPols2026,
     author    = {Ed van den Berg and Freek Pols},
     title     = {Pocketdemos},
-    year      = {2025},
+    year      = {2026},
     publisher = {NVON},
-    location  = {Meppel}
+    location  = {Meppel},
+    ISBN = {}
 }
 ```
