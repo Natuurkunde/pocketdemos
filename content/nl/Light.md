@@ -1,11 +1,11 @@
 
 # Licht
 
-In een kaal klaslokaal heb je verstrooid licht van buiten en soms zelfs direct zonlicht. Er zijn lampen aan het plafond, zaklampen in de telefoons van leerlingen, en licht van telefoonschermen. De leraar heeft misschien zelfs een laser in zijn of haar zak. Je kunt met al deze verschillende lichtbronnen veel natuurkundeverschijnselen laten zien.
+In een kaal klaslokaal heb je verstrooid licht van buiten en soms zelfs direct zonlicht. Er zijn lampen aan het plafond, zaklampen in de telefoons van leerlingen, en licht van telefoonschermen. De leraar heeft misschien zelfs een laserpointer in zijn of haar zak. Je kunt met al deze verschillende lichtbronnen veel natuurkundeverschijnselen laten zien.
 
 ## Voorafgaande vragen over de voortplanting van licht
 
-De beste manier om een les over optica te beginnen is met een volledige donker lokaal met hooguit wat kaarslicht. Een leeg klaslokaal heeft waarschijnlijk geen verduisterende gordijnen, dus er moet geïmproviseerd worden. Ik raad sterk aan enkele fundamentele aspecten (zie onder) die normaal niet behandeld worden expliciet te bespreken  {cite:p}`van1990student`. Dat kan o.a. door leerlingen individueel de volgende  keuzevragen beantwoorden:
+Een goede manier om een les over optica te beginnen is met een volledige donker lokaal met hooguit wat kaarslicht. Een leeg klaslokaal heeft waarschijnlijk geen verduisterende gordijnen, dus er moet geïmproviseerd worden. Je kunt enkele fundamentele aspecten (zie onder) die normaal niet behandeld worden expliciet te bespreken  {cite:p}`van1990student`. Dat kan o.a. door leerlingen individueel de volgende  keuzevragen beantwoorden:
 
 :::{figure} ../figures/04-1-1StraightLinePropagation.*
 :width: 40%
@@ -67,11 +67,11 @@ Er is altijd wel iets dat werkt als een prisma, bijvoorbeeld het plastic van die
 
 ### Kleuren maken
 
-Van het vorige experiment hebben we misschien geleerd dat alles met een wig vorm, bijvoorbeeld goedkope balpennen met een hexagon erin, kleuren kunnen “maken” van wit licht. Je herkent die vormen overal, zoals de rand van een badkamerspiegel of een prisma. Kijk om je heen, heeft er iemand kleding of schoenen met glitter en kleuren? Zijn daar wig vormen aanwezig?
+Van het vorige experiment hebben we misschien geleerd dat iets met een wig vorm, bijvoorbeeld goedkope balpennen met een hexagon erin, kleuren kunnen “maken” van wit licht. Je herkent die vormen overal, zoals de rand van een badkamerspiegel of een prisma. Kijk om je heen, heeft er iemand kleding of schoenen met glitter en kleuren? Zijn daar wig vormen aanwezig?
 
 ### Kleuren aftrekken door een filter
 
-Is er iemand die tranparante, gekleurde snoeppapiertjes heeft? Gebruik een zaklamp of het licht van een telefoon en schijn door het gekleurde papier richting de leerlingen. Het oorspronkelijke licht is wit, dat is een combinatie van de kleuren van de regenboog. Het snoeppapiertje absorbeert enkele kleuren en “trekt die af”   van wit. Een rood papiertje absorbeert blauw en groen (trekt deze af van wit), en laat rood door. Een blauw filter absorbeert groen en rood, en laat blauw door. Als je meerdere papiertjes en meerdere lampen hebt kun je de kleuren ook weer mengen en dus optellen.
+Is er iemand die transparante, gekleurde snoeppapiertjes heeft? Gebruik een zaklamp of het licht van een telefoon en schijn door het gekleurde papier richting de leerlingen. Het oorspronkelijke licht is wit, dat is een combinatie van de kleuren van de regenboog. Het snoeppapiertje absorbeert enkele kleuren en “trekt die af”   van wit. Een rood papiertje absorbeert blauw en groen (trekt deze af van wit), en laat rood door. Een blauw filter absorbeert groen en rood, en laat blauw door. Als je meerdere papiertjes en meerdere lampen hebt kun je de kleuren ook weer mengen en dus optellen.
 
 :::{figure} ../images/20250513_121309.*
 :width: 60%
@@ -95,7 +95,7 @@ Verschillende Newtonschijven
 
 ### Mengen van kleurstoffen of verf in water
 
-Je hebt vast niet allerlei kleuren verf meegenomen, tenzij je gedacht hebt aan de verfdoos van zoon of dochter. Maar je kunt wel gebruik maken van de ervaring van leerlingen hiermee. Telken bij het uitspoelen van de verfkwast, wordt het water donkerder. Hoezo? Als je eerst rode verf gebruikt, kleurt het water rood bij het uitspoelen. Het rode pigment absorbeert groen en blauw en reflecteert rood, vandaar de kleur. Als je vervolgens blauwe verf gebruikt en de kwast uitspoelt, dan wordt ook het rood geabsorbeert. En zo wordt het glas donkerder bij elke nieuwe kleur die je uitspoelt.
+Je hebt vast niet allerlei kleuren verf meegenomen, tenzij je gedacht hebt aan de verfdoos van zoon of dochter. Maar je kunt wel gebruik maken van de ervaring van leerlingen hiermee. Telkens bij het uitspoelen van de verfkwast, wordt het water donkerder. Hoezo? Als je eerst rode verf gebruikt, kleurt het water rood bij het uitspoelen. Het rode pigment absorbeert groen en blauw en reflecteert rood, vandaar de kleur. Als je vervolgens blauwe verf gebruikt en de kwast uitspoelt, dan wordt ook het rood geabsorbeerd. En zo wordt het glas donkerder bij elke nieuwe kleur die je uitspoelt.
 
 ## Snellius
 
@@ -187,7 +187,7 @@ Natuurkundeplezier in het zwembad, geplaatst met toestemming
 
 
 ### Totale interne reflectie
-Zet een vol glas water op de rand van een tafel en kijk van onderaf naar de waterspiegel. Bij een invalshoek groter dan de kritische hoek werkt het wateroppervlak als een spiegel. Leg wat voorwerpen of een foto aan de andere kant van het glas en je ziet die via de waterspiegel. Het kost ietsje meer tijd om ook glazen water op leerling tafels te zetten, maar het is wel zo effectief. Laat ze het zelf ervaren. Neem dan een laser pointer, schijn eerst steil van onder en de laserstraal is zichtbaar op het plafond. Houd de laser dan steeds meer horizontaal (dus grotere hoek van inval) en bij een hoek groter dan de kritische hoek klapt de lichtstraal om en zien we een stip op de tafel.
+Zet een vol glas water op de rand van een tafel en kijk van onderaf naar de waterspiegel. Bij een invalshoek groter dan de kritische hoek werkt het wateroppervlak als een spiegel. Leg wat voorwerpen of een foto aan de andere kant van het glas en je ziet die via de waterspiegel. Het kost ietsje meer tijd om ook glazen water op leerling tafels te zetten, maar het is wel zo effectief. Laat ze het zelf ervaren. Neem dan een laser pointer, schijn eerst steil van onder en de laserstraal is zichtbaar op het plafond. Houd de laser dan steeds meer horizontaal (dus grotere hoek van inval) en bij een hoek groter dan de kritische hoek klapt de lichtstraal om en zien we een stip op de tafel. Met een beetje krijtstof in het water is de hele lichtstraal te zien!
 
 
 
@@ -222,7 +222,7 @@ De natte plek ziet er licht uit, transmissie.
 
 ### Met LED’s
 
-Hebben leerlingen fiets ledjes bij zich? Verduister het lokaal. Neem twee ledjes, houd het papier met de olie of watervlek ertussenin, en zoek een punt waar reflectie en transmissie gelijk zijn. Je kunt er zelfs een fotometer van maken. Zie verder [exploratorium](https://www.exploratorium.edu/snacks/oil-spot-photometer)[^2]. Je kunt lampen met verschillende lichtsterkte vergelijken.
+Hebben leerlingen fiets ledjes bij zich? Verduister het lokaal. Neem twee ledjes, houd het papier met de olie of watervlek ertussenin, beweeg het papier van de ene naar de andere LED en zoek een punt waar reflectie en transmissie gelijk zijn. Je kunt er zelfs een fotometer van maken. Zie verder [exploratorium](https://www.exploratorium.edu/snacks/oil-spot-photometer)[^2]. Je kunt lampen met verschillende lichtsterkte vergelijken.
 
 ## Zien
 ### Pupil, diafragma
@@ -268,11 +268,11 @@ De pen, op armsafstand van de camera (het oog), staat precies op de rand van het
 
 ### Dominantie van één oog over het andere (lui oog)
 
-Kijk met twee ogen naar een pen die je op armslengte houdt tegen een verticale lijn op het bord. Doe je linkeroog dicht, vervolgens open je linkeroog weer en sluit het rechteroog. Als de pen ogenschijnlijk sterk verschuift bij een gesloten rechteroog en relatief weinig bij een gesloten linkeroog, dan is het rechteroog dominant en het linkeroog mogelijk lui. Zo is dat bij mij. Ik heb al van jongsaf aan een lui linkeroog. Je kunt natuurlijk alle leerlingen dit zelf laten uitproberen.
+Kijk met twee ogen naar een pen die je op armslengte houdt tegen een verticale lijn op het bord. Doe je linkeroog dicht, vervolgens open je je linkeroog weer en sluit het rechteroog. Als de pen ogenschijnlijk sterk verschuift bij een gesloten rechteroog en relatief weinig bij een gesloten linkeroog, dan is het rechteroog dominant en het linkeroog mogelijk lui. Zo is dat bij Ed. Hij heeft al van jongsaf aan een lui linkeroog. Je kunt natuurlijk alle leerlingen dit zelf laten uitproberen.
 
 ### Diepte zien 1
 
-Twee ogen zijn beter dan een, vooral in het zien van diepte en schatten van afstanden. Laat elke leerling een pen/potlood in zowel linkerhand als rechterhand nemen ({numref}`figuur {number} <fig_depth>`). Beweeg die handen even willekeurig heen-en-weer, laat alle leerlingen dan één oog dicht doen en dan de pennen naar elkaar toe bewegen totdat de punten elkaar raken. Met een oog dicht zit je er gauw naast, met twee ogen open is het heel makkelijk. Het experiment kan ook met de twee wijsvingers gedaan worden, maar met potlood/pen is het effect dramatischer.
+Twee ogen zijn beter dan een, vooral in het zien van diepte en schatten van afstanden. Laat elke leerling een pen/potlood in zowel de linkerhand als rechterhand nemen ({numref}`figuur {number} <fig_depth>`). Beweeg die handen even willekeurig heen-en-weer, laat alle leerlingen dan één oog dicht doen en dan de pennen naar elkaar toe bewegen totdat de punten elkaar raken. Met één oog dicht zit je er gauw naast, met twee ogen open is het heel makkelijk. Het experiment kan ook met de twee wijsvingers gedaan worden, maar met potlood/pen is het effect dramatischer.
 
 :::{figure} ../figures/04-24SeeingDepth.JPG
 :label: fig_depth
@@ -285,7 +285,7 @@ Afstand schatten met een of twee ogen.
 
 ### Diepte zien 2
 
-Dit kan als docent demonstratie met een leerling voor de klas, of met duo’s van leerlingen waarvan een als proefpersoon en de ander als experimentator. Verzamel centen of knopen of paperclips of andere kleine voorwerpen en een bekertje (of teken een cirkel op papier). Het bekertje of de cirkel moet ongeveer 60 cm van de proefpersoon vandaan zijn. Die doet één oog dicht. De docent of experimentator houdt een munt of knoop ongeveer 50 cm boven de tafel. Beweeg de hand langzaam. Vraag de proefpersoon “laat vallen” te zeggen op het moment dat hij/zij denkt dat de munt/knoop precies boven het bekertje of de cirkel is en zie of die inderdaad in het bekertje of binnen de cirkel valt. Probeer ook met twee ogen. Probeer op grotere en kleinere afstand. Vergelijk het resultaat van 10x vallen bij elke afstand. Is er verbetering met twee ogen open? Is er verbetering wanneer het bekertje dichterbij is?
+Dit kan als docent demonstratie met een leerling voor de klas, of met duo’s van leerlingen waarvan een als proefpersoon en de ander als experimentator. Verzamel centen of knopen of paperclips of andere kleine voorwerpen, en een bekertje (of teken een cirkel op papier). Het bekertje of de cirkel moet ongeveer 60 cm van de proefpersoon vandaan zijn. Die doet één oog dicht. De docent of experimentator houdt een munt of knoop ongeveer 50 cm boven de tafel. Beweeg de hand langzaam. Vraag de proefpersoon “laat vallen” te zeggen op het moment dat hij/zij denkt dat het voorwerp precies boven het bekertje of de cirkel is. Zie of het voorwerp inderdaad in het bekertje of binnen de cirkel valt. Probeer ook met twee ogen. Probeer op grotere en kleinere afstand. Vergelijk het resultaat van 10x vallen bij elke afstand, bijvoorbeeld door de klasresultaten centraal te delen [@pols2023collaborative]. Is er verbetering met twee ogen open? Is er verbetering wanneer het bekertje dichterbij is?
 
 Een alternatief met een uiterst duidelijk verslaglegging is enkele concentrische cirkels op een papier op de grond te tekenen, bijvoorbeeld met straal 1, 2 en 5 cm. De proefpersoon staat 1,5 m van de cirkels met één oog dicht. De experimentator houdt een viltpen vast met de punt naar beneden. De proefpersoon instrueert de experimentator de pen naar voren/achteren/links/rechts te bewegen totdat hij/zij denkt dat de viltpen boven de target is. Dan laten vallen. Het stippenpatroon is het verslag van de resultaten. Gebruik een verschillende kleur viltpen of marker voor verschillende condities zoals een oog dicht, twee ogen open, of een andere afstand van de proefpersoon tot de target.
 
@@ -295,7 +295,7 @@ Bijna elk natuurkunde boek heeft instructies om de blinde vlek van het oog te vi
 
 ### Centraal versus perifeer zicht
 
-Denk aan iets om de verschillen tussen centrale en perifere oogcellen te illustreren. De perifere cellen zijn gevoeliger voor detectie van plotselinge bewegingen, bijvoorbeeld bescherming van het oog tegen insecten of verkeersongelukken. Leerlingen zullen komen met hun eigen verhalen. Centrale cellen zitten dichter op elkaar en zijn meer kleurgevoelig. Die kleurgevoeligheid is te testen door gekleurde voorwerpen in het verlengde van de ooghoeken van een proefpersoon te plaatsen. Bij welke hoek (van 0{math}`^{\circ}`C centraal tot 90{math}`^{\circ}`C in de ooghoek) worden kleuren goed zichtbaar?
+Denk aan iets om de verschillen tussen centrale en perifere oogcellen te illustreren. De perifere cellen zijn gevoeliger voor detectie van plotselinge bewegingen, bijvoorbeeld bescherming van het oog tegen insecten of verkeersongelukken. Leerlingen zullen komen met hun eigen verhalen. Centrale cellen zitten dichter op elkaar en zijn meer kleurgevoelig. Die kleurgevoeligheid is te testen door gekleurde voorwerpen in het verlengde van de ooghoeken van een proefpersoon te plaatsen. Bij welke hoek (van 0{math}`^{\circ}` centraal tot 90{math}`^{\circ}` in de ooghoek) worden kleuren goed zichtbaar?
 
 ## Optische illusies
 
