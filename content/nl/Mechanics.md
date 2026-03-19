@@ -37,12 +37,12 @@ Kun je een vel papier net zo snel laten vallen als een boek?
 Vallen met $g$, langzamer of sneller?
 ```` 
 
-## Val en luchtweerstand
+## Luchtwrijving
+### Val en luchtweerstand
 Laat een blad papier vallen, dat valt langzaam en fladdert. Maak dan een prop, deze valt sneller, maar net ietsje langzamer dan een steen. Neem vervolgens een dubbelgevouwen a4, leg het op een boek en laat het geheel vallen, {numref}`Figuur {number} <fig_908>`. Papier en boek komen tegelijk aan, zelfs als je van het papier een dakje vouwt en er lucht onder zit. We hebben die vacuümbuis met een veertje en een stukje lood helemaal niet nodig! Je moet wel de opbouw van je onderwijs-leergesprek met leerlingen goed doordenken, hoe betrek je ze optimaal in voorspellen en verklaren? 
 
 
-
-## Papieren bakjes 
+### Papieren bakjes 
 Van een half a4, is het gemakkelijk een rechthoekig bakje te vouwen en vast te nieten. Voeg de ongebruikte stukje papier toe in het bakje om precies de massa van een 1/2 a4 te hebben. Een vel papier dwarrelt naar beneden. Een bakje valt al snel met constante snelheid. Het is mogelijk hier een onderzoek van te maken: wat is de invloed van massa en doorsnede van het bakje op de valtijd? Een eerste benadering kan zijn met de formule $t = \frac{h\cdot A}{m}$. Deze voorspelt dat verdubbeling van hoogte $h$ of doorsnede $A$ resulteert in een verdubbeling van de valtijd $t$. De massa kun je gemakkelijk verdubbelen door twee bakjes in elkaar te vouwen. Ook de doorsnede van het bakje (het oppervlak dwars op de valrichting) is gemakkelijk te varieren.  Als je denkt dat de dwarsdoorsnede evenredig is met de tijd, laat dan het bakje met $A$ van twee keer zo hoog vallen, tegelijk met het bakje met $2A$ (maar zorg voor gelijke massa). Dan zouden ze tegelijk aan moeten komen. Is dat ook zo? Voor massa blijkt te gelden dat $t$ evenredig is met $\sqrt{m}$ in plaats van met $m^{-1}$. Zie ShowdeFysica 1 [@showdefysica1 p32-33] voor een volledige beschrijving. Een vroege versie van dit experiment is te vinden in Eric Roger's beroemde boek *Physics for the Inquiring Mind* [@rogers2011physics pg.167].
   
 ````{figure}
@@ -71,11 +71,11 @@ Zou luchtweerstand evenredig zijn met $v^2$ in plaats van $v$? Als dat zo zou zi
 Zou luchtweerstand evenredig zijn met $v^2$ in plaats van $v$?
 ```
 
-## Luchtwrijving onderzoeken met vallende ballon
+### Luchtwrijving onderzoeken met vallende ballon
 Een vallende ballon biedt veel mogelijkheden om luchtwrijving te onderzoeken. Je kunt er gewichtjes onder hangen en zien hoe dat de valtijd beïnvloedt. Je kunt ook diverse vormen ballon vergelijken. Dit kan natuurlijk ook als leerlingpracticum.
 
 
-## Vliegen is spelen met luchtweerstand
+### Vliegen is spelen met luchtweerstand
 Er is altijd papier in je eigen tas of in tassen van leerlingen. Vliegtuigjes vouwen en uitproberen. Er zijn veel suggesties op internet. Lang-kort, wijd-smal, gebruik van staartvleugel of niet, uiteinden van de vleugels omvouwen, etc. Er zijn zelfs wereldwijde competities.
 
 ```{figure} ../images/20250513_092443.jpg
@@ -266,26 +266,6 @@ Buigen van de liniaal en laten gaan lanceert de ene munt horizontaal en laat de 
 ### En relatieve beweging
 Loop met constante snelheid terwijl je een krijtje of ander voorwerp loodrecht omhoog gooit. Het landt op je hand, niet erachter. Dus had het in de lucht dezelfde horizontale snelheid als de docent. Er was al een horizontale startsnelheid. Bij balsporten spelen richting en grootte van de beginsnelheid een grote rol, bijvoorbeeld bij een voetballer die probeert een corner tussen de palen te krijgen zonder de bal eerst te stoppen.
 
-## Luchtdruk met krant en lat
-Heeft  een van de leerlingen een krant bij zich? Is er een houten liniaal of beter een dun stukje hout dat mag breken? Leg het latje zo op de tafel dat een deel uitsteekt over de rand van de tafel. Leg enkele krantenpagina's erover heen en strijk die glad om de lucht eronder weg te strijken. Sla dan hard op het uitstekende deel van het latje. Het papier scheurt niet, het latje breekt. Toch sterk, die lucht, of is het vacuum...
-
-## Zwaartepunt
-Neem een meetlat, aanwijsstok, of een bezemsteel. Balanceer die horizontaal op beide wijsvingers ({numref}`Figuur {number} <fig_639>`). Beweeg vervolgens de wijsvingers naar elkaar toe. Zonder enige controle door de docent (eventueel met blinddoek) zal er steeds maar een wijsvinger tegelijk verschuiven, eerst de een, dan de ander, dan weer de een totdat de wijsvingers elkaar uiteindelijk raken precies onder het zwaartepunt van de lat. Het experiment kan eenvoudig samen met de leerlingen herhaald worden. Ze vinden vast wel iets bruikbaars in hun tas. De uitleg: wanneer een vinger verschuift zal een toenemend deel van het gewicht van de lat juist op die bewegende vinger rusten terwijl de vinger richting zwaartepunt schuift. De wrijving op die vinger neemt toe, de beweging stokt, en dan begint de andere vinger te schuiven. Het proces blijft zich herhalen totdat beide vingers aanlanden in het zwaartepunt. Een interessante variatie is als een kant van de lat verzwaard wordt, bijvoorbeeld met een bordenwisser of willekeurig ander voorwerp. Ehrlig (1994) beschreef 34 experimenten met linialen zowel kwalitatief als kwantitatief, varierend in niveau van primair tot hoger onderwijs.
-
-```{iframe} https://youtube.com/embed/RYFsPy8mUbI
-:width: 60%
-:label: vid_8
-:align: center
-
-.
-```
-
-```{figure} ../images/20250513_100639.jpg
-:width: 60%
-:label: fig_639
-
-Het vinden van het zwaartepunt kun je doen (en voorspellen) met verschillende voorwerpen.
-```
 
 ## Wrijving
 
@@ -352,6 +332,9 @@ De wrijving tussen het 2$^{e}$ en 3$^{e}$ boek is twee keer zo groot als de wrij
 Zet de docenttafel of een leerling tafel schuin door iets aan een kant onder de poten te leggen of laat een leerling een kant optillen. Leg iets ronds op de tafel, leen bijvoorbeeld wat snoep van een leerling, de docent kan het later opeten. Het ronde object (bv. Pepermunt of een Euro of een knikker) beweegt versneld van de tafel af. Leg een boek op de tafel. Het blijft liggen. Wat zorgt ervoor dat het boek blijft liggen?  
 Til een kant van de tafel iets hoger. Het boek blijft nog liggen. Is de grootte van de wrijving nog steeds hetzelfde? Zet de tafel nog schuiner, nu begint het boek te bewegen. Waarom? Maak verschil tussen *actuele* wrijving ($mg \sin(\alpha)$) en *maximale* wrijving ($μ_N = μ_s~mg \cos(\alpha)$). De docent kan zelfs illustreren hoe wrijvingscoefficienten worden bepaald door de hoek te meten waarbij het boek gaat schuiven $μ_{statisch} = \tan(\alpha_s)$ waar $\alpha_s$ de hoek is waarbij het boek begint te schuiven en dynamische wrijving met $μ_{dynamisch} = \tan(\alpha_d)$ waarbij $\alpha_s$ de hoek is waarbij het boek met constante snelheid schuift als het al in beweging is. Dynamische wrijving is kleiner dan statische. Zie ook de elastiek demo.
 
+### Asymmetrische eigenschappen, wrijving van menselijke haar
+Vraag een meisje met lange haren om een haar of stel voor dat elk leerlingpaar een haar neemt van een van de twee hoofden van het paar. Houd de haar vast tussen duim en wijsvinger van de ene hand terwijl de duim en wijsvinger van de andere hand langs de haar schuiven. Voel de wrijving. Keer dan de richting van schuiven om. De grootte van de schuifwrijving blijkt richtingsafhankelijk!
+
 ## Sterkte van profielen
 Leg een bankbiljet of papier op twee viltstiften. Hoe moet je het papier of een bankbiljet vouwen opdat het zoveel mogelijk munten kan dragen? Twee vouwen helpen al. Stapelen van papier met vouwen kan meer munten dragen. Een ribbelprofiel vouwen doet het nog beter, dat zien we ook in karton en dakplaten. Een mooie serie demo's en vergelijking met producten zoals karton en triplex is te zien op YouTube. https://www.youtube.com/watch?v=qFZGmHbjLSM 
 
@@ -362,7 +345,26 @@ Leg een bankbiljet of papier op twee viltstiften. Hoe moet je het papier of een 
 Hoe kun je een briefje van 10 Euro vouwen zo dat het een lading van veel munten kan dragen? 
 ```
 ## Zwaartepunt
-### laat je leerlingen het voelen!
+
+### Zwaartepunt vinden
+Neem een meetlat, aanwijsstok, of een bezemsteel. Balanceer die horizontaal op beide wijsvingers ({numref}`Figuur {number} <fig_639>`). Beweeg vervolgens de wijsvingers naar elkaar toe. Zonder enige controle door de docent (eventueel met blinddoek) zal er steeds maar een wijsvinger tegelijk verschuiven, eerst de een, dan de ander, dan weer de een totdat de wijsvingers elkaar uiteindelijk raken precies onder het zwaartepunt van de lat. Het experiment kan eenvoudig samen met de leerlingen herhaald worden. Ze vinden vast wel iets bruikbaars in hun tas. De uitleg: wanneer een vinger verschuift zal een toenemend deel van het gewicht van de lat juist op die bewegende vinger rusten terwijl de vinger richting zwaartepunt schuift. De wrijving op die vinger neemt toe, de beweging stokt, en dan begint de andere vinger te schuiven. Het proces blijft zich herhalen totdat beide vingers aanlanden in het zwaartepunt. Een interessante variatie is als een kant van de lat verzwaard wordt, bijvoorbeeld met een bordenwisser of willekeurig ander voorwerp. Ehrlig (1994) beschreef 34 experimenten met linialen zowel kwalitatief als kwantitatief, varierend in niveau van primair tot hoger onderwijs.
+
+```{iframe} https://youtube.com/embed/RYFsPy8mUbI
+:width: 60%
+:label: vid_8
+:align: center
+
+.
+```
+
+```{figure} ../images/20250513_100639.jpg
+:width: 60%
+:label: fig_639
+
+Het vinden van het zwaartepunt kun je doen (en voorspellen) met verschillende voorwerpen.
+```
+
+### Laat je leerlingen het voelen!
 * Laat even met een stokje of liniaal zien wat een zwaartepunt is. Als je het stokje daar ondersteunt, dan is het in evenwicht. Ook even laten zien dat het zwaartepunt verschuift als een kant van de lat of liniaal wordt verzwaard. 
 * Dan iedereen op laten staan. Docent staat dwars voor de klas (met zijkant naar leerlingen toe). Voor de zichtbaarheid en de atmosfeer helpt het om op een stoel of tafel te gaan staan. Wij hebben ook een zwaartepunt. Leun voorover, wat voel je? Druk op de voorvoet, kramp in de tenen. Als je nog iets verder naar voren leunt, dan moet je een stap vooruit nemen om niet te vallen. Dan gaat het zwaartepunt (dat wel ergens in je buik zal zitten) over je tenen en dan val je om. 
 * Er zijn nog allerlei variaties. Til een been op en strek het naar voren .... nu gaan de schouders naar achteren om te compenseren en ervoor te zorgen dat het zwaartepunt niet over de tenen gaat. Draai nu een kwartslag om dus met het gezicht naar het publiek. Til het rechterbeen op en strek het naar rechts ....de schouders gaan automatisch naar links. 
@@ -398,8 +400,11 @@ Houd een stoel schuin, nog schuiner... er is een punt waar de stoel kantelt. Nee
 ## Druk en oppervlak
 Neem een pen of potlood. Druk eerst de scherpe punt (klein oppervlak) op je hand dus grote druk, en druk dan met ongeveer dezelfde kracht de top van het potlood (groot oppervlak) of de pen op je hand. Dit laat duidelijk het verschil tussen druk en kracht zien. Leerlingen moeten meedoen met hun eigen pen om het zelf te voelen.
 
+## Luchtdruk met krant en lat
+Heeft  een van de leerlingen een krant bij zich? Is er een houten liniaal of beter een dun stukje hout dat mag breken? Leg het latje zo op de tafel dat een deel uitsteekt over de rand van de tafel. Leg enkele krantenpagina's erover heen en strijk die glad om de lucht eronder weg te strijken. Sla dan hard op het uitstekende deel van het latje. Het papier scheurt niet, het latje breekt. Toch sterk, die lucht, of is het vacuum...
+
 ## Hefbomen
-## Koevoet
+### Koevoet
 Meestal is er wel een meetlat in de buurt. Steek een uiteinde onder een stapeltje boeken en trek het andere uiteinde omhoog. Met veel kleinere kracht maar over grotere afstand kun je de boeken optillen. Leerlingen kunnen dit zelf ook voelen met hun liniaal of zelfs een balpen onder een stapeltje boeken uit hun tas.
 
 
@@ -454,6 +459,17 @@ Gooi een ongekookt ei in een handdoek of jas. Het breekt niet.
 ## Breken of niet? Beschermen van fragiele dingen 
 Kijk rond naar voorwerpen die kunnen breken als je ze op een stenen vloer laat vallen. Zoek vervolgens naar voorwerpen die krachten kunnen spreiden en remweg en/of remtijd kunnen vergroten zoals een jas, een kussen, of trek je trui uit. Misschien is er zelfs schuimrubber in de buurt. Dit kan worden gevolgd door een discussie over hoe breekbare voorwerpen worden verpakt. Hoe zorgen de meisjes dat kosmetische flesjes in hun tas niet breken? Kun je dit verklaren met de twee principes: spreiding van krachten en verlenging van de remweg?
 
+## Botsende munten
+Twee munten *A* en *B* (bv Euro’s) raken elkaar. Een andere munt *C* wordt eropaf geschoten terwijl *B* door de vinger wordt vastgedrukt tegen de tafel ({numref}`Figuur {number} <vid_132>`). De impuls wordt toch feilloos doorgegeven van *C* naar *A* ondanks het stevig vastdrukken van *B*. Verrassend. Je kunt *A* zelfs zo verschuiven dat *A* onder een hoek wegschiet. Het transmissie mechanisme voor de impuls moet wel een golf zijn [@Subagyo1992]. De experimenten zijn ook kwantitatief te maken, zie een recent artikel van Barbara Rovsek in The Physics Teacher [@https://doi.org/10.1119/10.0006915].
+
+```{iframe} https://www.youtube.com/embed/8VUG2Z-j_NQ?si=hR_JjaREoq77-gWs
+:width: 60%
+:label: vid_132
+:align: center
+
+Botsende munten met een kleine hoek. 
+```
+
 ## Bernoulli principe
 ### Met een vel papier
 Houd een vel a4 papier iets onder het midden aan twee kanten vast en laat het een beetje opstaan en de bovenkant hangt over ({numref}`Figuur {number} <fig_Bern1>`). Blaas over het papier. De bovenkant komt omhoog terwijl iedereen zou verwachten dat je die omlaag blaast. Wel even uitproberen voor optimaal vasthouden en optimale positie van de mond t.o.v. papier. Je kunt het ook doen met strippen papier van 15 x 3 cm en die uitdelen aan leerlingen of zelf even laten scheuren. Er zijn nog allerlei andere Bernouilli-variaties [@Liem1987].
@@ -507,5 +523,3 @@ Laat een stuiter van een linial afrollen in een gaatje in een papieren beker. Ho
 Laat een opgeblazen ballon los, het wordt een raket, maar wel een die alle kanten opgaat. Mooier is een langwerpige ballon te nemen en er een rietje langs te plakken. Trek een vislijn van een paar meter door het rietje en laat twee leerlingen de uiteinden vasthouden. Dat is dan een lanceerbaan voor de ballon. Nu de ballon aan het ene uiteinde van de lijn loslaten en de ballon gaat als een raket naar het andere uiteinde van de vislijn. Op een ouderavond kun je een lijn door de zaal spannen. Dit is natuurlijk precies het raket principe, een gas gaat onder hoge druk de ene kant op, de raket versnelt de andere kant op, impulsbehoud.
 
 
-## Asymmetrische eigenschappen, wrijving van menselijke haar
-Vraag een meisje met lange haren om een haar of stel voor dat elk leerlingpaar een haar neemt van een van de twee hoofden van het paar. Houd de haar vast tussen duim en wijsvinger van de ene hand terwijl de duim en wijsvinger van de andere hand langs de haar schuiven. Voel de wrijving. Keer dan de richting van schuiven om. De grootte van de schuifwrijving blijkt richtingsafhankelijk!

@@ -9,13 +9,14 @@ Een vaste stof heeft een vaste vorm. Neem een willekeurig vast object om dit te 
 Is er iemand met nagellak, Coca-Cola, of water?
 Gebruik het om te laten zien dat het oppervlak altijd horizontaal is, hoe je het flesje ook draait. Kijk naar de rand van de meniscus: adhesie. Kijk naar de golven op het oppervlak wanneer je een beetje schudt. Kijk of de vloeistof stroperig is of net als water wanneer je de fles omkeert, etc. 
 
-## Drijven en zinken 1
+## Drijven en zinken
+### 1
 Probeer allerlei voorwerpen en materialen. Stenen zinken, hout drijft. Grote en zwaardere voorwerpen/materialen kunnen toch drijven terwijl lichtere, kleinere zinken. Deel materialen in op drijven, zinken, zweven. Sommige materialen die zinken (klei, aluminium) kunnen drijvend gemaakt worden door ze te vervormen. Van aluminium folie (lunchverpakking van leerlingen) kun je gemakkelijk bootjes vouwen waarin ook vracht past. Tenslotte zijn er paperclips die zinken wanneer je ze in het water gooit, maar kunnen drijven wanneer je ze netjes en voorzichtig op het water legt. 
 
-## Vorm en zinken en drijven 
+### Vorm en zinken en drijven 
 Neem een materiaal dat normaal zinkt zoals klei of aluminiumfolie. Buig het dan in een vorm die kan drijven. Maak bijvoorbeeld bootjes van aluminiumfolie en probeer die in een glas water. We kunnen er zelfs vracht in leggen en het drijft nog.
 
-## Drijven en zinken 2
+### 2
 Heeft iemand een mandarijntje bij zich? Zal het drijven of zinken? Waarom? Probeer het. Pel het dan af. Zullen de partjes drijven of zinken? Waarom? Probeer het. Probeer eventueel ander fruit. Zie {numref}`Figuur {number} <fig_float>` voor het resultaat. De ongepelde mandarijn bevat nog lucht onder de schil. De partjes bevatten vooral water maar met suikers die zorgen voor een dichtheid groter dan water.
 
 ```{figure} ../figures/float.*
@@ -24,6 +25,28 @@ Heeft iemand een mandarijntje bij zich? Zal het drijven of zinken? Waarom? Probe
 
 Een mandarijntje drijft en zinkt...
 ```
+
+
+### Drijven op bolle en holle oppervlaktes
+Vul een glas water tot onder de rand (hol oppervlak) en vul een glas water tot over de rand (bol oppervlak). Teken de twee situaties op het bord. We gaan nu een ping-pong bal (of iets anders dat drijft) op het wateroppervlak leggen. De bal beweegt dan naar een stabiele positie. Laat leerlingen die tekenen voor beide situaties. Loop rond en zie. Dan het experiment. En dan een verklaring door leerlingen! Uiteindelijk: zet voorbeelden van verklaringen op het bord en kies samen de beste. Het basisprincipe is dat objecten met de grootste dichtheid (bv water) naar beneden verplaatst worden en die met de kleinste dichtheid naar boven (bv ping-pong bal of kurk).
+
+````{figure}
+:label: meniscus
+```{figure} ../images/20250513_105125.*
+:width: 50%
+:label: fig_float1
+
+Meniscus onder de rand (hol).
+```
+
+```{figure} ../images/20250513_105244.*
+:width: 50%
+:label: fig_float2
+
+Meniscus boven de rand (bol).
+```
+.
+```` 
 
 ## Adhesie en cohesie
 ### In een glas water
@@ -63,26 +86,6 @@ Breng een suikerklontje en een kop koffie uit de personeelskamer. Doop een kant 
 
 
 
-## Drijven op bolle en holle oppervlaktes
-Vul een glas water tot onder de rand (hol oppervlak) en vul een glas water tot over de rand (bol oppervlak). Teken de twee situaties op het bord. We gaan nu een ping-pong bal (of iets anders dat drijft) op het wateroppervlak leggen. De bal beweegt dan naar een stabiele positie. Laat leerlingen die tekenen voor beide situaties. Loop rond en zie. Dan het experiment. En dan een verklaring door leerlingen! Uiteindelijk: zet voorbeelden van verklaringen op het bord en kies samen de beste. Het basisprincipe is dat objecten met de grootste dichtheid (bv water) naar beneden verplaatst worden en die met de kleinste dichtheid naar boven (bv ping-pong bal of kurk).
-
-````{figure}
-:label: meniscus
-```{figure} ../images/20250513_105125.*
-:width: 50%
-:label: fig_float1
-
-Meniscus onder de rand (hol).
-```
-
-```{figure} ../images/20250513_105244.*
-:width: 50%
-:label: fig_float2
-
-Meniscus boven de rand (bol).
-```
-.
-```` 
 
 ## Oppervlaktespanning 1
 Er zijn voorwerpen die zinken wanneer ze op hun kant op het wateroppervlak (glas water) worden gelegd, maar die drijven als ze heel voorzichtig plat worden gepositioneerd. bijvoorbeeld een scheermesje of een paperclip. Maak een paperclip goed plat en gebruik dan een plastic vorkje om het voorzichtig op het water te leggen. De paperclip blijft drijven! Sommige aluminium muntjes doen het ook. Alsof het oppervlak van het water een netje vormt waar je iets op kunt leggen. 
@@ -137,7 +140,8 @@ Er is altijd een leerling met koolzuurhoudende frisdrank in de tas. CO$_2$ heeft
 ## Spanning, bubbels, rietjes
 Tijdens een GIREP vergadering in 1998 presenteerde Leon Jablko een aantal experimenten over druk met rietjes en glazen water. De experimenten zouden door de leraar uitgevoerd kunnen worden, of door een combinatie van de leraar en de leerlingen, of als practicum experiment voor de leerlingen. Gebruik bijvoorbeeld een lang en een kort rietje en blaas met toenemende druk door de twee rietjes. Bij een bepaalde druk zullen er bubbels ontstaan bij het korte rietjes, maar nog niet bij het lange rietje dat dieper in het water reikt. . Hoe dieper je in het water zit hoe groter de druk is die de bubbels tegenhoudt. 
 
-## Luchtdruk en waterdruk, cohesie en oppervlaktespanning
+## Waterdruk
+### Luchtdruk en waterdruk, cohesie en oppervlaktespanning
 Is er niet altijd een glas water in het lokaal, en een zakdoek in onze zak? Of hebben alleen opa’s tegenwoordig zakdoeken? Houd je al of niet schone zakdoek horizontaal (een leerling assisteert) en giet er wat water op, als het even kan boven een plant. Het water gaat er zo doorheen en de plant vangt het netjes op. Maar dan, maak de zakdoek een beetje nat en sluit de bovenkant van het glas af met de natte zakdoek. Zorg dat het glas nog half of driekwart gevuld is met water. Keer het glas dan op z’n kop. Verrassing: een klein beetje water lekt uit, de rest blijft in het glas. De zakdoek is niet langer doorlaatbaar. Je kunt er zelfs wat kleine gaatjes in prikken. Loop door de klas, laat duidelijk zien dat het water nog in het glas zit. Wijs ook op de vorm van de zakdoek die het water ondersteunt. Leg uit door de wet van Boyle toe te passen op de lucht bovenin het glas. Als er een beetje water weg lekt en dezelfde hoeveelheid lucht dus een iets grotere ruimte inneemt, dan wordt de luchtdruk in de ruimte bovenin het glas kleiner dan de atmosferische druk. $P_{lucht\; in\; glas} + P_{water} = P_{lucht\; buiten\; glas}$. De cohesie en oppervlaktespanning van water verhinderen lekken door de zakdoek.
 
 ```{iframe} https://youtube.com/embed/jJiqY82KmPo
@@ -148,14 +152,14 @@ Is er niet altijd een glas water in het lokaal, en een zakdoek in onze zak? Of h
 .
 ```
 
-## Waterdruk en parabool
+### Waterdruk en parabool
 Veel leerlingen brengen flesjes water met zich mee. Maak met een punaise of ander scherp voorwerp een gaatje in de zijkant net boven de bodem. Het water spuit eruit in een prachtige paraboolvorm. Als het gaatje hoger zit, dan komt het water minder ver.
 
-## Waterdruk
+### Waterdruk
 Zelfde flesje maar met de dop stijf aangedraaid. Onderaan de zijkant een klein gaatje maken. Komt er water uit het gaatje? Stopt het? Waarom? Beschouw een druppel water bij het gaatje en vergelijk de druk door lucht en water in de fles met de druk van de buitenlucht.
 
 
-## Waterdruk en vrije val
+### Waterdruk en vrije val
 Gebruik dezelfde plastic fles zonder dop met water of thee (theekleur voor zichtbaarheid). Er komt water door het gat. Nu laten vallen. Komt er tijdens de val water uit? Herhaal met een dop op de fles. Wat zou er in het space lab gebeuren als je een fles met water zonder dop omkeert? Komt er water uit? Waarom wel/niet? Eventueel telefoon met hoge snelheidsopname gebruiken en filmpje laten zien. [Veel mobiele telefoons](https://www.smartprix.com/bytes/best-phones-to-capture-slow-motion-videos/)[^yiyi] hebben 120 frames per second of meer (eventueel lagere pixel dichtheid instellen) maar hoge snelheidsvideos werkt het beste met fel buitenlicht. 
 
 [^yiyi]: https://www.smartprix.com/bytes/best-phones-to-capture-slow-motion-videos/
@@ -167,7 +171,7 @@ Zet drie duo’s voor de klas met elk een tafeltje waarop 1 plastic flesje water
 ## Vloeistof wrijving
 In lucht vallen grote en kleine stenen met dezelfde versnelling $g$, over korte afstanden is luchtwrijving meestal verwaarloosbaar. Zou dat ook zo zijn wanneer de stenen door water vallen? Zou je dat (kwalitatief) kunnen onderzoeken in een aquarium of emmer water? Neem stenen met een verschillende oppervlak/massa verhouding.
 
-## Vloeistof versus damp balans, relatieve luchtvochtigheid, verzadiging, open versus gesloten fles
+## Verdamping en condensatie
 Neem twee flessen met water, een met een luchtdichte dop en een zonder dop, en zet ze op de vensterbank in de zon. In de fles met dop zal er condens ontstaan aan de binnenkant boven het water. De lucht boven het water is verzadigd, er is een luchtvochtigheid van 100%, dus zal al het water dat verdampt weer condenseren. In de fles zonder dop zal je dit niet zien, omdat alle waterdamp in de lucht verdwijnt. Het is dus zeer onwaarschijnlijk dat de lucht boven het water een luchtvochtigheid van 100% bereikt, behalve als het lokaal een ontzettend hoge luchtvochtigheid heeft. 
 
 ## Bernoulli en de vlam van een kaars

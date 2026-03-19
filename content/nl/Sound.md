@@ -1,10 +1,6 @@
 +++
 # Geluid
 
-## Natuurlijke frequenties
-
-Tik tegen verschillende objecten in het lokaal om te laten horen dat elk object zijn eigen geluid heeft. Vergelijk grote en kleine houten objecten (of ander materiaal van dezelfde soort) en luister naar het verschil in toonhoogte. Vraag leerlingen te voorspellen of het geluid van het volgende object hoger of lager zal zijn en waarom. Wees voorzichtig met de ramen, maar ook die hebben een eigen toon.
-
 ## Toonhoogte en lengte met een liniaal
 
 Leen een liniaal van een leerling, klamp die tussen hand en tafel en laat een deel uitsteken. Breng de liniaal in trilling met de andere hand en luister. Varieer de toonhoogte door het uitstekende deel langer en korter te maken. Het is zelfs mogelijk deze demo kwantitatief te maken door het zingen van do-re-mi want de tweede “do” heeft precies een 2x zo hoge frequentie als de eerste “do”. Zo kun je de relatie vinden tussen lengte en frequentie. Word de frequentie 2x zo hoog als je de uitstekende lengte halveert? Natuurlijk kan je de frequentie ook preciezer meten met je mobiele telefoon.
@@ -56,11 +52,17 @@ Gebruik Phyphox of een vergelijkbaar programma. Probeer een bijna perfecte sinus
 Geluid opgenomen met de [phyphox app](https://phyphox.org/).
 :::
 
-## Resonantie in een fles
+## Resonantie
+
+### Natuurlijke frequenties
+
+Tik tegen verschillende objecten in het lokaal om te laten horen dat elk object zijn eigen geluid heeft. Vergelijk grote en kleine houten objecten (of ander materiaal van dezelfde soort) en luister naar het verschil in toonhoogte. Vraag leerlingen te voorspellen of het geluid van het volgende object hoger of lager zal zijn en waarom. Wees voorzichtig met de ramen, maar ook die hebben een eigen toon.
+
+### Resonantie in een fles
 
 Heeft iemand in de klas een fles? Zit er nog wat water in, of frisdrank? De docent drinkt elke keer een beetje en blaast dan weer over de top van de fles en tikt er aan de zijkant tegen aan. Tegen de tijd dat de docent de frisdrank bijna op heeft, zullen beide frequenties nogal veranderd zijn, de ene steeds lager, de andere steeds hoger. Nu verklaren! Jammer dat tegenwoordig zoveel flessen van plastic zijn. Natuurlijk niet vergeten de gedronken cola of andere frisdrank of water even te vergoeden.
 
-## Resonantie in een koffie- of theekopje met het oor
+### Resonantie in een koffie- of theekopje met het oor
 
 De docent is binnengekomen met een kopje koffie en een metalen lepeltje. Tik eens met het lepeltje op verschillende plekken tegen het kopje. Toonhoogte en timbre zullen verschillen. Bijvoorbeeld vlak bij het oor, of onder 90{math}`^{\circ}`  of 180{math}`^{\circ}` van het oor, onder of boven de koffiespiegel. Drink dan wat op, je doet alles voor de natuurkunde, ook koffiedrinken. Herhaal dan bovenstaande acties. Hoe verklaar je de verschillen in toonhoogte en timbre? Door verschillen in resonantiemanieren die worden aangeslagen en verschillende lengtes van de vloeistofkolom. Zie Show*de*Fysica 3 {cite:p}`showdefysica3` voor meer informatie.
 

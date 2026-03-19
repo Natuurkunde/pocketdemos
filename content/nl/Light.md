@@ -58,15 +58,18 @@ Figuren overgenomen uit [@stead1980exploring], met toestemming
 ## Transparant versus ondoorzichtig
 Vaktaal kan soms heel gemakkelijk geïllustreerd worden door er een beeld bij te plaatsen in de hersens van leerlingen. Bijvoorbeeld “transparant”, neem een glas water, je kunt er doorheen kijken, de lichtstralen gaan er dwars doorheen. Wat is er nog meer transparant in een klaslokaal? De ramen, voorwerpen van glas, vloeistoffen als water. Druppel nu wat melk in het glas water, bijvoorbeeld melk meegebracht door een leerling, of een cupje koffiemelk van de personeelskamer. Nu wordt het glas water “ondoorzichtig”, je kunt er niet meer doorheen kijken. De vaktaal is nu in de hersens gekoppeld aan beelden.
 
-## Wit licht en kleuren met alledaagse voorwerpen
+
+
+## Kleuren
+### Wit licht en kleuren met alledaagse voorwerpen
 
 Er is altijd wel iets dat werkt als een prisma, bijvoorbeeld het plastic van die goedkoopste doorzichtige Bic pennen. Dan heb je een spectrum. Wie weet is er ook nog iemand met een zakmes met een lens. Gebruik die om de kleuren weer bij elkaar te brengen en zie, wit licht! Als er een beamer in het lokaal is, zijn er meer mogelijkheden.
 
-## Kleuren maken
+### Kleuren maken
 
 Van het vorige experiment hebben we misschien geleerd dat alles met een wig vorm, bijvoorbeeld goedkope balpennen met een hexagon erin, kleuren kunnen “maken” van wit licht. Je herkent die vormen overal, zoals de rand van een badkamerspiegel of een prisma. Kijk om je heen, heeft er iemand kleding of schoenen met glitter en kleuren? Zijn daar wig vormen aanwezig?
 
-## Kleuren aftrekken door een filter
+### Kleuren aftrekken door een filter
 
 Is er iemand die tranparante, gekleurde snoeppapiertjes heeft? Gebruik een zaklamp of het licht van een telefoon en schijn door het gekleurde papier richting de leerlingen. Het oorspronkelijke licht is wit, dat is een combinatie van de kleuren van de regenboog. Het snoeppapiertje absorbeert enkele kleuren en “trekt die af”   van wit. Een rood papiertje absorbeert blauw en groen (trekt deze af van wit), en laat rood door. Een blauw filter absorbeert groen en rood, en laat blauw door. Als je meerdere papiertjes en meerdere lampen hebt kun je de kleuren ook weer mengen en dus optellen.
 
@@ -78,7 +81,7 @@ Is er iemand die tranparante, gekleurde snoeppapiertjes heeft? Gebruik een zakla
 Leg verschillende soorten doorzichtig papier op elkaar.
 :::
 
-## Kleuren optellen
+### Kleuren optellen
 
 Misschien heb je wel een Newtonschijf op een ronddraaiend plateau. Door kleuren rond te draaien kan je ze mengen en dus optellen tot wit. Je kan ook een touwtje door het midden gebruiken om de schijf rond te laten draaien. Uiteraard heeft [PhET een goede simulatie](https://phet.colorado.edu/en/simulations/color-vision)[^sdsa] voor het optellen van kleuren, die laat zien hoe je met de primaire kleuren alle andere kleuren kan maken.
 
@@ -90,7 +93,7 @@ Misschien heb je wel een Newtonschijf op een ronddraaiend plateau. Door kleuren 
 Verschillende Newtonschijven
 :::
 
-## Mengen van kleurstoffen of verf in water
+### Mengen van kleurstoffen of verf in water
 
 Je hebt vast niet allerlei kleuren verf meegenomen, tenzij je gedacht hebt aan de verfdoos van zoon of dochter. Maar je kunt wel gebruik maken van de ervaring van leerlingen hiermee. Telken bij het uitspoelen van de verfkwast, wordt het water donkerder. Hoezo? Als je eerst rode verf gebruikt, kleurt het water rood bij het uitspoelen. Het rode pigment absorbeert groen en blauw en reflecteert rood, vandaar de kleur. Als je vervolgens blauwe verf gebruikt en de kwast uitspoelt, dan wordt ook het rood geabsorbeert. En zo wordt het glas donkerder bij elke nieuwe kleur die je uitspoelt.
 
@@ -201,9 +204,6 @@ Doe het licht van het lokaal uit. De leraar of een leerling staat tegen de muur 
 Heeft de tulp een andere kleur gekregen?
 :::
 
-## Pupil, diafragma
-
-Verdeel de leerlingen in groepjes van twee. Ze moeten het samentrekken van elkaars pupil bekijken. Maak het lokaal donker of laat de leerlingen hun ogen bedekken. Doe vervolgens het licht aan. Kunnen de leerlingen zien dat de pupillen van de ander samentrekken? Herhaal dit een keer om het nog beter te kunnen zien.
 
 ## Reflectie en transmissie
 
@@ -224,31 +224,36 @@ De natte plek ziet er licht uit, transmissie.
 
 Hebben leerlingen fiets ledjes bij zich? Verduister het lokaal. Neem twee ledjes, houd het papier met de olie of watervlek ertussenin, en zoek een punt waar reflectie en transmissie gelijk zijn. Je kunt er zelfs een fotometer van maken. Zie verder [exploratorium](https://www.exploratorium.edu/snacks/oil-spot-photometer)[^2]. Je kunt lampen met verschillende lichtsterkte vergelijken.
 
-## Accomodatie van het oog
+## Zien
+### Pupil, diafragma
+
+Verdeel de leerlingen in groepjes van twee. Ze moeten het samentrekken van elkaars pupil bekijken. Maak het lokaal donker of laat de leerlingen hun ogen bedekken. Doe vervolgens het licht aan. Kunnen de leerlingen zien dat de pupillen van de ander samentrekken? Herhaal dit een keer om het nog beter te kunnen zien.
+
+### Accomodatie van het oog
 
 Laat leerlingen een ballpoint, of potlood, of vinger voor het oog houden. Steeds dichterbij … de achtergrond wordt wazig. Of focuseer op de achtergrond en de vinger of pen wordt wazig. De ooglens past zich aan: die aanpassing noemen we accommodatie.
 
-## Scherpte-diepte
+### Scherpte-diepte
 
 Bovenstaande demonstratie illustreert ook het camera begrip scherpte-diepte. Leerlingen kunnen dit ook proberen met de camera van hun mobiele telefoon. Laat ze de camera focussen op iets dat ver weg is (een boek of een computerscherm) en laat ze vervolgens hun vinger heen en weer bewegen voor de lens. Je kan zien dat de achtergrond scherp is en de vinger niet, of andersom, en hoe ze allebei scherp zijn als de vinger en de tekst op dezelfde plek zijn. Probeer dit ook met geschreven tekst op de voor- en achtergrond. Cameras hebben tegenwoordig een verbazingwekkende scherpte-diepte. Je kan zelfs wat voorbeeldfoto’s klaar hebben staan op de beamer. Met een mobieltje kun je dit ook goed laten zien door tegen een geschikte achtergrond (poster met letters) je volle hand naar de camera toe te bewegen en er vanaf. Wanneer de hand dichtbij de camera is, wordt de achtergrond wazig.
 
-## Lenzen: Brillenglazen onderzoeken
+### Lenzen: Brillenglazen onderzoeken
 
 Gebruik bijvoorbeeld een fietslampje als lichtbron of gebruik het raam als object. Holle en bolle lenzen, brandpunt, omgekeerd beeld, etc. Je kunt de TL buis aan het plafond goed gebruiken om te bepalen wat de sterkte is van de bril, maak maar een afbeelding ervan op tafel!
 
-## Toch scherp zien?
+### Toch scherp zien?
 
 Zijn er leerlingen met een bril op? Vraag ze om die af te zetten. Laat ze met hun vingers een klein spleetje maken en daardoor heen kijken. Ze kunnen dan toch redelijk scherp zien. Dit is het ook principe van een pinhole camera.
 
-## Diffractie van een kleine spleet, of toch gewoon breking?
+### Diffractie van een kleine spleet, of toch gewoon breking?
 
 Sluit je ogen tot een klein spleetje en kijk naar een lamp. Het licht verlengt tot een streep loodrecht op de oogspleet. Led-fietslampjes doen het goed als je ze op een paar meter afstand legt. Draai je hoofd heen en weer en de hoek van die verticale strepen licht verandert iets want je oogleden zijn wat gebogen. Zou Huygens in de 17de eeuw op die manier diffractie hebben kunnen zien? Probeer vanavond thuis even met een kaars. {cite}`Minnaert1954` verklaart de strepen licht uit breking door ribbeltjes opgestuwd oogvocht langs de rand van het ooglid en inderdaad kun je dat per ooglid afzonderlijk waarnemen. Dus toch geen diffractie.
 
-## Mouche volante
+### Mouche volante
 
 Er is nog meer te zien in het oog zelf zoals draadjes die zweven in de oogvloeistof en het best te zien zijn tegen een egale achtergrond zoals de blauwe lucht of het plafond van de klas. Zie [Entoptic phenomenon](https://en.wikipedia.org/wiki/Entoptic_phenomenon)[^sdfwe] voor een betere beschrijving en andere waarnemingen in onze ogen. Wanneer je ouder wordt, zit er meer troep in het oogvocht.
 
-## Parallax
+### Parallax
 
 Laat de leerlingen hun rechteroog sluiten en dan een pen op armslengte omhoog houden, zó dat die op één lijn ligt met oog en een verticale streep op het bord. Laat ze nu het rechteroog openen en het linkeroog sluiten. De pen is niet langer precies voor die streep want we kijken ernaar vanuit een net iets andere hoek. Dat is parallax. Hoe verder de verticale streep op het bord, hoe kleiner het verschil. Met parallax kun je dus afstand bepalen. Zie {numref}`figuur {number} <fig_paral>` voor de schijnbare verschuiving van pen tegen de achtergrond.
 
@@ -261,11 +266,11 @@ Laat de leerlingen hun rechteroog sluiten en dan een pen op armslengte omhoog ho
 De pen, op armsafstand van de camera (het oog), staat precies op de rand van het batik schilderij. Wanneer de camera zo’n 6 cm naar links wordt verschoven (= afstand tussen de ogen), is de pen niet verschoven maar lijkt verschoven. Hoe verder de muur met batik, des te kleiner de verschuiving
 :::
 
-## Dominantie van één oog over het andere (lui oog)
+### Dominantie van één oog over het andere (lui oog)
 
 Kijk met twee ogen naar een pen die je op armslengte houdt tegen een verticale lijn op het bord. Doe je linkeroog dicht, vervolgens open je linkeroog weer en sluit het rechteroog. Als de pen ogenschijnlijk sterk verschuift bij een gesloten rechteroog en relatief weinig bij een gesloten linkeroog, dan is het rechteroog dominant en het linkeroog mogelijk lui. Zo is dat bij mij. Ik heb al van jongsaf aan een lui linkeroog. Je kunt natuurlijk alle leerlingen dit zelf laten uitproberen.
 
-## Diepte zien 1
+### Diepte zien 1
 
 Twee ogen zijn beter dan een, vooral in het zien van diepte en schatten van afstanden. Laat elke leerling een pen/potlood in zowel linkerhand als rechterhand nemen ({numref}`figuur {number} <fig_depth>`). Beweeg die handen even willekeurig heen-en-weer, laat alle leerlingen dan één oog dicht doen en dan de pennen naar elkaar toe bewegen totdat de punten elkaar raken. Met een oog dicht zit je er gauw naast, met twee ogen open is het heel makkelijk. Het experiment kan ook met de twee wijsvingers gedaan worden, maar met potlood/pen is het effect dramatischer.
 
@@ -278,17 +283,17 @@ Twee ogen zijn beter dan een, vooral in het zien van diepte en schatten van afst
 Afstand schatten met een of twee ogen.
 :::
 
-## Diepte zien 2
+### Diepte zien 2
 
 Dit kan als docent demonstratie met een leerling voor de klas, of met duo’s van leerlingen waarvan een als proefpersoon en de ander als experimentator. Verzamel centen of knopen of paperclips of andere kleine voorwerpen en een bekertje (of teken een cirkel op papier). Het bekertje of de cirkel moet ongeveer 60 cm van de proefpersoon vandaan zijn. Die doet één oog dicht. De docent of experimentator houdt een munt of knoop ongeveer 50 cm boven de tafel. Beweeg de hand langzaam. Vraag de proefpersoon “laat vallen” te zeggen op het moment dat hij/zij denkt dat de munt/knoop precies boven het bekertje of de cirkel is en zie of die inderdaad in het bekertje of binnen de cirkel valt. Probeer ook met twee ogen. Probeer op grotere en kleinere afstand. Vergelijk het resultaat van 10x vallen bij elke afstand. Is er verbetering met twee ogen open? Is er verbetering wanneer het bekertje dichterbij is?
 
 Een alternatief met een uiterst duidelijk verslaglegging is enkele concentrische cirkels op een papier op de grond te tekenen, bijvoorbeeld met straal 1, 2 en 5 cm. De proefpersoon staat 1,5 m van de cirkels met één oog dicht. De experimentator houdt een viltpen vast met de punt naar beneden. De proefpersoon instrueert de experimentator de pen naar voren/achteren/links/rechts te bewegen totdat hij/zij denkt dat de viltpen boven de target is. Dan laten vallen. Het stippenpatroon is het verslag van de resultaten. Gebruik een verschillende kleur viltpen of marker voor verschillende condities zoals een oog dicht, twee ogen open, of een andere afstand van de proefpersoon tot de target.
 
-## Blinde vlek
+### Blinde vlek
 
 Bijna elk natuurkunde boek heeft instructies om de blinde vlek van het oog te vinden, d.w.z. de plek waar de oogzenuw het oog verlaat, een plek die niet lichtgevoelig is. Laat de leerlingen in hun schrift een X tekenen (links) en een grote stip tekenen (rechts), ongeveer 6 cm uit elkaar. Laat ze het linkeroog dichtdoen en met het rechteroog scherpstellen op de X. Beweeg het schrift vervolgens richting het oog. Op een gegeven moment zal de stip niet meer zichtbaar zijn. Dat is wanneer het licht van de stip precies op het punt valt waar de optische zenuw het oog verlaat. Gebruik voor uitgebeidere instructies [dit onderzoek](https://research.sanfordhealth.org/sanford-promise/resources/slideshows/finding-your-blind-spot)[^3].
 
-## Centraal versus perifeer zicht
+### Centraal versus perifeer zicht
 
 Denk aan iets om de verschillen tussen centrale en perifere oogcellen te illustreren. De perifere cellen zijn gevoeliger voor detectie van plotselinge bewegingen, bijvoorbeeld bescherming van het oog tegen insecten of verkeersongelukken. Leerlingen zullen komen met hun eigen verhalen. Centrale cellen zitten dichter op elkaar en zijn meer kleurgevoelig. Die kleurgevoeligheid is te testen door gekleurde voorwerpen in het verlengde van de ooghoeken van een proefpersoon te plaatsen. Bij welke hoek (van 0{math}`^{\circ}`C centraal tot 90{math}`^{\circ}`C in de ooghoek) worden kleuren goed zichtbaar?
 

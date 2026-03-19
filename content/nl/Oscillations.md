@@ -44,21 +44,11 @@ Maak een slinger met touw en een object als massa. Je zou zelfs een apparaatje k
 ## In fase en uit fase
 Gebruik de boekslinger zoals hierboven. Je kunt in fase duwen tegen het boek en er is resonantie, dus zal de amplitude toenemen. Je kunt ook uit fase tegen het boek duwen en de beweging van de slinger zal gestoord of zelfs gestopt worden. 
 
-## Botsende munten
-Twee munten *A* en *B* (bv Euro’s) raken elkaar. Een andere munt *C* wordt eropaf geschoten terwijl *B* door de vinger wordt vastgedrukt tegen de tafel ({numref}`Figuur {number} <vid_132>`). De impuls wordt toch feilloos doorgegeven van *C* naar *A* ondanks het stevig vastdrukken van *B*. Verrassend. Je kunt *A* zelfs zo verschuiven dat *A* onder een hoek wegschiet. Het transmissie mechanisme voor de impuls moet wel een golf zijn [@Subagyo1992]. De experimenten zijn ook kwantitatief te maken, zie een recent artikel van Barbara Rovsek in The Physics Teacher [@https://doi.org/10.1119/10.0006915].
-
-```{iframe} https://www.youtube.com/embed/8VUG2Z-j_NQ?si=hR_JjaREoq77-gWs
-:width: 60%
-:label: vid_132
-:align: center
-
-Botsende munten met een kleine hoek. 
-```
 
 ## Een golf visualiseren met leerlingen
 Zet 6 leerlingen op een rij voor de klas op armslengte van elkaar. Demonstreer een longitudinale golf door elke leerling achtereenvolgens een stap naar de buurman/vrouw te doen nemen en terug. Een compressie plant zich voort langs de rij. Dit heeft wat oefening nodig, dus wordt het geen 2 minuten demo maar 5 minuten. Maar dan kun je ook voortplanting van een verdunning demonstreren en zelfs voortplanting van een transversale golf. Een slinky is misschien beter, maar als je die vergeten was, of als de leerlingen wat slaperig zijn, dan werkt dit heel aardig. Leerlingen moeten weer heen-en-weer denken tussen verschillende representaties en dat is nuttig. 
 
-## Overheadprojector
+## Visualisatie met overheadprojector
 Als er dan toch ergens in de hoek van het lokaal nog een overheadprojector zou staan en als je een petrischaaltje hebt met een beetje water, dan kun je nog veel meer laten zien met golven: circulaire golven, reflecties, of zelfs interferentie door met twee vingers het wateroppervlak in beweging te brengen.
 
 ## Zwevingen, Moiré patronen

@@ -32,7 +32,7 @@ project:
       font_size_pt: 11
       line_spacing_em: 1
       
-      toc_depth: 3
+      toc_depth: 2
       logo: logo.png
 
       # Cover variant: simple | graphical | custom
