@@ -1,4 +1,4 @@
-+++
+
 # Warmte en temperatuur
 
 ## Temperatuurgevoel

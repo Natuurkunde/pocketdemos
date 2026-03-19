@@ -11,13 +11,11 @@ Gebruik het om te laten zien dat het oppervlak altijd horizontaal is, hoe je het
 
 ## Drijven en zinken
 ### 1
-Probeer allerlei voorwerpen en materialen. Stenen zinken, hout drijft. Grote en zwaardere voorwerpen/materialen kunnen toch drijven terwijl lichtere, kleinere zinken. Deel materialen in op drijven, zinken, zweven. Sommige materialen die zinken (klei, aluminium) kunnen drijvend gemaakt worden door ze te vervormen. Van aluminium folie (lunchverpakking van leerlingen) kun je gemakkelijk bootjes vouwen waarin ook vracht past. Tenslotte zijn er paperclips die zinken wanneer je ze in het water gooit, maar kunnen drijven wanneer je ze netjes en voorzichtig op het water legt. 
+Probeer allerlei voorwerpen en materialen. Stenen zinken, hout drijft. Grote en zwaardere voorwerpen/materialen kunnen toch drijven terwijl lichtere, kleinere zinken. Deel materialen in op drijven, zinken, zweven. Sommige materialen die zinken (klei, aluminium) kunnen drijvend gemaakt worden door ze te vervormen. Van aluminium folie (lunchverpakking van leerlingen) kun je gemakkelijk bootjes vouwen waarin ook vracht past [@Pols2012]. Tenslotte zijn er paperclips die zinken wanneer je ze in het water gooit, maar kunnen drijven wanneer je ze netjes en voorzichtig op het water legt. 
 
-### Vorm en zinken en drijven 
-Neem een materiaal dat normaal zinkt zoals klei of aluminiumfolie. Buig het dan in een vorm die kan drijven. Maak bijvoorbeeld bootjes van aluminiumfolie en probeer die in een glas water. We kunnen er zelfs vracht in leggen en het drijft nog.
 
 ### 2
-Heeft iemand een mandarijntje bij zich? Zal het drijven of zinken? Waarom? Probeer het. Pel het dan af. Zullen de partjes drijven of zinken? Waarom? Probeer het. Probeer eventueel ander fruit. Zie {numref}`Figuur {number} <fig_float>` voor het resultaat. De ongepelde mandarijn bevat nog lucht onder de schil. De partjes bevatten vooral water maar met suikers die zorgen voor een dichtheid groter dan water.
+Heeft iemand een mandarijntje bij zich? Zal het drijven of zinken? Waarom? Probeer het. Pel het dan af. Zullen de partjes drijven of zinken? Waarom? Probeer het. Probeer eventueel ander fruit. Zie {numref}`Figuur {number} <fig_float>` voor het resultaat. De ongepelde mandarijn bevat nog lucht onder de schil. De partjes bevatten vooral water, maar met suikers die zorgen voor een dichtheid groter dan water.
 
 ```{figure} ../figures/float.*
 :width: 90%
@@ -59,7 +57,7 @@ Maak een muntje schoon onder de kraan, droog het helemaal af en leg het op een k
 Je eet koekjes of speculaas, of cake en er vallen kruimels. Hoe pak je die op als ze klein zijn? Juist, even aan de vinger likken en dan vinger op de kruimel en dan plakt de kruimel aan je vinger. Adhesie! Het is ook een manier om vuiltjes van je toetsenbord te verwijderen, niet opeten. 
 
 ### Adhesie en wegen
-Leg een kaart uit een kaartspel of een creditcard of soortgelijk pasje op een glas ({numref}`fig_adhesie_pas`). Leg een muntje op het uitstekende deel van de kaart en die zal kantelen. Vul nu het glas met water totdat het water tegen de kaart aan komt. Leg muntjes op het uitstekende stuk van de kaart. Twee krachten zijn in competitie: adhesie probeert de positie van de kaart te behouden terwijl het gewicht van de muntjes de kaart probeert te kantelen. Een gelegenheid om adhesie, krachten, en krachtmomenten te laten zien. Met creativiteit en stevig doordenken en experimenteren kan hier een meetinstrument uit worden ontwikkeld. Zie: https://www.youtube.com/watch?v=KcbFNFWEqkM 
+Leg een kaart uit een kaartspel of een creditcard of soortgelijk pasje op een glas ({numref}`Figuur {number} <fig_adhesie_pas>`). Leg een muntje op het uitstekende deel van de kaart en die zal kantelen. Vul nu het glas met water totdat het water tegen de kaart aan komt. Leg muntjes op het uitstekende stuk van de kaart. Twee krachten zijn in competitie: adhesie probeert de positie van de kaart te behouden terwijl het gewicht van de muntjes de kaart probeert te kantelen. Een gelegenheid om adhesie, krachten, en krachtmomenten te laten zien. Met creativiteit en stevig doordenken en experimenteren kan hier een meetinstrument uit worden ontwikkeld. Zie: https://www.youtube.com/watch?v=KcbFNFWEqkM 
 
 ```{figure} ../figures/adhesie_pas.*
 :label: fig_adhesie_pas
@@ -68,7 +66,7 @@ Maak een weegschaal met behulp van adhesie.
 ```
 
 ### Adhesie en cohesie
-Gebruik het rietje of een oogdruppelaar om een waterdruppel op tafel te maken of zelfs op elke leerlingtafel. Gebruik verschillende ondergronden (glas, hout, kunststof). Smeer wat vet of was op een plek op de tafel Vergelijk het “bol” staan van de waterdruppels op de verschillende oppervlakken en op het vet. Gebruik het oppervlak met de bolste druppel. Doe nu wat zeep in het water en maak opnieuw een druppel. Hoe bol is die nu? Op welke oppervlakken krijg je de grootste cohesie en op welke de grootste adhesie? 
+Gebruik het rietje of een oogdruppelaar om een waterdruppel op tafel te maken of zelfs op elke leerlingtafel. Gebruik verschillende ondergronden (glas, hout, kunststof). Smeer wat vet of was op een plek op de tafel/ Vergelijk het “bol” staan van de waterdruppels op de verschillende oppervlakken en op het vet. Gebruik het oppervlak met de bolste druppel. Doe nu wat zeep in het water en maak opnieuw een druppel. Hoe bol is die nu? Op welke oppervlakken krijg je de grootste cohesie en op welke de grootste adhesie? 
 
 Waarom is een druppel water rond en het oppervlak van een meer vlak? Dit is een duel van oppervlaktekrachten versus zwaartekracht. Neem een kubus in gedachten met zijde $a$ en oppervlak 6$a^2$ en volume $a^3$. Laat $a$ toenemen, het oppervlak, dus ook oppervlaktekrachten, schalen als $a^2$. Het volume en dus ook volume krachten als de zwaartekracht, schaalt als $a^3$! Bij grote hoeveelheden water overheersen de volumekrachten, dus is er een vlak oppervlak. Bij kleine hoeveelheden (een druppel en kleiner) overheersen oppervlaktekrachten zoals oppervlaktespanning en capillaire werking. [@rogers2011physics, p92]. 
 

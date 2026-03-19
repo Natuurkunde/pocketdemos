@@ -21,7 +21,7 @@ Dit boek bevat meer dan 200 demo’s verzameld en/of bedacht door Ed van den Ber
 
 ## Speciale dank
 
-Suzanne Schuurman heeft de bewerking gedaan van de Engelse versie van Pocketdemos naar het Nederlands. Iris Brouwer heeft bijgedragen aan het maken van de foto’s door veel van de demo’s live te testen. Aafke van den Berg heeft alle demonstraties gelezen en correcties en suggesties gegeven. 
+Suzanne Schuurman heeft de bewerking gedaan van enkele Engelse versies van Pocketdemos naar het Nederlands. Iris Brouwer heeft bijgedragen aan het maken van de foto’s door veel van de demo’s live te testen. Aafke van den Berg heeft alle demonstraties gelezen en correcties en suggesties gegeven. 
 
 ## Licentie
 

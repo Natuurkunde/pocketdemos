@@ -7,21 +7,14 @@ Zorg dat er altijd een slinky in je tas zit, zeker bij het onderwerp trillingen 
 Vergelijk de perioden van diverse tassen en probeer daar wat regels uit af te leiden. Maak bijvoorbeeld de riemen langer en korter, verander de massa van de inhoud van de tas, verander de massaverdeling (torsieslinger), etc. Dat kan een korte klasactiviteit zijn in kleine groepjes (verkennend). 
 
 ## Linialen en periodes
-Neem een liniaal en leg hem zo op tafel dat hij een beetje uitsteekt {numref}`Figuur {number} <fig_ruler>`. Laat de liniaal trillen en luister, als je verandert hoeveel de liniaal uitsteekt verandert de toon van het geluid. Leerlingen kunnen dit aan hun bureau doen met hun eigen liniaal. Neem vervolgens twee dezelfde linialen en bind op het uiteinde van een van de linialen wat muntjes vast. Luister wat er gebeurt met de toon van het geluid en de frequentie van de trilling. 
-
-```{figure} ../images/20250513_115534.*
-:width: 60%
-:label: fig_ruler
-
-Verander de massa aan het einde van de liniaal en luister
-```
+Neem een liniaal en leg hem zo op tafel dat hij een beetje uitsteekt {numref}`Figuur {number} <vid_12>`. Laat de liniaal trillen en luister, als je verandert hoeveel de liniaal uitsteekt verandert de toon van het geluid. Leerlingen kunnen dit aan hun bureau doen met hun eigen liniaal. Neem vervolgens twee dezelfde linialen en bind op het uiteinde van een van de linialen wat muntjes vast. Luister wat er gebeurt met de toon van het geluid en de frequentie van de trilling. 
 
 ```{iframe} https://www.youtube.com/embed/i__wDdiyqwo?si=oRDfJKD38Jj77kDS
 :width: 60%
 :label: vid_12
 :align: center
 
-Het verschil in frequentie is duidelijk te zien in slow-motion. 
+Verander de massa aan het einde van de liniaal en luister, het verschil in frequentie is duidelijk te zien in slow-motion. 
 ```
 
 ## Spanning en frequentie in elastiek

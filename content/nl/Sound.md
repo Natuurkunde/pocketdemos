@@ -1,19 +1,19 @@
-+++
+
 # Geluid
 
 ## Toonhoogte en lengte met een liniaal
 
-Leen een liniaal van een leerling, klamp die tussen hand en tafel en laat een deel uitsteken. Breng de liniaal in trilling met de andere hand en luister. Varieer de toonhoogte door het uitstekende deel langer en korter te maken. Het is zelfs mogelijk deze demo kwantitatief te maken door het zingen van do-re-mi want de tweede “do” heeft precies een 2x zo hoge frequentie als de eerste “do”. Zo kun je de relatie vinden tussen lengte en frequentie. Word de frequentie 2x zo hoog als je de uitstekende lengte halveert? Natuurlijk kan je de frequentie ook preciezer meten met je mobiele telefoon.
+Leen een liniaal van een leerling, klamp die tussen hand en tafel en laat een deel uitsteken. Breng de liniaal in trilling met de andere hand en luister. Varieer de toonhoogte door het uitstekende deel langer en korter te maken. Het is zelfs mogelijk deze demo kwantitatief te maken door het zingen van do-re-mi want de tweede “do” heeft precies een 2x zo hoge frequentie als de eerste “do”. Zo kun je de relatie vinden tussen lengte en frequentie. Wordt de frequentie 2x zo hoog als je de uitstekende lengte halveert? Natuurlijk kan je de frequentie ook preciezer meten met je mobiele telefoon.
 
 ## Toonhoogte en lengte met een rietje
 
 Neem een rietje, maak het uiteinde plat en knip er een driehoek van. Doe het uiteinde in je mond, met je lippen precies waar het ingeknipte deel eindigt. Blaas tot je een hobo geluid hoort, als je niets hoort kan je het rietje een beetje heen en weer bewegen tot je op de goede plek blaast. Knip vervolgens stukjes van het einde van het rietje terwijl je blaast {cite:p}`Liem1987`.
 
-Wat hebben we geleerd? Je kan een nieuw rietje pakken, een driehoek op het einde knippen en gaten knippen met ongeveer 1-1,5 cm ertussen. Terwijl je blaast kan je nu de gaten afdekken met je vingers. Wat hebben we nu geleerd? Welke muziekinstrumenten gebruiken dit principe?
+Wat hebben we geleerd? Je kunt een nieuw rietje pakken, een driehoek op het einde knippen en gaten knippen met ongeveer 1-1,5 cm ertussen. Terwijl je blaast kun je de gaten afdekken met je vingers. Wat hebben we nu geleerd? Welke muziekinstrumenten gebruiken dit principe?
 
 ## Staande golven in een open en afgesloten PVC buis
 
-Neem twee stukken PVC buis, bijvoorbeeld een van 10 cm lang en een van 20 cm lang. Blaas eroverheen en je krijgt een toon. Sluit de onderkant vervolgens af met je hand en de toon wordt veel lager. Bij een open buis past ½ golflengte ({math}`\lambda = 2l`) in de buis, de grondtoon. Bij een halfopen buis is dat ¼ golflengte ({math}`\lambda = 4l`), dus een veel lagere frequentie. Het helpt om een microfoon en box in het lokaal te hebben om het effect beter hoorbaar te maken voor de groep. Ed heeft dut gedaan voor een groep van meer dan 150 leerlingen met behulp van een geluidssysteem.
+Neem twee stukken PVC buis, bijvoorbeeld een van 10 cm lang en een van 20 cm lang. Blaas eroverheen en je krijgt een toon. Sluit de onderkant vervolgens af met je hand en de toon wordt veel lager. Bij een open buis past ½ golflengte ({math}`\lambda = 2l`) in de buis, de grondtoon. Bij een halfopen buis is dat ¼ golflengte ({math}`\lambda = 4l`), dus een veel lagere frequentie. Het helpt om een microfoon en box in het lokaal te hebben om het effect beter hoorbaar te maken voor de groep. Ed heeft dat gedaan voor een groep van meer dan 150 leerlingen met behulp van een geluidssysteem.
 
 :::{figure} ../images/panflute.jpg
 :width: 60%
@@ -33,7 +33,7 @@ Zie ook [ShowthePhysics](https://interactivetextbooks.tudelft.nl/showthephysics/
 Neem een glas en een muntje. Tik tegen het glas dat op de tafel staat, niet vasthouden. Doe er dan steeds een beetje water bij en tik tegen het deel met water en het deel met lucht. Het klinkt duidelijk verschillend. Dat is natuurlijk ook zo met alle voorwerpen in het lokaal, tik maar met het muntje tegen tafels en stoelen en stoelpoten, de ramen,  en …. Uit die klank kun je vaak ook horen wat het materiaal is.
 
 ## Geluid voelen
-Blaas een ballon op en houd die met twee handen stevig vast. Praat tegen de ballon. Voel je de trillingen? Voel je verschil als je hoge tonen produceert, of lage, of als je er gaat schreeuwen tegen de ballon. Naar een idee van Hermien Dees.
+Blaas een ballon op en houd die met twee handen stevig vast. Praat tegen de ballon. Voel je de trillingen? Voel je verschil als je hoge tonen produceert, of lage, of als je er gaat schreeuwen tegen de ballon? Naar een idee van Hermien Dees.
 
 
 ## Toonhoogte meten met een telefoon
@@ -60,13 +60,13 @@ Tik tegen verschillende objecten in het lokaal om te laten horen dat elk object 
 
 ### Resonantie in een fles
 
-Heeft iemand in de klas een fles? Zit er nog wat water in, of frisdrank? De docent drinkt elke keer een beetje en blaast dan weer over de top van de fles en tikt er aan de zijkant tegen aan. Tegen de tijd dat de docent de frisdrank bijna op heeft, zullen beide frequenties nogal veranderd zijn, de ene steeds lager, de andere steeds hoger. Nu verklaren! Jammer dat tegenwoordig zoveel flessen van plastic zijn. Natuurlijk niet vergeten de gedronken cola of andere frisdrank of water even te vergoeden.
+Heb je een drinkflesje mee? Blaas over de top van de fles en drink daarna een beetje en blaas dan weer over de top van de fles en tik tegen de zijkant aan. Tegen de tijd dat het flesje bijna leeg is, zullen beide frequenties nogal veranderd zijn, de ene steeds lager, de andere steeds hoger. Nu verklaren! Jammer dat tegenwoordig zoveel flessen van plastic zijn. 
 
 ### Resonantie in een koffie- of theekopje met het oor
 
 De docent is binnengekomen met een kopje koffie en een metalen lepeltje. Tik eens met het lepeltje op verschillende plekken tegen het kopje. Toonhoogte en timbre zullen verschillen. Bijvoorbeeld vlak bij het oor, of onder 90{math}`^{\circ}`  of 180{math}`^{\circ}` van het oor, onder of boven de koffiespiegel. Drink dan wat op, je doet alles voor de natuurkunde, ook koffiedrinken. Herhaal dan bovenstaande acties. Hoe verklaar je de verschillen in toonhoogte en timbre? Door verschillen in resonantiemanieren die worden aangeslagen en verschillende lengtes van de vloeistofkolom. Zie Show*de*Fysica 3 {cite:p}`showdefysica3` voor meer informatie.
 
-:::{warning} Warning
+:::{warning} Waarschuwing
 Dit werkt niet met alle kopjes.
 :::
 
@@ -76,7 +76,7 @@ Vind objecten in het lokaal waarmee je tegelijkertijd een hoge en lage toon kunt
 
 ## Doppler simulatie met lopende leerlingen
 
-Neem 5 of 6 leerlingen en stel ze op in een rij. Deze leerlingen zijn de pieken van de golven. Laat ze als rij naar de stilstaande docent toelopen. Hoeveel pieken komt hij tegen in 10 seconden? Laat ze nu opnieuw lopen maar nu staat de docent niet stil maar loopt langzaam naar hen toe. De docent ziet nu meer pieken per tijdseenheid. Nu loopt de docent langzaam in dezelfde richting en wordt hij ingehaald door de rij golven. Etc.   Het geval van de bewegende waarnemer is dus vrij gemakkelijk te visualiseren. Het geval van de bewegende bron is lastiger. Denk aan een bewegende vrachtwagen waarop de rij leerlingen marcheert?
+Neem 5 of 6 leerlingen en stel ze op in een rij. Deze leerlingen zijn de pieken van de golven. Laat ze als rij naar de stilstaande docent toelopen. Hoeveel pieken komt hij tegen in 10 seconden? Laat ze nu opnieuw lopen maar nu staat de docent niet stil maar loopt langzaam naar hen toe. De docent ziet nu meer pieken per tijdseenheid. Nu loopt de docent langzaam in dezelfde richting en wordt hij ingehaald door de rij golven. Etc.   Het geval van de bewegende waarnemer is dus vrij gemakkelijk te visualiseren. Het geval van de bewegende bron is lastiger. Denk aan een bewegende vrachtwagen waarop de rij leerlingen marcheert.
 
 ## Het geluid van cappucino
 
