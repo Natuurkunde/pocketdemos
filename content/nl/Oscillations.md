@@ -1,10 +1,10 @@
 # Trillingen en golven
 
 ## Slingers, frequenties, en perioden
-Zorg dat er altijd een slinky in je tas zit, zeker bij het onderwerp trillingen en golven, maar als je die vergeten bent dan is er nog altijd de rijke leeromgeving van een kaal klaslokaal: Overal kun je een slinger van maken. Verzamel wat tassen van leerlingen en laat zien dat elke tas een typische periode (slingertijd $T$) heeft. Laat verschillende manieren van slingeren zien.  Bij een tas is er bv. de lengterichting en dwars daarop. Maar ook een torsie slinger kun je met een tas mooi illustreren.
+Zorg dat er altijd een slinky in je tas zit, zeker bij het onderwerp trillingen en golven, maar als je die vergeten bent dan is er nog altijd de rijke leeromgeving van een kaal klaslokaal: Overal kun je een slinger van maken. Verzamel wat tassen van leerlingen en laat zien dat elke tas een typische periode (slingertijd $T$) heeft. Laat verschillende manieren van slingeren zien.  Bij een tas is er bijvoorbeeld de lengterichting en dwars daarop. Maar ook een torsie slinger kun je met een tas mooi illustreren.
 
 ## Wat beïnvloedt de periode?
-Vergelijk de perioden van diverse tassen en probeer daar wat regels uit af te leiden. Maak bv de riemen langer en korter, verander de massa van de inhoud van de tas, verander de massaverdeling (torsieslinger), etc. Dat kan een korte klasactiviteit zijn in kleine groepjes (verkennend). 
+Vergelijk de perioden van diverse tassen en probeer daar wat regels uit af te leiden. Maak bijvoorbeeld de riemen langer en korter, verander de massa van de inhoud van de tas, verander de massaverdeling (torsieslinger), etc. Dat kan een korte klasactiviteit zijn in kleine groepjes (verkennend). 
 
 ## Linialen en periodes
 Neem een liniaal en leg hem zo op tafel dat hij een beetje uitsteekt {numref}`Figuur {number} <fig_ruler>`. Laat de liniaal trillen en luister, als je verandert hoeveel de liniaal uitsteekt verandert de toon van het geluid. Leerlingen kunnen dit aan hun bureau doen met hun eigen liniaal. Neem vervolgens twee dezelfde linialen en bind op het uiteinde van een van de linialen wat muntjes vast. Luister wat er gebeurt met de toon van het geluid en de frequentie van de trilling. 

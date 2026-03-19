@@ -1,8 +1,5 @@
 # Mechanica
 
-(eq:Newton2)=
-$$F=m\cdot \frac{dv}{dt}$$
-
 ## Vrije val onafhankelijk van massa
 Neem een grote en een kleine steen, of een 5 cent en een €2 munt, of breek een krijtje in een klein en een groot stuk en houd deze tussen duim en vingers zo dat de onderkant op dezelfde hoogte is. Vraag leerlingen te voorspellen (met een onderbouwing) welk steentje het eerst de grond zal raken als beide tegelijk worden losgelaten. Laat vallen en herhaal tot iedereen het eens is over de observatie (zien èn horen). Verklaar.  
 Voor een gedetailleerde beschrijving in PEOE-format, zie Showdefysica [@showdefysica1 p16-18].
@@ -273,7 +270,7 @@ Loop met constante snelheid terwijl je een krijtje of ander voorwerp loodrecht o
 Heeft  een van de leerlingen een krant bij zich? Is er een houten liniaal of beter een dun stukje hout dat mag breken? Leg het latje zo op de tafel dat een deel uitsteekt over de rand van de tafel. Leg enkele krantenpagina's erover heen en strijk die glad om de lucht eronder weg te strijken. Sla dan hard op het uitstekende deel van het latje. Het papier scheurt niet, het latje breekt. Toch sterk, die lucht, of is het vacuum...
 
 ## Zwaartepunt
-Neem een meetlat, aanwijsstok, of een bezemsteel. Balanceer die horizontaal op beide wijsvingers ({numref}`Figuur {number} <fig_639>`). Beweeg vervolgens de wijsvingers naar elkaar toe. Zonder enige controle door de docent (eventueel met blinddoek) zal er steeds maar een wijsvinger tegelijk verschuiven, eerst de een, dan de ander, dan weer de een totdat de wijsvingers elkaar uiteindelijk raken precies onder het zwaartepunt van de lat. Het experiment kan eenvoudig samen met de leerlingen herhaald worden. Ze vinden vast wel iets bruikbaars in hun tas. De uitleg: wanneer een vinger verschuift zal een toenemend deel van het gewicht van de lat juist op die bewegende vinger rusten terwijl de vinger richting zwaartepunt schuift. De wrijving op die vinger neemt toe, de beweging stokt, en dan begint de andere vinger te schuiven. Het proces blijft zich herhalen totdat beide vingers aanlanden in het zwaartepunt. Een interessante variatie is als een kant van de lat verzwaard wordt, bv met een bordenwisser of willekeurig ander voorwerp. Ehrlig (1994) beschreef 34 experimenten met linialen zowel kwalitatief als kwantitatief, varierend in niveau van primair tot hoger onderwijs.
+Neem een meetlat, aanwijsstok, of een bezemsteel. Balanceer die horizontaal op beide wijsvingers ({numref}`Figuur {number} <fig_639>`). Beweeg vervolgens de wijsvingers naar elkaar toe. Zonder enige controle door de docent (eventueel met blinddoek) zal er steeds maar een wijsvinger tegelijk verschuiven, eerst de een, dan de ander, dan weer de een totdat de wijsvingers elkaar uiteindelijk raken precies onder het zwaartepunt van de lat. Het experiment kan eenvoudig samen met de leerlingen herhaald worden. Ze vinden vast wel iets bruikbaars in hun tas. De uitleg: wanneer een vinger verschuift zal een toenemend deel van het gewicht van de lat juist op die bewegende vinger rusten terwijl de vinger richting zwaartepunt schuift. De wrijving op die vinger neemt toe, de beweging stokt, en dan begint de andere vinger te schuiven. Het proces blijft zich herhalen totdat beide vingers aanlanden in het zwaartepunt. Een interessante variatie is als een kant van de lat verzwaard wordt, bijvoorbeeld met een bordenwisser of willekeurig ander voorwerp. Ehrlig (1994) beschreef 34 experimenten met linialen zowel kwalitatief als kwantitatief, varierend in niveau van primair tot hoger onderwijs.
 
 ```{iframe} https://youtube.com/embed/RYFsPy8mUbI
 :width: 60%
@@ -304,7 +301,7 @@ Statische versus kinetische wrijving
 Tas aan slap elastiek over de tafel trekken, dat gaat schoksgewijs. De maximale wrijving bij een voorwerp in rust is groter dan wanneer het in beweging is, dus zodra de statische wrijving overwonnen is, schiet de tas vooruit totdat het elastiek slap staat en dan ligt de tas weer stil. 
 
 ### Met papier en boeken
-Neem een half a4 vel papier, leg het tussen de pagina's van een gesloten boek, trek eraan. Je trekt het gemakkelijk uit het boek. Neem nu 10 van die halve a4 velletjes en leg ze om en om tussen de pagina's van een boek, dus bv de eerste tussen pagina's 72 en 73, de tweede tussen pagina's 74 en 75, enzovoort. Laat ze iets uitsteken. Probeer dan de 10 velletjes tegelijk uit het boek te trekken. Dat is lastig.
+Neem een half a4 vel papier, leg het tussen de pagina's van een gesloten boek, trek eraan. Je trekt het gemakkelijk uit het boek. Neem nu 10 van die halve a4 velletjes en leg ze om en om tussen de pagina's van een boek, dus bijvoorbeeld de eerste tussen pagina's 72 en 73, de tweede tussen pagina's 74 en 75, enzovoort. Laat ze iets uitsteken. Probeer dan de 10 velletjes tegelijk uit het boek te trekken. Dat is lastig.
 
 ```{iframe} https://www.youtube.com/embed/WgknDyxIL00?si=dhsveBNTVAN3S7Ur
 :width: 60%
@@ -352,7 +349,7 @@ Leg vier of vijf leerboeken op je hand en houd die op voor de klas. Houd de wijs
 De wrijving tussen het 2$^{e}$ en 3$^{e}$ boek is twee keer zo groot als de wrijving tussen het 1$^{e}$ (bovenste) en 2$^{e}$ boek, omdat wrijving evenredig is met de normaalkracht.
 
 ### Met helling
-Zet de docenttafel of een leerling tafel schuin door iets aan een kant onder de poten te leggen of laat een leerling een kant optillen. Leg iets ronds op de tafel, leen bv wat snoep van een leerling, de docent kan het later opeten. Het ronde object (bv. Pepermunt of een Euro of een knikker) beweegt versneld van de tafel af. Leg een boek op de tafel. Het blijft liggen. Wat zorgt ervoor dat het boek blijft liggen?  
+Zet de docenttafel of een leerling tafel schuin door iets aan een kant onder de poten te leggen of laat een leerling een kant optillen. Leg iets ronds op de tafel, leen bijvoorbeeld wat snoep van een leerling, de docent kan het later opeten. Het ronde object (bv. Pepermunt of een Euro of een knikker) beweegt versneld van de tafel af. Leg een boek op de tafel. Het blijft liggen. Wat zorgt ervoor dat het boek blijft liggen?  
 Til een kant van de tafel iets hoger. Het boek blijft nog liggen. Is de grootte van de wrijving nog steeds hetzelfde? Zet de tafel nog schuiner, nu begint het boek te bewegen. Waarom? Maak verschil tussen *actuele* wrijving ($mg \sin(\alpha)$) en *maximale* wrijving ($μ_N = μ_s~mg \cos(\alpha)$). De docent kan zelfs illustreren hoe wrijvingscoefficienten worden bepaald door de hoek te meten waarbij het boek gaat schuiven $μ_{statisch} = \tan(\alpha_s)$ waar $\alpha_s$ de hoek is waarbij het boek begint te schuiven en dynamische wrijving met $μ_{dynamisch} = \tan(\alpha_d)$ waarbij $\alpha_s$ de hoek is waarbij het boek met constante snelheid schuift als het al in beweging is. Dynamische wrijving is kleiner dan statische. Zie ook de elastiek demo.
 
 ## Sterkte van profielen
@@ -396,7 +393,7 @@ David balanceert een hamer, het zwaartepunt moet onder de tafel zijn, niet ernaa
 ```
 
 ## Rotatie, zwaartepunt, stabiliteit
-Houd een stoel schuin, nog schuiner... er is een punt waar de stoel kantelt. Neem een eenvoudiger object, bv een blok hout. Probeer nu de positie waarin het zo schuin staat dat het gaat vallen te relateren aan het zwaartepunt. Neem dan een leerling en zet die met zijn zij naar de klas. Laat zien wat er gebeurt als de leerling voorover leunt totdat zijn zwaartepunt over de tenen gaat (zie eerdere demo). Sta klaar om te helpen bij een zachte landing. Als je de tijd hebt, kun je nog demonstreren dat het zwaartepunt van meisjes lager ligt dan dat van jongens. Als ze een stoel voor zich oppakken, dan vallen jongens gemakkelijker voorover. Details van de instructies staan in [@Liem1987,p326].
+Houd een stoel schuin, nog schuiner... er is een punt waar de stoel kantelt. Neem een eenvoudiger object, bijvoorbeeld een blok hout. Probeer nu de positie waarin het zo schuin staat dat het gaat vallen te relateren aan het zwaartepunt. Neem dan een leerling en zet die met zijn zij naar de klas. Laat zien wat er gebeurt als de leerling voorover leunt totdat zijn zwaartepunt over de tenen gaat (zie eerdere demo). Sta klaar om te helpen bij een zachte landing. Als je de tijd hebt, kun je nog demonstreren dat het zwaartepunt van meisjes lager ligt dan dat van jongens. Als ze een stoel voor zich oppakken, dan vallen jongens gemakkelijker voorover. Details van de instructies staan in [@Liem1987,p326].
 
 ## Druk en oppervlak
 Neem een pen of potlood. Druk eerst de scherpe punt (klein oppervlak) op je hand dus grote druk, en druk dan met ongeveer dezelfde kracht de top van het potlood (groot oppervlak) of de pen op je hand. Dit laat duidelijk het verschil tussen druk en kracht zien. Leerlingen moeten meedoen met hun eigen pen om het zelf te voelen.

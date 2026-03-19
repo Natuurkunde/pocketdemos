@@ -56,11 +56,11 @@ Figuren overgenomen uit [@stead1980exploring], met toestemming
     D. Verpreidt tot het ergens tegenaan komt
 
 ## Transparant versus ondoorzichtig
-Vaktaal kan soms heel gemakkelijk geïllustreerd worden door er een beeld bij te plaatsen in de hersens van leerlingen. Bijvoorbeeld “transparant”, neem een glas water, je kunt er doorheen kijken, de lichtstralen gaan er dwars doorheen. Wat is er nog meer transparant in een klaslokaal? De ramen, voorwerpen van glas, vloeistoffen als water. Druppel nu wat melk in het glas water, bv melk meegebracht door een leerling, of een cupje koffiemelk van de personeelskamer. Nu wordt het glas water “ondoorzichtig”, je kunt er niet meer doorheen kijken. De vaktaal is nu in de hersens gekoppeld aan beelden.
+Vaktaal kan soms heel gemakkelijk geïllustreerd worden door er een beeld bij te plaatsen in de hersens van leerlingen. Bijvoorbeeld “transparant”, neem een glas water, je kunt er doorheen kijken, de lichtstralen gaan er dwars doorheen. Wat is er nog meer transparant in een klaslokaal? De ramen, voorwerpen van glas, vloeistoffen als water. Druppel nu wat melk in het glas water, bijvoorbeeld melk meegebracht door een leerling, of een cupje koffiemelk van de personeelskamer. Nu wordt het glas water “ondoorzichtig”, je kunt er niet meer doorheen kijken. De vaktaal is nu in de hersens gekoppeld aan beelden.
 
 ## Wit licht en kleuren met alledaagse voorwerpen
 
-Er is altijd wel iets dat werkt als een prisma, bv het plastic van die goedkoopste doorzichtige Bic pennen. Dan heb je een spectrum. Wie weet is er ook nog iemand met een zakmes met een lens. Gebruik die om de kleuren weer bij elkaar te brengen en zie, wit licht! Als er een beamer in het lokaal is, zijn er meer mogelijkheden.
+Er is altijd wel iets dat werkt als een prisma, bijvoorbeeld het plastic van die goedkoopste doorzichtige Bic pennen. Dan heb je een spectrum. Wie weet is er ook nog iemand met een zakmes met een lens. Gebruik die om de kleuren weer bij elkaar te brengen en zie, wit licht! Als er een beamer in het lokaal is, zijn er meer mogelijkheden.
 
 ## Kleuren maken
 
@@ -294,7 +294,7 @@ Denk aan iets om de verschillen tussen centrale en perifere oogcellen te illustr
 
 ## Optische illusies
 
-Scan de beroemde plaatjes van parallelle lijnen die niet parallel lijken, Escher’ tekeningen, “gestalt” plaatjes, etc. en je hebt meteen 10 demo’s. Google op bv optische illusies en aanverwante termen. Zet dit op je USB-stick, stop die in je broekzak en je hebt weer een serie pocketdemonstraties, zie bijvoorbeeld [optics4kids](https://www.optics4kids.org/optical-illusions)[^4]. Idem dito natuurlijk met YouTube filmpjes.
+Scan de beroemde plaatjes van parallelle lijnen die niet parallel lijken, Escher’ tekeningen, “gestalt” plaatjes, etc. en je hebt meteen 10 demo’s. Google op bijvoorbeeld optische illusies en aanverwante termen. Zet dit op je USB-stick, stop die in je broekzak en je hebt weer een serie pocketdemonstraties, zie bijvoorbeeld [optics4kids](https://www.optics4kids.org/optical-illusions)[^4]. Idem dito natuurlijk met YouTube filmpjes.
 
 ## Diffractie
 

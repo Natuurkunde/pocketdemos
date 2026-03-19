@@ -13,7 +13,7 @@ Gebruik het om te laten zien dat het oppervlak altijd horizontaal is, hoe je het
 Probeer allerlei voorwerpen en materialen. Stenen zinken, hout drijft. Grote en zwaardere voorwerpen/materialen kunnen toch drijven terwijl lichtere, kleinere zinken. Deel materialen in op drijven, zinken, zweven. Sommige materialen die zinken (klei, aluminium) kunnen drijvend gemaakt worden door ze te vervormen. Van aluminium folie (lunchverpakking van leerlingen) kun je gemakkelijk bootjes vouwen waarin ook vracht past. Tenslotte zijn er paperclips die zinken wanneer je ze in het water gooit, maar kunnen drijven wanneer je ze netjes en voorzichtig op het water legt. 
 
 ## Vorm en zinken en drijven 
-Neem een materiaal dat normaal zinkt zoals klei of aluminiumfolie. Buig het dan in een vorm die kan drijven. Maak bv bootjes van aluminiumfolie en probeer die in een glas water. We kunnen er zelfs vracht in leggen en het drijft nog.
+Neem een materiaal dat normaal zinkt zoals klei of aluminiumfolie. Buig het dan in een vorm die kan drijven. Maak bijvoorbeeld bootjes van aluminiumfolie en probeer die in een glas water. We kunnen er zelfs vracht in leggen en het drijft nog.
 
 ## Drijven en zinken 2
 Heeft iemand een mandarijntje bij zich? Zal het drijven of zinken? Waarom? Probeer het. Pel het dan af. Zullen de partjes drijven of zinken? Waarom? Probeer het. Probeer eventueel ander fruit. Zie {numref}`Figuur {number} <fig_float>` voor het resultaat. De ongepelde mandarijn bevat nog lucht onder de schil. De partjes bevatten vooral water maar met suikers die zorgen voor een dichtheid groter dan water.
@@ -85,10 +85,10 @@ Meniscus boven de rand (bol).
 ```` 
 
 ## Oppervlaktespanning 1
-Er zijn voorwerpen die zinken wanneer ze op hun kant op het wateroppervlak (glas water) worden gelegd, maar die drijven als ze heel voorzichtig plat worden gepositioneerd. Bv een scheermesje of een paperclip. Maak een paperclip goed plat en gebruik dan een plastic vorkje om het voorzichtig op het water te leggen. De paperclip blijft drijven! Sommige aluminium muntjes doen het ook. Alsof het oppervlak van het water een netje vormt waar je iets op kunt leggen. 
+Er zijn voorwerpen die zinken wanneer ze op hun kant op het wateroppervlak (glas water) worden gelegd, maar die drijven als ze heel voorzichtig plat worden gepositioneerd. bijvoorbeeld een scheermesje of een paperclip. Maak een paperclip goed plat en gebruik dan een plastic vorkje om het voorzichtig op het water te leggen. De paperclip blijft drijven! Sommige aluminium muntjes doen het ook. Alsof het oppervlak van het water een netje vormt waar je iets op kunt leggen. 
 
 ## Oppervlaktespanning 2
-Voeg nu wat zeep toe aan het water, bv druppels zeep van een flacon detergent of laat een leerling even wat zeep halen bij een wasbak bij de toiletten. 
+Voeg nu wat zeep toe aan het water, bijvoorbeeld druppels zeep van een flacon detergent of laat een leerling even wat zeep halen bij een wasbak bij de toiletten. 
 
 ## Marangoni effect
 Vouw een klein driehoekvormig stukje papier of een kaartje tot een bootje van 1 of 2 cm, zet het op water in een Petri schaaltje, glas, of beter een wat grotere container of aquarium. Voeg dan wat zeep toe achter het bootje en daar gaat ‘ie. Zie http://physicsgirl.org/soapboat/
