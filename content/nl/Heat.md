@@ -28,13 +28,29 @@ Dit zullen best veel leerlingen fout hebben. Je zou vergelijkbare vragen kunnen 
 
 Wrijf enkele keren stevig in je handen. Wat voel je? Rek een elastiekje een aantal keren achter elkaar uit en dan vlak boven de bovenlip de verhoogde temperatuur voelen, mechanische energie wordt omgezet in thermische energie.
 
-## Geleiding
+## Warmtetransport
+### Geleiding
 
 Laat leerlingen verschillende materialen voelen, bijvoorbeeld metaal van de stoelen, hout, kunststof, textiel. Hoe warm voelt het? Kunnen die materialen in hetzelfde lokaal wel verschillende temperaturen hebben? Als de temperaturen dan toch gelijk zijn, waarom voelt het dan toch verschillend? Geleiding! Metalen nemen gemakkelijk warmte op van de vingers/handen want die warmte-energie verspreid zich direct over het hele metalen voorwerp. Als je na het aanraken van het metaal met dezelfde vingers de bovenkant van je andere hand aanraakt, dan voelt het koud. Het oppervlak van de vingers is duidelijk afgekoeld door aanraking van metaal. Aanraken van hout voelt niet koud aan, hout geleidt slecht.
 
-## Stroming
+### Stroming
 
 Wat zijn de warmste plekken van ons lichaam? Wat de koudste, bijvoorbeeld ’s winters buiten? Verklaring? Stroming, bloedsomloop, afstand tot slagaderen en tot het hart. Hoe zit dat bij vogels die lang met de poten in koud water staan te vissen, bijvoorbeeld reigers? De bloedbaan naar beneden ligt vlak naast de bloedbaan naar boven. Koud bloed dat uit het onderste deel van de poten terug naar boven stroomt, wordt verwarmd door warmte uit de bloedbaan naar beneden. Zo is het temperatuurverschil tussen de poten en het koude water minder groot en gaat er minder warmte “verloren”.
+
+
+### Energietransport: geleiding, stroming, straling
+
+Neem je hete kopje koffie van de lerarenkamer mee naar de klas. Hoe koelt de koffie af? *Wat is geleiding? Hoe kan ik dat voelen?* Raak de zijkant van het kopje aan. *Wat is stroming? Hoe kan ik dat voelen?* Houd je hand boven het kopje. *En hoe zit dat met verdamping? Hoe kan ik dat laten zien?* Houd een koud voorwerp (zoals een schoteltje) recht boven het kopje en er zullen druppels vormen onder het schoteltje, doordat de verdampte koffie condenseert op het koudere voorwerp. *Wat is straling? Hoe kan ik dat voelen?* Houd je hand een een paar centimeter naast het kopje, of zelfs beter, leen een waterkoker van de personeelskamer of kantine.
+
+### Geleiding, stroming, straling met een kaars
+
+Steek een kaars aan, nader de vlam van bovenaf, Wat je voelt, is dat warmte van geleiding, stroming, of straling? Nader nu met je hand van opzij, kun je nu dichterbij komen zonder je hand te branden? Wat je voelt, is dat warmte van geleiding, stroming, of straling? Boven de vlam is vooral stroming van hete lucht al zal er ook straling zijn, je kunt die zichtbaar maken door de vlam te projecteren op een scherm (een A4). De vorm van de vlam is ook langgerekt, dat geeft stroming aan. De warmte opzij is vooral afkomstig van straling.
+
+### Geleiding met een kaars
+
+Houd voorwerpen van verschillende materialen in de vlam en vergelijk geleiding, bijvoorbeeld een muntje, of een potlood.
+
+Bovenstaande experimenten met kaarsen kunnen gedaan worden door de leraar (met een grote kaars in een donkere kamer en bij voorkeur met een webcam), of tegelijk door een leraar en leerlingen op hun tafel, of als een lab oefening voor de leerlingen. Als de leerlingen dit op hun tafel doen zijn er natuurlijk meer kaarsen en lucifers nodig en dan is dit geen pocket demo meer. Water warm houden
 
 ## Rollenspel smelten-verdampen-koken-condenseren-bevriezen
 
@@ -72,19 +88,6 @@ Parfumflesje open maken in een hoek van het lokaal, na enige tijd is het op stee
 
 Het bovenstaande experiment zou ook moeten werken met een vast stuk zeep, dat zou ergens op de school wel te vinden moeten zijn. Als dat niet zo is, kijk dan of de leerlingen vaste stoffen in hun tas hebben met een geur (voedsel, een sandwich?). Sublimatie! Of is het een vast materiaal waar een gas in zit dat we ruiken, dan is het geen sublimatie?
 
-## Energietransport: geleiding, stroming, straling
-
-Neem je hete kopje koffie van de lerarenkamer mee naar de klas. Hoe koelt de koffie af? *Wat is geleiding? Hoe kan ik dat voelen?* Raak de zijkant van het kopje aan. *Wat is stroming? Hoe kan ik dat voelen?* Houd je hand boven het kopje. *En hoe zit dat met verdamping? Hoe kan ik dat laten zien?* Houd een koud voorwerp (zoals een schoteltje) recht boven het kopje en er zullen druppels vormen onder het schoteltje, doordat de verdampte koffie condenseert op het koudere voorwerp. *Wat is straling? Hoe kan ik dat voelen?* Houd je hand een een paar centimeter naast het kopje, of zelfs beter, leen een waterkoker van de personeelskamer of kantine.
-
-## Geleiding, stroming, straling met een kaars
-
-Steek een kaars aan, nader de vlam van bovenaf, Wat je voelt, is dat warmte van geleiding, stroming, of straling? Nader nu met je hand van opzij, kun je nu dichterbij komen zonder je hand te branden? Wat je voelt, is dat warmte van geleiding, stroming, of straling? Boven de vlam is vooral stroming van hete lucht al zal er ook straling zijn, je kunt die zichtbaar maken door de vlam te projecteren op een scherm (een A4). De vorm van de vlam is ook langgerekt, dat geeft stroming aan. De warmte opzij is vooral afkomstig van straling.
-
-## Geleiding met een kaars
-
-Houd voorwerpen van verschillende materialen in de vlam en vergelijk geleiding, bijvoorbeeld een muntje, of een potlood.
-
-Bovenstaande experimenten met kaarsen kunnen gedaan worden door de leraar (met een grote kaars in een donkere kamer en bij voorkeur met een webcam), of tegelijk door een leraar en leerlingen op hun tafel, of als een lab oefening voor de leerlingen. Als de leerlingen dit op hun tafel doen zijn er natuurlijk meer kaarsen en lucifers nodig en dan is dit geen pocket demo meer.Water warm houden
 
 ## Water warm houden
 
@@ -94,9 +97,8 @@ Neem twee bekers met warm water, of nog beter, neem een volle thermosfles, twee 
 
 Je zou ook het tegenovergestelde kunnen doen. Neem een heet kopje koffie mee van de lerarenkamer. *Dit is te warm om te drinken, maar wat zou ik kunnen doen om het snel af te koelen?* Roeren? Over de bovenkant van het kopje heen blazen? Hoe verhoudt dit zich tot geleiding, stroming en verdamping? (Roeren stimuleert afkoelen aan het oppervlakte door stroming/verdamping. Over de bovenkant heen blazen haalt de verdampte en verzadigde koffie-/waterdamp weg en versnelt het afkoelen dus door verdamping).
 
-##
-
-## Kaarsen en vlammen beschrijven en vragen formuleren
+## Kaarsen
+### Kaarsen en vlammen beschrijven en vragen formuleren
 
 Elke natuurkundeleraar zou standaard een kaars in zijn tas moeten hebben, net als een ballon, een liniaal en lucifers. Laat leerlingen beschrijven wat ze zien:\
 a. nog niet aangestoken kaars,\
@@ -104,31 +106,31 @@ b. aangestoken kaars,\
 c. net uitgedoofde kaars.\
 Laat ze nadenken over wat er nu precies brandt en over verdere experimenten om hun uitleg te testen. Bijvoorbeeld: de nog niet aangestoken kaars bestaat uit was en een lont. Kan de was zelf worden aangestoken met een lucifer? (Nee) Wat is de functie van de lont? Kan vloeibare was worden aangestoken met een lucifer? (Nee) Teken een vlam, inclusief de kleuren. Er lijken drie delen te zijn: blauw, grijs-geel en helder geel. Welke vragen kan je daarbij stellen? Zie ook Faradays 1860 mooie en leesbare beschrijving van experimenten met kaarsen in {cite:t}`Hammack2016`.
 
-## Kaars, wat brandt er?
+### Kaars, wat brandt er?
 
 Probeer de vaste was aan te steken, die brandt niet. Kijk naar de gesmolten was, die brandt ook niet. Keer de brandende kaars onderste boven en de vlam dooft uit. De vloeibare was doodt de vlam! Wat is het dan dat brandt? Steek de kaars aan, doof hem uit en houdt snel een aangestoken lucifer ongeveer 5 - 10 cm van de kaars in de wit-achtige rook. Er is weer een vlam! Het was de *damp* van de was die makkelijk kan worden aangestoken. Als de lont wordt aangestoken dan brandt deze, smelt hij de was, verwarmt hij de was totdat de damp omhoog komt langs de lont door de *capillaire werking* en de damp is wat brandt. Er is een kleine afstand tussen de vloeibare was en de onderkant van de vlam, dus de damp brandt een paar millimeter boven de vloeibare was {cite:t}`Hammack2016`.
 
-## Een balancerende kaars
+### Een balancerende kaars
 
 Neem twee kaarsen, plaats ze met de onderkanten tegen elkaar en wikkel er een strip aluminiumfolie of gewoon papier strak omheen (figuur X). Steek daar een naald doorheen als as, ietsje boven het zwaartepunt. Plaats de as op de randen tussen twee glazen. Indien nodig een kaars ietsje uit de huls trekken totdat de kaarsen in evenwicht zijn. Dan beide kaarsen aansteken en we hebben een wip. Leerlingen bedenken een verklaring. De naar beneden wijzende kaars smeld het hardst, totdat deze kaars lichter wordt door het drippen van kaarsvet en naar boven wipt. Dan gaat het proces door aan de andere kant. Kijk ook of the frequentie van de wip verandert. Onderzoekjes zijn mogelijk van basisschool tot universitair niveau. Tjossem, Case en Bas (2019) rapporteerden indrukwekken onderzoek in de American Journal of Physics en uitvoerbaar met relatief simpele middelen (gevonden door Ruud Brouwer).
 
-## Het patroon van de temperatuur van de vlam ontdekken 1
+### Het patroon van de temperatuur van de vlam ontdekken 1
 
 De uiteindes van nog niet brandende luficers kunnen gebruikt worden als temperatuursensoren. Als je ze langzaam steeds dichter bij een vlam houdt, zullen ze op een bepaalde afstand in brand vliegen. Dat is de afstand waar de termperatuur hetzelfde is als de ontstekingstemperatuur van het materiaal op het uiteinde van de lucifer. Probeer dit op verschillende plekken rond de vlam en je krijgt een “isotherm” van de ontstekingstemperatuur rond de vlam. Aan de onderkant van de vlam kan je redelijk dichtbij komen met een lucifer. Aan de bovenkant van de vlam ontsteekt de lucifer al bij een veel grotere afstand. Leg uit! {cite:p}`Liem1987`.
 
-## Het patroom van de temperatuur van de vlam ontdekken 2
+### Het patroom van de temperatuur van de vlam ontdekken 2
 
 Ontdekken kan ook gedaan worden door de leraar met een papiertje. Houdt een papiertje horizontaal boven de vlam en kijk naar het verbrande patroon. Je kan natuurlijk ook strookjes papier gebruiken voor de vorige demo in plaats van lucifers. De karakteristieke ontbrandingstemperatuur van papier is meestal tussen 200 en 300 {math}`^\circ`C.
 
-## De producten van de vlam van een kaars
+### De producten van de vlam van een kaars
 
 Wat zijn de producten van de vlammen van een kaars en hoe kan je ze zien? Brandende koolwaterstoffen zouden water en CO{math}`_2` moeten produceren. Waterdamp kan makkelijk gecontroleerd worden. Gebruik een metalen of glazen voorwerp, maak het droog en houdt het in de buurt van de vlam. Er zouden druppels water moeten vormen op het voorwerp. Zie [Faraday](https://engineerguy.com/faraday/pdf/faraday-chemical-history-complete.pdf)\[^Far]. Zie [https://​www​.candles​.org​/candle​-science](https://www.candles.org/candle-science) voor interessante wetenschap die te maken heeft met kaarsen.
 
-## Voorkomen dat zuurstof bij de vlam van een kaars komt
+### Voorkomen dat zuurstof bij de vlam van een kaars komt
 
 Steek de kaars aan en zet een groot glas ondersteboven over de vlam heen. Wat gebeurt er? De vlam dooft uit, er is geen zuurstof meer. Gebruik als dat mogelijk is drie dezelfde kaarsen met drie glazen met verschillende grootte. Welke vlam zal als eerste uitdoven? Er is dus iets in de lucht dat de vlam nodig heeft. Meer lucht zorgt voor meer van dat bestandsdeel (zuurstof).
 
-## Stijgend water
+### Stijgend water
 
 Laat een kaars drijven op water in een kom, steek de vlam aan en zet er een omgekeerd glas overheen. Als de vlam uitdooft, zal het water in het glas stijgen. Er zijn meerdere mogelijk oorzaken voor het stijgende water. De eerste is de zuurstof die opgebruikt is en maar gedeeltelijk vervangen is door CO{math}`_2`. De andere is het uitzetten van lucht wanneer de vlam aan is, er zal zelfs wat lucht onder het glas vandaan ontsnappen. Wanneer de vlam uitdooft, zal de lucht weer krimpen. Een derde mogelijkheid is dat er waterdamp geproduceerd wordt. Als de vlam dooft condenseert de waterdamp. Dit resulteert in een lage druk onder het glas, dus zal de luchtdruk buiten het glas het water naar binnen duwen. Je kunt een aardige discussie met leerlingen uitlokken tussen de drie mogelijke verklaringen, maar wij stemmen voor condensatie.
 
@@ -140,7 +142,7 @@ Laat een kaars drijven op water in een kom, steek de vlam aan en zet er een omge
 Wat is de juiste verklaring voor het stijgende water?
 :::
 
-## Stroming rond de vlam van een kaars
+### Stroming rond de vlam van een kaars
 
 Wat heeft een vlam nodig? Zuurstof en brandstof. Wat zou er gebeuren als er geen stroming is rond de vlam? De vlam dooft dan uit. Hoe kunnen we de stroming van lucht zichtbaar maken voor onze leerlingen? Je zou kunnen zeggen dat de vlam een soort windvaantje is, kijk maar naar de vorm. Een andere indicator is de beweging van de rook na het uitdoven van de vlam. De rook gaat naar boven. Je zou ook kunnen proberen om de stroming op verschillende manieren tegen te houden en te kijken welke invloed dat heeft op de vlam.
 
