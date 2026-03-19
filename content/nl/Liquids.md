@@ -43,7 +43,7 @@ Meniscus onder de rand (hol).
 
 Meniscus boven de rand (bol).
 ```
-.
+De ping-pong bal beweegt naar het hoogste punt van het wateroppervlak.
 ```` 
 
 ## Adhesie en cohesie
@@ -75,12 +75,13 @@ Vul een glas water tot het helemaal vol is maar het oppervlak nog steeds concaaf
 
 
 ## Capillariteit 1
-Als je een dun glazen buisje hebt (bijvoorbeeld een glazen ‘rietje’), steek het in een glas water en zie het water in het buisje omhoog gaan, iets hoger dan in de rest van het glas. Als er geen glazen buisje is, steek laat dan een strookje papier aan met een kant in het water hangen en dat water zal omhoog klimmen in het papier.  Hetzelfde verschijnsel is te zien in een menselijke haar, of de haren van een schilderkwast. *Capilla* is het Latijnse woord voor haar. Capillariteit kan gezien worden als een touwtrekwedstrijd tussen adhesie en zwaartekracht. Het water klimt tegen de wand van glas en wordt naar beneden getrokken door de zwaartekracht. In hele dunne buisjes is zwaartekracht veel kleiner vergeleken met adhesie dan in wijdere buisjes.  
+Als je een dun glazen buisje hebt (bijvoorbeeld een glazen ‘rietje’), steek het in een glas water en zie het water in het buisje omhoog gaan, iets hoger dan in de rest van het glas. Als er geen glazen buisje is, laat dan een strookje papier met een kant in het water hangen en dat water zal omhoog klimmen in het papier.  Hetzelfde verschijnsel is te zien in een menselijke haar, of de haren van een schilderkwast. *Capilla* is het Latijnse woord voor haar. Capillariteit kan gezien worden als een touwtrekwedstrijd tussen adhesie en zwaartekracht. Het water klimt tegen de wand van glas en wordt naar beneden getrokken door de zwaartekracht. In hele dunne buisjes is zwaartekracht veel kleiner vergeleken met adhesie dan in wijdere buisjes.  
 Je kunt ook van twee glaasjes een wig maken, met een elastiekje om de glaasjes en aan een zijde bijvoorbeeld een lucifer. Zet deze wig op zijn kant in een dun laagje water. Dat kruipt op de dunne kant omhoog. De hoogte van het water is blijkt afhankelijk van de afstand tussen de plaatjes.
 
+PLACEHOLDER FOTO
 
 ## Capillariteit 2
-Breng een suikerklontje en een kop koffie uit de personeelskamer. Doop een kant van het klontje in de koffie. De koffie *klimt* snel omhoog, capillariteit!
+Breng een suikerklontje en een kop koffie uit de personeelskamer. Doop een kant van het klontje in de koffie. De koffie *klimt* snel omhoog, capillare werking!
 
 
 
@@ -89,25 +90,25 @@ Breng een suikerklontje en een kop koffie uit de personeelskamer. Doop een kant 
 Er zijn voorwerpen die zinken wanneer ze op hun kant op het wateroppervlak (glas water) worden gelegd, maar die drijven als ze heel voorzichtig plat worden gepositioneerd. bijvoorbeeld een scheermesje of een paperclip. Maak een paperclip goed plat en gebruik dan een plastic vorkje om het voorzichtig op het water te leggen. De paperclip blijft drijven! Sommige aluminium muntjes doen het ook. Alsof het oppervlak van het water een netje vormt waar je iets op kunt leggen. 
 
 ## Oppervlaktespanning 2
-Voeg nu wat zeep toe aan het water, bijvoorbeeld druppels zeep van een flacon detergent of laat een leerling even wat zeep halen bij een wasbak bij de toiletten. 
+Voeg nu wat zeep toe aan het water, bijvoorbeeld druppels zeep van een flacon detergent of laat een leerling even wat zeep halen bij een wasbak bij de toiletten. Wat gebeurt er?
 
 ## Marangoni effect
 Vouw een klein driehoekvormig stukje papier of een kaartje tot een bootje van 1 of 2 cm, zet het op water in een Petri schaaltje, glas, of beter een wat grotere container of aquarium. Voeg dan wat zeep toe achter het bootje en daar gaat ‘ie. Zie http://physicsgirl.org/soapboat/
 
 ## Chromatografie
-Neem een strookje papier, zet een stip met een zwarte viltpen, hang de strook in water dat net onder de stip rijkt. Laat een tijdje hangen. Het water komt omhoog (Capillaire beweging) en de inkt blijkt een mengsel te zijn van pigmenten met verschillende kleuren: chromatografie! Verschillende pigmenten blijken met verschillende snelheden met het water naar boven te migreren. Dit is echt scheikunde, het scheiden van stoffen. Er kan van alles gevarieerd worden, de vloeistof (water of alcohol, of menging in verschillende verhoudingen, zoutoplossingen), soorten papier, soorten inkt. Google op chromatography in the classroom en er zijn talloze [experimentele mogelijkheden](https://edu.rsc.org/primary-science/kitchen-roll-chromatography/4012057.article)[^sdfwe]. Zie ook de [site van de Royal Society of Chemistry in UK](https://edu.rsc.org/ideas/5-ways-to-teach-paper-chromatography/4016117.article)[^fghj].
+Neem een strookje papier, zet een stip met een zwarte viltpen, en hang de strook in water dat net onder de stip rijkt. Laat een tijdje hangen. Het water komt omhoog (Capillaire beweging) en de inkt blijkt een mengsel te zijn van pigmenten met verschillende kleuren: chromatografie! Verschillende pigmenten blijken met verschillende snelheden met het water naar boven te migreren. Dit is echt scheikunde, het scheiden van stoffen. Er kan van alles gevarieerd worden, de vloeistof (water of alcohol, of menging in verschillende verhoudingen, zoutoplossingen), soorten papier, soorten inkt. Google op chromatography in the classroom en er zijn talloze [experimentele mogelijkheden](https://edu.rsc.org/primary-science/kitchen-roll-chromatography/4012057.article)[^sdfwe]. Zie ook de [site van de Royal Society of Chemistry in UK](https://edu.rsc.org/ideas/5-ways-to-teach-paper-chromatography/4016117.article)[^fghj].
 
 [^sdfwe]: https://edu.rsc.org/primary-science/kitchen-roll-chromatography/4012057.article
 [^fghj]: https://edu.rsc.org/ideas/5-ways-to-teach-paper-chromatography/4016117.article
 
 ## Luchtdruk: Een rietje en een glas water
-Doop het rietje in het glas en haal het er weer uit. Leeg. Doop het rietje in het water en sluit de bovenkant af met een natte vinger, en haal het dan uit het water met de bovenkant nog steeds afgesloten. Waarom blijft er water in zitten? Dit is ook een manier om kleine hoeveelheden water van het ene glas in het andere te brengen. Je kunt die hoeveelheden zelfs meten door een schaalverdeling te maken op het rietje, vooral op glazen “rietjes”.
+Doop een rietje in een glas met water en haal het er weer uit. Leeg. Doop het rietje in het water en sluit de bovenkant af met een natte vinger, en haal het dan uit het water met de bovenkant nog steeds afgesloten. Waarom blijft er water in zitten? Dit is ook een manier om kleine hoeveelheden water van het ene glas in het andere te brengen. Je kunt die hoeveelheden zelfs meten door een schaalverdeling te maken op het rietje, vooral op glazen “rietjes”.
 
 ```{figure} ../images/20250513_110152.*
 :width: 50%
 :label: fig_float3
 
-Water blijft in het rietje zitten als je vinger hem afsluit.
+Water blijft in het rietje zitten als je vinger de bovenkant afsluit.
 ```
 
 
@@ -120,11 +121,15 @@ Natuurlijk heb je altijd een ballon in je broekzak, uiterst nuttig voor natuurku
 ## Kleine en grote ballon
 Neem twee ballonnen, de een normaal opgeblazen, de andere nog klein. Vraag de hulp van een leerling bij het dichthouden van de ballonnen. Verbind ze met een glazenbuisje (bv glazen rietje) maar houd de ballonnen dicht zodat de lucht van de één niet bij de ander kan komen. Er zijn ook buisjes met een kraantje maar die zitten gewoonlijk niet in je broekzak. Laat leerlingen voorspellen wat er gebeurt als de verbinding tussen de ballonnen geopend wordt en waarom. Nou, dat lijkt duidelijk, de lucht gaat zich verdelen over de twee ballonnen (Predict – Explain). Nu open de verbinding. Het is juist de kleine ballon die leegloopt. Dan discussie over een verklaring (Observe-Explain), misschien eerst even in tweetallen. De verklaring ligt in de vorige demo, bij het opblazen van een ballon moet je in het begin harder blazen dan wanneer de ballon al groter is! De druk in die kleine ballon zal groter zijn, dat voel je zelf met het blazen.
 
+PLACEHOLDER FOTO
+
 ## Tafel of zwaar natuurkundeboek optillen door opblazen van ballon
 Je kunt een tafel op zijn kop op een andere tafel zetten. Enkele nog niet opgeblazen ballonnen ertussen. Dan een paar leerlingen laten blazen. De bovenste tafel gaat omhoog, hydraulische werking. Het is handig om de ballonnen van tevoren al een keer op te blazen en leeg te laten lopen opdat het blazen van de ballonnen tussen de tafelbladen niet te zwaar wordt. In plaats van de tafel op zijn kop kan de docent ook een zwaar natuurkundeboek optillen met een ballon.
 
 ## Breinaald door opgeblazen ballon
-Blaas een ballon op en leg een knoop in het uiteinde. Neem dan een breinaald met wat vet erop gesmeerd. Steek die voorzichtig door de onder- en bovenkant van de ballon waar het rubber wat dikker is. Doe alsof de ballon gaat knappen, maar tot verbazing van iedereen doet ‘ie dat niet. Het rubber sluit zich netjes rond de breinaald (figuur X) en de ballon blijft opgeblazen.
+Blaas een ballon op en leg een knoop in het uiteinde. Neem dan een breinaald met wat vet erop gesmeerd. Steek die voorzichtig door de onder- en bovenkant van de ballon waar het rubber wat dikker is. Doe alsof de ballon gaat knappen, maar tot verbazing van iedereen doet ‘ie dat niet. Het rubber sluit zich netjes rond de breinaald (figuur PLACEHOLDER FOTO) en de ballon blijft opgeblazen.
+
+PLACEHOLDER FOTO
 
 ## Luchtbellen transporteren onder water
 Bij een grotere bak kun je luchtbellen van het ene glas naar het ander brengen. Als kinderen speelden we met die luchtbellen tijdens het afwassen. De luchtbellen bewegen naar het hoogste punt. Je kunt ook een rietje nemen, in het water steken, en erdoor blazen. De luchtbellen komen verticaal naar boven.
@@ -133,21 +138,21 @@ Bij een grotere bak kun je luchtbellen van het ene glas naar het ander brengen. 
 Is het mogelijk papier droog te houden onder water? Vraag suggesties van leerlingen. Neem een papieren zakdoekje, doe het onderin een leeg glas, zet het glas omgekeerd in een bakje met water. Het papier blijft droog, ook als het bakje diep genoeg is om het gehele glas onder water te duwen. Het papier wordt beschermd door de samengedrukte lucht.
 
 ## Dampspanning en koolzuurhoudende frisdrank
-Er is altijd een leerling met koolzuurhoudende frisdrank in de tas. CO$_2$ heeft een lagere dichtheid dan het water of de frisdrank en neigt naar boven te gaan. Zodra de fles wordt geopend, gaan er bellen naar boven. In een afgesloten fles waren die niet te zien. Waarom? In een afgesloten fles is er een evenwicht tussen opgeloste CO$_2$ en CO$_2$ boven de vloeistof. In de geopende fles wordt dat evenwicht verstoord, CO$_2$  gaat uit de fles, de dampspanning vermindert, en CO$_2$ uit de oplossing komt naar boven. Goed schudden helpt ook om bellen bij een geopende fles naar boven te krijgen. Beetje suiker in de fles en het gaat bruisen, er wordt meer CO$_2$ gevormd.
+Er is altijd een leerling met koolzuurhoudende frisdrank in de tas. CO$_2$ heeft een lagere dichtheid dan de frisdrank en neigt naar boven te gaan. Zodra de fles wordt geopend, gaan er bellen naar boven. In een afgesloten fles waren die niet te zien. Waarom? In een afgesloten fles is er een evenwicht tussen opgeloste CO$_2$ en CO$_2$ boven de vloeistof. In de geopende fles wordt dat evenwicht verstoord, CO$_2$  gaat uit de fles, de dampspanning vermindert, en CO$_2$ uit de oplossing komt naar boven. Goed schudden helpt ook om bellen bij een geopende fles naar boven te krijgen. Beetje suiker in de fles en het gaat bruisen, er wordt meer CO$_2$ gevormd.
 
 ## Spanning, bubbels, rietjes
-Tijdens een GIREP vergadering in 1998 presenteerde Leon Jablko een aantal experimenten over druk met rietjes en glazen water. De experimenten zouden door de leraar uitgevoerd kunnen worden, of door een combinatie van de leraar en de leerlingen, of als practicum experiment voor de leerlingen. Gebruik bijvoorbeeld een lang en een kort rietje en blaas met toenemende druk door de twee rietjes. Bij een bepaalde druk zullen er bubbels ontstaan bij het korte rietjes, maar nog niet bij het lange rietje dat dieper in het water reikt. . Hoe dieper je in het water zit hoe groter de druk is die de bubbels tegenhoudt. 
+Tijdens een GIREP vergadering in 1998 presenteerde Leon Jablko een aantal experimenten over druk met rietjes en glazen water. De experimenten zouden door de leraar uitgevoerd kunnen worden, of door een combinatie van de leraar en de leerlingen, of als practicum experiment voor de leerlingen. Gebruik bijvoorbeeld een lang en een kort rietje. Plaats ze in een bak water en blaas met toenemende druk door de twee rietjes. Bij een bepaalde druk zullen er bubbels ontstaan bij het korte rietjes, maar nog niet bij het lange rietje dat dieper in het water reikt. Hoe dieper je in het water zit hoe groter de druk is die de bubbels tegenhoudt. 
 
 ## Waterdruk
 ### Luchtdruk en waterdruk, cohesie en oppervlaktespanning
-Is er niet altijd een glas water in het lokaal, en een zakdoek in onze zak? Of hebben alleen opa’s tegenwoordig zakdoeken? Houd je al of niet schone zakdoek horizontaal (een leerling assisteert) en giet er wat water op, als het even kan boven een plant. Het water gaat er zo doorheen en de plant vangt het netjes op. Maar dan, maak de zakdoek een beetje nat en sluit de bovenkant van het glas af met de natte zakdoek. Zorg dat het glas nog half of driekwart gevuld is met water. Keer het glas dan op z’n kop. Verrassing: een klein beetje water lekt uit, de rest blijft in het glas. De zakdoek is niet langer doorlaatbaar. Je kunt er zelfs wat kleine gaatjes in prikken. Loop door de klas, laat duidelijk zien dat het water nog in het glas zit. Wijs ook op de vorm van de zakdoek die het water ondersteunt. Leg uit door de wet van Boyle toe te passen op de lucht bovenin het glas. Als er een beetje water weg lekt en dezelfde hoeveelheid lucht dus een iets grotere ruimte inneemt, dan wordt de luchtdruk in de ruimte bovenin het glas kleiner dan de atmosferische druk. $P_{lucht\; in\; glas} + P_{water} = P_{lucht\; buiten\; glas}$. De cohesie en oppervlaktespanning van water verhinderen lekken door de zakdoek.
+Is er niet altijd een glas water in het lokaal, en een zakdoek in onze zak of een theedoek in de lerarenkamer? Houd de theedoek horizontaal (een leerling assisteert) en giet er wat water op, als het even kan boven een plant. Het water gaat er zo doorheen en de plant vangt het netjes op. Maar dan, maak de theedoek een beetje nat en sluit de bovenkant van het glas af met de natte theedoek. Zorg dat het glas nog half of driekwart gevuld is met water. Keer het glas dan op z’n kop. Verrassing: een klein beetje water lekt uit, de rest blijft in het glas. De theedoek is niet langer doorlaatbaar. Je kunt er zelfs wat kleine gaatjes in prikken. Loop door de klas, laat duidelijk zien dat het water nog in het glas zit. Wijs ook op de vorm van de theedoek die het water ondersteunt. Leg uit door de wet van Boyle toe te passen op de lucht bovenin het glas. Als er een beetje water weg lekt en dezelfde hoeveelheid lucht dus een iets grotere ruimte inneemt, dan wordt de luchtdruk in de ruimte bovenin het glas kleiner dan de atmosferische druk. $P_{lucht\; in\; glas} + P_{water} = P_{lucht\; buiten\; glas}$. De cohesie en oppervlaktespanning van water verhinderen lekken door de theedoek.
 
 ```{iframe} https://youtube.com/embed/jJiqY82KmPo
 :width: 70$
 :label: vid_13
 :align: center
 
-.
+Een glas water lekt toch niet als je het op z’n kop houdt met een natte theedoek eroverheen...
 ```
 
 ### Waterdruk en parabool
@@ -163,8 +168,11 @@ Gebruik dezelfde plastic fles zonder dop met water of thee (theekleur voor zicht
 [^yiyi]: https://www.smartprix.com/bytes/best-phones-to-capture-slow-motion-videos/
 
 
-## Flessen/glazen leegmaken
+## Flessen/glazen leegmaken 1
 Zet drie duo’s voor de klas met elk een tafeltje waarop 1 plastic flesje water halfvol, een rietje, en een leeg glas. De opdracht is het water uit het flesje zo snel mogelijk in het glas te krijgen zonder dat het flesje wordt opgetild. Met het rietje kun je een hevel maken en door met de mond op de flessenhals met rietje te blazen, kun je de hevelwerking versterken (druk boven het wateroppervlak neemt toe). Maar het blijkt dat als je gewoon door het rietje de mond vol zuigt en dat uitspuugt in het glas, dat het veel sneller gaat. Nu nog even de fysische puntjes op de i, wat is de fysische beschrijving van de werking van een rietje? En wat is de fysische beschrijving van de werking van een hevel?
+
+## Flessen/glazen leegmaken 2
+Gebruik dezelfde materialen als in de vorige demo, met de opdracht het flesje zo snel mogelijk leeg te krijgen als je het wel mag optillen. Rond draaien en op z'n kop levert een draaikolk, dat gaat al veel sneller dan gewoon op z'n kop. Met het rietje kun je meteen de lucht bovenin de fles laten lopen, dat gaat misschien wel nog sneller. Waarom leegt het flesje direct op de kop niet zo snel? Laat laarlingen een redenen bedenken en bespreek deze.
 
 ## Vloeistof wrijving
 In lucht vallen grote en kleine stenen met dezelfde versnelling $g$, over korte afstanden is luchtwrijving meestal verwaarloosbaar. Zou dat ook zo zijn wanneer de stenen door water vallen? Zou je dat (kwalitatief) kunnen onderzoeken in een aquarium of emmer water? Neem stenen met een verschillende oppervlak/massa verhouding.
@@ -178,4 +186,4 @@ Steek een kaars aan. Als ik door een rietje blaas net rechts van de vlam, zal de
 ## Til water op door te blazen
 Gebruik twee doorzichtige rietjes of buig en knip een rietje af, zie figuur X. Neem een glas water. Zet een deel van het rietje in het glas en buig de rest totdat het horizontaal is (gebruik een gedeeltelijke snee). Blaas vervolgens in de richting van een verticaal papiertje. Het papiertje wordt nat. Je kan inkt of kleurstof gebruiken om dit zichtbaarder te maken. De uitleg? Snelbewegende lucht heeft een lagere luchtdruk, dus er wordt water opgezogen door het verticale deel van het rietje en op het papier gespat. Oefen dit een paar keer voor de les. 
 
-FIGUUR
+PLACEHOLDER FOTO

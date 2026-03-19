@@ -12,21 +12,24 @@ Vervolgens de gemagnetiseerde naald of paperclip in een kaarsvlam houden en late
 ## Magneet in telefoonhouder
 De functie hiervan is om aan te voelen wanneer de telefoon gebruikt wordt en wanneer hij gesloten is om het scherm aan en uit te doen en zo batterij te besparen. Er zitten meer magneten in een telefoon, bijvoorbeeld in de microfoon (om geluid om te zetten in elektrische signalen) en in de speakers (om elektrische signalen om te zetten in geluid). 
 
-## Kompas
-Heeft iemand een zakmes met kompas? Laat daarmee dan inclinatie en declinatie zien. Wat is de geografische noordpool? Wat is de magnetische noordpool? Zijn die hetzelfde of is er verschil? Gebruik een opgeblazen ballon als aardbol om deze begrippen te illustreren. Kunnen leerlingen een plek aanwijzen waar de richting van geografische en magnetische noordpool 180$^{\circ}$ verschillen?
-
-
 ## Kompas op mobiele telefoon
 Laat het kompas op een mobiele telefoon zien. Leerlingen kunnen hun eigen telefoons gebruiken. Als je de telefoon draait, blijft het kompas in dezelfde richting wijzen.
+
+## Kompas
+Laat met een kompas inclinatie en declinatie zien. Wat is de geografische noordpool? Wat is de magnetische noordpool? Zijn die hetzelfde of is er verschil? Gebruik een opgeblazen ballon als aardbol om deze begrippen te illustreren. Kunnen leerlingen een plek aanwijzen waar de richting van geografische en magnetische noordpool 180$^{\circ}$ verschillen? Wat gebeurt er als je een magneet in de buurt houdt?
+
 
 ## Generator 1
 Is er een leerling die een fiets heeft met een oude dynamo en werkende lampen? Spreek met die leerling af dat hij of zij de fiets volgende les meeneemt naar het lokaal. Laat zien dat de intensiteit van het licht variëert als de snelheid van het wiel variëert. Je kan misschien maar één draad zien, maar de twee polen zouden duidelijk moeten zijn, net als de twee routes voor de stroom. Laat voor deze fiets zien hoe dat werkt. 
 
 ## Generator 2
-Ik hoop natuurlijk dat je goede apparatuur hebt om een demonstratie te doen met een generator en een elektrische motor. Tegenwoordig wordt er veel geadverteerd voor noodradio’s met een slinger voor opladen. Die past niet in je broekzak, maar is aardig om mee te nemen als voorbeeld.
+Je hebt vast goede apparatuur om een demonstratie te doen met een generator en een elektrische motor. Tegenwoordig wordt er veel geadverteerd voor noodradio’s met een slinger voor opladen. Die past niet in je broekzak, maar is aardig om mee te nemen als voorbeeld.
 
 ## Elektrische motor
-Een van mijn lerarenopleiding studenten heeft een werkende elektrische motor gemaakt met een batterij, een paar Neodyummagneten en een slim gebogen koperdraad. Een betrouwbaar ontwerp is te zien in [deze simpele video](https://www.google.com/search?client=safari&rls=en&q=simplest+electromotor&ie=UTF-8&oe=UTF-8#fpstate=ive&vld=cid:0bd621c8,vid:OKpmp7R6vBU). Duidelijkere instructies zijn [hier](https://www.google.com/search?client=safari&rls=en&q=simplest+electromotor&ie=UTF-8&oe=UTF-8#fpstate=ive&vld=cid:d9ecaaf6,vid:WI0pGk0MMhg) te vinden. 
+Een van mijn lerarenopleiding studenten heeft een werkende elektrische motor gemaakt met een batterij, een paar Neodyummagneten en een slim gebogen koperdraad. Een betrouwbaar ontwerp is te zien in [deze simpele video](https://www.google.com/search?client=safari&rls=en&q=simplest+electromotor&ie=UTF-8&oe=UTF-8#fpstate=ive&vld=cid:0bd621c8,vid:OKpmp7R6vBU)[^108]. Duidelijkere instructies zijn [hier](https://www.google.com/search?client=safari&rls=en&q=simplest+electromotor&ie=UTF-8&oe=UTF-8#fpstate=ive&vld=cid:d9ecaaf6,vid:WI0pGk0MMhg)[^109] te vinden. 
+
+[^108]: https://tinyurl.com/ebjnbv6t
+[^109]: https://tinyurl.com/3ea523jx
 
 ```{figure} ../figures/08-7-1Electromotor.*
 :width: 60%
