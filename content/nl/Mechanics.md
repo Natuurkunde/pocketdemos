@@ -395,7 +395,7 @@ Leen een hamer en een stok en wat touw of sterk elastiek en construeer de set-up
 :width: 60%
 :label: fig_David
 
-David balanceert een hamer, het zwaartepunt moet onder de tafel zijn, niet ernaast. 
+David balanceert een hamer, het zwaartepunt moet onder de tafel zijn, niet ernaast. Foto gebruikt met toestemming.
 ```
 
 ## Rotatie, zwaartepunt, stabiliteit
