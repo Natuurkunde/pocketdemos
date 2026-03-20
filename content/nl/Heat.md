@@ -48,7 +48,7 @@ Wat zijn de warmste plekken van ons lichaam? Wat de koudste, bijvoorbeeld ’s w
 
 ### Energietransport: geleiding, stroming, straling
 
-Neem je hete kopje koffie van de lerarenkamer mee naar de klas. Hoe koelt de koffie af? *Wat is geleiding? Hoe kan ik dat voelen?* Raak de zijkant van het kopje aan. *Wat is stroming? Hoe kan ik dat voelen?* Houd je hand boven het kopje. *En hoe zit dat met verdamping? Hoe kan ik dat laten zien?* Houd een koud voorwerp (zoals een schoteltje) recht boven het kopje en er zullen druppels vormen onder het schoteltje, doordat de verdampte koffie condenseert op het koudere voorwerp. *Wat is straling? Hoe kan ik dat voelen?* Houd je hand een een paar centimeter naast het kopje, of zelfs beter, leen een waterkoker van de personeelskamer of kantine.
+Neem je hete kopje koffie van de lerarenkamer mee naar de klas. Hoe koelt de koffie af? *Wat is geleiding? Hoe kan ik dat voelen?* Raak de zijkant van het kopje aan. *Wat is stroming? Hoe kan ik dat voelen?* Houd je hand boven het kopje. *En hoe zit dat met verdamping? Hoe kan ik dat laten zien?* Houd een koud voorwerp (zoals een schoteltje) recht boven het kopje en er zullen druppels vormen onder het schoteltje, doordat de verdampte koffie condenseert op het koudere voorwerp. *Wat is straling? Hoe kan ik dat voelen?* Houd je hand een een paar centimeter naast het kopje, of zelfs beter, leen een waterkoker van de personeelskamer of kantine, of gebruik een brandende kaars.
 
 ### Geleiding, stroming, straling met een kaars
 
