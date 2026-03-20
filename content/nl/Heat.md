@@ -9,14 +9,14 @@ Sommige lokalen hebben warm en koud water. Als dat er niet is, even een leerling
 
 Je hebt twee halfvolle glazen water elk op de omgevingstemperatuur van 20 {math}`^\circ`C Nu giet je ze bij elkaar, de temperatuur wordt dan 20 {math}`^\circ`C, 40 {math}`^\circ`C, of iets minder dan 40 {math}`^\circ`C? Er zijn leerlingen die kiezen voor die 40 {math}`^o`C en die temperaturen optellen. Misschien toch even goed om die leerlingen te confronteren. Als temperaturen optelbaar waren, dan zou je water kunnen koken door 5 glazen van 20 {math}`^\circ`C bij elkaar te doen. Koken zonder energie! Deze demo kan ook een startpunt zijn voor discussie van intensieve en extensieve grootheden.
 
-Vraag 1: Ik heb 2 glazen water van de kraan, beide met een temperatuur van 20 {math}`^{\circ}`C. Als ik ze bij elkaar giet, wat is dan de temperatuur?\
+**Vraag 1:** Ik heb 2 glazen water van de kraan, beide met een temperatuur van 20 {math}`^{\circ}`C. Als ik ze bij elkaar giet, wat is dan de temperatuur?\
 A. 20 {math}`^{\circ}`C\
 B. 40 {math}`^{\circ}`C\
 C. een klein beetje minder dan 40 {math}`^{\circ}`C?
 
 Laat de leerlingen blind stemmen (leerlingen doen hun ogen dicht en stemmen met een vinger op optie A, twee vingers op optie B en drie vingers op optie C). Je kunt de uitkomst laten controleren door een leerling een vinger in het enkele glas te steken en in het bakje met de inhoud van de twee glazen bij elkaar. Je kunt eventueel ook een vraaag stellen over water in een glas dat je verdeelt over twee andere glazen, wordt de temperatuur dan de helft? Nee toch!
 
-Vraag 2: We hebben een metalen staaf die we in twee stukken snijden, X en Y. Het volume van X is twee keer zo veel als het volume van Y. De relatie tussen de dichtheden {math}`ρ_x` van {math}`X` en {math}`ρ_y` van {math}`Y` is:
+**Vraag 2:** We hebben een metalen staaf die we in twee stukken snijden, X en Y. Het volume van X is twee keer zo veel als het volume van Y. De relatie tussen de dichtheden {math}`ρ_x` van {math}`X` en {math}`ρ_y` van {math}`Y` is:
 
 A.  {math}`ρ_x = 2ρ_y`\
 B.  {math}`ρ_x = ρ_y`\
@@ -44,17 +44,17 @@ Neem je hete kopje koffie van de lerarenkamer mee naar de klas. Hoe koelt de kof
 
 ### Geleiding, stroming, straling met een kaars
 
-Steek een kaars aan, nader de vlam van bovenaf, Wat je voelt, is dat warmte van geleiding, stroming, of straling? Nader nu met je hand van opzij, kun je nu dichterbij komen zonder je hand te branden? Wat je voelt, is dat warmte van geleiding, stroming, of straling? Boven de vlam is vooral stroming van hete lucht al zal er ook straling zijn, je kunt die zichtbaar maken door de vlam te projecteren op een scherm (een A4). De vorm van de vlam is ook langgerekt, dat geeft stroming aan. De warmte opzij is vooral afkomstig van straling.
+Steek een kaars aan, nader de vlam van bovenaf. Wat je voelt, is dat warmte van geleiding, stroming, of straling? Nader nu met je hand van opzij, kun je nu dichterbij komen zonder je hand te branden? Wat je voelt, is dat warmte van geleiding, stroming, of straling? Boven de vlam is vooral stroming van hete lucht al zal er ook straling zijn, je kunt die zichtbaar maken door de vlam te projecteren op een scherm (een A4). De vorm van de vlam is ook langgerekt, dat geeft stroming aan. De warmte opzij is vooral afkomstig van straling.
 
 ### Geleiding met een kaars
 
 Houd voorwerpen van verschillende materialen in de vlam en vergelijk geleiding, bijvoorbeeld een muntje, of een potlood.
 
-Bovenstaande experimenten met kaarsen kunnen gedaan worden door de leraar (met een grote kaars in een donkere kamer en bij voorkeur met een webcam), of tegelijk door een leraar en leerlingen op hun tafel, of als een lab oefening voor de leerlingen. Als de leerlingen dit op hun tafel doen zijn er natuurlijk meer kaarsen en lucifers nodig en dan is dit geen pocket demo meer. Water warm houden
+Bovenstaande experimenten met kaarsen kunnen gedaan worden door de leraar (met een grote kaars in een donkere kamer en bij voorkeur met een webcam), of tegelijk door een leraar en leerlingen op hun tafel, of als een lab oefening voor de leerlingen. Als de leerlingen dit op hun tafel doen zijn er natuurlijk meer kaarsen en lucifers nodig en dan is dit geen pocket demo meer. 
 
 ## Rollenspel smelten-verdampen-koken-condenseren-bevriezen
 
-Maak een beetje ruimte en neem een groep van 15 leerlingen en zet ze voor de klas in drie rijen van 5 met het gezicht naar de klas. Arrangeer ze netjes als atomen in een kristalrooster. Start met de absolute 0 Kelvin temperatuur. Ze bewegen een beetje (er is enige beweging bij absoluut zero, denk aan Heisenberg). Laat vervolgens de temperatuur toenemen en leerlingen bewegen steeds iets wilder heen-en-weer maar rond een vaste positie. Dan wordt het smeltpunt gepasseerd. De leerlingen bewegen nu in een soort van kluwen, geen vaste positie meer, maar ze blijven wel bij elkaar. Af en toe kan er een losraken door verdamping, dat gebeurt alleen aan de buitenkant en overkomt slechts een klein deel van de atomen. Passeer het kookpunt, nu vliegt iedereen alle kanten op, snelheid beperkt nu de invloed van onderlinge aantrekkingskracht. Laat de temperatuur vervolgens weer afnemen. Beweging wordt wat langzamer, elkaar ontmoetende atomen kunnen aan elkaar blijven kleven of nog beter aan een koud oppervlak (“condensatie kern”). Nu hebben we weer die kluwen van atomen die elkaar aantrekken maar die geen vaste plek hebben. Verlaag de temperatuur nog wat, en iedereen komt terug in het kristalrooster. Zorg voor voortdurende discussie en heen-en-weer denken tussen echte atomen/moleculen en dit model van dansende leerlingen: Temperatuur gaat omhoog, wat moeten we doen? Als niet alle leerlingen voor de klas passen, laat dan de achterblijvers de choreografen zijn die aangeven wat de dansende atomen moeten doen. Geef aan het eind ook aan waarin dit dansende leerlingen model verschilt van de atomen, bijvoorbeeld mensen verschillen van elkaar, atomen en moleculen niet; het rollenspel is met een zeer klein aantal “deeltjes”, bij atomen/moleculen heb je altijd met zeer grote aantallen te maken.
+Maak een beetje ruimte en neem een groep van 15 leerlingen en zet ze voor de klas in drie rijen van 5 met het gezicht naar de klas. Arrangeer ze netjes als atomen in een kristalrooster. Start met de absolute 0 Kelvin temperatuur. Ze bewegen een beetje (er is enige beweging bij absoluut zero, denk aan Heisenberg). Laat vervolgens de temperatuur toenemen en leerlingen bewegen steeds iets wilder heen-en-weer maar rond een vaste positie. Dan wordt het smeltpunt gepasseerd. De leerlingen bewegen nu in een soort van kluwen, geen vaste positie meer, maar ze blijven wel bij elkaar. Af en toe kan er een losraken door verdamping, dat gebeurt alleen aan de buitenkant en overkomt slechts een klein deel van de atomen. Passeer het kookpunt, nu vliegt iedereen alle kanten op, snelheid beperkt nu de invloed van onderlinge aantrekkingskracht. Laat de temperatuur vervolgens weer afnemen. Beweging wordt wat langzamer, elkaar ontmoetende atomen kunnen aan elkaar blijven kleven of nog beter aan een koud oppervlak (“condensatie kern”). Nu hebben we weer die kluwen van atomen die elkaar aantrekken maar die geen vaste plek hebben. Verlaag de temperatuur nog wat en iedereen komt terug in het kristalrooster. Zorg voor voortdurende discussie en heen-en-weer denken tussen echte atomen/moleculen en dit model van dansende leerlingen: Temperatuur gaat omhoog, wat moeten we doen? Als niet alle leerlingen voor de klas passen, laat dan de achterblijvers de choreografen zijn die aangeven wat de dansende atomen moeten doen. Geef aan het eind ook aan waarin dit dansende leerlingen model verschilt van de atomen, bijvoorbeeld mensen verschillen van elkaar, atomen en moleculen niet; het rollenspel is met een zeer klein aantal “deeltjes”, bij atomen/moleculen heb je altijd met zeer grote aantallen te maken.
 
 ## Smelten en plaattectoniek
 
@@ -64,17 +64,19 @@ Maak een beetje ruimte en neem een groep van 15 leerlingen en zet ze voor de kla
 
 Adem uit met de mond wijd open en voel dat op je hand (warm), blaas vervolgens door een kleine opening van de mond (koud). Alle leerlingen even zelf laten doen en voelen {cite:p}`Hewitt2015`. Expanderende lucht koelt af. Lucht die samengeperst wordt, warmt op (voel onderaan fietspomp, laat een leerling even een fietspompje halen). Een student wees ons op een alternatieve uitleg: [entrainment](https://www.youtube.com/shorts/Fnx9Dhpsw1Q)[^mbvbn], dat de door een kleine opening uitgeademde lucht mengt met omgevingslucht en daardoor kouder voelt. Een toets daarvoor zou zijn om de temperatuur van die uitgeademde lucht te meten. Indien boven omgevingstemperatuur, dan entrainment, indien zelfs beneden omgevings temperatuur, dan is er een nozzle en expansie effect.
 
+[^mbvbn]: https://www.youtube.com/shorts/Fnx9Dhpsw1Q
+
 :::{figure} ../figures/blowopen.*
 :width: 50%
 :align: left
 :alt: Blazen door een mond met grote opening
 
-Blazen door een mond met grote opening
+Blazen door een mond met grote opening, wat voel je?
 :::
 
 ## Afkoeling bij verdamping
 
-Eén van de meisjes heeft vast zoiets als nail polish remover of deodorant. Laat een druppel daarvan op de rug van de hand vallen van een leerling voor de klas en die voelt het kouder worden. Ondertussen verdampt de vloeistof. Of probeer schoonmaak alcohol of aceton. Natuurlijk is het mooier als iedere leerling dit kan voelen. Breng een oogdruppelaar en een flesje schoonmaak alkohol mee in je broekzak.
+Eén van de meisjes heeft vast zoiets als nail polish remover of deodorant. Laat een druppel daarvan op de rug van de hand vallen van een leerling voor de klas en die voelt het kouder worden. Ondertussen verdampt de vloeistof. Of probeer schoonmaak alcohol of aceton. Natuurlijk is het mooier als iedere leerling dit kan voelen. Breng daartoe een oogdruppelaar en een flesje schoonmaak alkohol mee in je broekzak.
 
 ## Verdamping en condensatie
 
@@ -86,12 +88,12 @@ Parfumflesje open maken in een hoek van het lokaal, na enige tijd is het op stee
 
 ## Sublimatie
 
-Het bovenstaande experiment zou ook moeten werken met een vast stuk zeep, dat zou ergens op de school wel te vinden moeten zijn. Als dat niet zo is, kijk dan of de leerlingen vaste stoffen in hun tas hebben met een geur (voedsel, een sandwich?). Sublimatie! Of is het een vast materiaal waar een gas in zit dat we ruiken, dan is het geen sublimatie?
+Het bovenstaande experiment zou ook moeten werken met een vast stuk zeep, dat zou ergens op de school wel te vinden moeten zijn. Als dat niet zo is, kijk dan of de leerlingen vaste stoffen in hun tas hebben met een geur (voedsel, een sandwich?). Sublimatie! Of is het een vast materiaal waar een gas in zit dat we ruiken? Dan is het geen sublimatie.
 
 
 ## Water warm houden
 
-Neem twee bekers met warm water, of nog beter, neem een volle thermosfles, twee bekers en nog wat materialen zoals schoteltjes, een handdoek en een oude krant. *Ik ga deze twee bekers vullen met warm water. Hoe kan ik ze zo lang mogelijk warm houden? Hoe voorkom ik warmteverlies door geleiding, hoe voorkom ik warmteverlies door stroming en verdamping, of door straling?* Vraag de leerlingen om mee te denken en isoleer daarna een van de twee bekers, de andere gebruik je als controle voor vergelijking. Twee thermometers zouden hier helpen, anders kan je de vinger van een leerling gebruiken. Terwijl je wacht op het afkoelen kan je de leerlingen een paar vragen of een opdracht geven om over na te denken. Ik deed dit altijd als labactiviteit met mijn leerlingen, maar dan met thermometers. In de eerste ronde meten ze gewoon het afkoelen van twee open glazen om te oefenen met temperatuur-tijd metingen. In de tweede ronde isoleren ze een van de glazen hoe ze maar willen en vergelijken ze dat met het ongeïsoleerde glas. In de derde ronde leren ze eerst over energietransport door geleiding, stroming en straling, en herontwerpen ze daarna de isolatie. De derde ronde leverde best goede Joule meters op, goed genoeg om soortelijke warmte experimenten te doen {cite:p}`Berg1987`.
+Neem twee bekers met warm water, of nog beter, neem een volle thermosfles, twee bekers en nog wat materialen zoals schoteltjes, een handdoek en een oude krant. *Ik ga deze twee bekers vullen met warm water. Hoe kan ik ze zo lang mogelijk warm houden? Hoe voorkom ik warmteverlies door geleiding, hoe voorkom ik warmteverlies door stroming en verdamping, of door straling?* Vraag de leerlingen om mee te denken en isoleer daarna een van de twee bekers, de andere gebruik je als controle voor vergelijking. Twee thermometers zouden hier helpen, anders kun je de vinger van een leerling gebruiken. Terwijl je wacht op het afkoelen kun je de leerlingen een paar vragen of een opdracht geven om over na te denken. Ed deed dit altijd als labactiviteit met zijn leerlingen, maar dan met thermometers. In de eerste ronde meten ze gewoon het afkoelen van twee open glazen om te oefenen met temperatuur-tijd metingen. In de tweede ronde isoleren ze een van de glazen hoe ze maar willen en vergelijken ze dat met het ongeïsoleerde glas. In de derde ronde leren ze eerst over energietransport door geleiding, stroming en straling, en herontwerpen ze daarna de isolatie. De derde ronde leverde best goede Joule meters op, goed genoeg om soortelijke warmte experimenten te doen {cite:p}`Berg1987`.
 
 ## Water snel afkoelen
 
@@ -104,15 +106,17 @@ Elke natuurkundeleraar zou standaard een kaars in zijn tas moeten hebben, net al
 a. nog niet aangestoken kaars,\
 b. aangestoken kaars,\
 c. net uitgedoofde kaars.\
-Laat ze nadenken over wat er nu precies brandt en over verdere experimenten om hun uitleg te testen. Bijvoorbeeld: de nog niet aangestoken kaars bestaat uit was en een lont. Kan de was zelf worden aangestoken met een lucifer? (Nee) Wat is de functie van de lont? Kan vloeibare was worden aangestoken met een lucifer? (Nee) Teken een vlam, inclusief de kleuren. Er lijken drie delen te zijn: blauw, grijs-geel en helder geel. Welke vragen kan je daarbij stellen? Zie ook Faradays 1860 mooie en leesbare beschrijving van experimenten met kaarsen in {cite:t}`Hammack2016`.
+Laat ze nadenken over wat er nu precies brandt en over verdere experimenten om hun uitleg te testen. Bijvoorbeeld: de nog niet aangestoken kaars bestaat uit was en een lont. Kan de was zelf worden aangestoken met een lucifer? (Nee) Wat is de functie van de lont? Kan vloeibare was worden aangestoken met een lucifer? (Nee) Teken een vlam, inclusief de kleuren. Er lijken drie delen te zijn: blauw, grijs-geel en helder geel. Welke vragen kun je daarbij stellen? Zie ook Faradays 1860 mooie en leesbare beschrijving van experimenten met kaarsen in {cite:t}`Hammack2016`.
 
 ### Kaars, wat brandt er?
 
-Probeer de vaste was aan te steken, die brandt niet. Kijk naar de gesmolten was, die brandt ook niet. Keer de brandende kaars onderste boven en de vlam dooft uit. De vloeibare was doodt de vlam! Wat is het dan dat brandt? Steek de kaars aan, doof hem uit en houdt snel een aangestoken lucifer ongeveer 5 - 10 cm van de kaars in de wit-achtige rook. Er is weer een vlam! Het was de *damp* van de was die makkelijk kan worden aangestoken. Als de lont wordt aangestoken dan brandt deze, smelt hij de was, verwarmt hij de was totdat de damp omhoog komt langs de lont door de *capillaire werking* en de damp is wat brandt. Er is een kleine afstand tussen de vloeibare was en de onderkant van de vlam, dus de damp brandt een paar millimeter boven de vloeibare was {cite:t}`Hammack2016`.
+Probeer de vaste was aan te steken, die brandt niet. Kijk naar de gesmolten was, die brandt ook niet. Keer de brandende kaars onderste boven en de vlam dooft uit. De vloeibare was doodt de vlam! Wat is het dan dat brandt? Steek de kaars aan, doof hem uit en houdt snel een aangestoken lucifer ongeveer 5 - 10 cm van de kaars in de wit-achtige rook. Er is weer een vlam! Het was de *damp* van de was die makkelijk kan worden aangestoken. Als de lont wordt aangestoken dan brandt deze, smelt hij de was, verwarmt hij de was totdat de damp omhoog komt langs de lont door de *capillaire werking* en de damp is wat brandt. Er is een kleine afstand tussen de vloeibare was en de onderkant van de vlam, dus de damp brandt een paar millimeter boven de vloeibare was [@Hammack2016].
 
 ### Een balancerende kaars
 
-Neem twee kaarsen, plaats ze met de onderkanten tegen elkaar en wikkel er een strip aluminiumfolie of gewoon papier strak omheen (figuur X). Steek daar een naald doorheen als as, ietsje boven het zwaartepunt. Plaats de as op de randen tussen twee glazen. Indien nodig een kaars ietsje uit de huls trekken totdat de kaarsen in evenwicht zijn. Dan beide kaarsen aansteken en we hebben een wip. Leerlingen bedenken een verklaring. De naar beneden wijzende kaars smeld het hardst, totdat deze kaars lichter wordt door het drippen van kaarsvet en naar boven wipt. Dan gaat het proces door aan de andere kant. Kijk ook of the frequentie van de wip verandert. Onderzoekjes zijn mogelijk van basisschool tot universitair niveau. Tjossem, Case en Bas (2019) rapporteerden indrukwekken onderzoek in de American Journal of Physics en uitvoerbaar met relatief simpele middelen (gevonden door Ruud Brouwer).
+Neem twee kaarsen, plaats ze met de onderkanten tegen elkaar en wikkel er een strip aluminiumfolie of gewoon papier strak omheen (PLACEHOLDER FOTO REF). Steek daar een naald doorheen als as, ietsje boven het zwaartepunt. Plaats de as op de randen tussen twee glazen. Indien nodig een kaars ietsje uit de huls trekken totdat de kaarsen in evenwicht zijn. Dan beide kaarsen aansteken en we hebben een wip. Leerlingen bedenken een verklaring. De naar beneden wijzende kaars smeld het hardst, totdat deze kaars lichter wordt door het drippen van kaarsvet en naar boven wipt. Dan gaat het proces door aan de andere kant. Kijk ook of the frequentie van de wip verandert. Onderzoekjes zijn mogelijk van basisschool tot universitair niveau. @tjossem2019candle rapporteerden indrukwekken onderzoek in de American Journal of Physics en uitvoerbaar met relatief simpele middelen (gevonden door Ruud Brouwer).
+
+PLACEHOLDER FOTO
 
 ### Het patroon van de temperatuur van de vlam ontdekken 1
 
@@ -120,11 +124,14 @@ De uiteindes van nog niet brandende luficers kunnen gebruikt worden als temperat
 
 ### Het patroom van de temperatuur van de vlam ontdekken 2
 
-Ontdekken kan ook gedaan worden door de leraar met een papiertje. Houdt een papiertje horizontaal boven de vlam en kijk naar het verbrande patroon. Je kan natuurlijk ook strookjes papier gebruiken voor de vorige demo in plaats van lucifers. De karakteristieke ontbrandingstemperatuur van papier is meestal tussen 200 en 300 {math}`^\circ`C.
+Ontdekken kan ook gedaan worden door de leraar met een papiertje. Houdt een papiertje horizontaal boven de vlam en kijk naar het verbrande patroon. Je kunt natuurlijk ook strookjes papier gebruiken voor de vorige demo in plaats van lucifers. De karakteristieke ontbrandingstemperatuur van papier is meestal tussen 200 en 300 {math}`^\circ`C.
 
 ### De producten van de vlam van een kaars
 
-Wat zijn de producten van de vlammen van een kaars en hoe kan je ze zien? Brandende koolwaterstoffen zouden water en CO{math}`_2` moeten produceren. Waterdamp kan makkelijk gecontroleerd worden. Gebruik een metalen of glazen voorwerp, maak het droog en houdt het in de buurt van de vlam. Er zouden druppels water moeten vormen op het voorwerp. Zie [Faraday](https://engineerguy.com/faraday/pdf/faraday-chemical-history-complete.pdf)\[^Far]. Zie [https://​www​.candles​.org​/candle​-science](https://www.candles.org/candle-science) voor interessante wetenschap die te maken heeft met kaarsen.
+Wat zijn de producten van de vlammen van een kaars en hoe kun je ze zien? Brandende koolwaterstoffen zouden water en CO{math}`_2` moeten produceren. Waterdamp kan makkelijk gecontroleerd worden. Gebruik een metalen of glazen voorwerp, maak het droog en houdt het in de buurt van de vlam. Er zouden druppels water moeten vormen op het voorwerp. Zie [Faraday](https://engineerguy.com/faraday/pdf/faraday-chemical-history-complete.pdf)[^Far]. Zie [https://​www​.candles​.org​/candle​-science](https://www.candles.org/candle-science)[^far2] voor interessante wetenschap die te maken heeft met kaarsen.
+
+[^Far]: https://engineerguy.com/faraday/pdf/faraday-chemical-history-complete.pdf
+[^far2]: https://www.candles.org/candle-science
 
 ### Voorkomen dat zuurstof bij de vlam van een kaars komt
 
@@ -148,12 +155,13 @@ Wat heeft een vlam nodig? Zuurstof en brandstof. Wat zou er gebeuren als er geen
 
 ## Stroming: Theezakjesraket
 
-Haal een theezakje uit de lerarenkamer, maak het open aan twee kanten, haal de thee eruit, en maak van het theezakje een cilinder die je rechtop zet. Zorg dat er niets brandbaars in de buurt is en steek de cilinder aan van de bovenkant. Warme lucht zal naar boven toe bewegen (stroming). Op een gegeven moment zal het niet verbrandde deel van het theezakje licht genoeg zijn om met de lucht mee naar boven te bewegen. Zie {cite}`Liem1987`  voor goede vragen om te stellen en uitleg om te geven. Er zijn veel [filmpjes](https://www.youtube.com/watch?v=z8evo1jr5Nk)\[^FIL].
+Haal een theezakje uit de lerarenkamer, maak het open aan twee kanten, haal de thee eruit, en maak van het theezakje een cilinder die je rechtop zet. Zorg dat er niets brandbaars in de buurt is en steek de cilinder aan van de bovenkant. Warme lucht zal naar boven toe bewegen (stroming). Op een gegeven moment zal het niet verbrandde deel van het theezakje licht genoeg zijn om met de lucht mee naar boven te bewegen. Zie {cite}`Liem1987`  voor goede vragen om te stellen en uitleg om te geven. Er zijn veel [filmpjes](https://www.youtube.com/watch?v=z8evo1jr5Nk)[^FIL].
+[^FIL]: https://www.youtube.com/watch?v=z8evo1jr5Nk
 
 ## Geld overleeft het vuur
 
-Sinds de pandemie hebben mensen vaak kleine flesjes met alcohol in hun tas. Ik heb dit vooral veel gezien in de Filippijnen, daar hadden vrouwen ze zelfs aan hun tas hangen. Dit maakt het beroemde experiment waarin je geld verbrandt mogelijk in een leeg klaslokaal. Neem een glas of beker, voeg een beetje water toe (voordat de leerlingen het lokaal binnen komen), voeg evenveel alcohol toe (wanneer de leerlingen al in het lokaal zijn). Meng de twee vloeistoffen. Een klein beetje zout kan leuk zijn om te zorgen dat de vlam een kleur krijgt.
+Sinds de pandemie hebben mensen vaak kleine flesjes met alcohol in hun tas. Ed heeft dit vooral veel gezien in de Filippijnen, daar hadden vrouwen ze zelfs aan hun tas hangen. Dit maakt het beroemde experiment waarin je geld verbrandt mogelijk in een leeg klaslokaal. Neem een glas of beker, voeg een beetje water toe (voordat de leerlingen het lokaal binnen komen), voeg evenveel alcohol toe (wanneer de leerlingen al in het lokaal zijn). Meng de twee vloeistoffen. Een klein beetje zout kan leuk zijn om te zorgen dat de vlam een kleur krijgt.
 
 *Wie heeft er een briefje geld?* (Of gebruik je eigen geld). Week het briefje in het vloeistofmengsel. Gebruik een pincet, wasknijper, of een geïmproviseerde pincet (twee potloden met het geld ertussen) om het briefje vast te houden en steek het vervolgens aan met een lucifer. Ondanks de vlam zal het geld niet branden. De alcohol brandt, terwijl het water de temperatuur van het papier lager houdt dan 100{math}`^\circ`C tot al het water is verdampt. De 100 {math}`^\circ`C is veel lager dan de ontbrandingstemperatuur van papier, die typisch meer dan 200 {math}`^\circ`C is. In een 50-50 mengsel van alcohol en water zal de ontbrandingstemperatuur niet bereikt worden want niet al het water verdampt. Dit experiment wordt veel spannender als het als een toneelstukje wordt opgevoerd, geld lenen van een leerling kan het spannender maken. Een klein beetje zout verandert de kleur van de vlam van blauw naar oranje doordat daar natrium in zit. Onze huidige briefjes Euros absorberen niet goed, dan maar dollars gebruiken, of gewoon papier.
 
-[^mbvbn]: [https://​www​.youtube​.com​/shorts​/Fnx9Dhpsw1Q](https://www.youtube.com/shorts/Fnx9Dhpsw1Q)
+PLACEHOLDER FOTO
