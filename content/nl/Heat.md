@@ -52,7 +52,7 @@ Neem je hete kopje koffie van de lerarenkamer mee naar de klas. Hoe koelt de kof
 
 ### Geleiding, stroming, straling met een kaars
 
-Steek een kaars aan, nader de vlam van bovenaf. Wat je voelt, is dat warmte van geleiding, stroming, of straling? Nader nu met je hand van opzij, kun je nu dichterbij komen zonder je hand te branden? Wat je voelt, is dat warmte van geleiding, stroming, of straling? Boven de vlam is vooral stroming van hete lucht al zal er ook straling zijn, je kunt die zichtbaar maken door de vlam te projecteren op een scherm (een A4). De vorm van de vlam is ook langgerekt, dat geeft stroming aan. De warmte opzij is vooral afkomstig van straling.
+Steek een kaars aan, nader de vlam van bovenaf. Wat je voelt, is dat warmte van geleiding, stroming, of straling? Nader nu met je hand van opzij, kun je nu dichterbij komen zonder je hand te branden? Wat je voelt, is dat warmte van geleiding, stroming, of straling? Boven de vlam is vooral stroming van hete lucht al zal er ook straling zijn, je kunt die stroming zichtbaar maken door de vlam te projecteren op een scherm (een A4). De vorm van de vlam is ook langgerekt, dat geeft stroming aan. De warmte op enige afstand opzij is vooral afkomstig van straling.
 
 ### Geleiding met een kaars
 
