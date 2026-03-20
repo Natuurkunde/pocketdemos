@@ -124,13 +124,11 @@ Neem twee kaarsen, plaats ze met de onderkanten tegen elkaar en wikkel er een st
 
 PLACEHOLDER FOTO
 
-### Het patroon van de temperatuur van de vlam ontdekken 1
+### Het patroon van de temperatuur van de vlam ontdekken
 
 De uiteindes van nog niet brandende luficers kunnen gebruikt worden als temperatuursensoren. Als je ze langzaam steeds dichter bij een vlam houdt, zullen ze op een bepaalde afstand in brand vliegen. Dat is de afstand waar de termperatuur hetzelfde is als de ontstekingstemperatuur van het materiaal op het uiteinde van de lucifer. Probeer dit op verschillende plekken rond de vlam en je krijgt een “isotherm” van de ontstekingstemperatuur rond de vlam. Aan de onderkant van de vlam kan je redelijk dichtbij komen met een lucifer. Aan de bovenkant van de vlam ontsteekt de lucifer al bij een veel grotere afstand. Leg uit! {cite:p}`Liem1987`.
 
-### Het patroom van de temperatuur van de vlam ontdekken 2
-
-Ontdekken kan ook gedaan worden door de leraar met een papiertje. Houdt een papiertje horizontaal boven de vlam en kijk naar het verbrande patroon. Je kunt natuurlijk ook strookjes papier gebruiken voor de vorige demo in plaats van lucifers. De karakteristieke ontbrandingstemperatuur van papier is meestal tussen 200 en 300 {math}`^\circ`C.
+###
 
 ### De producten van de vlam van een kaars
 
