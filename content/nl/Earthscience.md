@@ -1,4 +1,3 @@
-+++
 # Geowetenschappen
 
 Rollenspelen werken goed in het inzichtelijk maken van de onderlinge beweging van aarde, maan, zon, en sterren {cite:p}`Berg2000b`. Je kunt ze klassikaal doen, dan denk je als docent dat alles glashelder wordt. Je kunt ook een klassikale demonstratie voortzetten met enkele deelopdrachten in kleine groepjes en dan zal blijken dat toch nog niet alles begrepen was. Dus enkele voorbeelden klassikaal voordoen, en dan deelopdrachten laten doen in groepjes. Dit laatste heeft ruimte nodig, bijvoorbeeld op de gang of op het schoolplein, of een extra groot lokaal. Heeft dit nog voordelen in een tijd van computersimulaties? Jazeker, het heen-en-weer denken tussen verschillende representaties helpt bij begripsvorming en elke representatie heeft zijn eigen sterke en zwakke punten en spreekt een deel van de leerlingen populatie aan.
@@ -9,7 +8,7 @@ De tafel of de docent wordt de Zon, een leerling is de Aarde. Al roterend loopt 
 
 ## Rotatie van de zon visualiseren
 
-Terwijl de aarde om de zon gaat, roteert de docent (zon) ook een beetje, zeg 12x per jaar of zoiets. We weten dit van de “beweging van zonnevlekken. De periode van de rotatie blijkt afhankelijk van de breedtegraad. Bij de evenaar van de zon is de periode bijna 26 dagen terwijl op de 75ste breedtegraad de periode ruim 33 dagen is. Je zou het andersom verwachten bij een gasbol. Men is nog steeds op zoek naar de oorzaak (Wikipedia).
+Terwijl de aarde om de zon gaat, roteert de docent (zon) ook een beetje, zeg 12x per jaar of zoiets. We weten dit van de beweging van zonnevlekken. De periode van de rotatie blijkt afhankelijk van de breedtegraad. Bij de evenaar van de zon is de periode bijna 26 dagen terwijl op de 75ste breedtegraad de periode ruim 33 dagen is. Je zou het andersom verwachten bij een gasbol. Men is nog steeds op zoek naar de oorzaak (Wikipedia).
 
 ## Beweging van de maan visualiseren
 
@@ -17,11 +16,13 @@ Nu kun je een leerling toevoegen (Maan), die tijdens de omloop om de Zon rond de
 
 ## Rotatie van de maan visualiseren
 
-De docent fungeert als Aarde. Een leerling (Maan) beweegt er omheen, altijd met het gezicht (zelfde kant van de maan) naar Aarde gericht. Tijdens 1 rondgang om de aarde draait de maan dus 1x om z’n as. Je moet dit zien om te snappen wat dat betekent. Laat leerlingen kijken naar een zin in het leerboek over maanrotatie en dit dan vertalen in een bewegingsvoorschrift voor het rollenspel. Wat moet de maan doen?
+De docent fungeert als Aarde. Een leerling (Maan) beweegt er omheen, altijd met het gezicht (zelfde kant van de maan) naar Aarde gericht. Tijdens één rondgang om de aarde draait de maan dus 1x om z’n as. Je moet dit zien om te snappen wat dat betekent. Laat leerlingen kijken naar een zin in het leerboek over maanrotatie en dit dan vertalen in een bewegingsvoorschrift voor het rollenspel. Wat moet de maan doen?
 
 ## Visualisatie van seizoenen
 
-Visualisatie van de seizoenen: het hoofd van de docent wordt de Zon, de ballon (eventueel met de breinaald als as) wordt de Aarde. Trek met een viltstift een lijn om het midden van de ballon, de evenaar. Schrijf en N en een Z voor Noordelijk een Zuidelijk halfrond (figuur X). Laat de ballon een cirkelbaan afleggen rond de Zon (het hoofd van de docent). De as van de ballon staat niet loodrecht op het vlak van Aarde en Zon, maar onder een hoek (van 23,5 graden) en die as blijft gedurende de hele jaarlijkse baan precies dezelfde kant op wijzen, naar de poolster heel ver weg. In maart en september worden N en Z gelijk verlicht, het licht van de Zon valt loodrecht op de evenaar. Maar in juni wijst N naar de Zon en kun je de ballon roteren om zijn as, maar op elk moment van de dag valt er licht op de Noordpool. Het punt waar lichtstralen loodrecht op het aardoppervlak vallen is de noordelijke keerkring op 23,5 graden boven de evenaar. Omgekeerd in december. Waarom is het in de zomer warmer? Langere dag en de Zon staat hoger aan de hemel en geeft dan meer energie per m2. Het laatste is gemakkelijk te illustreren met een zaklantaarn of het lampje van een mobiele telefoon. Als je die schuin houdt (vergeleken met loodrecht op het papier), wordt de energie over een veel groter oppervlak verdeeld en is de reflectie minder fel. Het uitleggen in woorden is ingewikkeld en lastig lezen voor leerlingen, met de beelden van de ballon erbij, wordt de uitleg veel beter en sneller begrepen.
+Visualisatie van de seizoenen: het hoofd van de docent wordt de Zon, de ballon (eventueel met de breinaald als as) wordt de Aarde. Trek met een viltstift een lijn om het midden van de ballon, de evenaar. Schrijf eEn N en een Z voor Noordelijk een Zuidelijk halfrond (PLACEHOLDER FIGUUR REF). Laat de ballon een cirkelbaan afleggen rond de Zon (het hoofd van de docent). De as van de ballon staat niet loodrecht op het vlak van Aarde en Zon, maar onder een hoek (van 23,5 graden) en die as blijft gedurende de hele jaarlijkse baan precies dezelfde kant op wijzen, naar de poolster heel ver weg. In maart en september worden N en Z gelijk verlicht, het licht van de Zon valt loodrecht op de evenaar. Maar in juni wijst N naar de Zon en kun je de ballon roteren om zijn as, maar op elk moment van de dag valt er licht op de Noordpool. Het punt waar lichtstralen loodrecht op het aardoppervlak vallen is de noordelijke keerkring op 23,5 graden boven de evenaar. Omgekeerd in december. Waarom is het in de zomer warmer? Langere dag en de Zon staat hoger aan de hemel en geeft dan meer energie per m$^2$. Het laatste is gemakkelijk te illustreren met een zaklantaarn of het lampje van een mobiele telefoon. Als je die schuin houdt (vergeleken met loodrecht op het papier), wordt de energie over een veel groter oppervlak verdeeld en is de reflectie minder fel. Het uitleggen in woorden is ingewikkeld en lastig lezen voor leerlingen, met de beelden van de ballon erbij, wordt de uitleg veel beter en sneller begrepen.
+
+PLACEHOLDER FOTO
 
 ## Siderische versus synodische maand
 
@@ -29,7 +30,9 @@ Met dezelfde ballon kun je het verschil uitleggen tussen een siderische (t.o.v. 
 
 ## Parallax als afstandmeting
 
-Zelfde opstelling als bij de baan van aarde rond de zon. Kies een leerling op de voorste rij als nabije ster. Kies een leerling op de achterste rij als een verre ster. Kies nu twee posities van aarde 6 maanden van elkaar en vergelijk de hoek tussen de richtingen waarin je de ster van de twee posities ziet. Hoe verder weg de ster, hoe kleiner de hoek. Een waslijn of ander stuk touw helpt om de hoeken zichtbaar te maken (figuur X).
+Zelfde opstelling als bij de baan van aarde rond de zon. Kies een leerling op de voorste rij als nabije ster. Kies een leerling op de achterste rij als een verre ster. Kies nu twee posities van aarde 6 maanden van elkaar en vergelijk de hoek tussen de richtingen waarin je de ster van de twee posities ziet. Hoe verder weg de ster, hoe kleiner de hoek. Een waslijn of ander stuk touw helpt om de hoeken zichtbaar te maken (PLACEHOLDER FIGUUR REF).
+
+PLACEHOLDER FIGUUR
 
 ## Schijnbare beweging van sterren in de loop van het jaar
 
@@ -37,7 +40,7 @@ Weer dezelfde opstelling. Terwijl de aarde haar baan om de zon aflegt, varieert 
 
 ## Komeet
 
-De zon is een lamp op tafel of een persoon in het midden van de klas. Er komt een komeet aan uit een willekeurige richting. Wat gebeurt er met de snelheid en richting van de komeet in de buurt van de zon? Laat andere leerlingen instructies geven aan de komeet hoe die moet versnellen/vertragen en/of van richting veranderen {cite:p}`showdefysica1`. Zou de komeet voor de zon langs kunnen gaan in plaats van er achterlangs? Waarom wel/niet?
+De zon is een lamp op tafel of een persoon in het midden van de klas. Er komt een komeet aan uit een willekeurige richting. Wat gebeurt er met de snelheid en richting van de komeet in de buurt van de zon? Laat andere leerlingen instructies geven aan de komeet hoe die moet versnellen/vertragen en/of van richting moet veranderen {cite:p}`showdefysica1`. Zou de komeet voor de zon langs kunnen gaan in plaats van er achterlangs? Waarom wel/niet?
 
 ## Komeetinslag
 
@@ -47,7 +50,7 @@ Leg een hoopje zand, of bloem op een tafel. Laat een kogel, stuiterbal, of pingp
 
 ### Botsing tussen twee dunne oceaanplaten
 
-De platen zijn dun, dus de ene plaat schuift makkelijk onder de andere plaat. Gebruik twee dunne boeken en laat die langzaam botsen met de ruggen tegen elkaar, een van de boeken schuift makkelijk onder de ander. De wrijving van echt tectonische platen wekt hitte op wat zorgt voor vulkanische eilanden.
+De platen zijn dun, dus de ene plaat schuift makkelijk onder de andere plaat. Gebruik twee dunne boeken en laat die langzaam botsen met de ruggen tegen elkaar, een van de boeken schuift makkelijk onder de ander. De wrijving van echte tectonische platen wekt hitte op wat zorgt voor vulkanische eilanden.
 
 ### Botsing tussen een dunne oceaanplaat en een dikke continentale plaat
 
@@ -55,7 +58,7 @@ Neem een dun en een dik boek en laat de ruggen langzaam botsen. Oceaanplaten heb
 
 ### Met eilanden; aanslibbing
 
-Neem nu het dunne boek (oceaanplaat) met iets erop (een suikerklontje of iets dergelijks). Het dukke boek met hogere dichtheid schuift onder het dikke boek met lagere dichtheid (continentale plaat), maar het suikerklontje (net als een eiland) slibt aan bij de kust van de continentale plaat. Zulke aangeslibde voormalige eilanden hebben andere steensoorten dan het continent zelf. Voorbeelden zijn o.a. te vinden bij de westkust van Canada.
+Neem nu het dunne boek (oceaanplaat) met iets erop (een suikerklontje of iets dergelijks). Het dikke boek met hogere dichtheid schuift onder het dikke boek met lagere dichtheid (continentale plaat), maar het suikerklontje (net als een eiland) slibt aan bij de kust van de continentale plaat. Zulke aangeslibde voormalige eilanden hebben andere steensoorten dan het continent zelf. Voorbeelden zijn o.a. te vinden bij de westkust van Canada.
 
 ### Botsing tussen twee dikke continentale platen
 
