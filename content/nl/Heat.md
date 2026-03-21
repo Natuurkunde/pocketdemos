@@ -128,8 +128,6 @@ PLACEHOLDER FOTO
 
 De uiteindes van nog niet brandende luficers kunnen gebruikt worden als temperatuursensoren. Als je ze langzaam steeds dichter bij een vlam houdt, zullen ze op een bepaalde afstand in brand vliegen. Dat is de afstand waar de termperatuur hetzelfde is als de ontstekingstemperatuur van het materiaal op het uiteinde van de lucifer. Probeer dit op verschillende plekken rond de vlam en je krijgt een “isotherm” van de ontstekingstemperatuur rond de vlam. Aan de onderkant van de vlam kan je redelijk dichtbij komen met een lucifer. Aan de bovenkant van de vlam ontsteekt de lucifer al bij een veel grotere afstand. Leg uit! {cite:p}`Liem1987`.
 
-###
-
 ### De producten van de vlam van een kaars
 
 Wat zijn de producten van de vlammen van een kaars en hoe kun je ze zien? Brandende koolwaterstoffen zouden water en CO{math}`_2` moeten produceren. Waterdamp kan makkelijk gecontroleerd worden. Gebruik een metalen of glazen voorwerp, maak het droog en houdt het in de buurt van de vlam. Er zouden druppels water moeten vormen op het voorwerp. Zie [Faraday](https://engineerguy.com/faraday/pdf/faraday-chemical-history-complete.pdf)[^Far]. Zie [https://​www​.candles​.org​/candle​-science](https://www.candles.org/candle-science)[^far2] voor interessante wetenschap die te maken heeft met kaarsen.
