@@ -118,11 +118,15 @@ PLACEHOLDER FOTO
 
 ### Het patroon van de temperatuur van de vlam ontdekken
 
-De uiteindes van nog niet brandende luficers kunnen gebruikt worden als temperatuursensoren. Als je ze langzaam steeds dichter bij een vlam houdt, zullen ze op een bepaalde afstand in brand vliegen. Dat is de afstand waar de termperatuur hetzelfde is als de ontstekingstemperatuur van het materiaal op het uiteinde van de lucifer. Probeer dit op verschillende plekken rond de vlam en je krijgt een “isotherm” van de ontstekingstemperatuur rond de vlam. Aan de onderkant van de vlam kan je redelijk dichtbij komen met een lucifer. Aan de bovenkant van de vlam ontsteekt de lucifer al bij een veel grotere afstand. Leg uit! {cite:p}`Liem1987`.
+De uiteinden van nog niet brandende luficers kunnen gebruikt worden als temperatuursensoren. Als je ze langzaam steeds dichter bij een vlam houdt, zullen ze op een bepaalde afstand in brand vliegen. Dat is de afstand waar de termperatuur hetzelfde is als de ontstekingstemperatuur van het materiaal op het uiteinde van de lucifer. Probeer dit op verschillende plekken rond de vlam en je krijgt een “isotherm” van de ontstekingstemperatuur rond de vlam. Aan de onderkant van de vlam kan je redelijk dichtbij komen met een lucifer. Aan de bovenkant van de vlam ontsteekt de lucifer al bij een veel grotere afstand. Leg uit! {cite:p}`Liem1987`.
 
 ### De producten van de vlam van een kaars
 
 Wat zijn de producten van de vlammen van een kaars en hoe kun je ze zien? Brandende koolwaterstoffen zouden water en CO{math}`_2` moeten produceren. Waterdamp kan makkelijk gecontroleerd worden. Gebruik een metalen of glazen voorwerp, maak het droog en houdt het in de buurt van de vlam. Er zouden druppels water moeten vormen op het voorwerp. Zie [Faraday](https://engineerguy.com/faraday/pdf/faraday-chemical-history-complete.pdf)\[^Far]. Zie [https://​www​.candles​.org​/candle​-science](https://www.candles.org/candle-science)[^far2] voor interessante wetenschap die te maken heeft met kaarsen.
+
+### Roetvorming, gloeien versus branden
+
+Waar zit het roet in een kaarsvlam? Verken dit met een muntje dat je in de vlam houdt met een wasknijper of tang. Het gele deel van de vlam, dat is waar het roet zit. Je kunt ook een indexkaart nemen en die snel dwars op de vlam insteken, even stil in de vlam houden, en dan snel er weer uit halen. De kaart laat een ring van roet zien (even oefenen). Roet zit in het gele deel van de vlam. Volgens Faraday is het gloeiende roet die de gele kleur geeft. Hij liet dit ook zien met een brander, die heeft een gele vlam (onvolledige verbranding) die blauw wordt als er meer lucht of zuurstof wordt toegevoerd. Faraday benadrukte ook het verschil tussen gloeien (fysisch) en verbranden (een chemisch proces).
 
 ### Voorkomen dat zuurstof bij de vlam van een kaars komt
 
