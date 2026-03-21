@@ -106,9 +106,9 @@ b. aangestoken kaars,\
 c. net uitgedoofde kaars.\
 Laat ze nadenken over wat er nu precies brandt en over verdere experimenten om hun uitleg te testen. Bijvoorbeeld: de nog niet aangestoken kaars bestaat uit was en een lont. Kan de was zelf worden aangestoken met een lucifer? (Nee) Wat is de functie van de lont? Kan vloeibare was worden aangestoken met een lucifer? (Nee) Teken een vlam, inclusief de kleuren. Er lijken drie delen te zijn: blauw, grijs-geel en helder geel. Welke vragen kun je daarbij stellen? Zie ook Faradays 1860 mooie en leesbare beschrijving van experimenten met kaarsen in {cite:t}`Hammack2016`.
 
-### Kaars, wat brandt er?
+### Kaars, wat brandt er? Gedoofde kaars op afstand aansteken.
 
-Probeer de vaste was aan te steken, die brandt niet. Kijk naar de gesmolten was, die brandt ook niet. Keer de brandende kaars onderste boven en de vlam dooft uit. De vloeibare was doodt de vlam! Wat is het dan dat brandt? Steek de kaars aan, doof hem uit en houdt snel een aangestoken lucifer ongeveer 5 - 10 cm van de kaars in de wit-achtige rook. Er is weer een vlam! Het was de *damp* van de was die makkelijk kan worden aangestoken. Als de lont wordt aangestoken dan brandt deze, smelt hij de was, verwarmt hij de was totdat de damp omhoog komt langs de lont door de *capillaire werking* en de damp is wat brandt. Er is een kleine afstand tussen de vloeibare was en de onderkant van de vlam, dus de damp brandt een paar millimeter boven de vloeibare was {cite:p}`Hammack2016`.
+Probeer de vaste was aan te steken, die brandt niet. Kijk naar de gesmolten was, die brandt ook niet. Keer de brandende kaars onderste boven en de vlam gaat uit, de drippende vloeibare was dooft de vlam! Wat is het dan dat brandt? Steek de kaars aan, doof hem uit en houdt snel een aangestoken lucifer ongeveer 5 - 10 cm van de kaars in de wit-achtige rook. Er is weer een vlam! Het was de *damp* van de was die makkelijk kan worden aangestoken. Als de lont wordt aangestoken dan brandt deze, smelt hij de was, verwarmt hij de was totdat de damp omhoog komt langs de lont door de *capillaire werking* en de damp is wat brandt. Er is een kleine afstand tussen de vloeibare was en de onderkant van de vlam, dus de damp brandt een paar millimeter boven de vloeibare was {cite:p}`Hammack2016`.
 
 ### Een kaarsenwip
 
