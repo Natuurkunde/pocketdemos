@@ -9,26 +9,18 @@ Sommige lokalen hebben warm en koud water. Als dat er niet is, even een leerling
 
 Je hebt twee halfvolle glazen water elk op de omgevingstemperatuur van 20 {math}`^\circ`C Nu giet je ze bij elkaar, de temperatuur wordt dan 20 {math}`^\circ`C, 40 {math}`^\circ`C, of iets minder dan 40 {math}`^\circ`C? Er zijn leerlingen die kiezen voor die 40 {math}`^o`C en die temperaturen optellen. Misschien toch even goed om die leerlingen te confronteren. Als temperaturen optelbaar waren, dan zou je water kunnen koken door 5 glazen van 20 {math}`^\circ`C bij elkaar te doen. Koken zonder energie! Deze demo kan ook een startpunt zijn voor discussie van intensieve en extensieve grootheden.
 
-
-
 **Vraag 1:** Ik heb 2 glazen water van de kraan, beide met een temperatuur van 20 {math}`^{\circ}`C. Als ik ze bij elkaar giet, wat is dan de temperatuur?\
 A. 20 {math}`^{\circ}`C\
 B. 40 {math}`^{\circ}`C\
 C. een klein beetje minder dan 40 {math}`^{\circ}`C?
 
-
-
 Laat de leerlingen blind stemmen (leerlingen doen hun ogen dicht en stemmen met een vinger op optie A, twee vingers op optie B en drie vingers op optie C). Je kunt de uitkomst laten controleren door een leerling een vinger in het enkele glas te steken en in het bakje met de inhoud van de twee glazen bij elkaar. Je kunt eventueel ook een vraaag stellen over water in een glas dat je verdeelt over twee andere glazen, wordt de temperatuur dan de helft? Nee toch!
-
-
 
 **Vraag 2:** We hebben een metalen staaf die we in twee stukken snijden, X en Y. Het volume van X is twee keer zo veel als het volume van Y. De relatie tussen de dichtheden {math}`ρ_x` van {math}`X` en {math}`ρ_y` van {math}`Y` is:
 
 A.  {math}`ρ_x = 2ρ_y`\
 B.  {math}`ρ_x = ρ_y`\
 C.  {math}`ρ_x = 1/2 ρ_y`
-
-
 
 Dit zullen best veel leerlingen fout hebben. Je kunt vergelijkbare vragen  stellen over andere materiële eigenschappen, zoals soortelijke warmte en soortelijke weerstand. Welke natuurkundige eigenschappen kan je optellen? Massa, gewicht en volume (extensieve eigenschappen, afhankelijk van hoeveelheid). Welke eigenschappen kan je niet optellen? Temperatuur, dichtheid, materiële eigenschappen (intensieve eigenschappen, niet afhankelijk van hoeveelheid)?
 
@@ -118,9 +110,9 @@ Laat ze nadenken over wat er nu precies brandt en over verdere experimenten om h
 
 Probeer de vaste was aan te steken, die brandt niet. Kijk naar de gesmolten was, die brandt ook niet. Keer de brandende kaars onderste boven en de vlam dooft uit. De vloeibare was doodt de vlam! Wat is het dan dat brandt? Steek de kaars aan, doof hem uit en houdt snel een aangestoken lucifer ongeveer 5 - 10 cm van de kaars in de wit-achtige rook. Er is weer een vlam! Het was de *damp* van de was die makkelijk kan worden aangestoken. Als de lont wordt aangestoken dan brandt deze, smelt hij de was, verwarmt hij de was totdat de damp omhoog komt langs de lont door de *capillaire werking* en de damp is wat brandt. Er is een kleine afstand tussen de vloeibare was en de onderkant van de vlam, dus de damp brandt een paar millimeter boven de vloeibare was {cite:p}`Hammack2016`.
 
-### Een balancerende kaars
+### Een kaarsenwip
 
-Neem twee kaarsen, plaats ze met de onderkanten tegen elkaar en wikkel er een strip aluminiumfolie of gewoon papier strak omheen (PLACEHOLDER FOTO REF). Steek daar een naald doorheen als as, ietsje boven het zwaartepunt. Plaats de as op de randen tussen twee glazen. Indien nodig een kaars ietsje uit de huls trekken totdat de kaarsen in evenwicht zijn. Dan beide kaarsen aansteken en we hebben een wip. Leerlingen bedenken een verklaring. De naar beneden wijzende kaars smeld het hardst, totdat deze kaars lichter wordt door het drippen van kaarsvet en naar boven wipt. Dan gaat het proces door aan de andere kant. Kijk ook of the frequentie van de wip verandert. Onderzoekjes zijn mogelijk van basisschool tot universitair niveau. {cite}`tjossem2019candle` rapporteerden indrukwekken onderzoek in de American Journal of Physics en uitvoerbaar met relatief simpele middelen (gevonden door Ruud Brouwer).
+Neem twee kaarsen, plaats ze met de onderkanten tegen elkaar en wikkel er een strip aluminiumfolie of gewoon papier strak omheen (PLACEHOLDER FOTO REF). Steek daar een naald doorheen als as, ietsje boven het zwaartepunt. Plaats de as op de randen tussen twee glazen. Indien nodig een kaars ietsje uit de huls trekken totdat de kaarsen in evenwicht zijn. Dan beide kaarsen aansteken en we hebben een wip. Leerlingen bedenken een verklaring. De naar beneden wijzende kaars smelt het hardst, totdat deze kaars lichter wordt door het drippen van kaarsvet en naar boven wipt. Dan gaat het proces door aan de andere kant. Kijk ook of the frequentie van de wip verandert. Onderzoekjes zijn mogelijk van basisschool tot universitair niveau. {cite}`tjossem2019candle` rapporteerden indrukwekken onderzoek in de American Journal of Physics en uitvoerbaar met relatief simpele middelen (gevonden door Ruud Brouwer).
 
 PLACEHOLDER FOTO
 
@@ -130,7 +122,7 @@ De uiteindes van nog niet brandende luficers kunnen gebruikt worden als temperat
 
 ### De producten van de vlam van een kaars
 
-Wat zijn de producten van de vlammen van een kaars en hoe kun je ze zien? Brandende koolwaterstoffen zouden water en CO{math}`_2` moeten produceren. Waterdamp kan makkelijk gecontroleerd worden. Gebruik een metalen of glazen voorwerp, maak het droog en houdt het in de buurt van de vlam. Er zouden druppels water moeten vormen op het voorwerp. Zie [Faraday](https://engineerguy.com/faraday/pdf/faraday-chemical-history-complete.pdf)[^Far]. Zie [https://​www​.candles​.org​/candle​-science](https://www.candles.org/candle-science)[^far2] voor interessante wetenschap die te maken heeft met kaarsen.
+Wat zijn de producten van de vlammen van een kaars en hoe kun je ze zien? Brandende koolwaterstoffen zouden water en CO{math}`_2` moeten produceren. Waterdamp kan makkelijk gecontroleerd worden. Gebruik een metalen of glazen voorwerp, maak het droog en houdt het in de buurt van de vlam. Er zouden druppels water moeten vormen op het voorwerp. Zie [Faraday](https://engineerguy.com/faraday/pdf/faraday-chemical-history-complete.pdf)\[^Far]. Zie [https://​www​.candles​.org​/candle​-science](https://www.candles.org/candle-science)[^far2] voor interessante wetenschap die te maken heeft met kaarsen.
 
 ### Voorkomen dat zuurstof bij de vlam van een kaars komt
 
@@ -154,7 +146,7 @@ Wat heeft een vlam nodig? Zuurstof en brandstof. Wat zou er gebeuren als er geen
 
 ## Stroming: Theezakjesraket
 
-Haal een theezakje uit de lerarenkamer, maak het open aan twee kanten, haal de thee eruit, en maak van het theezakje een cilinder die je rechtop zet. Zorg dat er niets brandbaars in de buurt is en steek de cilinder aan van de bovenkant. Warme lucht zal naar boven toe bewegen (stroming). Op een gegeven moment zal het niet verbrandde deel van het theezakje licht genoeg zijn om met de lucht mee naar boven te bewegen. Zie {cite}`Liem1987`  voor goede vragen om te stellen en uitleg om te geven. Er zijn veel [filmpjes](https://www.youtube.com/watch?v=z8evo1jr5Nk)[^FIL].
+Haal een theezakje uit de lerarenkamer, maak het open aan twee kanten, haal de thee eruit, en maak van het theezakje een cilinder die je rechtop zet. Zorg dat er niets brandbaars in de buurt is en steek de cilinder aan van de bovenkant. Warme lucht zal naar boven toe bewegen (stroming). Op een gegeven moment zal het niet verbrandde deel van het theezakje licht genoeg zijn om met de lucht mee naar boven te bewegen. Zie {cite}`Liem1987`  voor goede vragen om te stellen en uitleg om te geven. Er zijn veel [filmpjes](https://www.youtube.com/watch?v=z8evo1jr5Nk)\[^FIL].
 
 ## Geld overleeft het vuur
 
@@ -166,8 +158,4 @@ PLACEHOLDER FOTO
 
 [^mbvbn]: [https://​www​.youtube​.com​/shorts​/Fnx9Dhpsw1Q](https://www.youtube.com/shorts/Fnx9Dhpsw1Q)
 
-[^far]: [https://​engineerguy​.com​/faraday​/pdf​/faraday​-chemical​-history​-complete​.pdf](https://engineerguy.com/faraday/pdf/faraday-chemical-history-complete.pdf)
-
 [^far2]: [https://​www​.candles​.org​/candle​-science](https://www.candles.org/candle-science)
-
-[^fil]: [https://​www​.youtube​.com​/watch​?v​=​z8evo1jr5Nk](https://www.youtube.com/watch?v=z8evo1jr5Nk)
