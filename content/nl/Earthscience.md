@@ -1,5 +1,5 @@
 +++
-# Geowetenschappen
+# Visualisaties in Geowetenschappen
 
 Rollenspelen werken goed in het inzichtelijk maken van de onderlinge beweging van aarde, maan, zon, en sterren {cite:p}`Berg2000b`. Je kunt ze klassikaal doen, dan denk je als docent dat alles glashelder wordt. Je kunt ook een klassikale demonstratie voortzetten met enkele deelopdrachten in kleine groepjes en dan zal blijken dat toch nog niet alles begrepen was. Dus enkele voorbeelden klassikaal voordoen, en dan deelopdrachten laten doen in groepjes. Dit laatste heeft ruimte nodig, bijvoorbeeld op de gang of op het schoolplein, of een extra groot lokaal. Heeft dit nog voordelen in een tijd van computersimulaties? Jazeker, het heen-en-weer denken tussen verschillende representaties helpt bij begripsvorming en elke representatie heeft zijn eigen sterke en zwakke punten en spreekt een deel van de leerlingen populatie aan.
 
