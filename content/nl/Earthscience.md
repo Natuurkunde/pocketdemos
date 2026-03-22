@@ -55,7 +55,7 @@ De oceaanplaten zijn dun, dus de ene plaat schuift makkelijk onder de andere pla
 
 ### Botsing tussen een dunne oceaanplaat en een dikke continentale plaat
 
-Neem een dun en een dik boek en laat de ruggen langzaam botsen. Oceaanplaten hebben een hogere dichtheid, dus stel voor dat het dunne boek een hogere dichtheid heeft. Het dunne boek schuift onder het dikke boek. De wrijving van de echte platen wekt veel hitte op. Dit is de oorzaak van het vulcanisme van o.a. het Andesgebergte in Zuid-Amerika, het Cascadesgebergte in Noord-Amerika en de vulkanen langs de randen van Sumatra en Java in Indonesië.
+Neem een dun en een dik boek en laat de ruggen langzaam botsen. Oceaanplaten hebben een hogere dichtheid, dus stel voor dat het dunne boek een hogere dichtheid heeft. Het dunne boek schuift onder het dikke boek. De wrijving van de echte platen wekt veel hitte op. Dit is de oorzaak van het vulkanisme van o.a. het Andesgebergte in Zuid-Amerika, het Cascadesgebergte in Noord-Amerika en de vulkanen langs de randen van Sumatra en Java in Indonesië.
 
 ### Met eilanden; aanslibbing
 
