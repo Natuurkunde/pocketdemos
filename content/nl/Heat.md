@@ -9,26 +9,18 @@ Sommige lokalen hebben warm en koud water. Als dat er niet is, even een leerling
 
 Je hebt twee halfvolle glazen water elk op de omgevingstemperatuur van 20 {math}`^\circ`C Nu giet je ze bij elkaar, de temperatuur wordt dan 20 {math}`^\circ`C, 40 {math}`^\circ`C, of iets minder dan 40 {math}`^\circ`C? Er zijn leerlingen die kiezen voor die 40 {math}`^o`C en die temperaturen optellen. Misschien toch even goed om die leerlingen te confronteren. Als temperaturen optelbaar waren, dan zou je water kunnen koken door 5 glazen van 20 {math}`^\circ`C bij elkaar te doen. Koken zonder energie! Deze demo kan ook een startpunt zijn voor discussie van intensieve en extensieve grootheden.
 
-
-
 **Vraag 1:** Ik heb 2 glazen water van de kraan, beide met een temperatuur van 20 {math}`^{\circ}`C. Als ik ze bij elkaar giet, wat is dan de temperatuur?\
 A. 20 {math}`^{\circ}`C\
 B. 40 {math}`^{\circ}`C\
 C. een klein beetje minder dan 40 {math}`^{\circ}`C?
 
-
-
 Laat de leerlingen blind stemmen (leerlingen doen hun ogen dicht en stemmen met een vinger op optie A, twee vingers op optie B en drie vingers op optie C). Je kunt de uitkomst laten controleren door een leerling een vinger in het enkele glas te steken en in het bakje met de inhoud van de twee glazen bij elkaar. Je kunt eventueel ook een vraaag stellen over water in een glas dat je verdeelt over twee andere glazen, wordt de temperatuur dan de helft? Nee toch!
-
-
 
 **Vraag 2:** We hebben een metalen staaf die we in twee stukken snijden, X en Y. Het volume van X is twee keer zo veel als het volume van Y. De relatie tussen de dichtheden {math}`ρ_x` van {math}`X` en {math}`ρ_y` van {math}`Y` is:
 
 A.  {math}`ρ_x = 2ρ_y`\
 B.  {math}`ρ_x = ρ_y`\
 C.  {math}`ρ_x = 1/2 ρ_y`
-
-
 
 Dit zullen best veel leerlingen fout hebben. Je kunt vergelijkbare vragen  stellen over andere materiële eigenschappen, zoals soortelijke warmte en soortelijke weerstand. Welke natuurkundige eigenschappen kan je optellen? Massa, gewicht en volume (extensieve eigenschappen, afhankelijk van hoeveelheid). Welke eigenschappen kan je niet optellen? Temperatuur, dichtheid, materiële eigenschappen (intensieve eigenschappen, niet afhankelijk van hoeveelheid)?
 
@@ -48,7 +40,7 @@ Wat zijn de warmste plekken van ons lichaam? Wat de koudste, bijvoorbeeld ’s w
 
 ### Energietransport: geleiding, stroming, straling
 
-Neem je hete kopje koffie van de lerarenkamer mee naar de klas. Hoe koelt de koffie af? *Wat is geleiding? Hoe kan ik dat voelen?* Raak de zijkant van het kopje aan. *Wat is stroming? Hoe kan ik dat voelen?* Houd je hand boven het kopje. *En hoe zit dat met verdamping? Hoe kan ik dat laten zien?* Houd een koud voorwerp (zoals een schoteltje) recht boven het kopje en er zullen druppels vormen onder het schoteltje, doordat de verdampte koffie condenseert op het koudere voorwerp. *Wat is straling? Hoe kan ik dat voelen?* Houd je hand een een paar centimeter naast het kopje, of zelfs beter, leen een waterkoker van de personeelskamer of kantine, of gebruik een brandende kaars.
+Neem je hete kopje koffie van de lerarenkamer mee naar de klas. Hoe koelt de koffie af? *Wat is geleiding? Hoe kan ik dat voelen?* Raak de zijkant van het kopje aan. *Wat is stroming? Hoe kan ik dat voelen?* Houd je hand boven het kopje. *En hoe zit dat met verdamping? Hoe kan ik dat laten zien?* Houd een koud voorwerp (zoals een schoteltje) recht boven het kopje en er zullen druppels vormen onder het schoteltje, doordat de verdampte koffie condenseert op het koudere voorwerp. *Wat is straling? Hoe kan ik dat voelen?* Houd je hand een paar centimeter naast het kopje, of zelfs beter, leen een waterkoker van de personeelskamer of kantine, of gebruik een brandende kaars.
 
 ### Geleiding, stroming, straling met een kaars
 
@@ -114,23 +106,27 @@ b. aangestoken kaars,\
 c. net uitgedoofde kaars.\
 Laat ze nadenken over wat er nu precies brandt en over verdere experimenten om hun uitleg te testen. Bijvoorbeeld: de nog niet aangestoken kaars bestaat uit was en een lont. Kan de was zelf worden aangestoken met een lucifer? (Nee) Wat is de functie van de lont? Kan vloeibare was worden aangestoken met een lucifer? (Nee) Teken een vlam, inclusief de kleuren. Er lijken drie delen te zijn: blauw, grijs-geel en helder geel. Welke vragen kun je daarbij stellen? Zie ook Faradays 1860 mooie en leesbare beschrijving van experimenten met kaarsen in {cite:t}`Hammack2016`.
 
-### Kaars, wat brandt er?
+### Kaars, wat brandt er? Gedoofde kaars op afstand aansteken.
 
-Probeer de vaste was aan te steken, die brandt niet. Kijk naar de gesmolten was, die brandt ook niet. Keer de brandende kaars onderste boven en de vlam dooft uit. De vloeibare was doodt de vlam! Wat is het dan dat brandt? Steek de kaars aan, doof hem uit en houdt snel een aangestoken lucifer ongeveer 5 - 10 cm van de kaars in de wit-achtige rook. Er is weer een vlam! Het was de *damp* van de was die makkelijk kan worden aangestoken. Als de lont wordt aangestoken dan brandt deze, smelt hij de was, verwarmt hij de was totdat de damp omhoog komt langs de lont door de *capillaire werking* en de damp is wat brandt. Er is een kleine afstand tussen de vloeibare was en de onderkant van de vlam, dus de damp brandt een paar millimeter boven de vloeibare was {cite:p}`Hammack2016`.
+Probeer de vaste was aan te steken, die brandt niet. Kijk naar de gesmolten was, die brandt ook niet. Keer de brandende kaars onderste boven en de vlam gaat uit, de drippende vloeibare was dooft de vlam! Wat is het dan dat brandt? Steek de kaars aan, doof hem uit en houdt snel een aangestoken lucifer ongeveer 5 - 10 cm van de kaars in de wit-achtige rook. Er is weer een vlam! Het was de *damp* van de was die makkelijk kan worden aangestoken. Als de lont wordt aangestoken dan brandt deze, smelt hij de was, verwarmt hij de was totdat de damp omhoog komt langs de lont door de *capillaire werking* en de damp is wat brandt. Er is een kleine afstand tussen de vloeibare was en de onderkant van de vlam, dus de damp brandt een paar millimeter boven de vloeibare was {cite:p}`Hammack2016`.
 
-### Een balancerende kaars
+### Een kaarsenwip
 
-Neem twee kaarsen, plaats ze met de onderkanten tegen elkaar en wikkel er een strip aluminiumfolie of gewoon papier strak omheen (PLACEHOLDER FOTO REF). Steek daar een naald doorheen als as, ietsje boven het zwaartepunt. Plaats de as op de randen tussen twee glazen. Indien nodig een kaars ietsje uit de huls trekken totdat de kaarsen in evenwicht zijn. Dan beide kaarsen aansteken en we hebben een wip. Leerlingen bedenken een verklaring. De naar beneden wijzende kaars smeld het hardst, totdat deze kaars lichter wordt door het drippen van kaarsvet en naar boven wipt. Dan gaat het proces door aan de andere kant. Kijk ook of the frequentie van de wip verandert. Onderzoekjes zijn mogelijk van basisschool tot universitair niveau. {cite}`tjossem2019candle` rapporteerden indrukwekken onderzoek in de American Journal of Physics en uitvoerbaar met relatief simpele middelen (gevonden door Ruud Brouwer).
+Neem twee kaarsen, plaats ze met de onderkanten tegen elkaar en wikkel er een strip aluminiumfolie of gewoon papier strak omheen (PLACEHOLDER FOTO REF). Steek daar een naald doorheen als as, ietsje boven het zwaartepunt. Plaats de as op de randen tussen twee glazen. Indien nodig een kaars ietsje uit de huls trekken totdat de kaarsen in evenwicht zijn. Dan beide kaarsen aansteken en we hebben een wip. Leerlingen bedenken een verklaring. De naar beneden wijzende kaars smelt het hardst, totdat deze kaars lichter wordt door het drippen van kaarsvet en naar boven wipt. Dan gaat het proces door aan de andere kant. Kijk ook of the frequentie van de wip verandert. Onderzoekjes zijn mogelijk van basisschool tot universitair niveau. {cite}`tjossem2019candle` rapporteerden indrukwekken onderzoek in de American Journal of Physics en uitvoerbaar met relatief simpele middelen (gevonden door Ruud Brouwer).
 
 PLACEHOLDER FOTO
 
 ### Het patroon van de temperatuur van de vlam ontdekken
 
-De uiteindes van nog niet brandende luficers kunnen gebruikt worden als temperatuursensoren. Als je ze langzaam steeds dichter bij een vlam houdt, zullen ze op een bepaalde afstand in brand vliegen. Dat is de afstand waar de termperatuur hetzelfde is als de ontstekingstemperatuur van het materiaal op het uiteinde van de lucifer. Probeer dit op verschillende plekken rond de vlam en je krijgt een “isotherm” van de ontstekingstemperatuur rond de vlam. Aan de onderkant van de vlam kan je redelijk dichtbij komen met een lucifer. Aan de bovenkant van de vlam ontsteekt de lucifer al bij een veel grotere afstand. Leg uit! {cite:p}`Liem1987`.
+De uiteinden van nog niet brandende luficers kunnen gebruikt worden als temperatuursensoren. Als je ze langzaam steeds dichter bij een vlam houdt, zullen ze op een bepaalde afstand in brand vliegen. Dat is de afstand waar de termperatuur hetzelfde is als de ontstekingstemperatuur van het materiaal op het uiteinde van de lucifer. Probeer dit op verschillende plekken rond de vlam en je krijgt een “isotherm” van de ontstekingstemperatuur rond de vlam. Aan de onderkant van de vlam kan je redelijk dichtbij komen met een lucifer. Aan de bovenkant van de vlam ontsteekt de lucifer al bij een veel grotere afstand. Leg uit! {cite:p}`Liem1987`.
 
 ### De producten van de vlam van een kaars
 
-Wat zijn de producten van de vlammen van een kaars en hoe kun je ze zien? Brandende koolwaterstoffen zouden water en CO{math}`_2` moeten produceren. Waterdamp kan makkelijk gecontroleerd worden. Gebruik een metalen of glazen voorwerp, maak het droog en houdt het in de buurt van de vlam. Er zouden druppels water moeten vormen op het voorwerp. Zie [Faraday](https://engineerguy.com/faraday/pdf/faraday-chemical-history-complete.pdf)[^Far]. Zie [https://​www​.candles​.org​/candle​-science](https://www.candles.org/candle-science)[^far2] voor interessante wetenschap die te maken heeft met kaarsen.
+Wat zijn de producten van de vlammen van een kaars en hoe kun je ze zien? Brandende koolwaterstoffen zouden water en CO{math}`_2` moeten produceren. Waterdamp kan makkelijk gecontroleerd worden. Gebruik een metalen of glazen voorwerp, maak het droog en houdt het in de buurt van de vlam. Er zouden druppels water moeten vormen op het voorwerp. Zie [Faraday](https://engineerguy.com/faraday/pdf/faraday-chemical-history-complete.pdf)\[^Far]. Zie [https://​www​.candles​.org​/candle​-science](https://www.candles.org/candle-science)[^far2] voor interessante wetenschap die te maken heeft met kaarsen.
+
+### Roetvorming, gloeien versus branden
+
+Waar zit het roet in een kaarsvlam? Verken dit met een muntje dat je in de vlam houdt met een wasknijper of tang. Het gele deel van de vlam, dat is waar het roet zit. Je kunt ook een indexkaart nemen en die snel dwars op de vlam insteken, even stil in de vlam houden, en dan snel er weer uit halen. De kaart laat een ring van roet zien (even oefenen). Roet zit in het gele deel van de vlam. Volgens Faraday is het gloeiende roet die de gele kleur geeft. Hij liet dit ook zien met een brander, die heeft een gele vlam (onvolledige verbranding) die blauw wordt als er meer lucht of zuurstof wordt toegevoerd. Faraday benadrukte ook het verschil tussen gloeien (fysisch) en verbranden (een chemisch proces).
 
 ### Voorkomen dat zuurstof bij de vlam van een kaars komt
 
@@ -154,11 +150,11 @@ Wat heeft een vlam nodig? Zuurstof en brandstof. Wat zou er gebeuren als er geen
 
 ## Stroming: Theezakjesraket
 
-Haal een theezakje uit de lerarenkamer, maak het open aan twee kanten, haal de thee eruit, en maak van het theezakje een cilinder die je rechtop zet. Zorg dat er niets brandbaars in de buurt is en steek de cilinder aan van de bovenkant. Warme lucht zal naar boven toe bewegen (stroming). Op een gegeven moment zal het niet verbrandde deel van het theezakje licht genoeg zijn om met de lucht mee naar boven te bewegen. Zie {cite}`Liem1987`  voor goede vragen om te stellen en uitleg om te geven. Er zijn veel [filmpjes](https://www.youtube.com/watch?v=z8evo1jr5Nk)[^FIL].
+Haal een theezakje uit de lerarenkamer, maak het open aan twee kanten, haal de thee eruit, en maak van het theezakje een cilinder die je rechtop zet. Zorg dat er niets brandbaars in de buurt is en steek de cilinder aan van de bovenkant. Warme lucht zal naar boven toe bewegen (stroming). Op een gegeven moment zal het niet verbrandde deel van het theezakje licht genoeg zijn om met de lucht mee naar boven te bewegen. Zie {cite}`Liem1987`  voor goede vragen om te stellen en uitleg om te geven. Er zijn veel [filmpjes](https://www.youtube.com/watch?v=z8evo1jr5Nk)\[^FIL].
 
 ## Geld overleeft het vuur
 
-Sinds de pandemie hebben mensen vaak kleine flesjes met alcohol in hun tas. Ed heeft dit vooral veel gezien in de Filippijnen, daar hadden vrouwen ze zelfs aan hun tas hangen. Dit maakt het beroemde experiment waarin je geld verbrandt mogelijk in een leeg klaslokaal. Neem een glas of beker, voeg een beetje water toe (voordat de leerlingen het lokaal binnen komen), voeg evenveel alcohol toe (wanneer de leerlingen al in het lokaal zijn). Meng de twee vloeistoffen. Een klein beetje zout kan leuk zijn om te zorgen dat de vlam een kleur krijgt.
+Sinds de pandemie hebben mensen vaak kleine flesjes met alcohol in hun tas. Ed heeft dit vooral veel gezien in de Filippijnen, daar hadden vrouwen ze zelfs aan hun tas hangen. Dit maakt het beroemde experiment waarin je geld verbrandt mogelijk in een leeg klaslokaal. Neem een glas of beker, voeg een beetje water toe (voordat de leerlingen het lokaal binnen komen), voeg evenveel alcohol toe (wanneer de leerlingen al in het lokaal zijn). Meng de twee vloeistoffen. Een klein beetje zout erbij om de typische blauwe alkoholvlam oranje te kleuren.
 
 *Wie heeft er een briefje geld?* (Of gebruik je eigen geld). Week het briefje in het vloeistofmengsel. Gebruik een pincet, wasknijper, of een geïmproviseerde pincet (twee potloden met het geld ertussen) om het briefje vast te houden en steek het vervolgens aan met een lucifer. Ondanks de vlam zal het geld niet branden. De alcohol brandt, terwijl het water de temperatuur van het papier lager houdt dan 100{math}`^\circ`C tot al het water is verdampt. De 100 {math}`^\circ`C is veel lager dan de ontbrandingstemperatuur van papier, die typisch meer dan 200 {math}`^\circ`C is. In een 50-50 mengsel van alcohol en water zal de ontbrandingstemperatuur niet bereikt worden want niet al het water verdampt. Dit experiment wordt veel spannender als het als een toneelstukje wordt opgevoerd, geld lenen van een leerling kan het spannender maken. Een klein beetje zout verandert de kleur van de vlam van blauw naar oranje doordat daar natrium in zit. Onze huidige briefjes Euros absorberen niet goed, dan maar dollars gebruiken, of gewoon papier.
 
@@ -166,8 +162,4 @@ PLACEHOLDER FOTO
 
 [^mbvbn]: [https://​www​.youtube​.com​/shorts​/Fnx9Dhpsw1Q](https://www.youtube.com/shorts/Fnx9Dhpsw1Q)
 
-[^far]: [https://​engineerguy​.com​/faraday​/pdf​/faraday​-chemical​-history​-complete​.pdf](https://engineerguy.com/faraday/pdf/faraday-chemical-history-complete.pdf)
-
 [^far2]: [https://​www​.candles​.org​/candle​-science](https://www.candles.org/candle-science)
-
-[^fil]: [https://​www​.youtube​.com​/watch​?v​=​z8evo1jr5Nk](https://www.youtube.com/watch?v=z8evo1jr5Nk)
