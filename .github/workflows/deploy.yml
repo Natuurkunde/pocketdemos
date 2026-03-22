@@ -34,7 +34,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20 # Wizard likely needs 20+ for Vite/Solid
+          node-version: 24 # Wizard likely needs 20+ for Vite/Solid
       
       - name: Setup Pages
         uses: actions/configure-pages@v3

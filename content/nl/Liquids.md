@@ -73,6 +73,13 @@ Waarom is een druppel water rond en het oppervlak van een meer vlak? Dit is een 
 ### Cohesie
 Vul een glas water tot het helemaal vol is maar het oppervlak nog steeds concaaf. Laat nu leerlingen raden hoeveel munten er nog bij kunnen. Verzamel munten van de leerlingen. Doe ze één voor één voorzichtig in het water. Het blijkt dat er heel veel munten bij kunnen zonder dat het glas overloopt, uiteindelijk komt het wateroppervlak bol te staan zonder dat het overloopt .... cohesie! 
 
+```{figure} ../figures/munten.JPG
+:label: fig_munten
+:width: 70%
+
+Hoeveel munten passen er nog bij als het glas al 'helemaal' gevuld is?
+```
+
 
 ## Capillariteit 1
 Als je een dun glazen buisje hebt (bijvoorbeeld een glazen ‘rietje’), steek het in een glas water en zie het water in het buisje omhoog gaan, iets hoger dan in de rest van het glas. Als er geen glazen buisje is, laat dan een strookje papier met een kant in het water hangen en dat water zal omhoog klimmen in het papier.  Hetzelfde verschijnsel is te zien in een menselijke haar, of de haren van een schilderkwast. *Capilla* is het Latijnse woord voor haar. Capillariteit kan gezien worden als een touwtrekwedstrijd tussen adhesie en zwaartekracht. Het water klimt tegen de wand van glas en wordt naar beneden getrokken door de zwaartekracht. In hele dunne buisjes is zwaartekracht veel kleiner vergeleken met adhesie dan in wijdere buisjes.  
