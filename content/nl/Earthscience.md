@@ -45,13 +45,13 @@ De zon is een lamp op tafel of een persoon in het midden van de klas. Er komt ee
 
 ## Komeetinslag
 
-Leg een hoopje zand, of bloem op een tafel. Laat een kogel, stuiterbal, of pingpongbal van een bepaalde hoogte op het hoopje vallen. Wat gebeurt er? Hoe ziet de krater eruit? Wat gebeurt er als je de kogel van een grotere hoogte laat vallen? Wat gebeurt er als je een grotere kogel gebruikt? Vergelijk die kraters eens met de kraters op de maan? Er zijn genoeg foto’s van zulke kraters te vinden!
+Leg een hoopje zand, of bloem op een tafel. Laat een kogel, stuiterbal, of pingpongbal van een bepaalde hoogte op het hoopje vallen. Wat gebeurt er? Hoe ziet de krater eruit? Wat gebeurt er als je de kogel van een grotere hoogte laat vallen? Wat gebeurt er als je een grotere kogel gebruikt? Vergelijk die kraters eens met de kraters op de maan? Er zijn genoeg foto’s van zulke kraters te vinden!&#x20;
 
 ## Tectonische platen visualiseren
 
 ### Botsing tussen twee dunne oceaanplaten
 
-De platen zijn dun, dus de ene plaat schuift makkelijk onder de andere plaat. Gebruik twee dunne boeken en laat die langzaam botsen met de ruggen tegen elkaar, een van de boeken schuift makkelijk onder de ander. De wrijving van echte tectonische platen wekt hitte op wat zorgt voor vulkanische eilanden.
+De oceaanplaten zijn dun, dus de ene plaat schuift makkelijk onder de andere plaat. Gebruik twee dunne boeken en laat die langzaam botsen met de ruggen tegen elkaar, een van de boeken schuift makkelijk onder de ander. De wrijving van echte tectonische platen wekt hitte op die uiteindelijk resulteert in het ontstaan van vulkanische eilanden.
 
 ### Botsing tussen een dunne oceaanplaat en een dikke continentale plaat
 
