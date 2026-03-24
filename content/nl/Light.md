@@ -44,7 +44,7 @@ Figuren overgenomen uit [@stead1980exploring], met toestemming
 .
 :::
 
-3.  Nu is er lamp. Het licht van de lamp:\
+3.  Nu is er een lamp. Het licht van de lamp:\
     A. Blijft bij de lamp\
     B. Verspreidt tot ongeveer halverwege jou \
     C. Verspreidt tot jou \
