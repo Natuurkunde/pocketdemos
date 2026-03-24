@@ -45,7 +45,7 @@ De zon is een lamp op tafel of een persoon in het midden van de klas. Er komt ee
 
 ## Komeetinslag
 
-Leg een hoopje zand, of bloem op een tafel. Laat een kogel, stuiterbal, of pingpongbal van een bepaalde hoogte op het hoopje vallen. Wat gebeurt er? Hoe ziet de krater eruit? Wat gebeurt er als je de kogel van een grotere hoogte laat vallen? Wat gebeurt er als je een grotere kogel gebruikt? Vergelijk die kraters eens met de kraters op de maan? Er zijn genoeg foto’s van zulke kraters te vinden!&#x20;
+Leg een hoopje zand, of bloem op een tafel. Laat een kogel, stuiterbal, of pingpongbal van een bepaalde hoogte op het hoopje vallen. Wat gebeurt er? Hoe ziet de krater eruit? Wat gebeurt er als je de kogel van een grotere hoogte laat vallen? Wat gebeurt er als je een grotere kogel gebruikt? Vergelijk die kraters eens met de kraters op de maan? Er zijn genoeg foto’s van zulke kraters te vinden!
 
 ## Tectonische platen visualiseren
 

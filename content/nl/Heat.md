@@ -151,7 +151,7 @@ Wat heeft een vlam nodig? Zuurstof en brandstof. Wat zou er gebeuren als er geen
 ## Stroming: Theezakjesraket
 
 Haal een theezakje uit de lerarenkamer, maak het open aan twee kanten, haal de thee eruit, en maak van het theezakje een cilinder die je rechtop zet. Zorg dat er niets brandbaars in de buurt is en steek de cilinder aan van de bovenkant. Warme lucht zal naar boven toe bewegen (stroming). Op een gegeven moment zal het niet verbrandde deel van het theezakje licht genoeg zijn om met de lucht mee naar boven te bewegen. Zie {cite}`Liem1987`  voor goede vragen om te stellen en uitleg om te geven. Er zijn veel [filmpjes](https://www.youtube.com/watch?v=z8evo1jr5Nk)[^FIL].
-[FIL]: https://www.youtube.com/watch?v=z8evo1jr5Nk
+[^FIL]: https://www.youtube.com/watch?v=z8evo1jr5Nk
 
 ## Geld overleeft het vuur
 
@@ -164,3 +164,5 @@ PLACEHOLDER FOTO
 [^mbvbn]: [https://​www​.youtube​.com​/shorts​/Fnx9Dhpsw1Q](https://www.youtube.com/shorts/Fnx9Dhpsw1Q)
 
 [^far2]: [https://​www​.candles​.org​/candle​-science](https://www.candles.org/candle-science)
+
+[^Far]: [Faraday](https://engineerguy.com/faraday/pdf/faraday-chemical-history-complete.pdf)
